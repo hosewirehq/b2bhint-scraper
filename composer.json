@@ -1,0 +1,25 @@
+{
+    "name": "faruk/companies-scraper",
+    "description": "Companies scraper",
+    "type": "project",
+    "require": {
+        "roach-php/core": "3.2.0"
+    },
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Faruk Nasir",
+            "email": "frknasir@yahoo.com"
+        }
+    ],
+    "scripts": {
+        "start": "php -S localhost:8080 -t src/ src/index.php",
+        "scrape:pages-by-year": "vendor/bin/roach roach:run 'App\\Spiders\\YearPagesCountSpider'",
+        "scrape:companies": "vendor/bin/roach roach:run 'App\\Spiders\\CompaniesSpider'"
+    }
+}
