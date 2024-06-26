@@ -17,7 +17,7 @@ class YearPagesCountSpider extends BasicSpider
     /** @return Request[] */
     protected function initialRequests(): array
     {
-        $years = range(1899, 2022);
+        $years = range(1899, 2025);
 
         $requests = array_map(fn ($year) => new Request(
             'GET',
@@ -38,7 +38,7 @@ class YearPagesCountSpider extends BasicSpider
 
         $pagesCountByFoundCompanies = ceil($foundCompanies / 20);
 
-        $pages = range(1, $pagesCountByFoundCompanies);
+        $pages = $pagesCountByFoundCompanies > 500 ? range(1, 500) : range(1, $pagesCountByFoundCompanies);
 
         yield $this->item(compact('year', 'pages'));
     }

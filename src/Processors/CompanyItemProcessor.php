@@ -14,7 +14,11 @@ class CompanyItemProcessor implements ItemProcessorInterface
     {
         $year = $item->get('year');
 
-        $path = $this->getFilePath($year);
+        $title = $item->get('title');
+
+        $this->ensureFolderExists($year);
+
+        $path = $this->getFilePath($year, $title);
 
         $fileContentsAsArray = $this->getFileContentsAsArray($path);
 
@@ -30,9 +34,24 @@ class CompanyItemProcessor implements ItemProcessorInterface
         return [];
     }
 
-    protected function getFilePath(string $year): string
+    protected function ensureFolderExists(string $year): void
     {
-        return "./src/Data/{$year}.json";
+        $folderPath = "./src/Data/{$year}";
+
+        if (! file_exists($folderPath)) {
+            mkdir($folderPath, 0777, true);
+        }
+    }
+
+    protected function getFilePath(string $year, string $title): string
+    {
+        // Define a pattern that matches all characters that are not allowed in folder names
+        $pattern = '/[<>:"\/\\\|\?\*\x00-\x1F]/';
+
+        // Replace all invalid characters with an empty string
+        $sanitizedFileName = preg_replace($pattern, '', $title);
+
+        return "./src/Data/{$year}/{$sanitizedFileName}.json";
     }
 
     protected function getFileContents(string $filePath): string
