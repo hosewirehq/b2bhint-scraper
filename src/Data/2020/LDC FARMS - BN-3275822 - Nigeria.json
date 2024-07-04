@@ -1,0 +1,331 @@
+[
+    {
+        "year": "2020",
+        "title": "LDC FARMS - BN-3275822 - Nigeria",
+        "description": "LDC FARMS Nigeria company, Company number: BN-3275822, Incorporation Date 24 Dec. 2020;, Address: 10, BEHIND OSUBI WATER BOARD, OSUBI, DELTA STATE",
+        "company": {
+            "id": 62439884,
+            "name": "LDC FARMS",
+            "internationalNumber": "BN-3275822",
+            "localNumber": "3275822",
+            "countryId": 24,
+            "dateCreated": "2020-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-30T06:25:31.925Z",
+            "updatedAt": "2024-06-15T15:31:59.807Z",
+            "alternateNames": [],
+            "address": "10, BEHIND OSUBI WATER BOARD, OSUBI, DELTA STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6930665",
+            "updatedAtSitemap": "2023-06-09T17:24:38.000Z",
+            "oldInternationalNumber": "3275822",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 3823,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196954,
+                    "providerId": "199233",
+                    "providerName": "Farming",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:38.94858+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 100944161,
+                    "address": "10, BEHIND OSUBI WATER BOARD, OSUBI, DELTA STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 360547388,
+                    "companyId": 62439884,
+                    "personId": 66141599,
+                    "roleId": 114361,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66141599,
+                        "name": "edache victor ojobi",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1976,
+                        "birthMonth": 8,
+                        "birthDate": 19,
+                        "address": "23JIMMY CARTER STREET, ASOKORO, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1826605",
+                        "documentType": "National ID Card",
+                        "documentNumber": "21666850785",
+                        "email": "edacheojobi@gmail.com",
+                        "phone": "+234 808 631 5143",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114361,
+                        "name": "Accountancy",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "ENRICH KITCHEN",
+                            "internationalNumber": "BN-2816764"
+                        },
+                        {
+                            "name": "SKY NETTOYER LIMITED",
+                            "internationalNumber": "RC-1486556"
+                        },
+                        {
+                            "name": "CHIBELLA BUSINESS VENTURES",
+                            "internationalNumber": "BN-3367058"
+                        },
+                        {
+                            "name": "PETCRETE CONCEPTS",
+                            "internationalNumber": "BN-2572723"
+                        },
+                        {
+                            "name": "PIONEER MULTI SPECIALIST HOSPITAL LTD",
+                            "internationalNumber": "RC-1550857"
+                        },
+                        {
+                            "name": "BLACKS EDUCATION CONSULTING",
+                            "internationalNumber": "BN-3010450"
+                        },
+                        {
+                            "name": "M & G HONEY FARMS",
+                            "internationalNumber": "BN-2579614"
+                        },
+                        {
+                            "name": "GLOBAL CURRENCIES LTD",
+                            "internationalNumber": "RC-124547"
+                        },
+                        {
+                            "name": "HELPLINE DIAGNOSTIC SERVICES",
+                            "internationalNumber": "BN-2719122"
+                        },
+                        {
+                            "name": "SUASHI GEMS",
+                            "internationalNumber": "BN-3535034"
+                        },
+                        {
+                            "name": "OROKEBUS ENTERPRISES",
+                            "internationalNumber": "BN-2619271"
+                        },
+                        {
+                            "name": "MOON NOW MULTI CONCEPT",
+                            "internationalNumber": "BN-2567934"
+                        },
+                        {
+                            "name": "HANISH BUSINESS CONCEPT LTD",
+                            "internationalNumber": "RC-1494545"
+                        },
+                        {
+                            "name": "CITITECH TOTAL MEGA SERVICES LTD",
+                            "internationalNumber": "RC-1469807"
+                        },
+                        {
+                            "name": "ICACINA CONSULTING LTD",
+                            "internationalNumber": "RC-1488384"
+                        },
+                        {
+                            "name": "PROLIFIX AUTO",
+                            "internationalNumber": "BN-3301798"
+                        },
+                        {
+                            "name": "FORT NEWTON NIGERIA LTD",
+                            "internationalNumber": "RC-174729"
+                        },
+                        {
+                            "name": "IKLAGA LTD",
+                            "internationalNumber": "RC-1713824"
+                        },
+                        {
+                            "name": "RABO DAN MOHAMMED AND SONS NIG LTD",
+                            "internationalNumber": "RC-158911"
+                        },
+                        {
+                            "name": "GINENOG GLOBAL KONCEPT LIMITED",
+                            "internationalNumber": "RC-1827208"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Eda*** Vic*** Ojo**",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "+23***********"
+                        ],
+                        "email": [
+                            "eda******************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Eda*** Ojo** Vic***",
+                    "contacts": {
+                        "email": [
+                            "eda******************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

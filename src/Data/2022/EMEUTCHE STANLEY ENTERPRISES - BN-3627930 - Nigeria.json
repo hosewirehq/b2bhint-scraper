@@ -1,0 +1,381 @@
+[
+    {
+        "year": "2022",
+        "title": "EMEUTCHE STANLEY ENTERPRISES - BN-3627930 - Nigeria",
+        "description": "EMEUTCHE STANLEY ENTERPRISES Nigeria company, Company number: BN-3627930, Incorporation Date 6 apr 2022;, Address: 12 SHIBIRI ROAD, OJO, LAGOS STATE",
+        "company": {
+            "id": 108990058,
+            "name": "EMEUTCHE STANLEY ENTERPRISES",
+            "internationalNumber": "BN-3627930",
+            "localNumber": "3627930",
+            "countryId": 24,
+            "dateCreated": "2022-04-06T00:00:00.000Z",
+            "createdAt": "2022-04-14T06:58:30.418Z",
+            "updatedAt": "2024-06-15T15:39:10.846Z",
+            "alternateNames": [],
+            "address": "12 SHIBIRI ROAD, OJO, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "7892817",
+            "updatedAtSitemap": "2024-01-30T00:47:41.000Z",
+            "oldInternationalNumber": "3627930",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 537,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [],
+            "addresses": [
+                {
+                    "id": 102133319,
+                    "address": "12 SHIBIRI ROAD, OJO, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299060797,
+                    "companyId": 108990058,
+                    "personId": 102115516,
+                    "roleId": 60320,
+                    "appointedOn": "2022-04-06",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 102115516,
+                        "name": "jimoh tajudeen adio",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1986,
+                        "birthMonth": 7,
+                        "birthDate": 6,
+                        "address": "Idowu Street, 1",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "12125618903",
+                        "documentType": "National ID Card",
+                        "email": "abiola.adio12@gmail.com",
+                        "phone": "08033626534",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "MDW SWIFT LOGISTICS",
+                            "internationalNumber": "BN-3607338"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299060798,
+                    "companyId": 108990058,
+                    "personId": 101674468,
+                    "roleId": 60319,
+                    "appointedOn": "2022-04-06",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101674468,
+                        "name": "emeutche stanley onyebuchi",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1987,
+                        "birthMonth": 10,
+                        "birthDate": 16,
+                        "address": "Shibiri Road, 12",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "58714335773",
+                        "documentType": "National ID Card",
+                        "email": "emeutchestanley@gmail.com",
+                        "phone": "08107121797",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 467939749,
+                    "companyId": 108990058,
+                    "personId": 137673462,
+                    "roleId": 114356,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 137673462,
+                        "name": "tajudeen jimoh",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1986,
+                        "birthMonth": 7,
+                        "birthDate": 6,
+                        "address": "1Idowu Street, Bariga, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2227967",
+                        "documentType": "National ID Card",
+                        "documentNumber": "12125618903",
+                        "email": "abiola.adio2024@gmail.com",
+                        "phone": "+234 803 362 6534",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114356,
+                        "name": "Business",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Business"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "MATHEW CHIDI ENTERPRISES",
+                            "internationalNumber": "BN-3570355"
+                        },
+                        {
+                            "name": "TEETECH COMMUNICATIONS",
+                            "internationalNumber": "BN-2771451"
+                        },
+                        {
+                            "name": "MDW SWIFT LOGISTICS",
+                            "internationalNumber": "BN-3607338"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "eme**********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Taj***** Adi* Jim**",
+                    "contacts": {
+                        "email": [
+                            "abi**********************",
+                            "abi**********************",
+                            "abi******************",
+                            "abi********************"
+                        ],
+                        "phone": [
+                            "+23**************",
+                            "+23**************",
+                            "+23**************",
+                            "080********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Taj***** Jim**",
+                    "contacts": {
+                        "email": [
+                            "abi**********************",
+                            "abi******************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Jim** Taj*****",
+                    "contacts": {
+                        "email": [
+                            "abi**********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "3",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 13,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 1,
+                "null": 1
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

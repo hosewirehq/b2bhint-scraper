@@ -1,0 +1,337 @@
+[
+    {
+        "year": "2020",
+        "title": "SOMTOBEST GLOBAL SERVICES - BN-3273532 - Nigeria",
+        "description": "SOMTOBEST GLOBAL SERVICES Nigeria company, Company number: BN-3273532, Incorporation Date 22 Dec. 2020;, Address: NO.8, RUMUWOSU STREET, RUMUOKWURUSI, PORT HARCOURT, RIVERS STATE",
+        "company": {
+            "id": 61545751,
+            "name": "SOMTOBEST GLOBAL SERVICES",
+            "internationalNumber": "BN-3273532",
+            "localNumber": "3273532",
+            "countryId": 24,
+            "dateCreated": "2020-12-22T00:00:00.000Z",
+            "createdAt": "2021-05-25T07:38:36.625Z",
+            "updatedAt": "2024-06-15T15:24:14.475Z",
+            "alternateNames": [],
+            "address": "NO.8, RUMUWOSU STREET, RUMUOKWURUSI, PORT HARCOURT, RIVERS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6817300",
+            "updatedAtSitemap": "2023-06-09T17:41:58.000Z",
+            "oldInternationalNumber": "3273532",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2292,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 100158419,
+                    "address": "NO.8, RUMUWOSU STREET, RUMUOKWURUSI, PORT HARCOURT, RIVERS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 390193893,
+                    "companyId": 61545751,
+                    "personId": 116744525,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 116744525,
+                        "name": "boomini george",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1983,
+                        "birthMonth": 12,
+                        "birthDate": 28,
+                        "address": "22 ODIEMERENYI ROAD, AHOADDA, RIVERS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2294352",
+                        "documentType": "Permanent Voters' Card",
+                        "documentNumber": "A23445677443",
+                        "email": "boominigeorge2419@GMAIL.COM",
+                        "phone": "+234 803 880 1666",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "SHAKO BEN AUTO",
+                            "internationalNumber": "BN-2994682"
+                        },
+                        {
+                            "name": "PAUSENCHILL",
+                            "internationalNumber": "BN-2990806"
+                        },
+                        {
+                            "name": "AMASCO POWER VENTURE",
+                            "internationalNumber": "BN-2981705"
+                        },
+                        {
+                            "name": "FISCORYN INTEGRATED LTD",
+                            "internationalNumber": "RC-1624914"
+                        },
+                        {
+                            "name": "HICKIES",
+                            "internationalNumber": "BN-3023975"
+                        },
+                        {
+                            "name": "HYPERION HEIGHT TOWER LTD",
+                            "internationalNumber": "RC-1622643"
+                        },
+                        {
+                            "name": " GBARA'S ENTERPRISE NIG ",
+                            "internationalNumber": "BN-3321336"
+                        },
+                        {
+                            "name": "TUQUAI GLOBAL RESOURCES LTD",
+                            "internationalNumber": "RC-1624294"
+                        },
+                        {
+                            "name": "ARESOFLO OVERSEAS NIGERIA LIMITED",
+                            "internationalNumber": "RC-1620193"
+                        },
+                        {
+                            "name": "OSIO VETERINARY CLINIC AND ALLIED SERVICES LTD",
+                            "internationalNumber": "RC-1685379"
+                        },
+                        {
+                            "name": "JIC THE GREAT ACHIEVING ENTERPRISE",
+                            "internationalNumber": "BN-2980172"
+                        },
+                        {
+                            "name": "ANANEM INTEGRATED SERVICES NIG LIMITED",
+                            "internationalNumber": "RC-1619676"
+                        },
+                        {
+                            "name": "DOMLEAD SERVICES LTD",
+                            "internationalNumber": "RC-1621566"
+                        },
+                        {
+                            "name": "TIYAHORGANIC SKINCARE",
+                            "internationalNumber": "BN-3576952"
+                        },
+                        {
+                            "name": "BIOGLOBAL NIGERIA LTD",
+                            "internationalNumber": "RC-1882613"
+                        },
+                        {
+                            "name": "GEONICS GLOBAL RESOURCES NIG LTD",
+                            "internationalNumber": "RC-1621616"
+                        },
+                        {
+                            "name": "NGIZZIE EMPIRE LTD",
+                            "internationalNumber": "RC-1802162"
+                        },
+                        {
+                            "name": "PROLUXE FARMS LIMITED",
+                            "internationalNumber": "RC-1627146"
+                        },
+                        {
+                            "name": "EMEKA & IFEOMA OKAFOR FOUNDATION",
+                            "internationalNumber": "IT-154392"
+                        },
+                        {
+                            "name": "MIKE SPRING ENTERTAINMENT LIMITED",
+                            "internationalNumber": "RC-1621766"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "swa*************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Boo**** Geo***",
+                    "contacts": {
+                        "email": [
+                            "boo************************"
+                        ],
+                        "phone": [
+                            "+23**************",
+                            "+23**************",
+                            "081********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Muh***** Gir***",
+                    "contacts": {
+                        "email": [
+                            "san************************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 6,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

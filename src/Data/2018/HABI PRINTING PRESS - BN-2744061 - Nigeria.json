@@ -1,0 +1,367 @@
+[
+    {
+        "year": "2018",
+        "title": "HABI PRINTING PRESS - BN-2744061 - Nigeria",
+        "description": "HABI PRINTING PRESS Nigeria company, Company number: BN-2744061, Incorporation Date Dec 28, 2018;, Address: NO.63 RUFUS KUPOLATI STREET, OPP BAPTIST CHURCH, LOKOJA, KOGI STATE",
+        "company": {
+            "id": 62136079,
+            "name": "HABI PRINTING PRESS",
+            "internationalNumber": "BN-2744061",
+            "localNumber": "2744061",
+            "countryId": 24,
+            "dateCreated": "2018-12-28T00:00:00.000Z",
+            "createdAt": "2021-05-28T17:19:35.675Z",
+            "updatedAt": "2024-06-15T15:15:54.172Z",
+            "alternateNames": [],
+            "address": "NO.63 RUFUS KUPOLATI STREET, OPP BAPTIST CHURCH, LOKOJA, KOGI STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5185866",
+            "updatedAtSitemap": "2023-06-09T17:59:36.000Z",
+            "oldInternationalNumber": "2744061",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1601,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196924,
+                    "providerId": "199237",
+                    "providerName": "General Contracts",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:13.437675+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97915505,
+                    "address": "NO.63 RUFUS KUPOLATI STREET, OPP BAPTIST CHURCH, LOKOJA, KOGI STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 240951143,
+                    "companyId": 62136079,
+                    "personId": 66188471,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66188471,
+                        "name": "ebine margaret amina",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1980,
+                        "birthMonth": 8,
+                        "birthDate": 29,
+                        "address": "NO 1, EQUITY PLAZA, SURULERE STREET, PHASE 1, LOKOGOMA, LOKOJA,\nKOGI STATE.\n",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "maebine@cac.gov.ng",
+                        "phone": "07030564685",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "KEMYOM MULTIPURPOSE BUSINESS VENTURE",
+                            "internationalNumber": "BN-2799404"
+                        },
+                        {
+                            "name": "RUTLEK WORKS",
+                            "internationalNumber": "BN-2757757"
+                        },
+                        {
+                            "name": "LUMJJGOH MULTIPURPOSE NIG ENTERPRISES",
+                            "internationalNumber": "BN-2888355"
+                        },
+                        {
+                            "name": "OZI & SALIFSDO BUSINESS VENTURE",
+                            "internationalNumber": "BN-2704452"
+                        },
+                        {
+                            "name": "JO-CHRIS MODEL ACADEMY LOKOJA",
+                            "internationalNumber": "BN-2701825"
+                        },
+                        {
+                            "name": "OMO - OBA CITY ETERNITY VENTURES",
+                            "internationalNumber": "BN-2740355"
+                        },
+                        {
+                            "name": "OXFORD DAELLWORCH COLLEGE",
+                            "internationalNumber": "BN-2757748"
+                        },
+                        {
+                            "name": "ALFREDLIGHTEASYWAY COMMUNICATION NIG VENTURES",
+                            "internationalNumber": "BN-2704647"
+                        },
+                        {
+                            "name": "LOADING AND OFFLOADING GLOBAL VENTURE",
+                            "internationalNumber": "BN-2959045"
+                        },
+                        {
+                            "name": "SOKOKAIYE ISAH GLOBAL CONCEPT",
+                            "internationalNumber": "BN-2802077"
+                        },
+                        {
+                            "name": "BONZER MULTINATIONAL COMPANY",
+                            "internationalNumber": "BN-2757821"
+                        },
+                        {
+                            "name": "OMOYI ARCHITECTS TRAINING AND CONSULT",
+                            "internationalNumber": "BN-2757583"
+                        },
+                        {
+                            "name": "OZI - APAZI GLOBAL VENTURE",
+                            "internationalNumber": "BN-2757819"
+                        },
+                        {
+                            "name": "LADIES N MORE ENTERPRISE",
+                            "internationalNumber": "BN-2787213"
+                        },
+                        {
+                            "name": "JOYELLE APPAREL AND MORE",
+                            "internationalNumber": "BN-2757727"
+                        },
+                        {
+                            "name": "ONUMOKO MULTIBIZ GLOBAL COMPANY",
+                            "internationalNumber": "BN-2768681"
+                        },
+                        {
+                            "name": "RUBBIES FIELD",
+                            "internationalNumber": "BN-2935165"
+                        },
+                        {
+                            "name": "SIDIALI FARMS",
+                            "internationalNumber": "BN-2776932"
+                        },
+                        {
+                            "name": "EMMAKINGS AUTOMOBILE ENTERPRISE",
+                            "internationalNumber": "BN-2771464"
+                        },
+                        {
+                            "name": "BRIGHT-FUTURE PEER ACADEMY LOKOJA",
+                            "internationalNumber": "BN-2714389"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 240951144,
+                    "companyId": 62136079,
+                    "personId": 98383703,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98383703,
+                        "name": "yusuf muhammed",
+                        "countryId": 24,
+                        "address": "NO. 258, SARKI MUKTAR ROAD, KOFAR MARUSA L\/OUT KATSINA KATSINA",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [
+                        {
+                            "name": "ASMAYU NIGERIA LIMITED",
+                            "internationalNumber": "RC-331092"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Mar***** Ami** Ebi**",
+                    "contacts": {
+                        "email": [
+                            "mae***************"
+                        ],
+                        "phone": [
+                            "070********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "2",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 1
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

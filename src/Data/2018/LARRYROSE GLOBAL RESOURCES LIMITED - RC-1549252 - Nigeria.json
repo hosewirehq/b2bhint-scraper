@@ -1,0 +1,334 @@
+[
+    {
+        "year": "2018",
+        "title": "LARRYROSE GLOBAL RESOURCES LIMITED - RC-1549252 - Nigeria",
+        "description": "LARRYROSE GLOBAL RESOURCES LIMITED Nigeria company, Company number: RC-1549252, Incorporation Date Dec 20, 2018;, Address: NO. 20, AUNTY ALICE ROAD, MARARABA, NASARAWA STATE",
+        "company": {
+            "id": 62076936,
+            "name": "LARRYROSE GLOBAL RESOURCES LIMITED",
+            "internationalNumber": "RC-1549252",
+            "localNumber": "1549252",
+            "countryId": 24,
+            "dateCreated": "2018-12-20T00:00:00.000Z",
+            "createdAt": "2021-05-28T03:46:07.549Z",
+            "updatedAt": "2024-06-15T15:15:16.616Z",
+            "alternateNames": [],
+            "address": "NO. 20, AUNTY ALICE ROAD, MARARABA, NASARAWA STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "5172186",
+            "updatedAtSitemap": "2023-06-09T18:00:51.000Z",
+            "oldInternationalNumber": "1549252",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2242,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196948,
+                    "providerId": "199238",
+                    "providerName": "General Merchandise ",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:34.036647+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97848886,
+                    "address": "NO. 20, AUNTY ALICE ROAD, MARARABA, NASARAWA STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 348374468,
+                    "companyId": 62076936,
+                    "personId": 66949032,
+                    "roleId": 60318,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66949032,
+                        "name": "jideofor innocent nwosu",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1983,
+                        "birthMonth": 4,
+                        "birthDate": 29,
+                        "address": "No. 2Tanga Street, Zone 6, Wuse, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1850126",
+                        "documentType": "International Passport",
+                        "documentNumber": "B002095832NGA8304302M250628573003095429",
+                        "email": "jidenwosu46@gmail.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60318,
+                        "name": "Lawyer",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Lawyer"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "OGBELINTUS ENGINEERING NIGERIA LTD",
+                            "internationalNumber": "RC-1559257"
+                        },
+                        {
+                            "name": "LISA NATURAL HONEY",
+                            "internationalNumber": "BN-2936999"
+                        },
+                        {
+                            "name": "VOICE OF FRESH FIRE LIBERATION MINISTRY",
+                            "internationalNumber": "IT-125005"
+                        },
+                        {
+                            "name": "OSIDUFA FARMS & CONTINENTAL ENTERPRISES",
+                            "internationalNumber": "BN-3186645"
+                        },
+                        {
+                            "name": "VIKSUN RESOURCES ENTERPRISES",
+                            "internationalNumber": "BN-3095814"
+                        },
+                        {
+                            "name": "DON BUKATI ENTERPRISES LIMITED",
+                            "internationalNumber": "RC-1487216"
+                        },
+                        {
+                            "name": "SALISBURY ENGINEERING NIGERIA LIMITED",
+                            "internationalNumber": "RC-1629133"
+                        },
+                        {
+                            "name": "CANNITOL LTD",
+                            "internationalNumber": "RC-1684563"
+                        },
+                        {
+                            "name": "JAYLIAN BRAND LIMITED",
+                            "internationalNumber": "RC-1511592"
+                        },
+                        {
+                            "name": "DG FISHERY ENTERPRISES",
+                            "internationalNumber": "BN-3095875"
+                        },
+                        {
+                            "name": "M SA'AD FISH GLOBAL VENTURES",
+                            "internationalNumber": "BN-3101380"
+                        },
+                        {
+                            "name": "ORIBA VENTURES & PROPERTIES LTD",
+                            "internationalNumber": "RC-1680532"
+                        },
+                        {
+                            "name": "KING-DOGO VENTURES",
+                            "internationalNumber": "BN-3113395"
+                        },
+                        {
+                            "name": "BADE FARMS LTD",
+                            "internationalNumber": "RC-125005"
+                        },
+                        {
+                            "name": "E. IGBUDU CONSTRUCTION SERVICES NIG. LTD",
+                            "internationalNumber": "RC-1699285"
+                        },
+                        {
+                            "name": "JENPAT GLOBAL INVESTMENT LTD",
+                            "internationalNumber": "RC-1518047"
+                        },
+                        {
+                            "name": "IPU ABUJA",
+                            "internationalNumber": "BN-3128467"
+                        },
+                        {
+                            "name": "AJA FRANCIS ENTERPRISE",
+                            "internationalNumber": "BN-3275187"
+                        },
+                        {
+                            "name": "ALIBOL NIG. ENTERPRISES",
+                            "internationalNumber": "BN-3183818"
+                        },
+                        {
+                            "name": "DON UWAKWE NIGERIA LIMITED",
+                            "internationalNumber": "RC-1557677"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "hil*********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Jid***** Inn***** Nwo**",
+                    "contacts": {
+                        "email": [
+                            "jid******************"
+                        ],
+                        "phone": [
+                            "234**********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Inn***** Jid***** Nwo**",
+                    "contacts": {
+                        "email": [
+                            "jid******************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

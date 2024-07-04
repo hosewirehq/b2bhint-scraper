@@ -1,0 +1,555 @@
+[
+    {
+        "year": "2019",
+        "title": "ACCELERATED Y. F. NIGERIA LIMITED - RC-1643159 - Nigeria",
+        "description": "ACCELERATED Y. F. NIGERIA LIMITED Nigeria company, Company number: RC-1643159, Incorporation Date 19 d\u00e9c. 2019;, Address: NO. E03 MAI KARAMI PLAZA, MALLAM KATO SQUARE, KANO, KANO STATE",
+        "company": {
+            "id": 60397222,
+            "name": "ACCELERATED Y. F. NIGERIA LIMITED",
+            "internationalNumber": "RC-1643159",
+            "localNumber": "1643159",
+            "countryId": 24,
+            "dateCreated": "2019-12-19T00:00:00.000Z",
+            "createdAt": "2021-05-14T00:07:52.602Z",
+            "updatedAt": "2024-06-15T14:08:31.112Z",
+            "alternateNames": [],
+            "address": "NO. E03 MAI KARAMI PLAZA, MALLAM KATO SQUARE, KANO, KANO STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "6043267",
+            "updatedAtSitemap": "2023-06-09T15:27:44.000Z",
+            "oldInternationalNumber": "1643159",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1520,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91364955,
+                    "address": "NO. E03 MAI KARAMI PLAZA, MALLAM KATO SQUARE, KANO, KANO STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 243248351,
+                    "companyId": 60397222,
+                    "personId": 66862566,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66862566,
+                        "name": "ahmad tijjani muhammad fagge",
+                        "countryId": 24,
+                        "address": "NO. 24 BUK ROAD",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "tijjanifagge@yahoo.com",
+                        "phone": "08069243990",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "RINJI & DUTSE CO. LTD",
+                            "internationalNumber": "RC-1639904"
+                        },
+                        {
+                            "name": "A B MARAM INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1694884"
+                        },
+                        {
+                            "name": "SANFORD INDUSTRIES NIGERIA LIMITED",
+                            "internationalNumber": "RC-1734312"
+                        },
+                        {
+                            "name": "ASHABUL YAMEEN INTERNATIONAL SCHOOL LIMITED",
+                            "internationalNumber": "RC-1664361"
+                        },
+                        {
+                            "name": "SGR GLOBAL ENTERPRISES LIMITED",
+                            "internationalNumber": "RC-1680876"
+                        },
+                        {
+                            "name": "MUJEEBAH INTERNATIONAL LIMITED",
+                            "internationalNumber": "RC-1639559"
+                        },
+                        {
+                            "name": "K & G SPORTS VENTURES LIMITED",
+                            "internationalNumber": "RC-1711807"
+                        },
+                        {
+                            "name": "HGS HATCH GLOBAL SERVICES LIMITED",
+                            "internationalNumber": "RC-1728324"
+                        },
+                        {
+                            "name": "INTERNATIONAL DIGITAL AID CIRCLE LIMITED",
+                            "internationalNumber": "RC-1692435"
+                        },
+                        {
+                            "name": "FAZJIS GENERAL ENTERPRISES LIMITED",
+                            "internationalNumber": "RC-1697423"
+                        },
+                        {
+                            "name": "ULTIMATE INTERNATIONAL HOSPITAL LIMITED",
+                            "internationalNumber": "RC-1654951"
+                        },
+                        {
+                            "name": "PRESTIGIOUS H. M. & CO. LTD",
+                            "internationalNumber": "RC-1589595"
+                        },
+                        {
+                            "name": "KITE & STRING NIGERIA LIMITED",
+                            "internationalNumber": "RC-1600532"
+                        },
+                        {
+                            "name": "SAS - MAX HEALTH COMPANY LIMITED",
+                            "internationalNumber": "RC-1668405"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 243248345,
+                    "companyId": 60397222,
+                    "personId": 95602610,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 95602610,
+                        "name": "usman yahaya dan agege",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1978,
+                        "birthMonth": 6,
+                        "birthDate": 11,
+                        "address": "No. E03 Mai Karami Plaza, Mallam Kato Square",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "ultimateglobalimpulse@gmail.com",
+                        "phone": "08094735464",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 243248349,
+                    "companyId": 60397222,
+                    "personId": 98257148,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98257148,
+                        "name": "abdullahi aminu",
+                        "countryId": 24,
+                        "address": "No. 36 Soron Dinki Quarters",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A06615290",
+                        "documentType": "International Passport",
+                        "email": "aminumamiya@gmail.com",
+                        "phone": "07038133035",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "AMAB & CO NIG. GENERAL ENTERPRISES",
+                            "internationalNumber": "BN-2764828"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 243248346,
+                    "companyId": 60397222,
+                    "personId": 99351985,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 99351985,
+                        "name": "usman yahaya dan agege",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1978,
+                        "birthMonth": 6,
+                        "birthDate": 11,
+                        "address": "No. EO3 Mai Karami Plaza Mallam Kato Square ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A04464102",
+                        "documentType": "International Passport",
+                        "email": "ultimateglobalimpulse@gmail.com",
+                        "phone": "08094735464",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 243248348,
+                    "companyId": 60397222,
+                    "personId": 99351986,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 500000,
+                    "person": {
+                        "id": 99351986,
+                        "name": "adam faruk",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1978,
+                        "birthMonth": 5,
+                        "birthDate": 11,
+                        "address": "No. 3 Soron Dinki Quarters",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A09308704",
+                        "documentType": "International Passport",
+                        "email": "faroukmamiya@yahoo.com",
+                        "phone": "08109869453",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 243248350,
+                    "companyId": 60397222,
+                    "personId": 99351987,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 500000,
+                    "person": {
+                        "id": 99351987,
+                        "name": "usman yahaya dan agege",
+                        "countryId": 24,
+                        "occupation": "Entrepreneur",
+                        "nationality": "Nigeria",
+                        "birthYear": 1978,
+                        "birthMonth": 6,
+                        "birthDate": 12,
+                        "address": "DARMA QUARTERS KANO CITY, 39",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A09889717",
+                        "documentType": "International Passport",
+                        "email": "yahaya678@yahoo.com",
+                        "phone": "08026373739",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "mam*******************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Yah*** Dan Age** Usm**",
+                    "contacts": {
+                        "phone": [
+                            "080********"
+                        ],
+                        "email": [
+                            "ult****************************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "7",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "null": 2
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

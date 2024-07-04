@@ -1,0 +1,450 @@
+[
+    {
+        "year": "2018",
+        "title": "THEODORE SALT LIMITED - RC-1549766 - Nigeria",
+        "description": "THEODORE SALT LIMITED Nigeria company, Company number: RC-1549766, Incorporation Date 24 d\u00e9c. 2018;, Address: SHOP 25 UMETITI, MGBUKA OBOSI, ANAMBRA STATE",
+        "company": {
+            "id": 60886106,
+            "name": "THEODORE SALT LIMITED",
+            "internationalNumber": "RC-1549766",
+            "localNumber": "1549766",
+            "countryId": 24,
+            "dateCreated": "2018-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-15T12:00:08.137Z",
+            "updatedAt": "2024-06-15T14:34:24.298Z",
+            "alternateNames": [],
+            "address": "SHOP 25 UMETITI, MGBUKA OBOSI, ANAMBRA STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "5139290",
+            "updatedAtSitemap": "2023-06-09T18:03:27.000Z",
+            "oldInternationalNumber": "1549766",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2613,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97605312,
+                    "address": "SHOP 25 UMETITI, MGBUKA OBOSI, ANAMBRA STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 160755950,
+                    "companyId": 60886106,
+                    "personId": 68128796,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 68128796,
+                        "name": "obi augustine chiedozie ",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1993,
+                        "birthMonth": 3,
+                        "birthDate": 26,
+                        "address": "7A Adebodun Williams ",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "chiedozieobi4@gmail.com",
+                        "phone": "08134253585",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 160755952,
+                    "companyId": 60886106,
+                    "personId": 68128798,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 950000,
+                    "person": {
+                        "id": 68128798,
+                        "name": "ozonma onyebuchi theodore ",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1991,
+                        "birthMonth": 1,
+                        "birthDate": 8,
+                        "address": "7A Adebodun Williams ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "90F5AE6B0C518173442",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "tozonma@gmail.com",
+                        "phone": "08134582837",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 160755953,
+                    "companyId": 60886106,
+                    "personId": 68128798,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 950000,
+                    "person": {
+                        "id": 68128798,
+                        "name": "ozonma onyebuchi theodore ",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1991,
+                        "birthMonth": 1,
+                        "birthDate": 8,
+                        "address": "7A Adebodun Williams ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "90F5AE6B0C518173442",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "tozonma@gmail.com",
+                        "phone": "08134582837",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 160755955,
+                    "companyId": 60886106,
+                    "personId": 68128799,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 50000,
+                    "person": {
+                        "id": 68128799,
+                        "name": "ozonna ijeoma",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1969,
+                        "birthMonth": 7,
+                        "birthDate": 8,
+                        "address": "7A Adebodun Williams ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "90F5B23C20295712317",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "ijeomaozonma@gmail.com",
+                        "phone": "08034661637",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 160755956,
+                    "companyId": 60886106,
+                    "personId": 68128800,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 68128800,
+                        "name": "ozoma chigozie deborah",
+                        "countryId": 24,
+                        "address": "7A Adebodun Williams ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "90F5AFE50E533125970",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "debichig@gmail.com",
+                        "phone": "09037483097",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "toz**************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Aug****** Obi",
+                    "contacts": {
+                        "email": [
+                            "chi********************"
+                        ],
+                        "phone": [
+                            "081********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "7",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 4,
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

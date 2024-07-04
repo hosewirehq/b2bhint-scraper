@@ -1,0 +1,716 @@
+[
+    {
+        "year": "2022",
+        "title": "JUSK ENGINEERING AND CONSTRUCTION COMPANY LTD - RC-1913339 - Nigeria",
+        "description": "JUSK ENGINEERING AND CONSTRUCTION COMPANY LTD Nigeria company, Company number: RC-1913339, Incorporation Date Apr 1, 2022;, Address: 4 AKANIMO STREET, EKET, AKWA IBOM STATE",
+        "company": {
+            "id": 108884629,
+            "name": "JUSK ENGINEERING AND CONSTRUCTION COMPANY LTD",
+            "internationalNumber": "RC-1913339",
+            "localNumber": "1913339",
+            "countryId": 24,
+            "dateCreated": "2022-04-01T00:00:00.000Z",
+            "createdAt": "2022-04-13T08:30:36.260Z",
+            "updatedAt": "2024-06-15T15:37:53.402Z",
+            "alternateNames": [],
+            "address": "4 AKANIMO STREET, EKET, AKWA IBOM STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "ENGINEERING AND CONSTRUCTION ACTIVITIES",
+            "providerId": "7853255",
+            "updatedAtSitemap": "2023-06-09T16:37:41.000Z",
+            "oldInternationalNumber": "1913339",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 573,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197122,
+                    "providerId": "143224",
+                    "providerName": "Specialized construction activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:04:05.515315+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102167368,
+                    "address": "4 AKANIMO STREET, EKET, AKWA IBOM STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299390584,
+                    "companyId": 108884629,
+                    "personId": 101744049,
+                    "roleId": 60321,
+                    "percentage": 70,
+                    "appointedOn": "2022-04-01",
+                    "votingShares": "70%",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 700000,
+                    "person": {
+                        "id": 101744049,
+                        "name": "udonsek sunday sunday",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1990,
+                        "birthMonth": 7,
+                        "birthDate": 31,
+                        "address": "AFAGHA ATAI ROAD, 51",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A12399881",
+                        "documentType": "International Passport",
+                        "email": "sunnyudonsek@gmail.com",
+                        "phone": "09135525566",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60321,
+                        "name": "Persons with significant control",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Persons with significant control"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299390576,
+                    "companyId": 108884629,
+                    "personId": 101390265,
+                    "roleId": 60320,
+                    "appointedOn": "2022-04-01",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101390265,
+                        "name": "ogbiloja edwina agube",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "nationality": "Nigeria",
+                        "birthYear": 1989,
+                        "birthMonth": 10,
+                        "birthDate": 31,
+                        "address": "House of Assembly Road, No. 7",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "DKA33692AA78",
+                        "documentType": "Driver's License",
+                        "email": "eogbiloja@gmail.com",
+                        "phone": "07032090761",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "GENTILE TOOLS NIG LTD",
+                            "internationalNumber": "RC-1891930"
+                        },
+                        {
+                            "name": "ISESUDOH ENTERPRISE",
+                            "internationalNumber": "BN-3620062"
+                        },
+                        {
+                            "name": "BREB PASTERIES AND EVENTS",
+                            "internationalNumber": "BN-3576396"
+                        },
+                        {
+                            "name": "CLEMDAV ENTERPRISE",
+                            "internationalNumber": "BN-3565142"
+                        },
+                        {
+                            "name": "ALL ACCESS INTERIOR DESIGN LTD",
+                            "internationalNumber": "RC-1900584"
+                        },
+                        {
+                            "name": "ODIONG FISHING ENTERPRISE",
+                            "internationalNumber": "BN-3586463"
+                        },
+                        {
+                            "name": "MAJESTY-TC MUSICAL & STUDIO CONCEPT",
+                            "internationalNumber": "BN-3589698"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299390577,
+                    "companyId": 108884629,
+                    "personId": 100874165,
+                    "roleId": 60324,
+                    "appointedOn": "2022-04-01",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 100874165,
+                        "name": "sunday essien",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "address": "UBI INYANG STREET, 12",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "documentNumber": "A14595368",
+                        "email": "sundayessien@gmail.com",
+                        "phone": "07034367412",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "GENTILE TOOLS NIG LTD",
+                            "internationalNumber": "RC-1891930"
+                        },
+                        {
+                            "name": "GREENVIE PHARMACY LTD",
+                            "internationalNumber": "RC-1917313"
+                        },
+                        {
+                            "name": "HOSE LINKS LIMITED",
+                            "internationalNumber": "RC-1913433"
+                        },
+                        {
+                            "name": "ALL ACCESS INTERIOR DESIGN LTD",
+                            "internationalNumber": "RC-1900584"
+                        },
+                        {
+                            "name": "SET SECURITY SERVICES LIMITED",
+                            "internationalNumber": "RC-1902946"
+                        },
+                        {
+                            "name": "GLOBALBEATO ENTERPRISE NIG LTD",
+                            "internationalNumber": "RC-1911438"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299390578,
+                    "companyId": 108884629,
+                    "personId": 101744049,
+                    "roleId": 60317,
+                    "appointedOn": "2022-04-01",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101744049,
+                        "name": "udonsek sunday sunday",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1990,
+                        "birthMonth": 7,
+                        "birthDate": 31,
+                        "address": "AFAGHA ATAI ROAD, 51",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A12399881",
+                        "documentType": "International Passport",
+                        "email": "sunnyudonsek@gmail.com",
+                        "phone": "09135525566",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299390579,
+                    "companyId": 108884629,
+                    "personId": 101744049,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-01",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 700000,
+                    "person": {
+                        "id": 101744049,
+                        "name": "udonsek sunday sunday",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1990,
+                        "birthMonth": 7,
+                        "birthDate": 31,
+                        "address": "AFAGHA ATAI ROAD, 51",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A12399881",
+                        "documentType": "International Passport",
+                        "email": "sunnyudonsek@gmail.com",
+                        "phone": "09135525566",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299390581,
+                    "companyId": 108884629,
+                    "personId": 92914999,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-01",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 300000,
+                    "person": {
+                        "id": 92914999,
+                        "name": "ime emah ekaette ubong",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1982,
+                        "birthMonth": 8,
+                        "birthDate": 14,
+                        "address": "EKULNAM BASSEY, SHELTER AFRIQUE, 4",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "62733156310",
+                        "documentType": "National ID Card",
+                        "email": "ekadaekpe2016@gmail.com",
+                        "phone": "07032752496",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 365619906,
+                    "companyId": 108884629,
+                    "personId": 66283030,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66283030,
+                        "name": "edwina agube ogbiloja",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1989,
+                        "birthMonth": 10,
+                        "birthDate": 31,
+                        "address": "No. 7House of Assembly Road, Uyo, AKWA IBOM STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2647111",
+                        "documentType": "Driver's License",
+                        "documentNumber": "DKA33692AA78",
+                        "email": "eogbiloja@gmail.com",
+                        "phone": "+234 703 209 0761",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "MEDIMOR PLUS PHARMACY LTD",
+                            "internationalNumber": "RC-1797791"
+                        },
+                        {
+                            "name": "NO-RIVAL (NIG) LTD",
+                            "internationalNumber": "RC-171296"
+                        },
+                        {
+                            "name": "BLACK HORSE LOGISTICS LIMITED",
+                            "internationalNumber": "RC-1870850"
+                        },
+                        {
+                            "name": "DAZZLEBOX LIMITED",
+                            "internationalNumber": "RC-1845649"
+                        },
+                        {
+                            "name": "HONEYMOON GUEST HOUSE UYO",
+                            "internationalNumber": "BN-3356832"
+                        },
+                        {
+                            "name": "PHIKTAZ GLOBAL",
+                            "internationalNumber": "BN-3440564"
+                        },
+                        {
+                            "name": "FONDICH SEAFOOD",
+                            "internationalNumber": "BN-3134773"
+                        },
+                        {
+                            "name": "ZYDEE NEIGHBOURHOOD MARKET",
+                            "internationalNumber": "BN-3188155"
+                        },
+                        {
+                            "name": "AWEJE CONSULT NIG LTD ",
+                            "internationalNumber": "RC-1783908"
+                        },
+                        {
+                            "name": "VERITY MULTI LINKS NIG",
+                            "internationalNumber": "BN-3531766"
+                        },
+                        {
+                            "name": "WEMENYS INVESTMENT NIG LTD",
+                            "internationalNumber": "RC-1839397"
+                        },
+                        {
+                            "name": "GRACE ASSAM & CO",
+                            "internationalNumber": "BN-3357809"
+                        },
+                        {
+                            "name": "PROLUA PUBLISHING VENTURES",
+                            "internationalNumber": "BN-3567748"
+                        },
+                        {
+                            "name": "GOSHEN EMPIRE SERVICES INTERNATIONAL LTD",
+                            "internationalNumber": "RC-1793639"
+                        },
+                        {
+                            "name": "LOKSON AUTO AND ACCESS SALES NIG LTD",
+                            "internationalNumber": "RC-169831"
+                        },
+                        {
+                            "name": "JAESS INVESTMENT & CO LIMITED",
+                            "internationalNumber": "RC-1773355"
+                        },
+                        {
+                            "name": "GORONTULA TEA",
+                            "internationalNumber": "BN-3229828"
+                        },
+                        {
+                            "name": "PATIMO & SON INT'L CO LIMITED",
+                            "internationalNumber": "RC-1762025"
+                        },
+                        {
+                            "name": "DIVINELLA SOLUTIONS & SERVICES LTD",
+                            "internationalNumber": "RC-1850718"
+                        },
+                        {
+                            "name": "GELSYN FINANCE LTD",
+                            "internationalNumber": "RC-169476"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "jus***********************************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Edw*** Agu** Ogb*****",
+                    "contacts": {
+                        "email": [
+                            "eog****************"
+                        ],
+                        "phone": [
+                            "+23**************",
+                            "070********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Agu** Edw*** Ogb*****",
+                    "contacts": {
+                        "email": [
+                            "eog****************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "10",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "3": 1,
+                "null": 4
+            },
+            "personsWithRelatedCount": 4
+        }
+    }
+]

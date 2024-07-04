@@ -1,0 +1,484 @@
+[
+    {
+        "year": "2019",
+        "title": "DEJBOL 58 LTD - RC-1643478 - Nigeria",
+        "description": "DEJBOL 58 LTD Nigeria company, Company number: RC-1643478, Incorporation Date 20 d\u00e9c. 2019;, Address: 24A, TOKUNBO MACAULAY STREET., MAGODO, LAGOS STATE",
+        "company": {
+            "id": 60319216,
+            "name": "DEJBOL 58 LTD",
+            "internationalNumber": "RC-1643478",
+            "localNumber": "1643478",
+            "countryId": 24,
+            "dateCreated": "2019-12-20T00:00:00.000Z",
+            "createdAt": "2021-05-13T17:02:22.582Z",
+            "updatedAt": "2024-06-15T14:08:21.434Z",
+            "alternateNames": [],
+            "address": "24A, TOKUNBO MACAULAY STREET., MAGODO, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "10 NGN",
+            "sharesIssued": "100000",
+            "historicalNames": [],
+            "providerId": "6003360",
+            "updatedAtSitemap": "2023-06-09T15:28:10.000Z",
+            "oldInternationalNumber": "1643478",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1178,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196930,
+                    "providerId": "199147",
+                    "providerName": "Supply and Distribution of General Goods",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:19.357318+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91354568,
+                    "address": "24A, TOKUNBO MACAULAY STREET., MAGODO, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 244275314,
+                    "companyId": 60319216,
+                    "personId": 70199599,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 70199599,
+                        "name": "fakeye steve segun",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1966,
+                        "birthMonth": 1,
+                        "birthDate": 26,
+                        "address": "24A, TOKUNBO MACAULAY STREET.",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "segfak66@gmail.com",
+                        "phone": "08141870268",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 244275315,
+                    "companyId": 60319216,
+                    "personId": 99889017,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 99889017,
+                        "name": "fakeye steve segun",
+                        "countryId": 24,
+                        "address": "24A, TOKUNBO MACAULAY STREET,",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "segfak66@gmail.com",
+                        "phone": "08141870268",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 244275320,
+                    "companyId": 60319216,
+                    "personId": 99889017,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 20000,
+                    "person": {
+                        "id": 99889017,
+                        "name": "fakeye steve segun",
+                        "countryId": 24,
+                        "address": "24A, TOKUNBO MACAULAY STREET,",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "segfak66@gmail.com",
+                        "phone": "08141870268",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 244275321,
+                    "companyId": 60319216,
+                    "personId": 99889017,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 99889017,
+                        "name": "fakeye steve segun",
+                        "countryId": 24,
+                        "address": "24A, TOKUNBO MACAULAY STREET,",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "segfak66@gmail.com",
+                        "phone": "08141870268",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 244275317,
+                    "companyId": 60319216,
+                    "personId": 99889018,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 40000,
+                    "person": {
+                        "id": 99889018,
+                        "name": "fakeye ayodeji moses",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1965,
+                        "birthMonth": 8,
+                        "birthDate": 15,
+                        "address": "24A, Tokunbo Macaulay Street.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A08094357",
+                        "documentType": "International Passport",
+                        "email": "dejfak2002@gmail.com",
+                        "phone": "08072974017",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 244275318,
+                    "companyId": 60319216,
+                    "personId": 99889019,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 99889019,
+                        "name": "fakeye adebola",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1967,
+                        "birthMonth": 5,
+                        "birthDate": 15,
+                        "address": "24A TOKUNBO MACAULAY STREET, MAGODO, LAGOS",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A09122851",
+                        "documentType": "International Passport",
+                        "email": "bolafakeye06@yahoo.co.uk",
+                        "phone": "09020590124",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "dej*****************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Ste** Seg** Fak***",
+                    "contacts": {
+                        "phone": [
+                            "081********"
+                        ],
+                        "email": [
+                            "seg***************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "8",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 3,
+                "2": 3,
+                "null": 2
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

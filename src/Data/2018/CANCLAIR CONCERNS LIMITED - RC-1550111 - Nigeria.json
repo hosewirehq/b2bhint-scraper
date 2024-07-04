@@ -1,0 +1,327 @@
+[
+    {
+        "year": "2018",
+        "title": "CANCLAIR CONCERNS LIMITED - RC-1550111 - Nigeria",
+        "description": "CANCLAIR CONCERNS LIMITED Nigeria company, Company number: RC-1550111, Incorporation Date Dec 27, 2018;, Address: 23 OLUTAYO ALAO STREET, RIVER VALLEY ESTATE, OJODU, LAGOS STATE",
+        "company": {
+            "id": 62064149,
+            "name": "CANCLAIR CONCERNS LIMITED",
+            "internationalNumber": "RC-1550111",
+            "localNumber": "1550111",
+            "countryId": 24,
+            "dateCreated": "2018-12-27T00:00:00.000Z",
+            "createdAt": "2021-05-28T02:42:29.518Z",
+            "updatedAt": "2024-06-15T15:15:06.963Z",
+            "alternateNames": [],
+            "address": "23 OLUTAYO ALAO STREET, RIVER VALLEY ESTATE, OJODU, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "5169067",
+            "updatedAtSitemap": "2023-06-09T18:01:08.000Z",
+            "oldInternationalNumber": "1550111",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2315,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197468,
+                    "providerId": "199170",
+                    "providerName": "Advertising and Marketing Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:12:57.325235+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97823291,
+                    "address": "23 OLUTAYO ALAO STREET, RIVER VALLEY ESTATE, OJODU, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 348260512,
+                    "companyId": 62064149,
+                    "personId": 66141572,
+                    "roleId": 114349,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66141572,
+                        "name": "emeka jude nzeh",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1972,
+                        "birthMonth": 9,
+                        "birthDate": 29,
+                        "address": "PLOT 15NDOLA CRESCENT, WUSE ZONE 5, ABUJA, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1665807",
+                        "documentType": "Driver's License",
+                        "documentNumber": "ABC76427AA02",
+                        "email": "barrnzeh@gmail.com",
+                        "phone": "+234 803 605 3944",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114349,
+                        "name": "Legal Practice",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practice"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "HOUSE OF CLG",
+                            "internationalNumber": "BN-2543064"
+                        },
+                        {
+                            "name": "HANSE TRADING LTD",
+                            "internationalNumber": "RC-1455897"
+                        },
+                        {
+                            "name": "JIANSON FOODS LTD",
+                            "internationalNumber": "RC-1414349"
+                        },
+                        {
+                            "name": "ZAINAB PRESTIGE GLOBAL ENTERPRISES",
+                            "internationalNumber": "BN-3253685"
+                        },
+                        {
+                            "name": "YOUNG GRADUATE FOODSTUFF NETWORKS",
+                            "internationalNumber": "BN-2993905"
+                        },
+                        {
+                            "name": "SOUTH BEND LTD",
+                            "internationalNumber": "RC-1890470"
+                        },
+                        {
+                            "name": "GLITZSTONE JEWELLERY",
+                            "internationalNumber": "BN-2557091"
+                        },
+                        {
+                            "name": "ANDRIT AUTO CARE VENTURES",
+                            "internationalNumber": "BN-2812666"
+                        },
+                        {
+                            "name": "M & M MEDICARE AND STORES LIMITED",
+                            "internationalNumber": "RC-1830876"
+                        },
+                        {
+                            "name": "OSBORNE FITNESS CLUB",
+                            "internationalNumber": "IT-152829"
+                        },
+                        {
+                            "name": "EMMY KANSAI INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1565044"
+                        },
+                        {
+                            "name": "ANGELUS AUTOMATION LIMITED",
+                            "internationalNumber": "RC-1464372"
+                        },
+                        {
+                            "name": "RISE ENGINEERING & CONSTRUCTION LIMITED",
+                            "internationalNumber": "RC-1661114"
+                        },
+                        {
+                            "name": "COBBEL PROJECTS LIMITED",
+                            "internationalNumber": "RC-1854942"
+                        },
+                        {
+                            "name": "UMUNYA OLD GIRLS ASSOCIATION",
+                            "internationalNumber": "IT-156355"
+                        },
+                        {
+                            "name": "HELEJOSS BUSINESS ENTERPRISES",
+                            "internationalNumber": "BN-2992161"
+                        },
+                        {
+                            "name": "JULIAN SKINCARE & NAIL STUDIO",
+                            "internationalNumber": "BN-3360814"
+                        },
+                        {
+                            "name": "PEOPLE'S INFOR-SYSTEMS AND MEDIA ACCESS LIMITED",
+                            "internationalNumber": "RC-1444397"
+                        },
+                        {
+                            "name": "MUESLI LITTLE HEARTS LIMITED",
+                            "internationalNumber": "RC-1421981"
+                        },
+                        {
+                            "name": "CHIEF SIR T. K. NWACHUKWU & LADY PATRICIA NWACHUKWU FOUNDATION",
+                            "internationalNumber": "IT-155601"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "com****************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Eme** Jud* Nze*",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "bar***************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

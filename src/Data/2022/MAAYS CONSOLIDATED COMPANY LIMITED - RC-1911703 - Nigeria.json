@@ -1,0 +1,701 @@
+[
+    {
+        "year": "2022",
+        "title": "MAAYS CONSOLIDATED COMPANY LIMITED - RC-1911703 - Nigeria",
+        "description": "MAAYS CONSOLIDATED COMPANY LIMITED Nigeria company, Company number: RC-1911703, Incorporation Date Mar 29, 2022;, Address: 20 OJEKUNLE STREET, AGEGE, LAGOS STATE",
+        "company": {
+            "id": 109104110,
+            "name": "MAAYS CONSOLIDATED COMPANY LIMITED",
+            "internationalNumber": "RC-1911703",
+            "localNumber": "1911703",
+            "countryId": 24,
+            "dateCreated": "2022-03-29T00:00:00.000Z",
+            "createdAt": "2022-04-15T12:26:06.666Z",
+            "updatedAt": "2024-06-15T15:40:25.345Z",
+            "alternateNames": [],
+            "address": "20 OJEKUNLE STREET, AGEGE, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "SALES, SUPPLY, IMPORT & EXPORT",
+            "providerId": "7934553",
+            "updatedAtSitemap": "2023-06-09T16:44:27.000Z",
+            "oldInternationalNumber": "1911703",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 671,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197035,
+                    "providerId": "199148",
+                    "providerName": "Deal in General Goods and Manufacturers Representatives",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:58.403117+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102098306,
+                    "address": "20 OJEKUNLE STREET, AGEGE, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "MAAYS FARM LIMITED",
+                            "internationalNumber": "RC-1900322"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 298900723,
+                    "companyId": 109104110,
+                    "personId": 102100448,
+                    "roleId": 60320,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 102100448,
+                        "name": "rogers adewole",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "nationality": "Nigeria",
+                        "birthYear": 1979,
+                        "birthMonth": 5,
+                        "birthDate": 15,
+                        "address": "ESANOGBOGUN STREET, 9",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "32836185640",
+                        "documentType": "National ID Card",
+                        "email": "alwaysbode@yahoo.com",
+                        "phone": "+2347062251155",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "AKINKAY ELECTRICAL WORKS",
+                            "internationalNumber": "BN-3593648"
+                        },
+                        {
+                            "name": "NEFI PRECIOUS COLLECTIONS",
+                            "internationalNumber": "BN-3609912"
+                        },
+                        {
+                            "name": "CRYSTAL DRIZZLES PROPERTIES LIMITED",
+                            "internationalNumber": "RC-1890459"
+                        },
+                        {
+                            "name": "FRESHITUDE AGRO LIMITED",
+                            "internationalNumber": "RC-1901353"
+                        },
+                        {
+                            "name": "MAAYS FARM LIMITED",
+                            "internationalNumber": "RC-1900322"
+                        },
+                        {
+                            "name": "MANZONI HOMES LIMITED",
+                            "internationalNumber": "RC-1899923"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298900724,
+                    "companyId": 109104110,
+                    "personId": 66907823,
+                    "roleId": 60324,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 66907823,
+                        "name": "tella olalekan",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "address": "UNITY WAY, 1",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "lekantella1@gmail.com",
+                        "phone": "08030975703",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "MAAYS FARM LIMITED",
+                            "internationalNumber": "RC-1900322"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298900725,
+                    "companyId": 109104110,
+                    "personId": 104321714,
+                    "roleId": 60317,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 104321714,
+                        "name": "olaleye sikiru adebayo",
+                        "countryId": 24,
+                        "occupation": "Businessman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1977,
+                        "birthMonth": 5,
+                        "birthDate": 14,
+                        "address": "OJEKUNLE STREET, 20",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A10010589",
+                        "documentType": "International Passport",
+                        "email": "maaysltd@yahoo.com",
+                        "phone": "08033677766",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "MAAYS FARM LIMITED",
+                            "internationalNumber": "RC-1900322"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298900726,
+                    "companyId": 109104110,
+                    "personId": 104321714,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 500000,
+                    "person": {
+                        "id": 104321714,
+                        "name": "olaleye sikiru adebayo",
+                        "countryId": 24,
+                        "occupation": "Businessman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1977,
+                        "birthMonth": 5,
+                        "birthDate": 14,
+                        "address": "OJEKUNLE STREET, 20",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A10010589",
+                        "documentType": "International Passport",
+                        "email": "maaysltd@yahoo.com",
+                        "phone": "08033677766",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [
+                        {
+                            "name": "MAAYS FARM LIMITED",
+                            "internationalNumber": "RC-1900322"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298900728,
+                    "companyId": 109104110,
+                    "personId": 101845521,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 500000,
+                    "person": {
+                        "id": 101845521,
+                        "name": "olaleye shakirat olayinka",
+                        "countryId": 24,
+                        "occupation": "Businesswoman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1977,
+                        "birthMonth": 8,
+                        "birthDate": 31,
+                        "address": "OJEKUNLE STREET, 20",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A11910331",
+                        "documentType": "International Passport",
+                        "email": "yinkatijani2003@yahoo.co.uk",
+                        "phone": "08033677766",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [
+                        {
+                            "name": "MAAYS FARM LIMITED",
+                            "internationalNumber": "RC-1900322"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298900729,
+                    "companyId": 109104110,
+                    "personId": 101845521,
+                    "roleId": 60321,
+                    "percentage": 50,
+                    "appointedOn": "2022-03-29",
+                    "votingShares": "50%",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 500000,
+                    "person": {
+                        "id": 101845521,
+                        "name": "olaleye shakirat olayinka",
+                        "countryId": 24,
+                        "occupation": "Businesswoman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1977,
+                        "birthMonth": 8,
+                        "birthDate": 31,
+                        "address": "OJEKUNLE STREET, 20",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A11910331",
+                        "documentType": "International Passport",
+                        "email": "yinkatijani2003@yahoo.co.uk",
+                        "phone": "08033677766",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60321,
+                        "name": "Persons with significant control",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Persons with significant control"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "MAAYS FARM LIMITED",
+                            "internationalNumber": "RC-1900322"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 365517226,
+                    "companyId": 109104110,
+                    "personId": 66496563,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66496563,
+                        "name": "adewole rogers",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1979,
+                        "birthMonth": 5,
+                        "birthDate": 15,
+                        "address": "9ESANOGBOGUN STREET, SOMOLU, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1700196",
+                        "documentType": "National ID Card",
+                        "documentNumber": "32836185640",
+                        "email": "alwaysbode@yahoo.com",
+                        "phone": "+234 706 225 1155",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "VISIONALSTRATEGIES LIMITED",
+                            "internationalNumber": "RC-1645124"
+                        },
+                        {
+                            "name": "MARCY INVESTMENT LTD",
+                            "internationalNumber": "RC-99760"
+                        },
+                        {
+                            "name": "AKINKAY ELECTRICAL WORKS",
+                            "internationalNumber": "BN-3593648"
+                        },
+                        {
+                            "name": "SIRACH CAPITAL LIMITED",
+                            "internationalNumber": "RC-1515791"
+                        },
+                        {
+                            "name": "IZZTECH INTEGRATED SERVICES LIMITED",
+                            "internationalNumber": "RC-1532849"
+                        },
+                        {
+                            "name": "GLAD EVENT MANAGEMENT AND DECORATION",
+                            "internationalNumber": "BN-2982637"
+                        },
+                        {
+                            "name": "NEFI PRECIOUS COLLECTIONS",
+                            "internationalNumber": "BN-3609912"
+                        },
+                        {
+                            "name": "ONE-IN-ONE FIDELITY COMPANY LTD",
+                            "internationalNumber": "RC-107825"
+                        },
+                        {
+                            "name": "AJEZEERAH ENTERPRISES",
+                            "internationalNumber": "BN-2579563"
+                        },
+                        {
+                            "name": "TEA SQUARE FOUNDATION",
+                            "internationalNumber": "IT-153288"
+                        },
+                        {
+                            "name": "WEST NADINE GLOBAL RESOURCES LIMITED",
+                            "internationalNumber": "RC-1630683"
+                        },
+                        {
+                            "name": "HARTLAM FARMS",
+                            "internationalNumber": "BN-3081115"
+                        },
+                        {
+                            "name": "CRYSTAL DRIZZLES PROPERTIES LIMITED",
+                            "internationalNumber": "RC-1890459"
+                        },
+                        {
+                            "name": "TAY OLLYCON ENTERPRISES NIG LTD",
+                            "internationalNumber": "RC-158397"
+                        },
+                        {
+                            "name": "VINTAGE BEAUTY CARE LIMITED",
+                            "internationalNumber": "RC-1507010"
+                        },
+                        {
+                            "name": "PEAKINTEGRITY SERVICES LIMITED",
+                            "internationalNumber": "RC-1737319"
+                        },
+                        {
+                            "name": "ELEMENT 9 SYSTEMS LIMITED",
+                            "internationalNumber": "RC-1480833"
+                        },
+                        {
+                            "name": "LAGOS BAPTIST SECONDARY SCHOOL AGEGE CLASS OF 93",
+                            "internationalNumber": "IT-158397"
+                        },
+                        {
+                            "name": "HERITAGE VIP LIMITED",
+                            "internationalNumber": "RC-1564260"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "maa***************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Ade**** Rog***",
+                    "contacts": {
+                        "email": [
+                            "alw*****************"
+                        ],
+                        "phone": [
+                            "+23**************",
+                            "+23***********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "10",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "3": 1,
+                "null": 4
+            },
+            "personsWithRelatedCount": 5
+        }
+    }
+]

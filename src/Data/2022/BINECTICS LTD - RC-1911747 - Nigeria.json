@@ -1,0 +1,715 @@
+[
+    {
+        "year": "2022",
+        "title": "BINECTICS LTD - RC-1911747 - Nigeria",
+        "description": "BINECTICS LTD Nigeria company, Company number: RC-1911747, Incorporation Date 29 Mar 2022;, Address: 28 BALOGUN AVENUE, IDIMU, LAGOS., IDIMU, LAGOS STATE",
+        "company": {
+            "id": 109038544,
+            "name": "BINECTICS LTD",
+            "internationalNumber": "RC-1911747",
+            "localNumber": "1911747",
+            "countryId": 24,
+            "dateCreated": "2022-03-29T00:00:00.000Z",
+            "createdAt": "2022-04-14T18:27:27.714Z",
+            "updatedAt": "2024-06-15T15:39:38.653Z",
+            "alternateNames": [],
+            "address": "28 BALOGUN AVENUE, IDIMU, LAGOS., IDIMU, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "INFORMATION AND COMMUNICATION TECHNOLOGY",
+            "providerId": "7905484",
+            "updatedAtSitemap": "2023-06-09T16:42:24.000Z",
+            "oldInternationalNumber": "1911747",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 671,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197271,
+                    "providerId": "199174",
+                    "providerName": "Software Development, Web Design and Intranet Development",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:07:37.803752+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102122671,
+                    "address": "28 BALOGUN AVENUE, IDIMU, LAGOS., IDIMU, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299008216,
+                    "companyId": 109038544,
+                    "personId": 104329469,
+                    "roleId": 60320,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 104329469,
+                        "name": "sendy useni umoette",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "nationality": "Nigeria",
+                        "birthYear": 1993,
+                        "birthMonth": 6,
+                        "birthDate": 3,
+                        "address": "HILLTOP PLAZA, WUSE ZONE 4, SUITE 27",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "27786462786",
+                        "documentType": "National ID Card",
+                        "email": "usenisendy@gmail.com",
+                        "phone": "08101140904",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "AFCSCOWA ENTERPRISES",
+                            "internationalNumber": "BN-3579669"
+                        },
+                        {
+                            "name": "AMALIES LUXURY EVENTS",
+                            "internationalNumber": "BN-3592620"
+                        },
+                        {
+                            "name": "ZULZ LIMITED",
+                            "internationalNumber": "RC-1890967"
+                        },
+                        {
+                            "name": "THEBEMABRAND LOGISTICS",
+                            "internationalNumber": "BN-3603378"
+                        },
+                        {
+                            "name": "EXCELLAR HUB INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1890225"
+                        },
+                        {
+                            "name": "OBAKPOGIRIKPO ASORES VENTURES",
+                            "internationalNumber": "BN-3623533"
+                        },
+                        {
+                            "name": "VIRTUOUS WOMAN APPARELS",
+                            "internationalNumber": "BN-3613234"
+                        },
+                        {
+                            "name": "LICIACID LINKS LIMITED",
+                            "internationalNumber": "RC-1887561"
+                        },
+                        {
+                            "name": "TALAMH GR\u00c1STA ATTORNEYS",
+                            "internationalNumber": "BN-3606252"
+                        },
+                        {
+                            "name": "FAY GLOBAL",
+                            "internationalNumber": "BN-3592097"
+                        },
+                        {
+                            "name": "NAWASI-MUSA VENTURES",
+                            "internationalNumber": "BN-3570876"
+                        },
+                        {
+                            "name": "ULTIMATE AGROTEK LTD",
+                            "internationalNumber": "RC-1916000"
+                        },
+                        {
+                            "name": "HOLARYOM INVESTMENT COMPANY LTD",
+                            "internationalNumber": "RC-1900640"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299008217,
+                    "companyId": 109038544,
+                    "personId": 66791198,
+                    "roleId": 60324,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 66791198,
+                        "name": "sendy useni",
+                        "countryId": 24,
+                        "occupation": "Legal pratitioner",
+                        "address": "hilltop plaza, wuse ,zone 4 abuja, 27",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "usenisendy@gmail.com",
+                        "phone": "08101140904",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "HOLARYOM INVESTMENT COMPANY LTD",
+                            "internationalNumber": "RC-1900640"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299008218,
+                    "companyId": 109038544,
+                    "personId": 101901190,
+                    "roleId": 60317,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101901190,
+                        "name": "adebayo adesegun daniel",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1995,
+                        "birthMonth": 4,
+                        "birthDate": 25,
+                        "address": "Balogun Avenue, Idimu, 28",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "69033339673",
+                        "documentType": "National ID Card",
+                        "email": "dadebayo.adesegun@gmail.com",
+                        "phone": "07066576295",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299008220,
+                    "companyId": 109038544,
+                    "personId": 102124733,
+                    "roleId": 60322,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 102124733,
+                        "name": "adebayo olabisi",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1996,
+                        "birthMonth": 4,
+                        "birthDate": 3,
+                        "address": "Balogun Avenue, Idimu, Lagos, 28",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "53167136300",
+                        "documentType": "National ID Card",
+                        "email": "a.olabisiadebayo@gmail.com",
+                        "phone": "09093438130",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60322,
+                        "name": "Secretary company",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary company"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299008221,
+                    "companyId": 109038544,
+                    "personId": 101901190,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 800000,
+                    "person": {
+                        "id": 101901190,
+                        "name": "adebayo adesegun daniel",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1995,
+                        "birthMonth": 4,
+                        "birthDate": 25,
+                        "address": "Balogun Avenue, Idimu, 28",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "69033339673",
+                        "documentType": "National ID Card",
+                        "email": "dadebayo.adesegun@gmail.com",
+                        "phone": "07066576295",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299008223,
+                    "companyId": 109038544,
+                    "personId": 101901191,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 200000,
+                    "person": {
+                        "id": 101901191,
+                        "name": "adebayo olabisi adunni",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1996,
+                        "birthMonth": 4,
+                        "birthDate": 3,
+                        "address": "Balogun Avenue, Idimu, Lagos, 28",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "53167136300",
+                        "documentType": "National ID Card",
+                        "email": "a.olabisiadebayo@gmail.com",
+                        "phone": "09093438130",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 365541454,
+                    "companyId": 109038544,
+                    "personId": 66145767,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66145767,
+                        "name": "useni umoette sendy",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1993,
+                        "birthMonth": 6,
+                        "birthDate": 3,
+                        "address": "SUITE 27HILLTOP PLAZA, WUSE ZONE 4, ABUJA, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2231090",
+                        "documentType": "National ID Card",
+                        "documentNumber": "27786462786",
+                        "email": "usenisendy@gmail.com",
+                        "phone": "+234 810 114 0904",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "IBRO GRILLS LIMITED",
+                            "internationalNumber": "RC-1843489"
+                        },
+                        {
+                            "name": "IWINOSA CARE FOUNDATION",
+                            "internationalNumber": "IT-157286"
+                        },
+                        {
+                            "name": "CHIAMAKA GLOBAL LINKS ENT",
+                            "internationalNumber": "BN-3259497"
+                        },
+                        {
+                            "name": "DVEILS VENTURES",
+                            "internationalNumber": "BN-3026630"
+                        },
+                        {
+                            "name": "PRETTY SWEET LTD",
+                            "internationalNumber": "RC-1969523"
+                        },
+                        {
+                            "name": "ZF MOVIEZ",
+                            "internationalNumber": "BN-3050496"
+                        },
+                        {
+                            "name": "TAOROYAL GLOBAL CONCEPT LIMITED",
+                            "internationalNumber": "RC-1567216"
+                        },
+                        {
+                            "name": "GIFTED FOLKS INTEGRATED SERVICES INTERNATIONAL LTD",
+                            "internationalNumber": "RC-1850987"
+                        },
+                        {
+                            "name": "COOLMIC CONCEPTS VENTURES",
+                            "internationalNumber": "BN-3024317"
+                        },
+                        {
+                            "name": "BJ-ZEEMAT ENTERPRISES",
+                            "internationalNumber": "BN-3492391"
+                        },
+                        {
+                            "name": "CHIMUCITY SCOP LINK LIMITED",
+                            "internationalNumber": "RC-1800805"
+                        },
+                        {
+                            "name": "BRITTANCY GLOBAL LINKS CONSULTING LTD",
+                            "internationalNumber": "RC-1995742"
+                        },
+                        {
+                            "name": "BAITUL IZZAH ISLAMIC CENTRE DAKWA",
+                            "internationalNumber": "IT-157248"
+                        },
+                        {
+                            "name": "JIGGY FASHION HUB",
+                            "internationalNumber": "BN-3456048"
+                        },
+                        {
+                            "name": "SCHOLAMARTHER NIG LTD",
+                            "internationalNumber": "RC-1766589"
+                        },
+                        {
+                            "name": "PECULIAR GENERATIONS FOUNDATION",
+                            "internationalNumber": "IT-152173"
+                        },
+                        {
+                            "name": "CUISEKERRY ENTERPRISES",
+                            "internationalNumber": "BN-3253680"
+                        },
+                        {
+                            "name": "AKAFULLAH BUSINESS & COMMUNICATION",
+                            "internationalNumber": "BN-3015220"
+                        },
+                        {
+                            "name": "BEACONHILL ACADEMY INTERNATIONAL LTD",
+                            "internationalNumber": "RC-1789316"
+                        },
+                        {
+                            "name": "WATCHERS SYSTEM AGENCY LIMITED",
+                            "internationalNumber": "RC-1718668"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "dad************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Use** Umo**** Sen**",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "081********"
+                        ],
+                        "email": [
+                            "use*****************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Sen** Umo**** Use**",
+                    "contacts": {
+                        "email": [
+                            "use*****************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "11",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "3": 1,
+                "null": 5
+            },
+            "personsWithRelatedCount": 4
+        }
+    }
+]

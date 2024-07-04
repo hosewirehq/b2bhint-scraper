@@ -1,0 +1,516 @@
+[
+    {
+        "year": "2022",
+        "title": "FEMCOLD INTERNATIONAL LIMITED - RC-1912482 - Nigeria",
+        "description": "FEMCOLD INTERNATIONAL LIMITED Nigeria company, Company number: RC-1912482, Incorporation Date 30 \u043c\u0430\u0440. 2022 \u0433.;, Address: 2 LANISA ROAD OLOOLA ODO-ONA KEKERE, IBADAN, OYO STATE",
+        "company": {
+            "id": 108864568,
+            "name": "FEMCOLD INTERNATIONAL LIMITED",
+            "internationalNumber": "RC-1912482",
+            "localNumber": "1912482",
+            "countryId": 24,
+            "dateCreated": "2022-03-30T00:00:00.000Z",
+            "createdAt": "2022-04-13T04:33:08.570Z",
+            "updatedAt": "2024-06-15T15:37:29.158Z",
+            "alternateNames": [],
+            "address": "2 LANISA ROAD OLOOLA ODO-ONA KEKERE, IBADAN, OYO STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "",
+            "providerId": "7843897",
+            "updatedAtSitemap": "2024-01-15T18:35:26.000Z",
+            "oldInternationalNumber": "1912482",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 771,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196919,
+                    "providerId": "143269",
+                    "providerName": "Other personal services activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T13:47:47.959002+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102176765,
+                    "address": "2 LANISA ROAD OLOOLA ODO-ONA KEKERE, IBADAN, OYO STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299436007,
+                    "companyId": 108864568,
+                    "personId": 101757996,
+                    "roleId": 60328,
+                    "appointedOn": "2022-03-30",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101757996,
+                        "name": "mustapha owolabi abdulfatai",
+                        "countryId": 24,
+                        "address": ", 2, LANISA ROAD OLOOLA ODO-ONA KEKERE",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "femcold@gmail.com",
+                        "phone": "09034813103",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299436008,
+                    "companyId": 108864568,
+                    "personId": 101922639,
+                    "roleId": 60320,
+                    "appointedOn": "2022-03-30",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101922639,
+                        "name": "mustapha owolabi abdulfatai",
+                        "countryId": 24,
+                        "occupation": "Business man",
+                        "nationality": "Nigeria",
+                        "birthYear": 1983,
+                        "birthMonth": 11,
+                        "birthDate": 23,
+                        "address": "LANISA ROAD ALOBE ESTATE ODO-ONA KEKERE , 2",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A08465161",
+                        "documentType": "International Passport",
+                        "email": "femcold@gmail.com",
+                        "phone": "09034813103",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299436009,
+                    "companyId": 108864568,
+                    "personId": 101922639,
+                    "roleId": 60317,
+                    "appointedOn": "2022-03-30",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101922639,
+                        "name": "mustapha owolabi abdulfatai",
+                        "countryId": 24,
+                        "occupation": "Business man",
+                        "nationality": "Nigeria",
+                        "birthYear": 1983,
+                        "birthMonth": 11,
+                        "birthDate": 23,
+                        "address": "LANISA ROAD ALOBE ESTATE ODO-ONA KEKERE , 2",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A08465161",
+                        "documentType": "International Passport",
+                        "email": "femcold@gmail.com",
+                        "phone": "09034813103",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299436010,
+                    "companyId": 108864568,
+                    "personId": 101757997,
+                    "roleId": 60324,
+                    "appointedOn": "2022-03-30",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101757997,
+                        "name": "owolabi hammed",
+                        "countryId": 24,
+                        "occupation": "Business man",
+                        "address": "LANISA STREET OLOOLA ODA-ONA KEKERE, 2",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "femcold@gmail.com",
+                        "phone": "09034813103",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299436011,
+                    "companyId": 108864568,
+                    "personId": 101922639,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-30",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 4,
+                    "person": {
+                        "id": 101922639,
+                        "name": "mustapha owolabi abdulfatai",
+                        "countryId": 24,
+                        "occupation": "Business man",
+                        "nationality": "Nigeria",
+                        "birthYear": 1983,
+                        "birthMonth": 11,
+                        "birthDate": 23,
+                        "address": "LANISA ROAD ALOBE ESTATE ODO-ONA KEKERE , 2",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A08465161",
+                        "documentType": "International Passport",
+                        "email": "femcold@gmail.com",
+                        "phone": "09034813103",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299436012,
+                    "companyId": 108864568,
+                    "personId": 101757998,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-30",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1,
+                    "person": {
+                        "id": 101757998,
+                        "name": "ogunbisi badirat omolara",
+                        "countryId": 24,
+                        "occupation": "Business woman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1993,
+                        "birthMonth": 8,
+                        "birthDate": 9,
+                        "address": "LANISA ROAD ALOBE ESTATE ODO-ONA KEKERE , 2",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "71851266504",
+                        "documentType": "National ID Card",
+                        "email": "femcold@gmail.com",
+                        "phone": "09034813103",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "fem**************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Owo**** Abd******* Mus*****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "090********"
+                        ],
+                        "email": [
+                            "fem**************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Abd******* Mus***** Owo****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "fem**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "10",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "null": 5
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

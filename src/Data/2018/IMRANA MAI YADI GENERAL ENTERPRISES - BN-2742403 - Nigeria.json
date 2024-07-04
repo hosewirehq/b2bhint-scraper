@@ -1,0 +1,293 @@
+[
+    {
+        "year": "2018",
+        "title": "IMRANA MAI YADI GENERAL ENTERPRISES - BN-2742403 - Nigeria",
+        "description": "IMRANA MAI YADI GENERAL ENTERPRISES Nigeria company, Company number: BN-2742403, Incorporation Date Dec 27, 2018;, Address: NO. 1, NIAJ PLAZA OPP SUCCESS PHARMACY, LABIN-LABIN TUDUN WADA, GUSAU, ZAMFARA STATE",
+        "company": {
+            "id": 62159438,
+            "name": "IMRANA MAI YADI GENERAL ENTERPRISES",
+            "internationalNumber": "BN-2742403",
+            "localNumber": "2742403",
+            "countryId": 24,
+            "dateCreated": "2018-12-27T00:00:00.000Z",
+            "createdAt": "2021-05-28T20:11:04.374Z",
+            "updatedAt": "2024-06-15T15:16:10.489Z",
+            "alternateNames": [],
+            "address": "NO. 1, NIAJ PLAZA OPP SUCCESS PHARMACY, LABIN-LABIN TUDUN WADA, GUSAU, ZAMFARA STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5192592",
+            "updatedAtSitemap": "2023-06-09T17:59:01.000Z",
+            "oldInternationalNumber": "2742403",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2315,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197466,
+                    "providerId": "199260",
+                    "providerName": "Textile Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:12:53.236089+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97968475,
+                    "address": "NO. 1, NIAJ PLAZA OPP SUCCESS PHARMACY, LABIN-LABIN TUDUN WADA, GUSAU, ZAMFARA STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 240728820,
+                    "companyId": 62159438,
+                    "personId": 97940317,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97940317,
+                        "name": "ibrahim imrana aliyu",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1987,
+                        "birthMonth": 9,
+                        "birthDate": 23,
+                        "address": "No. 1, Niaj Plaza Opp Success Pharmacy Labin-Labin Tudun wada, Gusau, Zamfara State ",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "iiag202@gmail.com",
+                        "phone": "07033325636",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "IMRANER VENTURES",
+                            "internationalNumber": "BN-2757381"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 240728821,
+                    "companyId": 62159438,
+                    "personId": 98269293,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98269293,
+                        "name": "ibrahim imrana aliyu",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1987,
+                        "birthMonth": 9,
+                        "birthDate": 23,
+                        "address": "HOUSE NO. 6, MORAI ROAD TUDUN WADA, GUSAU, ZAMFARA STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A33429090",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "iiag202@gmail.com",
+                        "phone": "08067675100",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Imr*** Ali** Ibr****",
+                    "contacts": {
+                        "email": [
+                            "iia**************"
+                        ],
+                        "phone": [
+                            "080********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "2",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

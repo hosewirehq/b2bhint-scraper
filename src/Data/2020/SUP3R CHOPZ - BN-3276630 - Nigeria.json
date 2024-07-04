@@ -1,0 +1,327 @@
+[
+    {
+        "year": "2020",
+        "title": "SUP3R CHOPZ - BN-3276630 - Nigeria",
+        "description": "SUP3R CHOPZ Nigeria company, Company number: BN-3276630, Incorporation Date 24 \u0434\u0435\u043a. 2020 \u0433.;, Address: HOUSE 4, 12TH STREET, OSBOURNE FORESHORE ESTATE, IKOYI, LAGOS, IKOYI, LAGOS STATE",
+        "company": {
+            "id": 62433199,
+            "name": "SUP3R CHOPZ",
+            "internationalNumber": "BN-3276630",
+            "localNumber": "3276630",
+            "countryId": 24,
+            "dateCreated": "2020-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-30T05:49:49.288Z",
+            "updatedAt": "2024-06-15T15:31:50.099Z",
+            "alternateNames": [],
+            "address": "HOUSE 4, 12TH STREET, OSBOURNE FORESHORE ESTATE, IKOYI, LAGOS, IKOYI, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6928853",
+            "updatedAtSitemap": "2023-06-09T17:24:52.000Z",
+            "oldInternationalNumber": "3276630",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 3823,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197002,
+                    "providerId": "199221",
+                    "providerName": "Catering Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:19.708572+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 100938724,
+                    "address": "HOUSE 4, 12TH STREET, OSBOURNE FORESHORE ESTATE, IKOYI, LAGOS, IKOYI, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 360497566,
+                    "companyId": 62433199,
+                    "personId": 67149688,
+                    "roleId": 114384,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67149688,
+                        "name": "opeyemi omolola omoboriowo",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1992,
+                        "birthMonth": 10,
+                        "birthDate": 1,
+                        "address": "46karimu laka, egbeda, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2778520",
+                        "documentType": "National ID Card",
+                        "documentNumber": "18700167470",
+                        "email": "opeyemi.omoboriowo@yahoo.com",
+                        "phone": "+234 703 539 6251",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114384,
+                        "name": "Legal Practioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "PRAIZEBAND MUSIC ENTERTAINMENT",
+                            "internationalNumber": "BN-3094057"
+                        },
+                        {
+                            "name": "OMARADAN",
+                            "internationalNumber": "BN-3077563"
+                        },
+                        {
+                            "name": "BRILLIANT-FEAT",
+                            "internationalNumber": "BN-2973179"
+                        },
+                        {
+                            "name": "DAN PANNA GLOBAL VENTURES",
+                            "internationalNumber": "BN-3265553"
+                        },
+                        {
+                            "name": "TOPACCESS GLOBAL CONCEPT",
+                            "internationalNumber": "BN-3338861"
+                        },
+                        {
+                            "name": "MO SHOPPING STORE",
+                            "internationalNumber": "BN-2981102"
+                        },
+                        {
+                            "name": "SHAPEL SPA & BEAUTY SALON",
+                            "internationalNumber": "BN-3294953"
+                        },
+                        {
+                            "name": "VIC-HOLLA FABRICS",
+                            "internationalNumber": "BN-2996155"
+                        },
+                        {
+                            "name": "D CONFECTIONERIES AND EVENTS LTD",
+                            "internationalNumber": "RC-1702642"
+                        },
+                        {
+                            "name": "GROCEROO LTD",
+                            "internationalNumber": "RC-1769664"
+                        },
+                        {
+                            "name": "2DOXS LTD",
+                            "internationalNumber": "RC-1616641"
+                        },
+                        {
+                            "name": "ROAJ AUTOSTART STORES",
+                            "internationalNumber": "BN-3002511"
+                        },
+                        {
+                            "name": "HECH MAN CLASSIC FIT",
+                            "internationalNumber": "BN-3307782"
+                        },
+                        {
+                            "name": "JURST BE EXTRA",
+                            "internationalNumber": "BN-3368445"
+                        },
+                        {
+                            "name": "YUSSLUM VENTURES",
+                            "internationalNumber": "BN-2984686"
+                        },
+                        {
+                            "name": "NOBA SCHOOL OF SUCCESS",
+                            "internationalNumber": "BN-3269089"
+                        },
+                        {
+                            "name": "MANAGER-NASIR AUTOS LTD",
+                            "internationalNumber": "RC-1612278"
+                        },
+                        {
+                            "name": "FELSTEVE LIMITED",
+                            "internationalNumber": "RC-1724249"
+                        },
+                        {
+                            "name": "SPRINT LOGISTICS",
+                            "internationalNumber": "BN-3192156"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Ope**** Omo**** Omo*******",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "070********"
+                        ],
+                        "email": [
+                            "ope*************************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Omo******* Omo**** Ope****",
+                    "contacts": {
+                        "email": [
+                            "ope*************************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

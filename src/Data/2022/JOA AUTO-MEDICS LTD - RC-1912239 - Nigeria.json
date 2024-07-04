@@ -1,0 +1,468 @@
+[
+    {
+        "year": "2022",
+        "title": "JOA AUTO-MEDICS LTD - RC-1912239 - Nigeria",
+        "description": "JOA AUTO-MEDICS LTD Nigeria company, Company number: RC-1912239, Incorporation Date 30 \u043c\u0430\u0440. 2022 \u0433.;, Address: 4 CONSTITUTION RD., ENUGU, ENUGU STATE",
+        "company": {
+            "id": 109052199,
+            "name": "JOA AUTO-MEDICS LTD",
+            "internationalNumber": "RC-1912239",
+            "localNumber": "1912239",
+            "countryId": 24,
+            "dateCreated": "2022-03-30T00:00:00.000Z",
+            "createdAt": "2022-04-14T21:35:04.240Z",
+            "updatedAt": "2024-06-15T15:39:46.314Z",
+            "alternateNames": [],
+            "address": "4 CONSTITUTION RD., ENUGU, ENUGU STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "To cary on businesses such of, sales of spare parts, Manufacturing of spare parts, manufacturing of cars, selling of cars, manufacturing and selling of any other type of machines and auto - medics both industrial and local as desired.",
+            "providerId": "7910547",
+            "updatedAtSitemap": "2024-01-01T15:44:50.000Z",
+            "oldInternationalNumber": "1912239",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 771,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196919,
+                    "providerId": "143269",
+                    "providerName": "Other personal services activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T13:47:47.959002+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102118462,
+                    "address": "4 CONSTITUTION RD., ENUGU, ENUGU STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 298987761,
+                    "companyId": 109052199,
+                    "personId": 101894165,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-30",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1000000,
+                    "person": {
+                        "id": 101894165,
+                        "name": "nkoloagu joachin okwudili",
+                        "countryId": 24,
+                        "occupation": "Entrepreneur",
+                        "nationality": "Nigeria",
+                        "birthYear": 1997,
+                        "birthMonth": 1,
+                        "birthDate": 2,
+                        "address": ", , , , , , , , , , , 1, EGBO ",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "JOACHINENK1@GMAIL.COM",
+                        "phone": "08142502324",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298987762,
+                    "companyId": 109052199,
+                    "personId": 101894165,
+                    "roleId": 60328,
+                    "appointedOn": "2022-03-30",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101894165,
+                        "name": "nkoloagu joachin okwudili",
+                        "countryId": 24,
+                        "occupation": "Entrepreneur",
+                        "nationality": "Nigeria",
+                        "birthYear": 1997,
+                        "birthMonth": 1,
+                        "birthDate": 2,
+                        "address": ", , , , , , , , , , , 1, EGBO ",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "JOACHINENK1@GMAIL.COM",
+                        "phone": "08142502324",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298987763,
+                    "companyId": 109052199,
+                    "personId": 116114569,
+                    "roleId": 60321,
+                    "percentage": 100,
+                    "appointedOn": "2022-03-30",
+                    "votingShares": "100%",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1000000,
+                    "person": {
+                        "id": 116114569,
+                        "name": "nkoloagu joachin okwudili",
+                        "countryId": 24,
+                        "occupation": "Entrepreneur",
+                        "nationality": "Nigeria",
+                        "birthYear": 1997,
+                        "birthMonth": 1,
+                        "birthDate": 2,
+                        "address": "CONSTITUTION RD., 4",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "90747024410",
+                        "documentType": "National ID Card",
+                        "email": "joachinenk1@gmail.com",
+                        "phone": "08142502324",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60321,
+                        "name": "Persons with significant control",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Persons with significant control"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298987758,
+                    "companyId": 109052199,
+                    "personId": 101894165,
+                    "roleId": 60320,
+                    "appointedOn": "2022-03-30",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101894165,
+                        "name": "nkoloagu joachin okwudili",
+                        "countryId": 24,
+                        "occupation": "Entrepreneur",
+                        "nationality": "Nigeria",
+                        "birthYear": 1997,
+                        "birthMonth": 1,
+                        "birthDate": 2,
+                        "address": ", , , , , , , , , , , 1, EGBO ",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "JOACHINENK1@GMAIL.COM",
+                        "phone": "08142502324",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298987759,
+                    "companyId": 109052199,
+                    "personId": 101894165,
+                    "roleId": 60317,
+                    "appointedOn": "2022-03-30",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101894165,
+                        "name": "nkoloagu joachin okwudili",
+                        "countryId": 24,
+                        "occupation": "Entrepreneur",
+                        "nationality": "Nigeria",
+                        "birthYear": 1997,
+                        "birthMonth": 1,
+                        "birthDate": 2,
+                        "address": ", , , , , , , , , , , 1, EGBO ",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "JOACHINENK1@GMAIL.COM",
+                        "phone": "08142502324",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "joa***********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Joa**** Okw***** Nko*****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "081********"
+                        ],
+                        "email": [
+                            "joa******************"
+                        ]
+                    }
+                },
+                {
+                    "name": " Joa**** Nko***** Okw*****",
+                    "contacts": {
+                        "email": [
+                            "joa******************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "7",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 2,
+                "null": 4
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

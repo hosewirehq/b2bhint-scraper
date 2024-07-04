@@ -1,0 +1,336 @@
+[
+    {
+        "year": "2020",
+        "title": "SAYANG EMPIRE - BN-3273601 - Nigeria",
+        "description": "SAYANG EMPIRE Nigeria company, Company number: BN-3273601, Incorporation Date 2020 m. gruod\u017eio 22 d.;, Address: NO 1, KEMFAT ROAD, THOMAS ESTATE, AJAH, AJAH, LEKKI, LAGOS STATE",
+        "company": {
+            "id": 61717456,
+            "name": "SAYANG EMPIRE",
+            "internationalNumber": "BN-3273601",
+            "localNumber": "3273601",
+            "countryId": 24,
+            "dateCreated": "2020-12-22T00:00:00.000Z",
+            "createdAt": "2021-05-26T01:03:44.055Z",
+            "updatedAt": "2024-06-15T15:22:04.247Z",
+            "alternateNames": [],
+            "address": "NO 1, KEMFAT ROAD, THOMAS ESTATE, AJAH, AJAH, LEKKI, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6751721",
+            "updatedAtSitemap": "2023-06-09T17:46:03.000Z",
+            "oldInternationalNumber": "3273601",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2292,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 99861598,
+                    "address": "NO 1, KEMFAT ROAD, THOMAS ESTATE, AJAH, AJAH, LEKKI, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 353931227,
+                    "companyId": 61717456,
+                    "personId": 66142661,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66142661,
+                        "name": "chigoziem obinna asoluka",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1990,
+                        "birthMonth": 9,
+                        "birthDate": 3,
+                        "address": "8\/10 (Western House)Broad Street, Lagos Isalnd, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2141143",
+                        "documentType": "Driver's License",
+                        "documentNumber": "EKY67317AB67",
+                        "email": "chigoziemasoluka@gmail.com",
+                        "phone": "+234 803 272 6367",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "PRIME POWERCO LIMITED ",
+                            "internationalNumber": "RC-653184"
+                        },
+                        {
+                            "name": "LEKING TECHNOLOGIES NIGERIA CONCEPTS",
+                            "internationalNumber": "BN-2948451"
+                        },
+                        {
+                            "name": "TOJI VENTURES LIMITED ",
+                            "internationalNumber": "RC-1598756"
+                        },
+                        {
+                            "name": "ABISOLA & TOLUWALASE LEGAL PARTNERS",
+                            "internationalNumber": "BN-3148418"
+                        },
+                        {
+                            "name": "MAU INTEGRATED SERVICES LIMITED",
+                            "internationalNumber": "RC-1632745"
+                        },
+                        {
+                            "name": "CHIGOZIEM OBINNA ASOLUKA AND ASSOCIATES",
+                            "internationalNumber": "BN-2693313"
+                        },
+                        {
+                            "name": "XTY\"N\"DEJAVU SERVICES",
+                            "internationalNumber": "BN-2877062"
+                        },
+                        {
+                            "name": "FABZ LUXURY WEARS",
+                            "internationalNumber": "BN-2774591"
+                        },
+                        {
+                            "name": "07'XPRESS",
+                            "internationalNumber": "BN-3212597"
+                        },
+                        {
+                            "name": "BRACEMYRAID LIMITED",
+                            "internationalNumber": "RC-1795039"
+                        },
+                        {
+                            "name": "CLO-THES MATTAZZ",
+                            "internationalNumber": "BN-2878025"
+                        },
+                        {
+                            "name": "LAMBERT INTEGRATED SERVICES",
+                            "internationalNumber": "BN-2898655"
+                        },
+                        {
+                            "name": "CAIFU DIVINE GLOBAL NIGERIA LIMITED",
+                            "internationalNumber": "RC-1843811"
+                        },
+                        {
+                            "name": "DISTRICT COMMERCIAL CLEANING SERVICES",
+                            "internationalNumber": "BN-2931784"
+                        },
+                        {
+                            "name": "DEN\u2019S TECH LIMITED",
+                            "internationalNumber": "RC-1701940"
+                        },
+                        {
+                            "name": "GENUINE STUFFS LTD",
+                            "internationalNumber": "RC-1678284"
+                        },
+                        {
+                            "name": "GBADURABI FARMS LIMITED",
+                            "internationalNumber": "RC-1644739"
+                        },
+                        {
+                            "name": "LAMBERT REALTY",
+                            "internationalNumber": "BN-2986480"
+                        },
+                        {
+                            "name": "SWAP MOBILEPAY LIMITED",
+                            "internationalNumber": "RC-476956"
+                        },
+                        {
+                            "name": "THE V. E. R. T. INVESTMENT COMPANY LIMITED",
+                            "internationalNumber": "RC-1639350"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "ane*****************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Chi****** Obi*** Aso****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "chi***********************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Aso**** Chi****** Obi***",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "chi***********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

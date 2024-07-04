@@ -1,0 +1,420 @@
+[
+    {
+        "year": "2019",
+        "title": "WISDOMLIGHT FARMS - BN-3039360 - Nigeria",
+        "description": "WISDOMLIGHT FARMS Nigeria company, Company number: BN-3039360, Incorporation Date Dec 20, 2019;, Address: NO 8, OGUNBOR STREET, OFF SILUKO ROAD, BENIN CITY, EDO STATE",
+        "company": {
+            "id": 62635883,
+            "name": "WISDOMLIGHT FARMS",
+            "internationalNumber": "BN-3039360",
+            "localNumber": "3039360",
+            "countryId": 24,
+            "dateCreated": "2019-12-20T00:00:00.000Z",
+            "createdAt": "2021-05-30T21:32:15.941Z",
+            "updatedAt": "2024-06-15T14:11:21.860Z",
+            "alternateNames": [],
+            "address": "NO 8, OGUNBOR STREET, OFF SILUKO ROAD, BENIN CITY, EDO STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6172707",
+            "updatedAtSitemap": "2023-06-09T14:58:53.000Z",
+            "oldInternationalNumber": "3039360",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1178,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196954,
+                    "providerId": "199233",
+                    "providerName": "Farming",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:38.94858+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91496292,
+                    "address": "NO 8, OGUNBOR STREET, OFF SILUKO ROAD, BENIN CITY, EDO STATE",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "CEE BEAUTY CLASSIC SALON",
+                            "internationalNumber": "BN-2586372"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 237050089,
+                    "companyId": 62635883,
+                    "personId": 94325606,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 94325606,
+                        "name": "oghenruno evberin",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1982,
+                        "birthMonth": 2,
+                        "birthDate": 7,
+                        "address": "\t\nNO 8, OGUNBOR STREET, OFF SILUKO ROAD",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "wisdomlight64@yahoo.com",
+                        "phone": "08066017993",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 237050091,
+                    "companyId": 62635883,
+                    "personId": 96822798,
+                    "roleId": 60320,
+                    "appointedOn": "2021-04-29",
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 96822798,
+                        "name": "olorunsaiye ola john",
+                        "countryId": 24,
+                        "address": "PLT. 2 ALGERIA STREET ZONE 3, WUSE, ABUJA",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "National Identification Number",
+                        "email": "olaolorunsaiyejnr2@yahoo.com",
+                        "phone": "2348038019823",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "YEMTEE BEST VENTURES",
+                            "internationalNumber": "BN-3114356"
+                        },
+                        {
+                            "name": "M&Y RESTAURANT",
+                            "internationalNumber": "BN-3061789"
+                        },
+                        {
+                            "name": "RAHUSA GENERAL ENTERPRISES 'BATSARI'",
+                            "internationalNumber": "BN-3039074"
+                        },
+                        {
+                            "name": "FURKAKA GENERAL ENTERPRISES",
+                            "internationalNumber": "BN-3039109"
+                        },
+                        {
+                            "name": "SABIL FARMS AND AGRO-ALLIED VENTURES",
+                            "internationalNumber": "BN-3039596"
+                        },
+                        {
+                            "name": "UYI EXCEL GLOBAL COMPANY",
+                            "internationalNumber": "BN-3047034"
+                        },
+                        {
+                            "name": "KADARA COMPANY AND MULTISERVICES VENTURE",
+                            "internationalNumber": "BN-3041259"
+                        },
+                        {
+                            "name": "CLASSIC FABRICS AND GENERAL SERVICES",
+                            "internationalNumber": "BN-3039269"
+                        },
+                        {
+                            "name": "KENLOG GLOBAL DRIVING SCHOOL",
+                            "internationalNumber": "BN-3040741"
+                        },
+                        {
+                            "name": "TAIWOS COOPERATION GLOBAL VENTURES",
+                            "internationalNumber": "BN-3107473"
+                        },
+                        {
+                            "name": "DECS NEW COLLEGE",
+                            "internationalNumber": "BN-3042569"
+                        },
+                        {
+                            "name": "C. L. NWANKWO NIG. ENT",
+                            "internationalNumber": "BN-3041345"
+                        },
+                        {
+                            "name": "AZ MAKEOVER EFFECT DIGITAL STUDIO",
+                            "internationalNumber": "BN-3043840"
+                        },
+                        {
+                            "name": "TUMBLE PLUS BUSINESS RESOURCES",
+                            "internationalNumber": "BN-3113600"
+                        },
+                        {
+                            "name": "NGOZI OLIAKU FISH TRADING",
+                            "internationalNumber": "BN-3052421"
+                        },
+                        {
+                            "name": "FABRIKSBYADA",
+                            "internationalNumber": "BN-3039730"
+                        },
+                        {
+                            "name": "JODAFES VENTURES",
+                            "internationalNumber": "BN-3046905"
+                        },
+                        {
+                            "name": "OKENYI AGWALO FARMS AND ALLIED PRODUCTS VENTURES",
+                            "internationalNumber": "BN-3128443"
+                        },
+                        {
+                            "name": "DON-MIKOS PREMIUM SERVICES",
+                            "internationalNumber": "BN-3047633"
+                        },
+                        {
+                            "name": "HEAVENLY KIDS ACADEMY ABIA",
+                            "internationalNumber": "BN-3066887"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 237050090,
+                    "companyId": 62635883,
+                    "personId": 96852050,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 96852050,
+                        "name": "oghenruno evberin",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1982,
+                        "birthMonth": 2,
+                        "birthDate": 8,
+                        "address": "Selling of cements, rods blocks buying and selling of lands, houses, construction of roads and infrastructure and General Contract",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "wisdomlight64@yahoo.com",
+                        "phone": "08066017993",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Evb**** Ogh******",
+                    "contacts": {
+                        "email": [
+                            "wis********************"
+                        ],
+                        "phone": [
+                            "080********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "3",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 2
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

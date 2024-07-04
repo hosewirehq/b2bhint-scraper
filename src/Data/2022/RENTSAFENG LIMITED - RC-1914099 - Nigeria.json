@@ -1,0 +1,505 @@
+[
+    {
+        "year": "2022",
+        "title": "RENTSAFENG LIMITED - RC-1914099 - Nigeria",
+        "description": "RENTSAFENG LIMITED Nigeria company, Company number: RC-1914099, Incorporation Date 4 apr 2022;, Address: NO. 9 KMS PLACE FAMILONI STREET, LEKKI, LAGOS STATE",
+        "company": {
+            "id": 109058974,
+            "name": "RENTSAFENG LIMITED",
+            "internationalNumber": "RC-1914099",
+            "localNumber": "1914099",
+            "countryId": 24,
+            "dateCreated": "2022-04-04T00:00:00.000Z",
+            "createdAt": "2022-04-14T23:04:06.329Z",
+            "updatedAt": "2024-06-15T15:39:49.935Z",
+            "alternateNames": [],
+            "address": "NO. 9 KMS PLACE FAMILONI STREET, LEKKI, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "10000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "TO CARRY ON THE BUSINESS OF REAL ESTATE\nTO CARRY ON THE BUSINESS OF PROPERTY INVESTMENT\nTO CARRY ON THE BUSINESS OF FINANCIAL TECHNOLOGY IN RELATION TO REAL ESTATE\nTO CARRY ON THE BUSINESS OF REAL ESTATE CONSULTANCY SERVICES\n\n",
+            "providerId": "7913216",
+            "updatedAtSitemap": "2023-06-09T16:43:06.000Z",
+            "oldInternationalNumber": "1914099",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 638,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197020,
+                    "providerId": "199187",
+                    "providerName": "Property Management Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:40.024658+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102116268,
+                    "address": "NO. 9 KMS PLACE FAMILONI STREET, LEKKI, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 298977258,
+                    "companyId": 109058974,
+                    "personId": 101294021,
+                    "roleId": 60320,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101294021,
+                        "name": "ugbobor bright eseoghene",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner ",
+                        "nationality": "Nigeria",
+                        "birthYear": 1972,
+                        "birthMonth": 8,
+                        "birthDate": 26,
+                        "address": "Owolowo, 22",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "68103101621",
+                        "documentType": "National ID Card",
+                        "email": "brighttee2002@yahoo.com",
+                        "phone": "08023017867",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298977259,
+                    "companyId": 109058974,
+                    "personId": 104316608,
+                    "roleId": 60317,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 104316608,
+                        "name": "oyagbola omosalewa solabomi",
+                        "countryId": 24,
+                        "occupation": "Project manager",
+                        "nationality": "Nigeria",
+                        "birthYear": 1992,
+                        "birthMonth": 10,
+                        "birthDate": 4,
+                        "address": "103 CLOSE, BANANA ISLAND, HOUSE 8, FORESHORE LIFESTYLE TERRACES",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A50406377",
+                        "documentType": "International Passport",
+                        "email": "salewa510@gmail.com",
+                        "phone": "08035191925",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298977261,
+                    "companyId": 109058974,
+                    "personId": 104316608,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 5000000,
+                    "person": {
+                        "id": 104316608,
+                        "name": "oyagbola omosalewa solabomi",
+                        "countryId": 24,
+                        "occupation": "Project manager",
+                        "nationality": "Nigeria",
+                        "birthYear": 1992,
+                        "birthMonth": 10,
+                        "birthDate": 4,
+                        "address": "103 CLOSE, BANANA ISLAND, HOUSE 8, FORESHORE LIFESTYLE TERRACES",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A50406377",
+                        "documentType": "International Passport",
+                        "email": "salewa510@gmail.com",
+                        "phone": "08035191925",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298977262,
+                    "companyId": 109058974,
+                    "personId": 101890265,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-03",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 5000000,
+                    "person": {
+                        "id": 101890265,
+                        "name": "soile oluwatosin abdurahman",
+                        "countryId": 24,
+                        "occupation": "Engineer",
+                        "nationality": "Nigeria",
+                        "birthYear": 1980,
+                        "birthMonth": 5,
+                        "birthDate": 5,
+                        "address": "Donatus Odum Street, off Kusenla, Ikate, No. 12",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "B50029850",
+                        "documentType": "International Passport",
+                        "email": "soile.tosin@gmail.com",
+                        "phone": "08022227276",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298977263,
+                    "companyId": 109058974,
+                    "personId": 102538054,
+                    "roleId": 60328,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 102538054,
+                        "name": "oyagbola omosalewa solabomi",
+                        "countryId": 24,
+                        "address": ", , HOUSE 8, FORESHORE LIFESTYLE TERRACES, 103 CLOSE, BANANA ISLAND",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "salewa510@gmail.com",
+                        "phone": "08035191925",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298977264,
+                    "companyId": 109058974,
+                    "personId": 101890266,
+                    "roleId": 60324,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101890266,
+                        "name": "zekeri ojochide faith",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "address": "FAMILONI STREET, NO 9 KMS PLACE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "fzekeri@gmail.com",
+                        "phone": "7036351010",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "sal****************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Bri*** Ese****** Ugb****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "bri********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "10",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "null": 5
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

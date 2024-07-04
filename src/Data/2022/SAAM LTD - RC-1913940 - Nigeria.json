@@ -1,0 +1,258 @@
+[
+    {
+        "year": "2022",
+        "title": "SAAM LTD - RC-1913940 - Nigeria",
+        "description": "SAAM LTD Nigeria company, Company number: RC-1913940, Incorporation Date 3 \u0430\u043f\u0440. 2022 \u0433.;, Address: NO 2 MOSMMERA OPPOSITE GOVERNMENT HOUSE SHANDAM ROAD, LAFIA, NASARAWA STATE",
+        "company": {
+            "id": 108837166,
+            "name": "SAAM LTD",
+            "internationalNumber": "RC-1913940",
+            "localNumber": "1913940",
+            "countryId": 24,
+            "dateCreated": "2022-04-03T00:00:00.000Z",
+            "createdAt": "2022-04-12T23:16:22.985Z",
+            "updatedAt": "2024-06-15T15:13:53.500Z",
+            "alternateNames": [],
+            "address": "NO 2 MOSMMERA OPPOSITE GOVERNMENT HOUSE SHANDAM ROAD, LAFIA, NASARAWA STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "100000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "100000",
+            "historicalNames": [],
+            "activityDescription": "Manufacturing, Sales, Distribution import export, Agriculture and livestock.",
+            "providerId": "7830406",
+            "updatedAtSitemap": "2023-06-09T18:02:33.000Z",
+            "oldInternationalNumber": "1913940",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 69,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196919,
+                    "providerId": "143269",
+                    "providerName": "Other personal services activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T13:47:47.959002+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97697082,
+                    "address": "NO 2 MOSMMERA OPPOSITE GOVERNMENT HOUSE SHANDAM ROAD, LAFIA, NASARAWA STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 347674888,
+                    "companyId": 108837166,
+                    "personId": 137690865,
+                    "roleId": 114369,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 137690865,
+                        "name": "moses asawu adabson",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1987,
+                        "birthMonth": 5,
+                        "birthDate": 3,
+                        "address": "No 2 Mosmmera opposite Government House Shandam Road, Lafia, NASARAWA STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "4637714",
+                        "documentType": "Driver's License",
+                        "documentNumber": "Abc14873aa01",
+                        "email": "mosesasawu@gmail.com",
+                        "phone": "+234 702 579 6669",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114369,
+                        "name": "Business ",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "saa******************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Mos** Asa** Ada****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "070********"
+                        ],
+                        "email": [
+                            "mos*****************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ada**** Asa** Mos**",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "mos*****************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

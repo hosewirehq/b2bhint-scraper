@@ -1,0 +1,610 @@
+[
+    {
+        "year": "2022",
+        "title": "AVAS LOCS COMPANY LTD - RC-1918047 - Nigeria",
+        "description": "AVAS LOCS COMPANY LTD Nigeria company, Company number: RC-1918047, Incorporation Date Apr 12, 2022;, Address: 1 KWARA STREET, IKOYI, LAGOS STATE",
+        "company": {
+            "id": 108980878,
+            "name": "AVAS LOCS COMPANY LTD",
+            "internationalNumber": "RC-1918047",
+            "localNumber": "1918047",
+            "countryId": 24,
+            "dateCreated": "2022-04-12T00:00:00.000Z",
+            "createdAt": "2022-04-14T05:03:17.542Z",
+            "updatedAt": "2024-06-15T15:39:05.682Z",
+            "alternateNames": [],
+            "address": "1 KWARA STREET, IKOYI, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "HAIR STYLING AND PERSONAL BEAUTY SERVICES",
+            "providerId": "7889105",
+            "updatedAtSitemap": "2023-06-09T16:40:54.000Z",
+            "oldInternationalNumber": "1918047",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 422,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196919,
+                    "providerId": "143269",
+                    "providerName": "Other personal services activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T13:47:47.959002+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102099175,
+                    "address": "1 KWARA STREET, IKOYI, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "NW2 LOGISTICS LTD",
+                            "internationalNumber": "RC-1917427"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299074497,
+                    "companyId": 108980878,
+                    "personId": 104329038,
+                    "roleId": 60320,
+                    "appointedOn": "2022-04-12",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 104329038,
+                        "name": "okolo obinna innocent",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "nationality": "Nigeria",
+                        "birthYear": 1986,
+                        "birthMonth": 7,
+                        "birthDate": 7,
+                        "address": "Omani Crescent, 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "98554740869",
+                        "documentType": "National ID Card",
+                        "email": "consultobinna@gmail.com",
+                        "phone": "08102164196",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "NW2 LOGISTICS LTD",
+                            "internationalNumber": "RC-1917427"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299074498,
+                    "companyId": 108980878,
+                    "personId": 66359748,
+                    "roleId": 60324,
+                    "appointedOn": "2022-04-12",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 66359748,
+                        "name": "okolo obinna innocent",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "nationality": "Nigerian",
+                        "birthYear": 1986,
+                        "birthMonth": 7,
+                        "birthDate": 7,
+                        "address": "WAREHOUSE ROAD, 38",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "CONSULTOBINNA@GMAIL.COM",
+                        "phone": "8102164196",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299074499,
+                    "companyId": 108980878,
+                    "personId": 101680578,
+                    "roleId": 60317,
+                    "appointedOn": "2022-04-12",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101680578,
+                        "name": "odutola adedoyin eghonghon",
+                        "countryId": 24,
+                        "occupation": "Entrepreneur",
+                        "nationality": "Nigeria",
+                        "birthYear": 1991,
+                        "birthMonth": 8,
+                        "birthDate": 26,
+                        "address": "KWARA STREET, 1",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "B50134623",
+                        "documentType": "International Passport",
+                        "email": "DOYIN.ODUTOLA@GMAIL.COM",
+                        "phone": "+2348093694861",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "NW2 LOGISTICS LTD",
+                            "internationalNumber": "RC-1917427"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299074500,
+                    "companyId": 108980878,
+                    "personId": 101680578,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-12",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 600000,
+                    "person": {
+                        "id": 101680578,
+                        "name": "odutola adedoyin eghonghon",
+                        "countryId": 24,
+                        "occupation": "Entrepreneur",
+                        "nationality": "Nigeria",
+                        "birthYear": 1991,
+                        "birthMonth": 8,
+                        "birthDate": 26,
+                        "address": "KWARA STREET, 1",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "B50134623",
+                        "documentType": "International Passport",
+                        "email": "DOYIN.ODUTOLA@GMAIL.COM",
+                        "phone": "+2348093694861",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [
+                        {
+                            "name": "NW2 LOGISTICS LTD",
+                            "internationalNumber": "RC-1917427"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299074501,
+                    "companyId": 108980878,
+                    "personId": 101680579,
+                    "roleId": 60322,
+                    "appointedOn": "2022-04-12",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101680579,
+                        "name": "jemide oritsemuoyowa",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "nationality": "Nigeria",
+                        "birthYear": 1998,
+                        "birthMonth": 2,
+                        "birthDate": 3,
+                        "address": "JOHNSON STREET, 5B",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "B00216775",
+                        "documentType": "International Passport",
+                        "email": "MUOYOWA@OUTLOOK.COM",
+                        "phone": "+2348056759069",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60322,
+                        "name": "Secretary company",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary company"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299074505,
+                    "companyId": 108980878,
+                    "personId": 99071811,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-12",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 400000,
+                    "person": {
+                        "id": 99071811,
+                        "name": "johnson joseph modupe",
+                        "countryId": 24,
+                        "occupation": "Entrepreneur",
+                        "nationality": "Nigeria",
+                        "birthYear": 1985,
+                        "birthMonth": 5,
+                        "birthDate": 1,
+                        "address": "KWARA STREET, 1",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "SMK06865AA01",
+                        "documentType": "Driver's License",
+                        "email": "JOSEPHJOHNSON85@LIVE.CO.UK",
+                        "phone": "+2348102164193",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [
+                        {
+                            "name": "NW2 LOGISTICS LTD",
+                            "internationalNumber": "RC-1917427"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 365561389,
+                    "companyId": 108980878,
+                    "personId": 143581868,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 143581868,
+                        "name": "obinna innocent okolo",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1986,
+                        "birthMonth": 7,
+                        "birthDate": 7,
+                        "address": "5Omani Crescent, Satellite Town, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "3557464",
+                        "documentType": "National ID Card",
+                        "documentNumber": "98554740869",
+                        "email": "consultobinna@gmail.com",
+                        "phone": "+234 810 216 4196",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "NW2 LOGISTICS LTD",
+                            "internationalNumber": "RC-1917427"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "jos***********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Obi*** Inn***** Oko**",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "081********"
+                        ],
+                        "email": [
+                            "con********************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Inn***** Obi*** Oko**",
+                    "contacts": {
+                        "email": [
+                            "con********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "11",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "3": 1,
+                "null": 5
+            },
+            "personsWithRelatedCount": 4
+        }
+    }
+]

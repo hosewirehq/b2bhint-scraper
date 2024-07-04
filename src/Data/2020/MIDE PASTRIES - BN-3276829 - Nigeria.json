@@ -1,0 +1,467 @@
+[
+    {
+        "year": "2020",
+        "title": "MIDE PASTRIES - BN-3276829 - Nigeria",
+        "description": "MIDE PASTRIES Nigeria company, Company number: BN-3276829, Incorporation Date Dec 24, 2020;, Address: NO 32 ADAMU BWALA STREET, KADUNA ROAD, GAURAKA, NIGER STATE",
+        "company": {
+            "id": 61693936,
+            "name": "MIDE PASTRIES",
+            "internationalNumber": "BN-3276829",
+            "localNumber": "3276829",
+            "countryId": 24,
+            "dateCreated": "2020-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-25T23:33:51.284Z",
+            "updatedAt": "2024-06-15T15:21:48.629Z",
+            "alternateNames": [],
+            "address": "NO 32 ADAMU BWALA STREET, KADUNA ROAD, GAURAKA, NIGER STATE",
+            "additionalData": {},
+            "typeId": 99332,
+            "historicalNames": [],
+            "providerId": "6744672",
+            "updatedAtSitemap": "2023-06-09T17:46:32.000Z",
+            "oldInternationalNumber": "3276829",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99332,
+                "type": "Business name - partnership",
+                "countryId": 24,
+                "translation": {
+                    "en": "Partnership"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 3823,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196988,
+                    "providerId": "199159",
+                    "providerName": "Bakery Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:09.825169+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 99832801,
+                    "address": "NO 32 ADAMU BWALA STREET, KADUNA ROAD, GAURAKA, NIGER STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 251974332,
+                    "companyId": 61693936,
+                    "personId": 101814974,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 101814974,
+                        "name": "francis esther olamide",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 2001,
+                        "birthMonth": 12,
+                        "birthDate": 15,
+                        "address": "NO 32 ADAMU BWALA STREET,KADUNA ROAD,",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "Estherolamide53@gmail.com",
+                        "phone": "07034852067",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 251974335,
+                    "companyId": 61693936,
+                    "personId": 101927540,
+                    "roleId": 60320,
+                    "appointedOn": "2021-04-23",
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 101927540,
+                        "name": "olorunsaiye ola john",
+                        "countryId": 24,
+                        "address": "PLT. 2 ALGERIA STREET ZONE 3, WUSE, ABUJA",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "National Identification Number",
+                        "email": "olaolorunsaiyejnr2@yahoo.com",
+                        "phone": "2348038019823",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "DEB-LAK GLOBAL VENTURES",
+                            "internationalNumber": "BN-2397857"
+                        },
+                        {
+                            "name": "AWESMILE'S VENTURE",
+                            "internationalNumber": "BN-3986128"
+                        },
+                        {
+                            "name": "ZICOMONNI TELECOMMUNICATIONS",
+                            "internationalNumber": "BN-3087063"
+                        },
+                        {
+                            "name": "N. CHIGBO BUSINESS RESOURCES",
+                            "internationalNumber": "BN-2398875"
+                        },
+                        {
+                            "name": "NEFAB RESOURCES",
+                            "internationalNumber": "BN-3034498"
+                        },
+                        {
+                            "name": "DAH'S COLOUR EMPIRE",
+                            "internationalNumber": "BN-3986134"
+                        },
+                        {
+                            "name": "OWO AMBROSE ENTERPRISE",
+                            "internationalNumber": "BN-2397104"
+                        },
+                        {
+                            "name": "GREEN SOAR GLOBAL VENTURES",
+                            "internationalNumber": "BN-2399573"
+                        },
+                        {
+                            "name": "DAMAREN MUSIC GENTRY",
+                            "internationalNumber": "BN-2397006"
+                        },
+                        {
+                            "name": "OHO COUTURE",
+                            "internationalNumber": "BN-2399127"
+                        },
+                        {
+                            "name": "TUKUR RICE PROCESSING",
+                            "internationalNumber": "BN-3918447"
+                        },
+                        {
+                            "name": "ELECTRONIC SYSTEMS SOLUTIONS",
+                            "internationalNumber": "BN-2396794"
+                        },
+                        {
+                            "name": "MERIT PLACE COLLEGE",
+                            "internationalNumber": "BN-3029190"
+                        },
+                        {
+                            "name": "LIFNAB CONCEPT ENTERPRISES",
+                            "internationalNumber": "BN-3086540"
+                        },
+                        {
+                            "name": "CAMEL'Z BACK PRODUCTION",
+                            "internationalNumber": "BN-2397872"
+                        },
+                        {
+                            "name": "UGO2GOSWORLD VENTURES",
+                            "internationalNumber": "BN-2398885"
+                        },
+                        {
+                            "name": "OKE HENRY ADLA ENTERPRISES",
+                            "internationalNumber": "BN-2397821"
+                        },
+                        {
+                            "name": "YOUREKA VENTURES",
+                            "internationalNumber": "BN-2397030"
+                        },
+                        {
+                            "name": "A. VWA VENTURES",
+                            "internationalNumber": "BN-2397674"
+                        },
+                        {
+                            "name": "FRESH SPARKLES HOUSEHOLD",
+                            "internationalNumber": "BN-3004111"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 251974333,
+                    "companyId": 61693936,
+                    "personId": 101928106,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 101928106,
+                        "name": "francis esther olamide",
+                        "countryId": 24,
+                        "birthYear": 2001,
+                        "birthMonth": 12,
+                        "birthDate": 15,
+                        "address": "",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "39347970033",
+                        "documentType": "National Identification Number",
+                        "email": "Estherolamide53@gmail.com",
+                        "phone": "07034852067",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 251974334,
+                    "companyId": 61693936,
+                    "personId": 101928106,
+                    "roleId": 60319,
+                    "appointedOn": "2021-01-04",
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 101928106,
+                        "name": "francis esther olamide",
+                        "countryId": 24,
+                        "birthYear": 2001,
+                        "birthMonth": 12,
+                        "birthDate": 15,
+                        "address": "",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "39347970033",
+                        "documentType": "National Identification Number",
+                        "email": "Estherolamide53@gmail.com",
+                        "phone": "07034852067",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Est*** Ola**** Fra****",
+                    "contacts": {
+                        "email": [
+                            "est**********************"
+                        ],
+                        "phone": [
+                            "070********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "4",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 2
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

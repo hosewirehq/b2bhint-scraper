@@ -1,0 +1,326 @@
+[
+    {
+        "year": "2019",
+        "title": "AGEBIG ENTERPRISES - BN-3042481 - Nigeria",
+        "description": "AGEBIG ENTERPRISES Nigeria company, Company number: BN-3042481, Incorporation Date 31 \u0433\u0440\u0443\u0434 2019 \u0440.;, Address: BLOCK C14, FLAT 1, SAME GLOBAL ESTATE, DAKWO DISTRICT, ABUJA, FCT",
+        "company": {
+            "id": 62644230,
+            "name": "AGEBIG ENTERPRISES",
+            "internationalNumber": "BN-3042481",
+            "localNumber": "3042481",
+            "countryId": 24,
+            "dateCreated": "2019-12-31T00:00:00.000Z",
+            "createdAt": "2021-05-30T21:57:59.149Z",
+            "updatedAt": "2024-06-15T14:11:25.061Z",
+            "alternateNames": [],
+            "address": "BLOCK C14, FLAT 1, SAME GLOBAL ESTATE, DAKWO DISTRICT, ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6173923",
+            "updatedAtSitemap": "2023-06-09T14:58:47.000Z",
+            "oldInternationalNumber": "3042481",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1128,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 5888487,
+                    "providerId": "1",
+                    "providerName": "UNSPECIFIED",
+                    "countryId": 24,
+                    "createdAt": "2021-05-18T17:09:50.60028+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 29414711,
+                    "address": "BLOCK C14, FLAT 1, SAME GLOBAL ESTATE, DAKWO DISTRICT, ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332597947,
+                    "companyId": 62644230,
+                    "personId": 66133905,
+                    "roleId": 114692,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66133905,
+                        "name": "taiwo stephen ajimajasan",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1987,
+                        "birthMonth": 9,
+                        "birthDate": 30,
+                        "address": "22MOFOLUWASO ESTATE, AKOBO, IBADAN, OYO STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1677440",
+                        "documentType": "Driver's License",
+                        "documentNumber": "BDJ41001AA56",
+                        "email": "stephentai2003@gmail.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114692,
+                        "name": "Legal Practitioners",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "FIRST TECH METALLURGICAL NIGERIA ENTERPRISES",
+                            "internationalNumber": "BN-3174991"
+                        },
+                        {
+                            "name": "JOTS INTEGRATED BOUNTIES LTD",
+                            "internationalNumber": "RC-1621343"
+                        },
+                        {
+                            "name": "SKYLINE SHELTER EXPERT",
+                            "internationalNumber": "BN-2557429"
+                        },
+                        {
+                            "name": "CHRISTIAN COMMUNITY BUILDING FELLOWSHIP",
+                            "internationalNumber": "IT-151042"
+                        },
+                        {
+                            "name": "OBABIOLUWAKOSI NIGERIA ENTERPRISES",
+                            "internationalNumber": "BN-3185981"
+                        },
+                        {
+                            "name": "OLALETAN KOTTI & CO LTD",
+                            "internationalNumber": "RC-1550198"
+                        },
+                        {
+                            "name": "AGLOW MISSIONS SCHOOL",
+                            "internationalNumber": "BN-2687549"
+                        },
+                        {
+                            "name": "IREFIN PALACE HERITAGE TOURISM DEVELOPMENT FOUNDATION",
+                            "internationalNumber": "IT-153181"
+                        },
+                        {
+                            "name": "KALY EVENTS PLANNER SERVICES",
+                            "internationalNumber": "BN-2796267"
+                        },
+                        {
+                            "name": "GIDEON THE SERVICE PROVIDER LTD",
+                            "internationalNumber": "RC-1884532"
+                        },
+                        {
+                            "name": "OSTENDORF INTERNATIONAL FOUNDATION",
+                            "internationalNumber": "IT-153924"
+                        },
+                        {
+                            "name": "ACCELERATED DEVELOPMENT VENTURE INITIATIVE CREATING ENTREPRENEURSHIP",
+                            "internationalNumber": "IT-150787"
+                        },
+                        {
+                            "name": "CHRIST APOSTOLIC FAITH BIBLE CHURCH INTERNATIONAL, OSU",
+                            "internationalNumber": "IT-148147"
+                        },
+                        {
+                            "name": "ADEBOS ONA IYE BAKERY NIGERIA ENTERPRISES",
+                            "internationalNumber": "BN-2975104"
+                        },
+                        {
+                            "name": "BOLYTEX ELECTRICAL ENTERPRISES",
+                            "internationalNumber": "BN-2497485"
+                        },
+                        {
+                            "name": "WESTHYDRO OIL COMPANY",
+                            "internationalNumber": "BN-2818333"
+                        },
+                        {
+                            "name": "CHADAVIES GOLDEN-STORE CONCEPTS",
+                            "internationalNumber": "BN-2796559"
+                        },
+                        {
+                            "name": "COLLINS AND JENNIFER VENTURES",
+                            "internationalNumber": "BN-2761003"
+                        },
+                        {
+                            "name": "GENUINE IMPACT GLOBAL FOUNDATION",
+                            "internationalNumber": "IT-118793"
+                        },
+                        {
+                            "name": "APOFINMO ENTERPRISES",
+                            "internationalNumber": "BN-2688604"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Tai** Ste**** Aji*******",
+                    "contacts": {
+                        "email": [
+                            "ste*********************"
+                        ],
+                        "phone": [
+                            "234**********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Aji******* Ste**** Tai**",
+                    "contacts": {
+                        "email": [
+                            "ste*********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

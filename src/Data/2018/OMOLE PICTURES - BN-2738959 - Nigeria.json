@@ -1,0 +1,291 @@
+[
+    {
+        "year": "2018",
+        "title": "OMOLE PICTURES - BN-2738959 - Nigeria",
+        "description": "OMOLE PICTURES Nigeria company, Company number: BN-2738959, Incorporation Date 24 d\u00e9c. 2018;, Address: NO 6, ODK STREET OFF ISEBO, ALAKIA, IBADAN., IBADAN, OYO STATE",
+        "company": {
+            "id": 60791119,
+            "name": "OMOLE PICTURES",
+            "internationalNumber": "BN-2738959",
+            "localNumber": "2738959",
+            "countryId": 24,
+            "dateCreated": "2018-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-15T05:22:28.861Z",
+            "updatedAt": "2024-06-15T14:16:07.198Z",
+            "alternateNames": [],
+            "address": "NO 6, ODK STREET OFF ISEBO, ALAKIA, IBADAN., IBADAN, OYO STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5114717",
+            "updatedAtSitemap": "2023-06-09T18:05:54.000Z",
+            "oldInternationalNumber": "2738959",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2613,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196998,
+                    "providerId": "199337",
+                    "providerName": "Photography Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:17.826935+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97452205,
+                    "address": "NO 6, ODK STREET OFF ISEBO, ALAKIA, IBADAN., IBADAN, OYO STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 239193679,
+                    "companyId": 60791119,
+                    "personId": 97189911,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97189911,
+                        "name": "omole adekunle isaac",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1996,
+                        "birthMonth": 8,
+                        "birthDate": 19,
+                        "address": "Alakia, Ibadan. ",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "Kunlexonline@gmail.com",
+                        "phone": "08164662159",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 239193680,
+                    "companyId": 60791119,
+                    "personId": 97486735,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97486735,
+                        "name": "omole adekunle isaac",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1996,
+                        "birthMonth": 8,
+                        "birthDate": 19,
+                        "address": "No 6, ODK Street, Alakia",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "Kunlexonline@gmail.com",
+                        "phone": "08164662159",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [
+                        {
+                            "name": "FEMI EZEKIEL PHOTOGRAPHY",
+                            "internationalNumber": "BN-3186877"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Ade***** Isa** Omo**",
+                    "contacts": {
+                        "email": [
+                            "kun*******************"
+                        ],
+                        "phone": [
+                            "081********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "2",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

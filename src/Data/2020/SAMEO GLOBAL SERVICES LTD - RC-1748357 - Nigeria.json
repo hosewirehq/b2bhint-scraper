@@ -1,0 +1,492 @@
+[
+    {
+        "year": "2020",
+        "title": "SAMEO GLOBAL SERVICES LTD - RC-1748357 - Nigeria",
+        "description": "SAMEO GLOBAL SERVICES LTD Nigeria company, Company number: RC-1748357, Incorporation Date 24 Ara 2020;, Address: 20 AKPODIETE ROAD, UGHELLI, DELTA STATE, UGHELI, DELTA STATE",
+        "company": {
+            "id": 64199109,
+            "name": "SAMEO GLOBAL SERVICES LTD",
+            "internationalNumber": "RC-1748357",
+            "localNumber": "1748357",
+            "countryId": 24,
+            "dateCreated": "2020-12-24T00:00:00.000Z",
+            "createdAt": "2021-06-11T20:25:40.985Z",
+            "updatedAt": "2024-06-15T14:33:18.243Z",
+            "alternateNames": [],
+            "address": "20 AKPODIETE ROAD, UGHELLI, DELTA STATE, UGHELI, DELTA STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "50000 NGN",
+            "sharesValue": "12500 NGN",
+            "sharesIssued": "4",
+            "historicalNames": [],
+            "providerId": "6441279",
+            "updatedAtSitemap": "2023-06-09T19:43:51.000Z",
+            "oldInternationalNumber": "1748357",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 3823,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196948,
+                    "providerId": "199238",
+                    "providerName": "General Merchandise ",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:34.036647+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91723362,
+                    "address": "20 AKPODIETE ROAD, UGHELLI, DELTA STATE, UGHELI, DELTA STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 162420957,
+                    "companyId": 64199109,
+                    "personId": 68906902,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 68906902,
+                        "name": "obrikogho samuel efe",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1995,
+                        "birthMonth": 7,
+                        "birthDate": 28,
+                        "address": "Delta State, Ugheli ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "90F5AEDB73505217550",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "obrikoghoefe@gmail.com",
+                        "phone": "08101866423",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 162420961,
+                    "companyId": 64199109,
+                    "personId": 68906902,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "PREFERENCE",
+                    "sharesCount": 3,
+                    "person": {
+                        "id": 68906902,
+                        "name": "obrikogho samuel efe",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1995,
+                        "birthMonth": 7,
+                        "birthDate": 28,
+                        "address": "Delta State, Ugheli ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "90F5AEDB73505217550",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "obrikoghoefe@gmail.com",
+                        "phone": "08101866423",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 162420959,
+                    "companyId": 64199109,
+                    "personId": 68906904,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 68906904,
+                        "name": "akinbode festus oluwatobi",
+                        "countryId": 24,
+                        "address": "Delta State, Oghara ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A10077311",
+                        "documentType": "International Passport",
+                        "email": "akinbodeofestus@gmail.com",
+                        "phone": "08068191975",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 162420960,
+                    "companyId": 64199109,
+                    "personId": 68906905,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1,
+                    "person": {
+                        "id": 68906905,
+                        "name": "otono lucky oghenenyerovwo",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1989,
+                        "birthMonth": 7,
+                        "birthDate": 1,
+                        "address": "Choba Uniport, Port Harcourt ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "283176261762",
+                        "documentType": "National ID Card",
+                        "email": "otonolucky4@gmail.com",
+                        "phone": "07035838759",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 247682128,
+                    "companyId": 64199109,
+                    "personId": 97334670,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97334670,
+                        "name": "obrikogho samuel efe",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1995,
+                        "birthMonth": 7,
+                        "birthDate": 25,
+                        "address": "\t\n20 AKPODIETE ROAD, UGHELLI, DELTA STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "info.efeglobal@gmail.com",
+                        "phone": "08101866423",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 247682130,
+                    "companyId": 64199109,
+                    "personId": 100341551,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 100341551,
+                        "name": "amakiri sagbete",
+                        "countryId": 24,
+                        "address": "Rmuokoro by Anglican Church ",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "amakirisag@gmail.com",
+                        "phone": "07031149213",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "inf*********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Sam*** Efe Obr******",
+                    "contacts": {
+                        "email": [
+                            "inf*********************"
+                        ],
+                        "phone": [
+                            "081********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "7",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "null": 2
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

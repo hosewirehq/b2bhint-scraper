@@ -1,0 +1,290 @@
+[
+    {
+        "year": "2018",
+        "title": "CARVNICHE INTEGRATED SOLUTIONS - BN-2743541 - Nigeria",
+        "description": "CARVNICHE INTEGRATED SOLUTIONS Nigeria company, Company number: BN-2743541, Incorporation Date Dec 27, 2018;, Address: 14 ARRY SALAWU STREET OFF ABIODUN OBAYEMI STREET, IKOLA COMMAND, IPAJA, LAGOS STATE",
+        "company": {
+            "id": 61192744,
+            "name": "CARVNICHE INTEGRATED SOLUTIONS",
+            "internationalNumber": "BN-2743541",
+            "localNumber": "2743541",
+            "countryId": 24,
+            "dateCreated": "2018-12-27T00:00:00.000Z",
+            "createdAt": "2021-05-23T18:12:37.565Z",
+            "updatedAt": "2024-06-15T15:47:09.245Z",
+            "alternateNames": [],
+            "address": "14 ARRY SALAWU STREET OFF ABIODUN OBAYEMI STREET, IKOLA COMMAND, IPAJA, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99332,
+            "historicalNames": [],
+            "providerId": "4554794",
+            "updatedAtSitemap": "2023-06-09T17:00:37.000Z",
+            "oldInternationalNumber": "2743541",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99332,
+                "type": "Business name - partnership",
+                "countryId": 24,
+                "translation": {
+                    "en": "Partnership"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2315,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196981,
+                    "providerId": "143201",
+                    "providerName": "Printing and reproduction of recorded media",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:02.210937+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 101827059,
+                    "address": "14 ARRY SALAWU STREET OFF ABIODUN OBAYEMI STREET, IKOLA COMMAND, IPAJA, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 196017911,
+                    "companyId": 61192744,
+                    "personId": 78527025,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 78527025,
+                        "name": "odoemelam patrick",
+                        "countryId": 24,
+                        "nationality": "Nigerien",
+                        "birthYear": 1982,
+                        "birthMonth": 8,
+                        "birthDate": 25,
+                        "address": "14 arry salawu street off abiodun obayemi street, ikola command,\r\nipaja, lagos",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "AA211",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "odoemelampat@gmail.com",
+                        "phone": "2347034357147",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 196017912,
+                    "companyId": 61192744,
+                    "personId": 78527026,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 78527026,
+                        "name": "odoemelam theresa ngozi",
+                        "countryId": 24,
+                        "occupation": "Teaching",
+                        "nationality": "Nigerian",
+                        "birthYear": 1980,
+                        "birthMonth": 8,
+                        "birthDate": 5,
+                        "address": "14 arry salawu street off abiodun obayemi street, ikola command,\r\nipaja, lagos",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "a22918701",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "tessngold@yahoo.com",
+                        "phone": "08033282348",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Pat**** Uch**** Odo******",
+                    "contacts": {
+                        "email": [
+                            "odo*******************"
+                        ],
+                        "phone": [
+                            "234**********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "2",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

@@ -1,0 +1,331 @@
+[
+    {
+        "year": "2020",
+        "title": "GLORIOUS CS CONCEPT - BN-3275839 - Nigeria",
+        "description": "GLORIOUS CS CONCEPT Nigeria company, Company number: BN-3275839, Incorporation Date Dec 24, 2020;, Address: 1, BAPTIST CLOSE, DE-TUNJI ESTATE, ILOGBO ROAD, IYANA ILOGBO, OGUN STATE",
+        "company": {
+            "id": 62255057,
+            "name": "GLORIOUS CS CONCEPT",
+            "internationalNumber": "BN-3275839",
+            "localNumber": "3275839",
+            "countryId": 24,
+            "dateCreated": "2020-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-29T11:16:35.121Z",
+            "updatedAt": "2024-06-15T15:27:05.244Z",
+            "alternateNames": [],
+            "address": "1, BAPTIST CLOSE, DE-TUNJI ESTATE, ILOGBO ROAD, IYANA ILOGBO, OGUN STATE",
+            "additionalData": {},
+            "typeId": 99332,
+            "historicalNames": [],
+            "providerId": "6878292",
+            "updatedAtSitemap": "2023-06-09T17:35:49.000Z",
+            "oldInternationalNumber": "3275839",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99332,
+                "type": "Business name - partnership",
+                "countryId": 24,
+                "translation": {
+                    "en": "Partnership"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 3823,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 100534388,
+                    "address": "1, BAPTIST CLOSE, DE-TUNJI ESTATE, ILOGBO ROAD, IYANA ILOGBO, OGUN STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 358113869,
+                    "companyId": 62255057,
+                    "personId": 66135285,
+                    "roleId": 114351,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66135285,
+                        "name": "sylvanus nnaemeka okoli",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1978,
+                        "birthMonth": 11,
+                        "birthDate": 10,
+                        "address": "23, Momodu Ibraimoh Street, Unity Estate, Egbeda, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1831166",
+                        "documentType": "National ID Card",
+                        "documentNumber": "00445150601",
+                        "email": "sylvaandpartners@gmail.com",
+                        "phone": "+234 806 826 9103",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114351,
+                        "name": "Legal Practice ",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "DEGREES INTEGRATED GEOSERVICES",
+                            "internationalNumber": "BN-3395716"
+                        },
+                        {
+                            "name": "INAOLAJI PROPERTIES AGENT LTD",
+                            "internationalNumber": "RC-1635279"
+                        },
+                        {
+                            "name": "FAIRFIELD ESTATE RESIDENTS' ASSOCIATION",
+                            "internationalNumber": "IT-157488"
+                        },
+                        {
+                            "name": "DEE OMOGALA GLOBAL VENTURES",
+                            "internationalNumber": "BN-3443384"
+                        },
+                        {
+                            "name": "KIDS BRAND ENTERPRISES",
+                            "internationalNumber": "BN-3020067"
+                        },
+                        {
+                            "name": "KENNY CEE MERCHANTS LTD",
+                            "internationalNumber": "RC-1657744"
+                        },
+                        {
+                            "name": "DR DEE\u2019S HEALTH CARE LTD",
+                            "internationalNumber": "RC-1490435"
+                        },
+                        {
+                            "name": "A S MERCY & SONS ENTERPRISES",
+                            "internationalNumber": "BN-3016581"
+                        },
+                        {
+                            "name": "L'ARMOIRE VENTURES",
+                            "internationalNumber": "BN-2570515"
+                        },
+                        {
+                            "name": "GOD'S GRACE DIVINE ROYAL VENTURES",
+                            "internationalNumber": "BN-3026940"
+                        },
+                        {
+                            "name": "DE DNDSTYLES",
+                            "internationalNumber": "BN-3054896"
+                        },
+                        {
+                            "name": "WORLD-BRIGHT VENTURES",
+                            "internationalNumber": "BN-2661574"
+                        },
+                        {
+                            "name": "SHOWUMI MEGA VENTURES",
+                            "internationalNumber": "BN-3567328"
+                        },
+                        {
+                            "name": "KLAT EVENTS",
+                            "internationalNumber": "BN-2982890"
+                        },
+                        {
+                            "name": "SUNBUD TECHNOLOGY NIGERIA LTD",
+                            "internationalNumber": "RC-1505058"
+                        },
+                        {
+                            "name": "DIVINE-CIEFO VENTURES",
+                            "internationalNumber": "BN-2588271"
+                        },
+                        {
+                            "name": "VERIFIED 365 SERVICE",
+                            "internationalNumber": "BN-2999721"
+                        },
+                        {
+                            "name": "S.M. ENIKANOLAYE FURNITURE",
+                            "internationalNumber": "BN-2535843"
+                        },
+                        {
+                            "name": "OKI'S EMPIRE LTD",
+                            "internationalNumber": "RC-1738714"
+                        },
+                        {
+                            "name": "66COMMUNICATION",
+                            "internationalNumber": "BN-3050304"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Syl***** Nna***** Oko**",
+                    "contacts": {
+                        "email": [
+                            "syl***********************"
+                        ],
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Nna***** Oko** Syl*****",
+                    "contacts": {
+                        "email": [
+                            "syl***********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

@@ -1,0 +1,367 @@
+[
+    {
+        "year": "2022",
+        "title": "MANNOREST ENTERPRISES - BN-3643825 - Nigeria",
+        "description": "MANNOREST ENTERPRISES Nigeria company, Company number: BN-3643825, Incorporation Date Apr 27, 2022;, Address: 20 ABIODUN DISU STREET ROLU ESTATE, PARAFA, LAGOS STATE",
+        "company": {
+            "id": 114112754,
+            "name": "MANNOREST ENTERPRISES",
+            "internationalNumber": "BN-3643825",
+            "localNumber": "3643825",
+            "countryId": 24,
+            "dateCreated": "2022-04-27T00:00:00.000Z",
+            "createdAt": "2022-06-25T23:59:56.672Z",
+            "updatedAt": "2024-06-15T15:40:36.237Z",
+            "alternateNames": [],
+            "address": "20 ABIODUN DISU STREET ROLU ESTATE, PARAFA, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "activityDescription": "At least one proficiency certificate is required",
+            "providerId": "4496745",
+            "updatedAtSitemap": "2023-06-09T16:44:47.000Z",
+            "oldInternationalNumber": "3643825",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 48,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197345,
+                    "providerId": "2",
+                    "providerName": "ACCOUNTING AND GENERAL GOODS DELIVERY AND MERCHANDISE MOVERS",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:09:25.107794+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102091214,
+                    "address": "20 ABIODUN DISU STREET ROLU ESTATE, PARAFA, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 298868641,
+                    "companyId": 114112754,
+                    "personId": 104312541,
+                    "roleId": 60320,
+                    "appointedOn": "2022-04-27",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 104312541,
+                        "name": "ezieke silas akah",
+                        "countryId": 24,
+                        "occupation": "Chattered accountant ",
+                        "nationality": "Nigeria",
+                        "birthYear": 1967,
+                        "birthMonth": 12,
+                        "birthDate": 24,
+                        "address": "ABIODUN DISU STREET ROLU ESTATE,, 20",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "23078497698",
+                        "documentType": "National ID Card",
+                        "email": "silas.ezieke@dhl.com",
+                        "phone": "07034161214",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298868642,
+                    "companyId": 114112754,
+                    "personId": 104312541,
+                    "roleId": 60319,
+                    "appointedOn": "2022-04-27",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 104312541,
+                        "name": "ezieke silas akah",
+                        "countryId": 24,
+                        "occupation": "Chattered accountant ",
+                        "nationality": "Nigeria",
+                        "birthYear": 1967,
+                        "birthMonth": 12,
+                        "birthDate": 24,
+                        "address": "ABIODUN DISU STREET ROLU ESTATE,, 20",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "23078497698",
+                        "documentType": "National ID Card",
+                        "email": "silas.ezieke@dhl.com",
+                        "phone": "07034161214",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 365511251,
+                    "companyId": 114112754,
+                    "personId": 104309033,
+                    "roleId": 174013,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 104309033,
+                        "name": "silas akah ezieke",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1967,
+                        "birthMonth": 12,
+                        "birthDate": 24,
+                        "address": "20ABIODUN DISU STREET ROLU ESTATE, PARAFA, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1744782",
+                        "documentType": "National ID Card",
+                        "documentNumber": "23078497698",
+                        "email": "silas.ezieke@dhl.com",
+                        "phone": "+234 703 416 1214",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 174013,
+                        "name": "Chattered Accountant ",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "SIEZA & CO",
+                            "internationalNumber": "BN-2511343"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "sil*****************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Sil** Aka* Ezi***",
+                    "contacts": {
+                        "email": [
+                            "sil*****************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Aka* Ezi*** Sil**",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "sil*****************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "3",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 4,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 1,
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "year": "2019",
+        "title": "TIMOLAT VENTURES - BN-3041332 - Nigeria",
+        "description": "TIMOLAT VENTURES Nigeria company, Company number: BN-3041332, Incorporation Date Dec 27, 2019;, Address: 32 OWODE MARKET ROAD, OWODE, OGUN STATE",
+        "company": {
+            "id": 60856335,
+            "name": "TIMOLAT VENTURES",
+            "internationalNumber": "BN-3041332",
+            "localNumber": "3041332",
+            "countryId": 24,
+            "dateCreated": "2019-12-27T00:00:00.000Z",
+            "createdAt": "2021-05-15T10:00:45.169Z",
+            "updatedAt": "2024-06-15T14:10:16.316Z",
+            "alternateNames": [],
+            "address": "32 OWODE MARKET ROAD, OWODE, OGUN STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6138672",
+            "updatedAtSitemap": "2023-11-01T14:56:58.000Z",
+            "oldInternationalNumber": "3041332",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 574,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91458749,
+                    "address": "32 OWODE MARKET ROAD, OWODE, OGUN STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332559435,
+                    "companyId": 60856335,
+                    "personId": 66240521,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66240521,
+                        "name": "oluwatosin akinbode",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1986,
+                        "birthMonth": 1,
+                        "birthDate": 12,
+                        "address": "21ACLOSE N, ABRAHAM ADESANYA ESTATE, AJAH, LAGOS, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1715211",
+                        "documentType": "International Passport",
+                        "documentNumber": "B00091868",
+                        "email": "akinbode_t@yahoo.com",
+                        "phone": "+234 809 584 7276",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "HIMONI GLOBAL CONCEPTS",
+                            "internationalNumber": "BN-2527453"
+                        },
+                        {
+                            "name": "IGWEBUEZE .L GLOBAL NIGERIA LIMITED",
+                            "internationalNumber": "RC-1400327"
+                        },
+                        {
+                            "name": "SHO-AK TECH NIG",
+                            "internationalNumber": "BN-2541010"
+                        },
+                        {
+                            "name": "FIRST CORONA TECHNICAL SERVICES",
+                            "internationalNumber": "BN-2567366"
+                        },
+                        {
+                            "name": "ADUNNIZ MERCHANDISE",
+                            "internationalNumber": "BN-2951782"
+                        },
+                        {
+                            "name": "BETADAIZ GLOBALINK LIMITED",
+                            "internationalNumber": "RC-1375961"
+                        },
+                        {
+                            "name": "LUCI PR",
+                            "internationalNumber": "BN-3017840"
+                        },
+                        {
+                            "name": "FF OLA ENTERPRISES",
+                            "internationalNumber": "BN-2846176"
+                        },
+                        {
+                            "name": "RIBBON ROUGE FOUNDATION",
+                            "internationalNumber": "IT-95553"
+                        },
+                        {
+                            "name": "4319 LTD",
+                            "internationalNumber": "RC-1443085"
+                        },
+                        {
+                            "name": "BKG VENTURES",
+                            "internationalNumber": "BN-3240009"
+                        },
+                        {
+                            "name": "DOS PUEDEN NIGERIA LIMITED",
+                            "internationalNumber": "RC-1411599"
+                        },
+                        {
+                            "name": "HOUSE OF GLAMOUR BOUTIQUE LIMITED",
+                            "internationalNumber": "RC-1404976"
+                        },
+                        {
+                            "name": "J I VENTURES LTD",
+                            "internationalNumber": "RC-1426138"
+                        },
+                        {
+                            "name": "HOPE AND PRAISE VENTURES",
+                            "internationalNumber": "BN-2574842"
+                        },
+                        {
+                            "name": "PJS PROPERTY LTD",
+                            "internationalNumber": "RC-1448989"
+                        },
+                        {
+                            "name": "CHIEF-SHEPHERD UNIVERSITAS CONCEPT",
+                            "internationalNumber": "BN-2526762"
+                        },
+                        {
+                            "name": "ANODETRANS ENERGY LIMITED",
+                            "internationalNumber": "RC-1390450"
+                        },
+                        {
+                            "name": "BVAC VENTURES",
+                            "internationalNumber": "BN-3239664"
+                        },
+                        {
+                            "name": "THR PRIME VENTURES",
+                            "internationalNumber": "BN-2901170"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Olu******* Aki*****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "aki*****************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Aki***** Olu*******",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "aki*****************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

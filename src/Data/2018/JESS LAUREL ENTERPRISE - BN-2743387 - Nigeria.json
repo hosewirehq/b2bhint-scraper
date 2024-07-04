@@ -1,0 +1,332 @@
+[
+    {
+        "year": "2018",
+        "title": "JESS LAUREL ENTERPRISE - BN-2743387 - Nigeria",
+        "description": "JESS LAUREL ENTERPRISE Nigeria company, Company number: BN-2743387, Incorporation Date 27 Dec. 2018;, Address: HOUSE 102, SILAS STREET, AGBAPA, ENUGU EAST, ENUGU, ENUGU STATE",
+        "company": {
+            "id": 60882071,
+            "name": "JESS LAUREL ENTERPRISE",
+            "internationalNumber": "BN-2743387",
+            "localNumber": "2743387",
+            "countryId": 24,
+            "dateCreated": "2018-12-27T00:00:00.000Z",
+            "createdAt": "2021-05-15T11:43:33.511Z",
+            "updatedAt": "2024-06-15T14:34:18.036Z",
+            "alternateNames": [],
+            "address": "HOUSE 102, SILAS STREET, AGBAPA, ENUGU EAST, ENUGU, ENUGU STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5138572",
+            "updatedAtSitemap": "2023-06-09T18:03:33.000Z",
+            "oldInternationalNumber": "2743387",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2315,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97601678,
+                    "address": "HOUSE 102, SILAS STREET, AGBAPA, ENUGU EAST, ENUGU, ENUGU STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 347093372,
+                    "companyId": 60882071,
+                    "personId": 67009655,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67009655,
+                        "name": "kanu oko agabi",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1986,
+                        "birthMonth": 5,
+                        "birthDate": 3,
+                        "address": "943Cadastral Zone B06, Mabushi (Trinity House), Mabushi, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2114791",
+                        "documentType": "Driver's License",
+                        "documentNumber": "ABC57165AB16",
+                        "email": "agabi_kanu@yahoo.com",
+                        "phone": "+234 806 526 6622",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "THE BARN FARM & ALLIED PRODUCTS & VENTURES",
+                            "internationalNumber": "BN-3244170"
+                        },
+                        {
+                            "name": "NNALUMAH CONSTRUCTION & GENERAL SUPPLY LTD",
+                            "internationalNumber": "RC-1839690"
+                        },
+                        {
+                            "name": "TIMZ FARMS & ALLIED VENTURES",
+                            "internationalNumber": "BN-3247779"
+                        },
+                        {
+                            "name": "E. E. K. TRAVEL AND TOURS",
+                            "internationalNumber": "BN-3184073"
+                        },
+                        {
+                            "name": "ASATALES AND COMPANY LIMITED",
+                            "internationalNumber": "RC-1900292"
+                        },
+                        {
+                            "name": "E. E. K. COMMUNICATION GADGETS",
+                            "internationalNumber": "BN-3247933"
+                        },
+                        {
+                            "name": "CHOPLIFE APPAREL",
+                            "internationalNumber": "BN-3574307"
+                        },
+                        {
+                            "name": "LILY WILLIAMS HOMES LIMITED",
+                            "internationalNumber": "RC-1685306"
+                        },
+                        {
+                            "name": "DEBIKHERI ENTERPRISE",
+                            "internationalNumber": "BN-2654114"
+                        },
+                        {
+                            "name": "TWO THREE FOUR CONTRACTORS LIMITED",
+                            "internationalNumber": "RC-1577567"
+                        },
+                        {
+                            "name": "ALPHACREO CONSULTS LIMITED",
+                            "internationalNumber": "RC-1591740"
+                        },
+                        {
+                            "name": "DFC CONSULTING LIMITED",
+                            "internationalNumber": "RC-1882444"
+                        },
+                        {
+                            "name": "DEE'S TASTY DOTS",
+                            "internationalNumber": "BN-3205704"
+                        },
+                        {
+                            "name": "GRANDIOSO NIGERIA LIMITED",
+                            "internationalNumber": "RC-1838667"
+                        },
+                        {
+                            "name": "PURE SNOW INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1592432"
+                        },
+                        {
+                            "name": "E. E. K. PROPERTIES AND HOMES",
+                            "internationalNumber": "BN-3186144"
+                        },
+                        {
+                            "name": "SGS PERFORMANCE PARTNERS LIMITED",
+                            "internationalNumber": "RC-1660263"
+                        },
+                        {
+                            "name": "ETIQUETTE WITH ETI LIMITED",
+                            "internationalNumber": "RC-1880638"
+                        },
+                        {
+                            "name": "GILEAD BEAUTY SALON AND SPA",
+                            "internationalNumber": "BN-3074074"
+                        },
+                        {
+                            "name": "UBUNTU PAYMENT SYSTEMS LTD",
+                            "internationalNumber": "RC-1900141"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Kan* Oko Aga**",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "aga*****************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Aga** Kan* Oko",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "aga*****************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

@@ -1,0 +1,324 @@
+[
+    {
+        "year": "2018",
+        "title": "HAIRXPRESSIONNG - BN-2744445 - Nigeria",
+        "description": "HAIRXPRESSIONNG Nigeria company, Company number: BN-2744445, Incorporation Date 2018 m. gruod\u017eio 28 d.;, Address: NO. 7 ABUDU STREET. OGUDU. OJOTA ROAD, LAGOS, LAGOS STATE",
+        "company": {
+            "id": 62055781,
+            "name": "HAIRXPRESSIONNG",
+            "internationalNumber": "BN-2744445",
+            "localNumber": "2744445",
+            "countryId": 24,
+            "dateCreated": "2018-12-28T00:00:00.000Z",
+            "createdAt": "2021-05-28T02:01:37.759Z",
+            "updatedAt": "2024-06-15T15:15:01.018Z",
+            "alternateNames": [],
+            "address": "NO. 7 ABUDU STREET. OGUDU. OJOTA ROAD, LAGOS, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5167112",
+            "updatedAtSitemap": "2023-06-09T18:01:21.000Z",
+            "oldInternationalNumber": "2744445",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1601,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196987,
+                    "providerId": "199302",
+                    "providerName": "Beauty and Salon Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:07.328934+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97808277,
+                    "address": "NO. 7 ABUDU STREET. OGUDU. OJOTA ROAD, LAGOS, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 348185408,
+                    "companyId": 62055781,
+                    "personId": 98454230,
+                    "roleId": 60318,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98454230,
+                        "name": "oyoje bello",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1978,
+                        "birthMonth": 2,
+                        "birthDate": 3,
+                        "address": "PLOT 10BROAD 8. LEKKI SCHEME 2., LAGOS, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1811116",
+                        "documentType": "Driver's License",
+                        "documentNumber": "EKY66954AB67",
+                        "email": "oyoje@yahoo.com",
+                        "phone": "+234 706 959 1511",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60318,
+                        "name": "Lawyer",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Lawyer"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "JEJOSE MULTIVENTURES ENTREPRISES",
+                            "internationalNumber": "BN-2546015"
+                        },
+                        {
+                            "name": "UNIVISION OPTICALS",
+                            "internationalNumber": "BN-2610116"
+                        },
+                        {
+                            "name": "SU-DAJ ATTORNEYS",
+                            "internationalNumber": "BN-3279758"
+                        },
+                        {
+                            "name": "KANYINTOMI VENTURES",
+                            "internationalNumber": "BN-2767056"
+                        },
+                        {
+                            "name": "CARE TRUST PHARMACY",
+                            "internationalNumber": "BN-3316633"
+                        },
+                        {
+                            "name": "EDDIFA VENTURES",
+                            "internationalNumber": "BN-2766670"
+                        },
+                        {
+                            "name": "RAYANDOL VENTURES",
+                            "internationalNumber": "BN-2921173"
+                        },
+                        {
+                            "name": "LBH & SALOON",
+                            "internationalNumber": "BN-3424554"
+                        },
+                        {
+                            "name": "RAINBOW KOLLECTIBLES",
+                            "internationalNumber": "BN-3085057"
+                        },
+                        {
+                            "name": "THE GRIOT COMPANY",
+                            "internationalNumber": "BN-2711284"
+                        },
+                        {
+                            "name": "KINDAK ENTERTAINMENT",
+                            "internationalNumber": "BN-2776169"
+                        },
+                        {
+                            "name": "PURPLE MANE BY D'JEIVA",
+                            "internationalNumber": "BN-2520218"
+                        },
+                        {
+                            "name": "CITYSHAPERS & ASSOCIATES",
+                            "internationalNumber": "BN-3390645"
+                        },
+                        {
+                            "name": "LEGAL SHORE CHAMBERS",
+                            "internationalNumber": "BN-2704636"
+                        },
+                        {
+                            "name": "POWER SOCKET LIMITED",
+                            "internationalNumber": "RC-1799712"
+                        },
+                        {
+                            "name": "SHE BY MISSY",
+                            "internationalNumber": "BN-2519359"
+                        },
+                        {
+                            "name": "KWIK INSTALLATIONS AND REPAIRS LIMITED",
+                            "internationalNumber": "RC-1802671"
+                        },
+                        {
+                            "name": "D'LUUK BEAUTY HOUSE",
+                            "internationalNumber": "BN-3412981"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Oyo** Bel**",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "070********"
+                        ],
+                        "email": [
+                            "oyo************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Bel** Oyo**",
+                    "contacts": {
+                        "email": [
+                            "oyo************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

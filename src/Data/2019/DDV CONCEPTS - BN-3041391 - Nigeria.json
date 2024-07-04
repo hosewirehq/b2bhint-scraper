@@ -1,0 +1,295 @@
+[
+    {
+        "year": "2019",
+        "title": "DDV CONCEPTS - BN-3041391 - Nigeria",
+        "description": "DDV CONCEPTS Nigeria company, Company number: BN-3041391, Incorporation Date Dec 27, 2019;, Address: 2, DEJI ODUNUGA STREET, ANTHONY VILLAGE, LAGOS STATE",
+        "company": {
+            "id": 60804218,
+            "name": "DDV CONCEPTS",
+            "internationalNumber": "BN-3041391",
+            "localNumber": "3041391",
+            "countryId": 24,
+            "dateCreated": "2019-12-27T00:00:00.000Z",
+            "createdAt": "2021-05-15T06:15:07.598Z",
+            "updatedAt": "2024-06-15T14:10:02.618Z",
+            "alternateNames": [],
+            "address": "2, DEJI ODUNUGA STREET, ANTHONY VILLAGE, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99332,
+            "historicalNames": [],
+            "providerId": "6127990",
+            "updatedAtSitemap": "2023-06-09T15:24:02.000Z",
+            "oldInternationalNumber": "3041391",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99332,
+                "type": "Business name - partnership",
+                "countryId": 24,
+                "translation": {
+                    "en": "Partnership"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 574,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197102,
+                    "providerId": "199230",
+                    "providerName": "EVENTS MANAGEMENT, GENERAL MERCHANDISE, WHOLESALE AND RETAIL TRADE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:03:30.111946+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91448540,
+                    "address": "2, DEJI ODUNUGA STREET, ANTHONY VILLAGE, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332549492,
+                    "companyId": 60804218,
+                    "personId": 66265420,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66265420,
+                        "name": "oluwatoyin oladele",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1967,
+                        "birthMonth": 5,
+                        "birthDate": 16,
+                        "address": "17ALSDPC PURPOSE ROAD, ISHERI, NORTH, LAGOS, ISHERI, OSUN STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1739450",
+                        "documentType": "Driver's License",
+                        "documentNumber": "DGW1392AA.",
+                        "email": "toyin.oladele@yahoo.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "SAYE PARTNERSHIP",
+                            "internationalNumber": "BN-2506603"
+                        },
+                        {
+                            "name": "SAYEM APPAREL AND STORES",
+                            "internationalNumber": "BN-3588376"
+                        },
+                        {
+                            "name": "URBAN ERRANDS",
+                            "internationalNumber": "BN-2477423"
+                        },
+                        {
+                            "name": "TINOP INDUSTRIES LTD",
+                            "internationalNumber": "RC-171272"
+                        },
+                        {
+                            "name": "FELOTOP NIGERIA LTD",
+                            "internationalNumber": "RC-109179"
+                        },
+                        {
+                            "name": "MADOSKI GLOBAL ENTERPRISE LTD",
+                            "internationalNumber": "RC-1404508"
+                        },
+                        {
+                            "name": "CHINIKRIS FOOD",
+                            "internationalNumber": "BN-2569136"
+                        },
+                        {
+                            "name": "JAUKAK NIG LTD",
+                            "internationalNumber": "RC-177893"
+                        },
+                        {
+                            "name": "AL-GHIYYATH ISLAMIC FOUNDATION",
+                            "internationalNumber": "IT-109179"
+                        },
+                        {
+                            "name": "WESTERN DESIGNS BUILDING CONCEPTS",
+                            "internationalNumber": "BN-2701140"
+                        },
+                        {
+                            "name": "GREENWOOD FARMS LTD",
+                            "internationalNumber": "RC-1890074"
+                        },
+                        {
+                            "name": "TOTITOL GLOBAL VENTURES",
+                            "internationalNumber": "BN-3262635"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Olu******* Ola****",
+                    "contacts": {
+                        "email": [
+                            "toy********************"
+                        ],
+                        "phone": [
+                            "234**********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ola**** Olu*******",
+                    "contacts": {
+                        "email": [
+                            "toy********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

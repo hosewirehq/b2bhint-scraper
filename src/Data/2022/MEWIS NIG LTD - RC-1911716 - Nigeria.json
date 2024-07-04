@@ -1,0 +1,524 @@
+[
+    {
+        "year": "2022",
+        "title": "MEWIS NIG LTD - RC-1911716 - Nigeria",
+        "description": "MEWIS NIG LTD Nigeria company, Company number: RC-1911716, Incorporation Date 29 mars 2022;, Address: NO 1 CAMIC ESTATE STREET OFF KUJE ROAD, GWAGWALADA, FCT",
+        "company": {
+            "id": 109055000,
+            "name": "MEWIS NIG LTD",
+            "internationalNumber": "RC-1911716",
+            "localNumber": "1911716",
+            "countryId": 24,
+            "dateCreated": "2022-03-29T00:00:00.000Z",
+            "createdAt": "2022-04-14T22:11:50.203Z",
+            "updatedAt": "2024-06-15T15:39:46.458Z",
+            "alternateNames": [],
+            "address": "NO 1 CAMIC ESTATE STREET OFF KUJE ROAD, GWAGWALADA, FCT",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "GENERAL ACTIVITIES",
+            "providerId": "7911637",
+            "updatedAtSitemap": "2024-01-15T18:30:34.000Z",
+            "oldInternationalNumber": "1911716",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 671,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196919,
+                    "providerId": "143269",
+                    "providerName": "Other personal services activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T13:47:47.959002+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 69541612,
+                    "address": "NO 1 CAMIC ESTATE STREET OFF KUJE ROAD, GWAGWALADA, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 298983471,
+                    "companyId": 109055000,
+                    "personId": 102121844,
+                    "roleId": 60320,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 102121844,
+                        "name": "awudumopu onwa prince",
+                        "countryId": 24,
+                        "occupation": "Legal practice",
+                        "nationality": "Nigeria",
+                        "birthYear": 1974,
+                        "birthMonth": 5,
+                        "birthDate": 4,
+                        "address": " MUMAI PLAZA, GWAGWALADA, ABUJA, SUITE 15\/16",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "ABC1032A01",
+                        "documentType": "Driver's License",
+                        "email": "onwadedon@yahoo.com",
+                        "phone": "2347039017019",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "TIMVID EXQUISITE SERVICES LTD",
+                            "internationalNumber": "RC-1912946"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298983472,
+                    "companyId": 109055000,
+                    "personId": 101892592,
+                    "roleId": 60324,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101892592,
+                        "name": "awudumopo onwa prince",
+                        "countryId": 24,
+                        "occupation": "Legal practice",
+                        "address": "MUMAI PLAZA, GWAGWALADA, ABUJA, SUITE 15\/16",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "onwadedon@yahoo.com",
+                        "phone": "07039017019",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298983473,
+                    "companyId": 109055000,
+                    "personId": 101892593,
+                    "roleId": 60317,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101892593,
+                        "name": "alofoje joseph ikhile",
+                        "countryId": 24,
+                        "occupation": "Business man",
+                        "nationality": "Nigeria",
+                        "birthYear": 1982,
+                        "birthMonth": 4,
+                        "birthDate": 4,
+                        "address": "Living Faith Church Tungamaje Behind Gegu Filling Station along El Rufia Road, NO. 1",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "AYB08391AA03",
+                        "documentType": "Driver's License",
+                        "email": "dalofoje4u@gmail.com",
+                        "phone": "08038166766",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298983475,
+                    "companyId": 109055000,
+                    "personId": 101892594,
+                    "roleId": 60322,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101892594,
+                        "name": "alofoje nneoma",
+                        "countryId": 24,
+                        "occupation": "Business woman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1987,
+                        "birthMonth": 5,
+                        "birthDate": 26,
+                        "address": "Living Faith Church Tungamaje Behind Gegu Filling Station along El Rufia Road, NO. 1",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "AYB08389AA03",
+                        "documentType": "Driver's License",
+                        "email": "alofojenneoma@gmail.com",
+                        "phone": "07035218109",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60322,
+                        "name": "Secretary company",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary company"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298983476,
+                    "companyId": 109055000,
+                    "personId": 101892593,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 500000,
+                    "person": {
+                        "id": 101892593,
+                        "name": "alofoje joseph ikhile",
+                        "countryId": 24,
+                        "occupation": "Business man",
+                        "nationality": "Nigeria",
+                        "birthYear": 1982,
+                        "birthMonth": 4,
+                        "birthDate": 4,
+                        "address": "Living Faith Church Tungamaje Behind Gegu Filling Station along El Rufia Road, NO. 1",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "AYB08391AA03",
+                        "documentType": "Driver's License",
+                        "email": "dalofoje4u@gmail.com",
+                        "phone": "08038166766",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298983477,
+                    "companyId": 109055000,
+                    "personId": 101892594,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 200000,
+                    "person": {
+                        "id": 101892594,
+                        "name": "alofoje nneoma",
+                        "countryId": 24,
+                        "occupation": "Business woman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1987,
+                        "birthMonth": 5,
+                        "birthDate": 26,
+                        "address": "Living Faith Church Tungamaje Behind Gegu Filling Station along El Rufia Road, NO. 1",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "AYB08389AA03",
+                        "documentType": "Driver's License",
+                        "email": "alofojenneoma@gmail.com",
+                        "phone": "07035218109",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "dal*****************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Onw* Pri*** Awu******",
+                    "contacts": {
+                        "email": [
+                            "onw****************"
+                        ],
+                        "phone": [
+                            "234**********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Awu****** Onw* Pri***",
+                    "contacts": {
+                        "email": [
+                            "onw****************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "17",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "1": 5,
+                "2": 3,
+                "null": 9
+            },
+            "personsWithRelatedCount": 3
+        }
+    }
+]

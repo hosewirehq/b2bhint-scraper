@@ -1,0 +1,330 @@
+[
+    {
+        "year": "2019",
+        "title": "DIO - CARE LTD - RC-1643816 - Nigeria",
+        "description": "DIO - CARE LTD Nigeria company, Company number: RC-1643816, Incorporation Date 23 \u0433\u0440\u0443\u0434 2019 \u0440.;, Address: PLOT 16 TARMAC ROAD, DALEMO, SANGO, OGUN STATE",
+        "company": {
+            "id": 60861747,
+            "name": "DIO - CARE LTD",
+            "internationalNumber": "RC-1643816",
+            "localNumber": "1643816",
+            "countryId": 24,
+            "dateCreated": "2019-12-23T00:00:00.000Z",
+            "createdAt": "2021-05-15T10:22:31.765Z",
+            "updatedAt": "2024-06-15T14:10:17.409Z",
+            "alternateNames": [],
+            "address": "PLOT 16 TARMAC ROAD, DALEMO, SANGO, OGUN STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "500000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "500000",
+            "historicalNames": [],
+            "providerId": "6139707",
+            "updatedAtSitemap": "2023-06-09T15:23:39.000Z",
+            "oldInternationalNumber": "1643816",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1250,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197068,
+                    "providerId": "199207",
+                    "providerName": "Pharmaceutical Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:02:37.392032+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91459662,
+                    "address": "PLOT 16 TARMAC ROAD, DALEMO, SANGO, OGUN STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332560321,
+                    "companyId": 60861747,
+                    "personId": 104313779,
+                    "roleId": 121637,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 104313779,
+                        "name": "olajide bello",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1974,
+                        "birthMonth": 10,
+                        "birthDate": 20,
+                        "address": "3No 3A Eleruwa Street Wemabod Estate off Adeniyi Jones, Ikeja, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1876807",
+                        "documentType": "International Passport",
+                        "documentNumber": "A08234274",
+                        "email": "olajidebelloandco@yahoo.com",
+                        "phone": "+234 803 330 4822",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 121637,
+                        "name": "Accounting And Auding",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "KEEN HOTEL & SUITES",
+                            "internationalNumber": "BN-2569296"
+                        },
+                        {
+                            "name": "BENCPLUS INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1492633"
+                        },
+                        {
+                            "name": "SKIN DESIRE",
+                            "internationalNumber": "BN-3320013"
+                        },
+                        {
+                            "name": "D-WRIGHT MULTINATIONAL LIMITED",
+                            "internationalNumber": "RC-1506340"
+                        },
+                        {
+                            "name": "DE-TESKON GLOBAL ENTERPRISE",
+                            "internationalNumber": "BN-2620274"
+                        },
+                        {
+                            "name": "YINKFLOW GLOBAL LTD",
+                            "internationalNumber": "RC-1882886"
+                        },
+                        {
+                            "name": "WHALE DAARS VENTURES",
+                            "internationalNumber": "BN-2626729"
+                        },
+                        {
+                            "name": "REAL WALEX MULTINATIONAL COMPANY",
+                            "internationalNumber": "BN-2568800"
+                        },
+                        {
+                            "name": "ADLMA GLOBAL MERCHANTS",
+                            "internationalNumber": "BN-2852435"
+                        },
+                        {
+                            "name": "ASPERSIA COSMETICS",
+                            "internationalNumber": "BN-2989739"
+                        },
+                        {
+                            "name": "M&G COMPLETE SERVICES LTD",
+                            "internationalNumber": "RC-1504201"
+                        },
+                        {
+                            "name": "MURAMAD INTERNATIONAL LTD",
+                            "internationalNumber": "RC-1690740"
+                        },
+                        {
+                            "name": "MAURGLOW INTERNATIONAL LTD",
+                            "internationalNumber": "RC-1642192"
+                        },
+                        {
+                            "name": "GRANDE ROYAL NIGERIA LTD",
+                            "internationalNumber": "RC-1685407"
+                        },
+                        {
+                            "name": "DE GLAMMYS EXCELSIOR LTD",
+                            "internationalNumber": "RC-1845760"
+                        },
+                        {
+                            "name": "ZEEWHY DIAMOND NIGERIA LTD",
+                            "internationalNumber": "RC-1714814"
+                        },
+                        {
+                            "name": "HAJE-FUNK VENTURES",
+                            "internationalNumber": "BN-2884435"
+                        },
+                        {
+                            "name": "ADYBELLS LIMITED",
+                            "internationalNumber": "RC-1721628"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "ola************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Ola**** Bel**",
+                    "contacts": {
+                        "email": [
+                            "ola************************"
+                        ],
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Bel** Ola****",
+                    "contacts": {
+                        "email": [
+                            "ola************************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

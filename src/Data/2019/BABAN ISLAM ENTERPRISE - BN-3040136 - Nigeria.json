@@ -1,0 +1,299 @@
+[
+    {
+        "year": "2019",
+        "title": "BABAN ISLAM ENTERPRISE - BN-3040136 - Nigeria",
+        "description": "BABAN ISLAM ENTERPRISE Nigeria company, Company number: BN-3040136, Incorporation Date 23 \u0434\u0435\u043a. 2019 \u0433.;, Address: SHOP 1 KWATA MARKET DEI-DEI, ABUJA, FCT",
+        "company": {
+            "id": 60491631,
+            "name": "BABAN ISLAM ENTERPRISE",
+            "internationalNumber": "BN-3040136",
+            "localNumber": "3040136",
+            "countryId": 24,
+            "dateCreated": "2019-12-23T00:00:00.000Z",
+            "createdAt": "2021-05-14T08:33:40.947Z",
+            "updatedAt": "2024-06-15T14:08:59.377Z",
+            "alternateNames": [],
+            "address": "SHOP 1 KWATA MARKET DEI-DEI, ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6067110",
+            "updatedAtSitemap": "2023-06-09T15:26:39.000Z",
+            "oldInternationalNumber": "3040136",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1250,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91389950,
+                    "address": "SHOP 1 KWATA MARKET DEI-DEI, ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332495590,
+                    "companyId": 60491631,
+                    "personId": 71490674,
+                    "roleId": 114349,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 71490674,
+                        "name": "obinna donatus igboanusi",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1984,
+                        "birthMonth": 2,
+                        "birthDate": 17,
+                        "address": "PLOT 1652Plot 1652 Ahmadu Bello Way, garki, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1948101",
+                        "documentType": "Driver's License",
+                        "documentNumber": "ABC00877AD16",
+                        "email": "obi4vera@yahoo.com",
+                        "phone": "+234 803 946 1569",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114349,
+                        "name": "Legal Practice",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practice"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "AWAJE AND SONS NIG LTD",
+                            "internationalNumber": "RC-1788047"
+                        },
+                        {
+                            "name": "IHIALA BIG BROTHERS INTERNATIONAL SOCIAL CLUB",
+                            "internationalNumber": "IT-138057"
+                        },
+                        {
+                            "name": "ISHAQALI GLOBAL LIMITED",
+                            "internationalNumber": "RC-1862643"
+                        },
+                        {
+                            "name": "MUTIGA ENTERPRISE",
+                            "internationalNumber": "BN-2794928"
+                        },
+                        {
+                            "name": "SAMMUH MICRO HELP",
+                            "internationalNumber": "BN-2861015"
+                        },
+                        {
+                            "name": "KERRYATU BUSINESS AND AGRO ALLIED LIMITED",
+                            "internationalNumber": "RC-1797907"
+                        },
+                        {
+                            "name": "NOBILITY STANDARD AUTOMOBILE LTD",
+                            "internationalNumber": "RC-1840814"
+                        },
+                        {
+                            "name": "NEMOGREAT INVESTMENT LTD",
+                            "internationalNumber": "RC-1626174"
+                        },
+                        {
+                            "name": "FOLA INTEGRATED NIGERIA LTD",
+                            "internationalNumber": "RC-1623365"
+                        },
+                        {
+                            "name": "IZY4PEACE EMPIRE VENTURE",
+                            "internationalNumber": "BN-2687660"
+                        },
+                        {
+                            "name": "OLUSOLA FAITH VENTURES",
+                            "internationalNumber": "BN-2983754"
+                        },
+                        {
+                            "name": "GODOMLO VENTURES LTD",
+                            "internationalNumber": "RC-1782914"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Obi*** Don**** Igb******",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "obi***************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Don**** Igb****** Obi***",
+                    "contacts": {
+                        "email": [
+                            "obi***************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

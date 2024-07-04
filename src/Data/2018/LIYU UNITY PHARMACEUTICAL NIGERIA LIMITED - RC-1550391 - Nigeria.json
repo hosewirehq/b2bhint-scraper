@@ -1,0 +1,582 @@
+[
+    {
+        "year": "2018",
+        "title": "LIYU UNITY PHARMACEUTICAL NIGERIA LIMITED - RC-1550391 - Nigeria",
+        "description": "LIYU UNITY PHARMACEUTICAL NIGERIA LIMITED Nigeria company, Company number: RC-1550391, Incorporation Date Dec 31, 2018;, Address: LIYU UNITY PLAZA MAKONLLA, KEFFI, NASARAWA STATE",
+        "company": {
+            "id": 64688754,
+            "name": "LIYU UNITY PHARMACEUTICAL NIGERIA LIMITED",
+            "internationalNumber": "RC-1550391",
+            "localNumber": "1550391",
+            "countryId": 24,
+            "dateCreated": "2018-12-31T00:00:00.000Z",
+            "createdAt": "2021-06-20T07:05:55.474Z",
+            "updatedAt": "2024-06-15T14:22:41.724Z",
+            "alternateNames": [],
+            "address": "LIYU UNITY PLAZA MAKONLLA, KEFFI, NASARAWA STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "4984969",
+            "updatedAtSitemap": "2023-06-09T18:23:01.000Z",
+            "oldInternationalNumber": "1550391",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1948,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197068,
+                    "providerId": "199207",
+                    "providerName": "Pharmaceutical Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:02:37.392032+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 94842716,
+                    "address": "LIYU UNITY PLAZA MAKONLLA, KEFFI, NASARAWA STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 157051892,
+                    "companyId": 64688754,
+                    "personId": 66282881,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 200000,
+                    "person": {
+                        "id": 66282881,
+                        "name": "musa hadiza nagogo",
+                        "countryId": 24,
+                        "occupation": "Businesswoman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1977,
+                        "birthMonth": 8,
+                        "birthDate": 5,
+                        "address": "LIYU ACADEMY DRIVE, BEHIND YARO FILLING STATION, ALONG ABUJA-NASARAWA ROAD , 1",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A50484425",
+                        "documentType": "International Passport",
+                        "email": "alkalihabib2@yahoo.com",
+                        "phone": "08033589973",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 157051891,
+                    "companyId": 64688754,
+                    "personId": 66282881,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 200000,
+                    "person": {
+                        "id": 66282881,
+                        "name": "musa hadiza nagogo",
+                        "countryId": 24,
+                        "occupation": "Businesswoman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1977,
+                        "birthMonth": 8,
+                        "birthDate": 5,
+                        "address": "LIYU ACADEMY DRIVE, BEHIND YARO FILLING STATION, ALONG ABUJA-NASARAWA ROAD , 1",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A50484425",
+                        "documentType": "International Passport",
+                        "email": "alkalihabib2@yahoo.com",
+                        "phone": "08033589973",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 157051894,
+                    "companyId": 64688754,
+                    "personId": 66282882,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 200000,
+                    "person": {
+                        "id": 66282882,
+                        "name": "hassan murjanatu aliyu",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1980,
+                        "birthMonth": 3,
+                        "birthDate": 2,
+                        "address": "NO. 21, SARKI AHMADU ROAD, EMIR'S PALACE,",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A27420344",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "murjahassanim@gmail.com",
+                        "phone": "08168968444",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 157051893,
+                    "companyId": 64688754,
+                    "personId": 66282882,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 200000,
+                    "person": {
+                        "id": 66282882,
+                        "name": "hassan murjanatu aliyu",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1980,
+                        "birthMonth": 3,
+                        "birthDate": 2,
+                        "address": "NO. 21, SARKI AHMADU ROAD, EMIR'S PALACE,",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A27420344",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "murjahassanim@gmail.com",
+                        "phone": "08168968444",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 157051897,
+                    "companyId": 64688754,
+                    "personId": 66282884,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66282884,
+                        "name": "magaji mohammed gambo",
+                        "countryId": 24,
+                        "address": "KANA & CO CHAMBERS, OPP. KEFFI CLUB, GRA, KEFFI, NASARAWA STATE.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A10069280",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "magajim07@gmail.com",
+                        "phone": "07064250025",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 246388231,
+                    "companyId": 64688754,
+                    "personId": 77308672,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 77308672,
+                        "name": "abubakar salisu",
+                        "countryId": 24,
+                        "address": "468 FRCN ROAD, GWAGWALADA, ABUJA ",
+                        "countryOfResidence": "NIGERIA",
+                        "documentNumber": "NSR02967AA05",
+                        "email": "artibaba1979@gmail.com",
+                        "phone": "07068736673",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "TRANQUILITY BUREAU DE CHANGE LIMITED",
+                            "internationalNumber": "RC-1488665"
+                        },
+                        {
+                            "name": "SY OIL AND GAS LTD",
+                            "internationalNumber": "RC-1531564"
+                        },
+                        {
+                            "name": "CORNERSTONE MEDIA CONSULTANCY SERVICES LTD",
+                            "internationalNumber": "RC-1491632"
+                        },
+                        {
+                            "name": "SIZCO INTEGRATED SERVICES LIMITED ",
+                            "internationalNumber": "RC-1716724"
+                        },
+                        {
+                            "name": "CITY GATE PREMIER HOSPITALS LTD",
+                            "internationalNumber": "RC-1526370"
+                        },
+                        {
+                            "name": "CASIO GREAT BUREAU DE CHANGE LTD",
+                            "internationalNumber": "RC-1593925"
+                        },
+                        {
+                            "name": "YUSHAD BUSINESS INNOVATIONS LTD",
+                            "internationalNumber": "RC-1608333"
+                        },
+                        {
+                            "name": "ALANDIA ENGINEERING LIMITED",
+                            "internationalNumber": "RC-1603725"
+                        },
+                        {
+                            "name": "NASS BUREAU DE CHANGE LTD",
+                            "internationalNumber": "RC-1586446"
+                        },
+                        {
+                            "name": "ANNAHDHA EDUCATIONAL CONSULTANCY COMPANY LTD",
+                            "internationalNumber": "RC-1656492"
+                        },
+                        {
+                            "name": "SM SALENCO INTEGRATED NIG LTD",
+                            "internationalNumber": "RC-1486111"
+                        },
+                        {
+                            "name": "ALL IN ONE J & B VENTURES",
+                            "internationalNumber": "BN-2599026"
+                        },
+                        {
+                            "name": "MARTO MOTORS NIG LTD",
+                            "internationalNumber": "RC-1500300"
+                        },
+                        {
+                            "name": "NEW DAWN UNIVERSAL MERCHANTS LTD",
+                            "internationalNumber": "RC-1487768"
+                        },
+                        {
+                            "name": "ABAL BUREAU DE CHANGE LTD",
+                            "internationalNumber": "RC-1584919"
+                        },
+                        {
+                            "name": "BAJ HOLDINGS PROJECT LIMITED",
+                            "internationalNumber": "RC-1657636"
+                        },
+                        {
+                            "name": "MOBARO NIG LTD",
+                            "internationalNumber": "RC-1486353"
+                        },
+                        {
+                            "name": "FISCAL DESIGN AND CONSTRUCTION COMPANY LTD",
+                            "internationalNumber": "RC-1487863"
+                        },
+                        {
+                            "name": "OMENHIE CONTRACTUAL SERVICES NIGERIA LIMITED",
+                            "internationalNumber": "RC-1601209"
+                        },
+                        {
+                            "name": "DANNA STANDARD CONCEPT LTD",
+                            "internationalNumber": "RC-1487720"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "inf************************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Abu***** Sal***",
+                    "contacts": {
+                        "phone": [
+                            "070********"
+                        ],
+                        "email": [
+                            "art*******************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "11",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 4,
+                "2": 5,
+                "null": 2
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

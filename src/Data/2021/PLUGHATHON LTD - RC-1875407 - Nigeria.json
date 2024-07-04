@@ -1,0 +1,329 @@
+[
+    {
+        "year": "2021",
+        "title": "PLUGHATHON LTD - RC-1875407 - Nigeria",
+        "description": "PLUGHATHON LTD Nigeria company, Company number: RC-1875407, Incorporation Date Dec 20, 2021;, Address: 5 IFELODUN STREET, AMUKOKO, ORILE IGANMU, LAGOS STATE",
+        "company": {
+            "id": 108685427,
+            "name": "PLUGHATHON LTD",
+            "internationalNumber": "RC-1875407",
+            "localNumber": "1875407",
+            "countryId": 24,
+            "dateCreated": "2021-12-20T00:00:00.000Z",
+            "createdAt": "2022-04-11T04:57:40.269Z",
+            "updatedAt": "2024-06-15T14:19:08.415Z",
+            "alternateNames": [],
+            "address": "5 IFELODUN STREET, AMUKOKO, ORILE IGANMU, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "Digital Innovation, Digital Products, Digital Solutions and Information Technology\n",
+            "providerId": "7748853",
+            "updatedAtSitemap": "2023-06-09T18:14:11.000Z",
+            "oldInternationalNumber": "1875407",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1438,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197271,
+                    "providerId": "199174",
+                    "providerName": "Software Development, Web Design and Intranet Development",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:07:37.803752+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 95348915,
+                    "address": "5 IFELODUN STREET, AMUKOKO, ORILE IGANMU, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 338764217,
+                    "companyId": 108685427,
+                    "personId": 67722694,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67722694,
+                        "name": "ibukun odugunle",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1988,
+                        "birthMonth": 11,
+                        "birthDate": 7,
+                        "address": "13OLUWALOGBON STREET, SHOMOLU, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1746296",
+                        "documentType": "Permanent Voters' Card",
+                        "documentNumber": "A36547329",
+                        "email": "ibukunodugunle@gmail.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "JOYSTICK BESPOKE",
+                            "internationalNumber": "BN-2685026"
+                        },
+                        {
+                            "name": "SKOPOS TECHNOLOGIES LIMITED",
+                            "internationalNumber": "RC-1540705"
+                        },
+                        {
+                            "name": "OMG COUTURE",
+                            "internationalNumber": "BN-2672966"
+                        },
+                        {
+                            "name": "OCEAN LIFE LIMITED",
+                            "internationalNumber": "RC-1646835"
+                        },
+                        {
+                            "name": "GOD'S PROMISE LAUNDRY SERVICES",
+                            "internationalNumber": "BN-2504821"
+                        },
+                        {
+                            "name": "ADUNNIS CONCEPT NAIJA ",
+                            "internationalNumber": "BN-3293747"
+                        },
+                        {
+                            "name": "SAMMY RAYMOND VENTURES",
+                            "internationalNumber": "BN-3540077"
+                        },
+                        {
+                            "name": "QUEEN RASHEED TELEVISION LIMITED",
+                            "internationalNumber": "RC-1657439"
+                        },
+                        {
+                            "name": "PROHAYA TECHNOLOGY LTD",
+                            "internationalNumber": "RC-1908171"
+                        },
+                        {
+                            "name": "ACTION9 MOTION WORKS LTD",
+                            "internationalNumber": "RC-1811496"
+                        },
+                        {
+                            "name": "CHEEDAH PLACE EMPIRE",
+                            "internationalNumber": "BN-3141328"
+                        },
+                        {
+                            "name": "OLAJO AND SON ENTERPRISES",
+                            "internationalNumber": "BN-3029317"
+                        },
+                        {
+                            "name": "JCC GREENISH GLOBAL NIG. LTD",
+                            "internationalNumber": "RC-1774308"
+                        },
+                        {
+                            "name": "GODDESS CREATIONS LIMITED",
+                            "internationalNumber": "RC-1528890"
+                        },
+                        {
+                            "name": "FENTESTIC VENTURES",
+                            "internationalNumber": "BN-2896508"
+                        },
+                        {
+                            "name": "AGORA AQUATICS LIMITED",
+                            "internationalNumber": "RC-1565920"
+                        },
+                        {
+                            "name": "KESHENJAS ENTERPRISE LTD",
+                            "internationalNumber": "RC-1763991"
+                        },
+                        {
+                            "name": "NORTHERN LIGHT PRODUCTIONS LTD",
+                            "internationalNumber": "RC-1515260"
+                        },
+                        {
+                            "name": "DON T AND T INVESTMENT NIG. LTD",
+                            "internationalNumber": "RC-1781677"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "plu********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Ibu*** Odu*****",
+                    "contacts": {
+                        "email": [
+                            "ibu*********************"
+                        ],
+                        "phone": [
+                            "234**********"
+                        ]
+                    }
+                },
+                {
+                    "name": " Ibu*** Odu*****",
+                    "contacts": {
+                        "email": [
+                            "ibu*********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

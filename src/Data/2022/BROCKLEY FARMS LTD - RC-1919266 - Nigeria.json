@@ -1,0 +1,520 @@
+[
+    {
+        "year": "2022",
+        "title": "BROCKLEY FARMS LTD - RC-1919266 - Nigeria",
+        "description": "BROCKLEY FARMS LTD Nigeria company, Company number: RC-1919266, Incorporation Date 14 avr. 2022;, Address: 25 PLYMOUTH ROAD, BENIN, EDO STATE",
+        "company": {
+            "id": 109187558,
+            "name": "BROCKLEY FARMS LTD",
+            "internationalNumber": "RC-1919266",
+            "localNumber": "1919266",
+            "countryId": 24,
+            "dateCreated": "2022-04-14T00:00:00.000Z",
+            "createdAt": "2022-04-16T22:15:26.947Z",
+            "updatedAt": "2024-06-15T15:40:32.804Z",
+            "alternateNames": [],
+            "address": "25 PLYMOUTH ROAD, BENIN, EDO STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "20000 NGN",
+            "sharesIssued": "50",
+            "historicalNames": [],
+            "activityDescription": "We are into poultry farming and Poultry processing",
+            "providerId": "6694304",
+            "updatedAtSitemap": "2023-06-09T16:44:45.000Z",
+            "oldInternationalNumber": "1919266",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 201,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196954,
+                    "providerId": "199233",
+                    "providerName": "Farming",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:38.94858+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 99638671,
+                    "address": "25 PLYMOUTH ROAD, BENIN, EDO STATE",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "OPTIMIST TV NETWORK LTD",
+                            "internationalNumber": "RC-1747871"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 298874018,
+                    "companyId": 109187558,
+                    "personId": 104350623,
+                    "roleId": 60320,
+                    "appointedOn": "2022-04-14",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 104350623,
+                        "name": "bello edomwonyi",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1974,
+                        "birthMonth": 12,
+                        "birthDate": 27,
+                        "address": "6 heaven increasers Avenue, 6",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "60192321290",
+                        "documentType": "National ID Card",
+                        "email": "bellomiuk@yahoo.co.uk",
+                        "phone": "08038842895",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298874019,
+                    "companyId": 109187558,
+                    "personId": 104350623,
+                    "roleId": 60317,
+                    "appointedOn": "2022-04-14",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 15,
+                    "person": {
+                        "id": 104350623,
+                        "name": "bello edomwonyi",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1974,
+                        "birthMonth": 12,
+                        "birthDate": 27,
+                        "address": "6 heaven increasers Avenue, 6",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "60192321290",
+                        "documentType": "National ID Card",
+                        "email": "bellomiuk@yahoo.co.uk",
+                        "phone": "08038842895",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298874020,
+                    "companyId": 109187558,
+                    "personId": 102108118,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-14",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 20,
+                    "person": {
+                        "id": 102108118,
+                        "name": "bello osarumwense",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1978,
+                        "birthMonth": 8,
+                        "birthDate": 24,
+                        "address": "Plymouth road, 25",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A32320321",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "sassy25ng@yahoo.com",
+                        "phone": "08097035869",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298874021,
+                    "companyId": 109187558,
+                    "personId": 102108118,
+                    "roleId": 60329,
+                    "appointedOn": "2022-04-14",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 102108118,
+                        "name": "bello osarumwense",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1978,
+                        "birthMonth": 8,
+                        "birthDate": 24,
+                        "address": "Plymouth road, 25",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A32320321",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "sassy25ng@yahoo.com",
+                        "phone": "08097035869",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298874022,
+                    "companyId": 109187558,
+                    "personId": 102108119,
+                    "roleId": 60324,
+                    "appointedOn": "2022-04-14",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 102108119,
+                        "name": "osawe kingsley",
+                        "countryId": 24,
+                        "occupation": "Civil servant",
+                        "address": "Etinosa street off ICE road, 22",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "kasyosa@yahoo.com",
+                        "phone": "08056303602",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298874025,
+                    "companyId": 109187558,
+                    "personId": 104350623,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-14",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 30,
+                    "person": {
+                        "id": 104350623,
+                        "name": "bello edomwonyi",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1974,
+                        "birthMonth": 12,
+                        "birthDate": 27,
+                        "address": "6 heaven increasers Avenue, 6",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "60192321290",
+                        "documentType": "National ID Card",
+                        "email": "bellomiuk@yahoo.co.uk",
+                        "phone": "08038842895",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "bel******************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Edo****** Bel**",
+                    "contacts": {
+                        "phone": [
+                            "080********"
+                        ],
+                        "email": [
+                            "bel******************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "21",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 4,
+                "2": 6,
+                "null": 11
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

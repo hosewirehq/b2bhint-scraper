@@ -1,0 +1,291 @@
+[
+    {
+        "year": "2020",
+        "title": "KALAAMY BUYMORE LIMITED - RC-1747554 - Nigeria",
+        "description": "KALAAMY BUYMORE LIMITED Nigeria company, Company number: RC-1747554, Incorporation Date Dec 22, 2020;, Address: 100 NEW IBARAGUN ROAD IDI OROGBO IJOKO ABULE OGUN STATE, IJOKO, OGUN STATE",
+        "company": {
+            "id": 62166075,
+            "name": "KALAAMY BUYMORE LIMITED",
+            "internationalNumber": "RC-1747554",
+            "localNumber": "1747554",
+            "countryId": 24,
+            "dateCreated": "2020-12-22T00:00:00.000Z",
+            "createdAt": "2021-05-28T21:04:59.029Z",
+            "updatedAt": "2024-06-15T15:25:42.929Z",
+            "alternateNames": [],
+            "address": "100 NEW IBARAGUN ROAD IDI OROGBO IJOKO ABULE OGUN STATE, IJOKO, OGUN STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "6850884",
+            "updatedAtSitemap": "2023-06-09T17:39:14.000Z",
+            "oldInternationalNumber": "1747554",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2292,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197557,
+                    "providerId": "199236",
+                    "providerName": "Frozen Foods Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:15:28.792317+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 100340511,
+                    "address": "100 NEW IBARAGUN ROAD IDI OROGBO IJOKO ABULE OGUN STATE, IJOKO, OGUN STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 356864478,
+                    "companyId": 62166075,
+                    "personId": 67276650,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67276650,
+                        "name": "lawal adeniyi yusuf",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1985,
+                        "birthMonth": 12,
+                        "birthDate": 19,
+                        "address": "Adebowale House150, Adebowale House, Onipanu, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2127945",
+                        "documentType": "National ID Card",
+                        "documentNumber": "81481718268",
+                        "email": "ladeniyi52@yahoo.com",
+                        "phone": "+234 808 018 5391",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "KUNLETECH PILING ENGINEERING",
+                            "internationalNumber": "BN-3323191"
+                        },
+                        {
+                            "name": "BUNCHY'S CREME LUXURIES",
+                            "internationalNumber": "BN-2691712"
+                        },
+                        {
+                            "name": "QUALITECH COMPUTERS",
+                            "internationalNumber": "BN-3342737"
+                        },
+                        {
+                            "name": "2CEE TRAVEL AND TOUR LIMITED",
+                            "internationalNumber": "RC-1614795"
+                        },
+                        {
+                            "name": "ADADORYS EMPORIUM",
+                            "internationalNumber": "BN-3168583"
+                        },
+                        {
+                            "name": "HOME LEAD AGENCY LIMITED",
+                            "internationalNumber": "RC-1780624"
+                        },
+                        {
+                            "name": "MAO-LOOP NIGERIA LIMITED",
+                            "internationalNumber": "RC-1575003"
+                        },
+                        {
+                            "name": "MULUX PAINTS AND CHEMICALS ENTERPRISES",
+                            "internationalNumber": "BN-3367095"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "law********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Law** Ade**** Yus**",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "lad*****************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ade**** Law** Yus**",
+                    "contacts": {
+                        "email": [
+                            "lad*****************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

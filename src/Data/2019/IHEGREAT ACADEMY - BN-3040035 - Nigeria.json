@@ -1,0 +1,327 @@
+[
+    {
+        "year": "2019",
+        "title": "IHEGREAT ACADEMY - BN-3040035 - Nigeria",
+        "description": "IHEGREAT ACADEMY Nigeria company, Company number: BN-3040035, Incorporation Date 23 \u0433\u0440\u0443\u0434 2019 \u0440.;, Address: NO. 30 AMADI STREET, OFF SAVANAH BAKERY, OMUODUKWU, IGWURUTA, PORTHARCOURT, RIVERS STATE",
+        "company": {
+            "id": 62620734,
+            "name": "IHEGREAT ACADEMY",
+            "internationalNumber": "BN-3040035",
+            "localNumber": "3040035",
+            "countryId": 24,
+            "dateCreated": "2019-12-23T00:00:00.000Z",
+            "createdAt": "2021-05-30T20:44:52.335Z",
+            "updatedAt": "2024-06-15T14:11:18.847Z",
+            "alternateNames": [],
+            "address": "NO. 30 AMADI STREET, OFF SAVANAH BAKERY, OMUODUKWU, IGWURUTA, PORTHARCOURT, RIVERS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6170454",
+            "updatedAtSitemap": "2023-06-09T14:59:05.000Z",
+            "oldInternationalNumber": "3040035",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1250,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196962,
+                    "providerId": "199293",
+                    "providerName": "Educational Services and Consultancy",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:45.119829+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91493608,
+                    "address": "NO. 30 AMADI STREET, OFF SAVANAH BAKERY, OMUODUKWU, IGWURUTA, PORTHARCOURT, RIVERS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332593567,
+                    "companyId": 62620734,
+                    "personId": 66379160,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66379160,
+                        "name": "emeka chizoba ezeganya",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1979,
+                        "birthMonth": 11,
+                        "birthDate": 26,
+                        "address": "Suite 301\/302 Banex Plaza Wuse II, Abuja, Abuja, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1739772",
+                        "documentType": "National ID Card",
+                        "documentNumber": "16081119303",
+                        "email": "chizobaemeka@gmail.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "JV TELM NIGERIA LIMITED",
+                            "internationalNumber": "RC-1389279"
+                        },
+                        {
+                            "name": "CHEMEZ INTERNATIONAL INTERGRATED AND ENGINEERING COMPANY LIMITED",
+                            "internationalNumber": "RC-1421147"
+                        },
+                        {
+                            "name": "LE ANA DESIGNER COLLECTION NIG LTD",
+                            "internationalNumber": "RC-171538"
+                        },
+                        {
+                            "name": "T. A. BISIRIYU INVESTMENTS LTD",
+                            "internationalNumber": "RC-176928"
+                        },
+                        {
+                            "name": "LEXY FORTE LEGAL PARTNERS",
+                            "internationalNumber": "BN-3223950"
+                        },
+                        {
+                            "name": "T-ZEAL KIDS INTERNATIONAL",
+                            "internationalNumber": "BN-3583253"
+                        },
+                        {
+                            "name": "HHC PHARMACY LIMITED",
+                            "internationalNumber": "RC-1669105"
+                        },
+                        {
+                            "name": "DAWATCORP NIGERIA LIMITED",
+                            "internationalNumber": "RC-1627745"
+                        },
+                        {
+                            "name": "ONWARD INTEGRITY INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1441156"
+                        },
+                        {
+                            "name": "LANOVERA GLOBAL STORES LIMITED",
+                            "internationalNumber": "RC-1527260"
+                        },
+                        {
+                            "name": "WEST MARC NIGERIA LIMITED",
+                            "internationalNumber": "RC-1788463"
+                        },
+                        {
+                            "name": "ALUMMA PHARMACEUTICAL NIGERIA LTD",
+                            "internationalNumber": "RC-174494"
+                        },
+                        {
+                            "name": "MARIA AGRO LIMITED",
+                            "internationalNumber": "RC-1453755"
+                        },
+                        {
+                            "name": "EZEOGOO INTEGRATED SERVICES",
+                            "internationalNumber": "BN-2594916"
+                        },
+                        {
+                            "name": "WHITE PAGE NIGERIA LTD",
+                            "internationalNumber": "RC-1864787"
+                        },
+                        {
+                            "name": "IHETHONY GLOBAL CONCEPT LIMITED",
+                            "internationalNumber": "RC-1561593"
+                        },
+                        {
+                            "name": "MANGROVE COMMUNICATIONS LTD",
+                            "internationalNumber": "RC-175703"
+                        },
+                        {
+                            "name": "ORGANO EXTRACTS GLOBAL LIMITED",
+                            "internationalNumber": "RC-1695198"
+                        },
+                        {
+                            "name": "VANSIMO PHARMACY LIMITED",
+                            "internationalNumber": "RC-1828944"
+                        },
+                        {
+                            "name": "GRAVITY MEGA SALES",
+                            "internationalNumber": "BN-2490805"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Eme** Chi**** Eze*****",
+                    "contacts": {
+                        "email": [
+                            "chi*******************"
+                        ],
+                        "phone": [
+                            "234**********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Chi**** Eme** Eze*****",
+                    "contacts": {
+                        "email": [
+                            "chi*******************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

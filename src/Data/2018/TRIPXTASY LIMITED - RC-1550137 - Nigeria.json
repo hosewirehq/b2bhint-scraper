@@ -1,0 +1,314 @@
+[
+    {
+        "year": "2018",
+        "title": "TRIPXTASY LIMITED - RC-1550137 - Nigeria",
+        "description": "TRIPXTASY LIMITED Nigeria company, Company number: RC-1550137, Incorporation Date Dec 27, 2018;, Address: NO. 3 AWOSEYIN LANE, SOMOLU, LAGOS, LAGOS STATE",
+        "company": {
+            "id": 62066145,
+            "name": "TRIPXTASY LIMITED",
+            "internationalNumber": "RC-1550137",
+            "localNumber": "1550137",
+            "countryId": 24,
+            "dateCreated": "2018-12-27T00:00:00.000Z",
+            "createdAt": "2021-05-28T02:52:48.708Z",
+            "updatedAt": "2024-06-15T15:15:09.197Z",
+            "alternateNames": [],
+            "address": "NO. 3 AWOSEYIN LANE, SOMOLU, LAGOS, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "5169561",
+            "updatedAtSitemap": "2023-06-09T18:01:07.000Z",
+            "oldInternationalNumber": "1550137",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2315,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197460,
+                    "providerId": "143254",
+                    "providerName": "Travel agency, tour operator and other reservation services and related activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:12:36.787216+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97827922,
+                    "address": "NO. 3 AWOSEYIN LANE, SOMOLU, LAGOS, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 348279411,
+                    "companyId": 62066145,
+                    "personId": 67257540,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67257540,
+                        "name": "fadeke folashade adeduro",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1995,
+                        "birthMonth": 3,
+                        "birthDate": 24,
+                        "address": "Flat 10Special Area Police Barracks, Rumuodomaya, Port Harcourt, RIVERS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1878499",
+                        "documentType": "International Passport",
+                        "documentNumber": "A09707025",
+                        "email": "adedurofolashade@gmail.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "FIXNAIJA HANDYMAN LTD",
+                            "internationalNumber": "RC-1650027"
+                        },
+                        {
+                            "name": "AMUR GLOBAL RESOURCES LTD",
+                            "internationalNumber": "RC-1611197"
+                        },
+                        {
+                            "name": "LIMEGHAN GLOBAL RESOURCES LIMITED",
+                            "internationalNumber": "RC-1526823"
+                        },
+                        {
+                            "name": "ANASTASIA INTERIORS AND FASHION LIMITED",
+                            "internationalNumber": "RC-1528100"
+                        },
+                        {
+                            "name": "SEVEN PERFECTION COMPANY LTD",
+                            "internationalNumber": "RC-1615178"
+                        },
+                        {
+                            "name": "OKUO S.O.S & CO",
+                            "internationalNumber": "BN-2812423"
+                        },
+                        {
+                            "name": "IMPERIAL MOVERS (NIG.) LTD",
+                            "internationalNumber": "RC-1691477"
+                        },
+                        {
+                            "name": "KOBIFREDKA GLOBAL RESOURCES",
+                            "internationalNumber": "BN-3168755"
+                        },
+                        {
+                            "name": "24HOURS SKINCARE COMPANY LIMITED",
+                            "internationalNumber": "RC-1730257"
+                        },
+                        {
+                            "name": "ATLENS LIMITED",
+                            "internationalNumber": "RC-1747681"
+                        },
+                        {
+                            "name": "TECVITESSE LIMITED",
+                            "internationalNumber": "RC-1691468"
+                        },
+                        {
+                            "name": "DREAMTEAM LOGISTICS LTD",
+                            "internationalNumber": "RC-1711738"
+                        },
+                        {
+                            "name": "SENAID CHRONICLE LTD",
+                            "internationalNumber": "RC-1725242"
+                        },
+                        {
+                            "name": "KING'S POLICY (NIG.) LIMITED",
+                            "internationalNumber": "RC-1702835"
+                        },
+                        {
+                            "name": "BOUHIEN T LIMITED",
+                            "internationalNumber": "RC-1600949"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "tri******************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Fad*** Fol****** Ade****",
+                    "contacts": {
+                        "email": [
+                            "ade***********************"
+                        ],
+                        "phone": [
+                            "+23************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ade**** Fad*** Fol******",
+                    "contacts": {
+                        "email": [
+                            "ade***********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

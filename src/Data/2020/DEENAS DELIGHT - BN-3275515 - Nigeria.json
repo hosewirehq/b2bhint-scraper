@@ -1,0 +1,332 @@
+[
+    {
+        "year": "2020",
+        "title": "DEENAS DELIGHT - BN-3275515 - Nigeria",
+        "description": "DEENAS DELIGHT Nigeria company, Company number: BN-3275515, Incorporation Date 23 Dec. 2020;, Address: NO 1 TANZANIA STREET OFF KENYA ROAD MALALI, KADUNA, KADUNA STATE",
+        "company": {
+            "id": 61908360,
+            "name": "DEENAS DELIGHT",
+            "internationalNumber": "BN-3275515",
+            "localNumber": "3275515",
+            "countryId": 24,
+            "dateCreated": "2020-12-23T00:00:00.000Z",
+            "createdAt": "2021-05-27T01:46:09.077Z",
+            "updatedAt": "2024-06-15T15:25:41.352Z",
+            "alternateNames": [],
+            "address": "NO 1 TANZANIA STREET OFF KENYA ROAD MALALI, KADUNA, KADUNA STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6849371",
+            "updatedAtSitemap": "2024-02-15T14:49:28.000Z",
+            "oldInternationalNumber": "3275515",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 4022,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196999,
+                    "providerId": "143234",
+                    "providerName": "Food and beverages services activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:18.106232+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 100333810,
+                    "address": "NO 1 TANZANIA STREET OFF KENYA ROAD MALALI, KADUNA, KADUNA STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 356833177,
+                    "companyId": 61908360,
+                    "personId": 66234568,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66234568,
+                        "name": "jamila inuwa saad",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1992,
+                        "birthMonth": 5,
+                        "birthDate": 14,
+                        "address": "65\/5Turaki line, Jos, PLATEAU STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2082306",
+                        "documentType": "Permanent Voters' Card",
+                        "documentNumber": "A37260994",
+                        "email": "mielerhsaad11@gmail.com",
+                        "phone": "+234 803 288 5453",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "EMDEES KITCHEN",
+                            "internationalNumber": "BN-2887062"
+                        },
+                        {
+                            "name": "SURE SPICE ",
+                            "internationalNumber": "BN-3315532"
+                        },
+                        {
+                            "name": "RAZAHAZUM ENTERPRISES",
+                            "internationalNumber": "BN-3486190"
+                        },
+                        {
+                            "name": "SHEIK UMAR MAI RIGAR FATA COLLEGE",
+                            "internationalNumber": "BN-3306283"
+                        },
+                        {
+                            "name": "LONBAD CONSULT",
+                            "internationalNumber": "BN-2649615"
+                        },
+                        {
+                            "name": "F & A GLOBAL INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1828911"
+                        },
+                        {
+                            "name": "LANTY GENERAL MERCHANDISE LIMITED ",
+                            "internationalNumber": "RC-1822259"
+                        },
+                        {
+                            "name": "AZ GUNDUTSE VENTURES LIMITED",
+                            "internationalNumber": "RC-1801715"
+                        },
+                        {
+                            "name": "Y.M.T BANNA GLOBAL",
+                            "internationalNumber": "BN-3462136"
+                        },
+                        {
+                            "name": "JIJI TRADING",
+                            "internationalNumber": "BN-3485298"
+                        },
+                        {
+                            "name": "JAY SA 'AD & CO",
+                            "internationalNumber": "BN-2630691"
+                        },
+                        {
+                            "name": "ST. HUNTAS",
+                            "internationalNumber": "BN-2686349"
+                        },
+                        {
+                            "name": "SAVE THE VICTIMS FOUNDATION",
+                            "internationalNumber": "IT-133593"
+                        },
+                        {
+                            "name": "AGM EDUCATIONAL SERVICES LIMITED",
+                            "internationalNumber": "RC-1793041"
+                        },
+                        {
+                            "name": "GOLDEN TULIP STORES",
+                            "internationalNumber": "BN-3371298"
+                        },
+                        {
+                            "name": "BABAN RUWA FARMS & SERVICES",
+                            "internationalNumber": "BN-3280871"
+                        },
+                        {
+                            "name": "MARISH ENTERPRISES",
+                            "internationalNumber": "BN-3279982"
+                        },
+                        {
+                            "name": "LOGIC CUBES GLOBAL CONCEPTS LIMITED",
+                            "internationalNumber": "RC-1757223"
+                        },
+                        {
+                            "name": "DASTAM SECURITY CONSULT LTD",
+                            "internationalNumber": "RC-1706084"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "ami*****************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Jam*** Inu** Saa*",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "mie********************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Inu** Jam*** Saa*",
+                    "contacts": {
+                        "email": [
+                            "mie********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

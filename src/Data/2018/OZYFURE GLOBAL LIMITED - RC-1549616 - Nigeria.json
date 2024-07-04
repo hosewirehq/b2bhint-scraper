@@ -1,0 +1,499 @@
+[
+    {
+        "year": "2018",
+        "title": "OZYFURE GLOBAL LIMITED - RC-1549616 - Nigeria",
+        "description": "OZYFURE GLOBAL LIMITED Nigeria company, Company number: RC-1549616, Incorporation Date 2018 m. gruod\u017eio 21 d.;, Address: PLOT NO: 1198, RENO ROAD, FLAT 1, KATAMPE, ABUJA., ABUJA, FCT",
+        "company": {
+            "id": 62123270,
+            "name": "OZYFURE GLOBAL LIMITED",
+            "internationalNumber": "RC-1549616",
+            "localNumber": "1549616",
+            "countryId": 24,
+            "dateCreated": "2018-12-21T00:00:00.000Z",
+            "createdAt": "2021-05-28T13:28:58.156Z",
+            "updatedAt": "2024-06-15T15:15:45.077Z",
+            "alternateNames": [],
+            "address": "PLOT NO: 1198, RENO ROAD, FLAT 1, KATAMPE, ABUJA., ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "5182434",
+            "updatedAtSitemap": "2023-06-09T17:59:51.000Z",
+            "oldInternationalNumber": "1549616",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1104,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 28874734,
+                    "address": "PLOT NO: 1198, RENO ROAD, FLAT 1, KATAMPE, ABUJA., ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 241027201,
+                    "companyId": 62123270,
+                    "personId": 98422309,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98422309,
+                        "name": "bartholomew okedu chukwunonyerem",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1968,
+                        "birthMonth": 9,
+                        "birthDate": 22,
+                        "address": "61 LAKE CRESCENT, MAITAMA, ABUJA",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "barthok.attorneys@gmail.com",
+                        "phone": "08030650027",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "JUSTINE AND PEACE GLOBAL VENTURES LTD",
+                            "internationalNumber": "RC-1538003"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241027202,
+                    "companyId": 62123270,
+                    "personId": 98422310,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 500000,
+                    "person": {
+                        "id": 98422310,
+                        "name": "edemu fure pius",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1982,
+                        "birthMonth": 9,
+                        "birthDate": 12,
+                        "address": "Plot No: 1198, Reno Road, Flat 1, Katampe, Abuja.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A06502514",
+                        "documentType": "International Passport",
+                        "email": "furepius@yahoo.com",
+                        "phone": "07060946625",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241027203,
+                    "companyId": 62123270,
+                    "personId": 98422310,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 500000,
+                    "person": {
+                        "id": 98422310,
+                        "name": "edemu fure pius",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1982,
+                        "birthMonth": 9,
+                        "birthDate": 12,
+                        "address": "Plot No: 1198, Reno Road, Flat 1, Katampe, Abuja.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A06502514",
+                        "documentType": "International Passport",
+                        "email": "furepius@yahoo.com",
+                        "phone": "07060946625",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241027205,
+                    "companyId": 62123270,
+                    "personId": 98422311,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 500000,
+                    "person": {
+                        "id": 98422311,
+                        "name": "edemu joy oziofu",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1989,
+                        "birthMonth": 6,
+                        "birthDate": 2,
+                        "address": "Plot No: 1198, Reno Road, Flat 1, Katampe, Abuja.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A10007849",
+                        "documentType": "International Passport",
+                        "email": "ozydiva25@gmail.com",
+                        "phone": "08160138470",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241027206,
+                    "companyId": 62123270,
+                    "personId": 98422312,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98422312,
+                        "name": "okedu chukwunonyerem bartholome ",
+                        "countryId": 24,
+                        "address": "No.62, Lake Chad Crescent, Maitama, Abuja.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "ABC52375AC33",
+                        "documentType": "Driver's License",
+                        "email": "barthok.attorneys@gmail.com",
+                        "phone": "08030650027",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241027207,
+                    "companyId": 62123270,
+                    "personId": 98422313,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98422313,
+                        "name": "okedu chukwunonyerem bartholomew ",
+                        "countryId": 24,
+                        "address": "61 LAKE CRESCENT, MAITAMA, ABUJA.",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "barthok.attorneys@gmail.com",
+                        "phone": "08030650027",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "fur***************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Oke** Chu*********** Bar********",
+                    "contacts": {
+                        "phone": [
+                            "080********"
+                        ],
+                        "email": [
+                            "bar************************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "7",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "null": 2
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

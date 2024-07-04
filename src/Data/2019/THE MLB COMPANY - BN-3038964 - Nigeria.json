@@ -1,0 +1,327 @@
+[
+    {
+        "year": "2019",
+        "title": "THE MLB COMPANY - BN-3038964 - Nigeria",
+        "description": "THE MLB COMPANY Nigeria company, Company number: BN-3038964, Incorporation Date Dec 20, 2019;, Address: 2 FATUNKE AVENUE, IREAKARI ESTATE, ISOLO, LAGOS STATE",
+        "company": {
+            "id": 62598933,
+            "name": "THE MLB COMPANY",
+            "internationalNumber": "BN-3038964",
+            "localNumber": "3038964",
+            "countryId": 24,
+            "dateCreated": "2019-12-20T00:00:00.000Z",
+            "createdAt": "2021-05-30T19:30:28.134Z",
+            "updatedAt": "2024-06-15T14:11:15.761Z",
+            "alternateNames": [],
+            "address": "2 FATUNKE AVENUE, IREAKARI ESTATE, ISOLO, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6166771",
+            "updatedAtSitemap": "2024-01-01T15:01:33.000Z",
+            "oldInternationalNumber": "3038964",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1178,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91489040,
+                    "address": "2 FATUNKE AVENUE, IREAKARI ESTATE, ISOLO, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332588679,
+                    "companyId": 62598933,
+                    "personId": 66133675,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66133675,
+                        "name": "olabisi odumade",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1995,
+                        "birthMonth": 10,
+                        "birthDate": 29,
+                        "address": "69Akinola Cole Crescent off Adeniyi Jones, Ikeja, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2062280",
+                        "documentType": "International Passport",
+                        "documentNumber": "A09731156",
+                        "email": "labismade@yahoo.com",
+                        "phone": "+234 802 975 1723",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "NNENNA NWIZU CLOTHING LTD",
+                            "internationalNumber": "RC-1791589"
+                        },
+                        {
+                            "name": "CRIB DRIVES",
+                            "internationalNumber": "BN-2943413"
+                        },
+                        {
+                            "name": "CHARLES & SLABS LIMITED",
+                            "internationalNumber": "RC-1755914"
+                        },
+                        {
+                            "name": "FRANKJ FARMS",
+                            "internationalNumber": "BN-2944401"
+                        },
+                        {
+                            "name": "TAILORWISE NG",
+                            "internationalNumber": "BN-3298196"
+                        },
+                        {
+                            "name": "TREATS N MORE",
+                            "internationalNumber": "BN-3176044"
+                        },
+                        {
+                            "name": "3 HERMANAS",
+                            "internationalNumber": "BN-3082211"
+                        },
+                        {
+                            "name": "CRIB RESOURCE PARTNER",
+                            "internationalNumber": "BN-2792502"
+                        },
+                        {
+                            "name": "OTHERWISE COLLECTIVE LTD",
+                            "internationalNumber": "RC-1851081"
+                        },
+                        {
+                            "name": "SKILLYSOLUTIONS LTD",
+                            "internationalNumber": "RC-1865504"
+                        },
+                        {
+                            "name": "PARTYWORKS LIVE",
+                            "internationalNumber": "BN-2915828"
+                        },
+                        {
+                            "name": "M778NG BRAND MANAGEMENT COMPANY LTD",
+                            "internationalNumber": "RC-1794387"
+                        },
+                        {
+                            "name": "MERITAFRIKA LTD ",
+                            "internationalNumber": "RC-1760163"
+                        },
+                        {
+                            "name": "EXPERTRADE LIMITED",
+                            "internationalNumber": "RC-1509236"
+                        },
+                        {
+                            "name": "CONVCOM LIMITED",
+                            "internationalNumber": "RC-1714006"
+                        },
+                        {
+                            "name": "K-LUE LIMITED",
+                            "internationalNumber": "RC-1719174"
+                        },
+                        {
+                            "name": "HAPPY HOUR DRINKS NIGERIA",
+                            "internationalNumber": "BN-3081624"
+                        },
+                        {
+                            "name": "ULAGA LIMITED",
+                            "internationalNumber": "RC-1728224"
+                        },
+                        {
+                            "name": "NICE 'N' SIMPLE GLOBAL",
+                            "internationalNumber": "BN-2836300"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Ola**** Odu****",
+                    "contacts": {
+                        "email": [
+                            "lab****************"
+                        ],
+                        "phone": [
+                            "+23***********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Odu**** Ola****",
+                    "contacts": {
+                        "email": [
+                            "lab****************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 4,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

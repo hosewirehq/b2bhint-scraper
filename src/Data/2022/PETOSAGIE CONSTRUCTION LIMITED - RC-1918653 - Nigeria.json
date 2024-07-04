@@ -1,0 +1,656 @@
+[
+    {
+        "year": "2022",
+        "title": "PETOSAGIE CONSTRUCTION LIMITED - RC-1918653 - Nigeria",
+        "description": "PETOSAGIE CONSTRUCTION LIMITED Nigeria company, Company number: RC-1918653, Incorporation Date 13 \u0430\u043f\u0440. 2022 \u0433.;, Address: PLOT 414 UOO PLAZA BESIDE SABODELE PLAZA, JABI, JABI-ABUJA, FCT",
+        "company": {
+            "id": 109074278,
+            "name": "PETOSAGIE CONSTRUCTION LIMITED",
+            "internationalNumber": "RC-1918653",
+            "localNumber": "1918653",
+            "countryId": 24,
+            "dateCreated": "2022-04-13T00:00:00.000Z",
+            "createdAt": "2022-04-15T02:34:06.925Z",
+            "updatedAt": "2024-06-15T15:40:01.555Z",
+            "alternateNames": [],
+            "address": "PLOT 414 UOO PLAZA BESIDE SABODELE PLAZA, JABI, JABI-ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "CONSTRUCTION",
+            "providerId": "7919585",
+            "updatedAtSitemap": "2023-06-09T16:43:33.000Z",
+            "oldInternationalNumber": "1918653",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 321,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197122,
+                    "providerId": "143224",
+                    "providerName": "Specialized construction activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:04:05.515315+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102111487,
+                    "address": "PLOT 414 UOO PLAZA BESIDE SABODELE PLAZA, JABI, JABI-ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 298955596,
+                    "companyId": 109074278,
+                    "personId": 116111955,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-13",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 800000,
+                    "person": {
+                        "id": 116111955,
+                        "name": "osagie peter mathew",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1978,
+                        "birthMonth": 12,
+                        "birthDate": 31,
+                        "address": ", PLOT 414, U O O PLAZA BESIDE SABODELE PLAZA, JABI",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "OSAGIEPETERM@GMAIL.COM",
+                        "phone": "07030326662",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298955597,
+                    "companyId": 109074278,
+                    "personId": 101881377,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-13",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 200000,
+                    "person": {
+                        "id": 101881377,
+                        "name": "ibeh mercy chinyere",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1990,
+                        "birthMonth": 12,
+                        "birthDate": 4,
+                        "address": "JUKWOYI PHASE 4 AFTER LAST TRANSFORMER, HOUSE 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "70852408345",
+                        "documentType": "National ID Card",
+                        "email": "MERCYP383@GMAIL.COM",
+                        "phone": "08070877808",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298955598,
+                    "companyId": 109074278,
+                    "personId": 116111955,
+                    "roleId": 60321,
+                    "percentage": 80,
+                    "appointedOn": "2022-04-13",
+                    "votingShares": "80%",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 800000,
+                    "person": {
+                        "id": 116111955,
+                        "name": "osagie peter mathew",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1978,
+                        "birthMonth": 12,
+                        "birthDate": 31,
+                        "address": ", PLOT 414, U O O PLAZA BESIDE SABODELE PLAZA, JABI",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "OSAGIEPETERM@GMAIL.COM",
+                        "phone": "07030326662",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60321,
+                        "name": "Persons with significant control",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Persons with significant control"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298955592,
+                    "companyId": 109074278,
+                    "personId": 100880218,
+                    "roleId": 60320,
+                    "appointedOn": "2022-04-13",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 100880218,
+                        "name": "odigie lucky uhunoma",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "nationality": "Nigeria",
+                        "birthYear": 1976,
+                        "birthMonth": 5,
+                        "birthDate": 26,
+                        "address": "AHMADU BELLO WAY, AREA 11, GARKI, ABUJA, ZM PLAZA, PLOT 1409",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "62475109417",
+                        "documentType": "National ID Card",
+                        "email": "luckyodigie@nigerianbar.ng",
+                        "phone": "08037674761",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298955593,
+                    "companyId": 109074278,
+                    "personId": 78804570,
+                    "roleId": 60324,
+                    "appointedOn": "2022-04-13",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 78804570,
+                        "name": "osagie joy",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "address": "JUKWOYI PHASE 4 AFTER LAST TRANSFORMER, JUKWOYI, PLOT 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "OSAGIEPETERM@GMAIL.COM",
+                        "phone": "07030326662",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "AYO ADEGBENGA ENTERPRISES LTD",
+                            "internationalNumber": "RC-108095"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298955594,
+                    "companyId": 109074278,
+                    "personId": 116111955,
+                    "roleId": 60317,
+                    "appointedOn": "2022-04-13",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 116111955,
+                        "name": "osagie peter mathew",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1978,
+                        "birthMonth": 12,
+                        "birthDate": 31,
+                        "address": ", PLOT 414, U O O PLAZA BESIDE SABODELE PLAZA, JABI",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "OSAGIEPETERM@GMAIL.COM",
+                        "phone": "07030326662",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 365528628,
+                    "companyId": 109074278,
+                    "personId": 66504434,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66504434,
+                        "name": "lucky uhunoma odigie",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1976,
+                        "birthMonth": 5,
+                        "birthDate": 26,
+                        "address": "ZM PLAZA, PLOT 1409AHMADU BELLO WAY, AREA 11, GARKI, ABUJA, ABUJA, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1913581",
+                        "documentType": "National ID Card",
+                        "documentNumber": "62475109417",
+                        "email": "luckyodigie@nigerianbar.ng",
+                        "phone": "+234 803 767 4761",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "GUARDIAN TECHNOLOGIES NIGERIA LIMITED",
+                            "internationalNumber": "RC-1516902"
+                        },
+                        {
+                            "name": "LUCKSMODE GLOBAL SERVICES LIMITED",
+                            "internationalNumber": "RC-1725898"
+                        },
+                        {
+                            "name": "E-J FARMS",
+                            "internationalNumber": "BN-2796256"
+                        },
+                        {
+                            "name": "TESVIC OIL AND GAS GLOBAL SERVICES LIMITED",
+                            "internationalNumber": "RC-1587253"
+                        },
+                        {
+                            "name": " LUCKY U ODIGIE & CO",
+                            "internationalNumber": "BN-2588738"
+                        },
+                        {
+                            "name": "OSAHON AIM FARMS",
+                            "internationalNumber": "BN-2813545"
+                        },
+                        {
+                            "name": "LEGACY ESTATE NIGERIA LIMITED",
+                            "internationalNumber": "RC-1653224"
+                        },
+                        {
+                            "name": "EMERA WINE EMPIRE",
+                            "internationalNumber": "BN-2996516"
+                        },
+                        {
+                            "name": "RAB AUDU FARMS LIMITED",
+                            "internationalNumber": "RC-1725934"
+                        },
+                        {
+                            "name": "TESVIC SPORTS ACADEMY LIMITED",
+                            "internationalNumber": "RC-1592637"
+                        },
+                        {
+                            "name": "TRENTINO HOTELS LIMITED",
+                            "internationalNumber": "RC-1636147"
+                        },
+                        {
+                            "name": "IFECO SUPERIOR BOUTIQUE",
+                            "internationalNumber": "BN-3039534"
+                        },
+                        {
+                            "name": "ANGLICAN GRAMMAR SCHOOL OLD BOYS ASSOCIATION 94 (ANGSOBA 94)",
+                            "internationalNumber": "IT-154082"
+                        },
+                        {
+                            "name": "MAGWAN HOTELS LTD",
+                            "internationalNumber": "RC-168335"
+                        },
+                        {
+                            "name": "ANDRAKOS VENTURES LIMITED",
+                            "internationalNumber": "RC-1507371"
+                        },
+                        {
+                            "name": "NOWARE ENTERPRISE",
+                            "internationalNumber": "BN-3204775"
+                        },
+                        {
+                            "name": "FAIRCAPE GLOBAL PROPERTIES CONSULT LIMITED",
+                            "internationalNumber": "RC-1462228"
+                        },
+                        {
+                            "name": "ELGIUS O. EBHONUAYE & CO.",
+                            "internationalNumber": "BN-3215980"
+                        },
+                        {
+                            "name": "CITYGATE ONE LTD",
+                            "internationalNumber": "RC-1748694"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "osa*******************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Luc** Uhu**** Odi***",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "luc***********************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Luc** Odi*** Uhu****",
+                    "contacts": {
+                        "email": [
+                            "luc***********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "10",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 2,
+                "3": 1,
+                "null": 5
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

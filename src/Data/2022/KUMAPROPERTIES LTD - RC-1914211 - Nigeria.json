@@ -1,0 +1,549 @@
+[
+    {
+        "year": "2022",
+        "title": "KUMAPROPERTIES LTD - RC-1914211 - Nigeria",
+        "description": "KUMAPROPERTIES LTD Nigeria company, Company number: RC-1914211, Incorporation Date 4 Nis 2022;, Address: NO. 5 AMBULJALIL STREET KARU-SITE, ABUJA, FCT",
+        "company": {
+            "id": 109109843,
+            "name": "KUMAPROPERTIES LTD",
+            "internationalNumber": "RC-1914211",
+            "localNumber": "1914211",
+            "countryId": 24,
+            "dateCreated": "2022-04-04T00:00:00.000Z",
+            "createdAt": "2022-04-15T14:40:29.461Z",
+            "updatedAt": "2024-06-15T15:40:28.634Z",
+            "alternateNames": [],
+            "address": "NO. 5 AMBULJALIL STREET KARU-SITE, ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "Real estate, construction, plumbing services.",
+            "providerId": "7937248",
+            "updatedAtSitemap": "2023-06-09T16:44:36.000Z",
+            "oldInternationalNumber": "1914211",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 638,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196919,
+                    "providerId": "143269",
+                    "providerName": "Other personal services activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T13:47:47.959002+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 69583886,
+                    "address": "NO. 5 AMBULJALIL STREET KARU-SITE, ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 298887727,
+                    "companyId": 109109843,
+                    "personId": 104326719,
+                    "roleId": 60320,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 104326719,
+                        "name": "ojiako tabitha onyinye",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner ",
+                        "nationality": "Nigeria",
+                        "birthYear": 1995,
+                        "birthMonth": 10,
+                        "birthDate": 12,
+                        "address": "Persian close Euphrates crescent , No 10",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "69572694449",
+                        "documentType": "National ID Card",
+                        "email": "ojiakotabitha@gmail.com",
+                        "phone": "09056555936",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "LC APPEALS",
+                            "internationalNumber": "BN-3614658"
+                        },
+                        {
+                            "name": "CELLISTA CAKES ENTERPRISES",
+                            "internationalNumber": "BN-3612300"
+                        },
+                        {
+                            "name": "DAJONATH GLOBAL VENTURES LTD",
+                            "internationalNumber": "RC-1911896"
+                        },
+                        {
+                            "name": "ORBAX NIGERIA LIMITED",
+                            "internationalNumber": "RC-1908650"
+                        },
+                        {
+                            "name": "DOVEPEST-EMPIRE OIL AND GAS LTD",
+                            "internationalNumber": "RC-1911225"
+                        },
+                        {
+                            "name": "HUGANICSINTERIORS",
+                            "internationalNumber": "BN-3607258"
+                        },
+                        {
+                            "name": "WHITEST AUTOS LIMITED",
+                            "internationalNumber": "RC-1907239"
+                        },
+                        {
+                            "name": "COF MARKETING",
+                            "internationalNumber": "BN-3617641"
+                        },
+                        {
+                            "name": "DE DAPHNE\u2019S EMPIRE",
+                            "internationalNumber": "BN-3608063"
+                        },
+                        {
+                            "name": "BSEGAD LIMITED",
+                            "internationalNumber": "RC-1917259"
+                        },
+                        {
+                            "name": "SHOPWITH_EVERYTHINGSOFIYA",
+                            "internationalNumber": "BN-3619435"
+                        },
+                        {
+                            "name": "C.Y & BROS. VENTURES LTD",
+                            "internationalNumber": "RC-1906452"
+                        },
+                        {
+                            "name": "BRIXMARKET",
+                            "internationalNumber": "BN-3607075"
+                        },
+                        {
+                            "name": "UFK HOMES AND HOMES PROPERTIES LTD",
+                            "internationalNumber": "RC-1912480"
+                        },
+                        {
+                            "name": "BIG RALPH LTD",
+                            "internationalNumber": "RC-1907224"
+                        },
+                        {
+                            "name": "DORFAITH COMPANY LIMITED",
+                            "internationalNumber": "RC-1907577"
+                        },
+                        {
+                            "name": "EMMYDEVICE VENTURES",
+                            "internationalNumber": "BN-3612609"
+                        },
+                        {
+                            "name": "ADKLASS CLOTHING",
+                            "internationalNumber": "BN-3607181"
+                        },
+                        {
+                            "name": "IT'S SOUPDOTCOM.NG",
+                            "internationalNumber": "BN-3608827"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298887728,
+                    "companyId": 109109843,
+                    "personId": 80318875,
+                    "roleId": 60324,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 80318875,
+                        "name": "maku philip sule",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "address": "Ambabduljalilstreet Karu-site, No. 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "PhilipSulemaku@gmail.com",
+                        "phone": "08036008181",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298887729,
+                    "companyId": 109109843,
+                    "personId": 116106777,
+                    "roleId": 60317,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 116106777,
+                        "name": "maku ovye philip",
+                        "countryId": 24,
+                        "occupation": "Business man",
+                        "nationality": "Nigeria",
+                        "birthYear": 1996,
+                        "birthMonth": 11,
+                        "birthDate": 12,
+                        "address": "Ambabduljalil street Karu-site, No. 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "ABC55433AD38",
+                        "documentType": "Driver's License",
+                        "email": "Kumaproperties.investmentltd@gmail.com",
+                        "phone": "09013203901",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298887730,
+                    "companyId": 109109843,
+                    "personId": 104332363,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1000000,
+                    "person": {
+                        "id": 104332363,
+                        "name": "maku ovye philip",
+                        "countryId": 24,
+                        "occupation": "Business man",
+                        "nationality": "Nigeria",
+                        "birthYear": 1996,
+                        "birthMonth": 11,
+                        "birthDate": 12,
+                        "address": "amb Abduljalil street Karu-site, No. 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A",
+                        "documentType": "Driver's License",
+                        "email": "Kumaproperties.investmentltd@gmail.com",
+                        "phone": "09013203901",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298887731,
+                    "companyId": 109109843,
+                    "personId": 104332363,
+                    "roleId": 60321,
+                    "percentage": 100,
+                    "appointedOn": "2022-04-04",
+                    "votingShares": "100%",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1000000,
+                    "person": {
+                        "id": 104332363,
+                        "name": "maku ovye philip",
+                        "countryId": 24,
+                        "occupation": "Business man",
+                        "nationality": "Nigeria",
+                        "birthYear": 1996,
+                        "birthMonth": 11,
+                        "birthDate": 12,
+                        "address": "amb Abduljalil street Karu-site, No. 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A",
+                        "documentType": "Driver's License",
+                        "email": "Kumaproperties.investmentltd@gmail.com",
+                        "phone": "09013203901",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60321,
+                        "name": "Persons with significant control",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Persons with significant control"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "kum***********************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Tab**** Ony**** Oji***",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "090********"
+                        ],
+                        "email": [
+                            "oji********************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Oji*** Ony**** Tab****",
+                    "contacts": {
+                        "email": [
+                            "oji********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "7",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 2,
+                "null": 4
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

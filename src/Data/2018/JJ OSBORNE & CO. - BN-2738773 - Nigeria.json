@@ -1,0 +1,320 @@
+[
+    {
+        "year": "2018",
+        "title": "JJ OSBORNE & CO. - BN-2738773 - Nigeria",
+        "description": "JJ OSBORNE & CO. Nigeria company, Company number: BN-2738773, Incorporation Date 21 dec 2018;, Address: 20 AJIBODU STREET, IFAKO-IJAIYE, LAGOS STATE",
+        "company": {
+            "id": 61976703,
+            "name": "JJ OSBORNE & CO.",
+            "internationalNumber": "BN-2738773",
+            "localNumber": "2738773",
+            "countryId": 24,
+            "dateCreated": "2018-12-21T00:00:00.000Z",
+            "createdAt": "2021-05-27T12:25:54.530Z",
+            "updatedAt": "2024-06-15T15:13:31.798Z",
+            "alternateNames": [],
+            "address": "20 AJIBODU STREET, IFAKO-IJAIYE, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5154486",
+            "updatedAtSitemap": "2023-06-09T18:02:39.000Z",
+            "oldInternationalNumber": "2738773",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1104,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196939,
+                    "providerId": "199202",
+                    "providerName": "Legal Practice and Consultancy",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:26.017869+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97691888,
+                    "address": "20 AJIBODU STREET, IFAKO-IJAIYE, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 347647657,
+                    "companyId": 61976703,
+                    "personId": 67658939,
+                    "roleId": 60318,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67658939,
+                        "name": "emmanuel uwa onuoha",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1972,
+                        "birthMonth": 12,
+                        "birthDate": 25,
+                        "address": "47 College Road, Ogba, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1880085",
+                        "documentType": "Permanent Voters' Card",
+                        "documentNumber": "A25247228 ",
+                        "email": "jjosbornelaw@gmail.com",
+                        "phone": "+234 803 372 8451",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60318,
+                        "name": "Lawyer",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Lawyer"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "EASY BEST OIL & GAS LIMITED",
+                            "internationalNumber": "RC-1760540"
+                        },
+                        {
+                            "name": "WILLIAMS OSAYANDE LOGISTICS LIMITED",
+                            "internationalNumber": "RC-1761291"
+                        },
+                        {
+                            "name": "FONERITE ENTERPRISES",
+                            "internationalNumber": "BN-3392898"
+                        },
+                        {
+                            "name": "UYI JAMES LOGISTICS LIMITED",
+                            "internationalNumber": "RC-1523997"
+                        },
+                        {
+                            "name": "JAYTEMS DIGITAL HUB LIMITED",
+                            "internationalNumber": "RC-1524900"
+                        },
+                        {
+                            "name": "VICTOMARK AUTOS",
+                            "internationalNumber": "BN-3339646"
+                        },
+                        {
+                            "name": "ORODOWORLD STUDIOS AND PROMOTIONS LIMITED",
+                            "internationalNumber": "RC-1535045"
+                        },
+                        {
+                            "name": "ADEBAYO GOLD VENTURES",
+                            "internationalNumber": "BN-3393246"
+                        },
+                        {
+                            "name": "MORATTI BOSSI AUTOS",
+                            "internationalNumber": "BN-3169527"
+                        },
+                        {
+                            "name": "HAKDOLP ENTERPRISES",
+                            "internationalNumber": "BN-3387155"
+                        },
+                        {
+                            "name": "MCBRATERAS & JOMICO INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1541971"
+                        },
+                        {
+                            "name": "VINTAGE DISTRIBUTORS LIMITED",
+                            "internationalNumber": "RC-1573443"
+                        },
+                        {
+                            "name": "VAL PAT AGROPAK LIMITED",
+                            "internationalNumber": "RC-1729702"
+                        },
+                        {
+                            "name": "NEXGEN PRODUCTIONS LIMITED",
+                            "internationalNumber": "RC-1486656"
+                        },
+                        {
+                            "name": "NEXGEN COMMODITIES LIMITED",
+                            "internationalNumber": "RC-1485700"
+                        },
+                        {
+                            "name": "EYEKONIK MEDIA LIMITED",
+                            "internationalNumber": "RC-1801659"
+                        },
+                        {
+                            "name": "ST. MARK ROYAL HOSPITAL LIMITED",
+                            "internationalNumber": "RC-1842609"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Emm***** Uwa Onu***",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "jjo*******************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Emm***** Onu*** Uwa",
+                    "contacts": {
+                        "email": [
+                            "jjo*******************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

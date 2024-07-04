@@ -1,0 +1,519 @@
+[
+    {
+        "year": "2019",
+        "title": "1936 INTERNATIONAL LIMITED - RC-1642526 - Nigeria",
+        "description": "1936 INTERNATIONAL LIMITED Nigeria company, Company number: RC-1642526, Incorporation Date 18 Dec. 2019;, Address: 15, DIOB AVENUE, ABA, ABIA STATE, ABA, ABIA STATE",
+        "company": {
+            "id": 62569261,
+            "name": "1936 INTERNATIONAL LIMITED",
+            "internationalNumber": "RC-1642526",
+            "localNumber": "1642526",
+            "countryId": 24,
+            "dateCreated": "2019-12-18T00:00:00.000Z",
+            "createdAt": "2021-05-30T17:17:59.624Z",
+            "updatedAt": "2024-06-15T14:11:09.534Z",
+            "alternateNames": [],
+            "address": "15, DIOB AVENUE, ABA, ABIA STATE, ABA, ABIA STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "3000000 NGN",
+            "sharesValue": "0.5 NGN",
+            "sharesIssued": "6000000",
+            "historicalNames": [],
+            "providerId": "6161046",
+            "updatedAtSitemap": "2023-06-09T14:59:42.000Z",
+            "oldInternationalNumber": "1642526",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1428,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197091,
+                    "providerId": "143273",
+                    "providerName": "Hotel and Hospitality",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:03:09.030665+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91481537,
+                    "address": "15, DIOB AVENUE, ABA, ABIA STATE, ABA, ABIA STATE",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "1936 PROPERTIES LTD",
+                            "internationalNumber": "RC-1644597"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 158502638,
+                    "companyId": 62569261,
+                    "personId": 66911149,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66911149,
+                        "name": "nwosu jude nnamdi",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1959,
+                        "birthMonth": 5,
+                        "birthDate": 11,
+                        "address": "15, DIOB AVENUE, ABA, ABIA STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A08888832",
+                        "documentType": "International Passport",
+                        "email": "crunchieslimited@yahoo.com",
+                        "phone": "08033046188",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "1936 PROPERTIES LTD",
+                            "internationalNumber": "RC-1644597"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158502642,
+                    "companyId": 62569261,
+                    "personId": 66911149,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 5460000,
+                    "person": {
+                        "id": 66911149,
+                        "name": "nwosu jude nnamdi",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1959,
+                        "birthMonth": 5,
+                        "birthDate": 11,
+                        "address": "15, DIOB AVENUE, ABA, ABIA STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A08888832",
+                        "documentType": "International Passport",
+                        "email": "crunchieslimited@yahoo.com",
+                        "phone": "08033046188",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [
+                        {
+                            "name": "1936 PROPERTIES LTD",
+                            "internationalNumber": "RC-1644597"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158502639,
+                    "companyId": 62569261,
+                    "personId": 66911150,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66911150,
+                        "name": "nwosu michelle akunna",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1985,
+                        "birthMonth": 2,
+                        "birthDate": 7,
+                        "address": "15, DIOB AVENUE, ABA, ABIA STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A03710809",
+                        "documentType": "International Passport",
+                        "email": "crunchieslimited@yahoo.com",
+                        "phone": "08164769746",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "1936 PROPERTIES LTD",
+                            "internationalNumber": "RC-1644597"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158502643,
+                    "companyId": 62569261,
+                    "personId": 66911150,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 420000,
+                    "person": {
+                        "id": 66911150,
+                        "name": "nwosu michelle akunna",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1985,
+                        "birthMonth": 2,
+                        "birthDate": 7,
+                        "address": "15, DIOB AVENUE, ABA, ABIA STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A03710809",
+                        "documentType": "International Passport",
+                        "email": "crunchieslimited@yahoo.com",
+                        "phone": "08164769746",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [
+                        {
+                            "name": "1936 PROPERTIES LTD",
+                            "internationalNumber": "RC-1644597"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158502645,
+                    "companyId": 62569261,
+                    "personId": 67076401,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67076401,
+                        "name": "ekarika felix ekarika",
+                        "countryId": 24,
+                        "address": "1, KOFOWOROLA CRESCENT, OFF OBAFEMI AWOLOWO WAY, IKEJA, LAGOS",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "felixekarika@gmail.com",
+                        "phone": "08033256027",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 237400977,
+                    "companyId": 62569261,
+                    "personId": 96944030,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 96944030,
+                        "name": "ekarika felix justine",
+                        "countryId": 24,
+                        "address": "1, KOFOWOROLA CRESCENT, OFF OBAFEMI AWOLOWO WAY, IKEJA, LAGOS",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "FFF20657AAA95",
+                        "documentType": "Driver's License",
+                        "email": "felixekarika@gmail.com",
+                        "phone": "08033256027",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "fel*******************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Fel** Jus**** Eka****",
+                    "contacts": {
+                        "email": [
+                            "fel*******************"
+                        ],
+                        "phone": [
+                            "234**********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "9",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 3,
+                "2": 4,
+                "null": 2
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

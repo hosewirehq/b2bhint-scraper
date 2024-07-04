@@ -1,0 +1,525 @@
+[
+    {
+        "year": "2022",
+        "title": "NIFTS PROJECT LTD - RC-1918581 - Nigeria",
+        "description": "NIFTS PROJECT LTD Nigeria company, Company number: RC-1918581, Incorporation Date 12. Apr. 2022;, Address: FLAT 38 BEHIND PARIS AFRICAN SCHOOL, ROYAL ESTATE, KARU, FCT",
+        "company": {
+            "id": 108929050,
+            "name": "NIFTS PROJECT LTD",
+            "internationalNumber": "RC-1918581",
+            "localNumber": "1918581",
+            "countryId": 24,
+            "dateCreated": "2022-04-12T00:00:00.000Z",
+            "createdAt": "2022-04-13T18:33:08.579Z",
+            "updatedAt": "2024-06-15T15:38:20.900Z",
+            "alternateNames": [],
+            "address": "FLAT 38 BEHIND PARIS AFRICAN SCHOOL, ROYAL ESTATE, KARU, FCT",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "Building and construction of houses, bridges and roads",
+            "providerId": "7867881",
+            "updatedAtSitemap": "2023-06-09T16:38:52.000Z",
+            "oldInternationalNumber": "1918581",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 422,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197111,
+                    "providerId": "199198",
+                    "providerName": "Civil Engineering Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:03:49.073139+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 69462300,
+                    "address": "FLAT 38 BEHIND PARIS AFRICAN SCHOOL, ROYAL ESTATE, KARU, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299163273,
+                    "companyId": 108929050,
+                    "personId": 102576000,
+                    "roleId": 60320,
+                    "appointedOn": "2022-04-12",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 102576000,
+                        "name": "ejiwale olumide peter",
+                        "countryId": 24,
+                        "occupation": "Engineer",
+                        "nationality": "Nigeria",
+                        "birthYear": 1986,
+                        "birthMonth": 6,
+                        "birthDate": 15,
+                        "address": "Behind Paris African School, Royal Estate, FLAT 3B",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A07713324",
+                        "documentType": "International Passport",
+                        "email": "o.ejiwale@yahoo.com",
+                        "phone": "08059793431",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299163274,
+                    "companyId": 108929050,
+                    "personId": 102576000,
+                    "roleId": 60317,
+                    "appointedOn": "2022-04-12",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 102576000,
+                        "name": "ejiwale olumide peter",
+                        "countryId": 24,
+                        "occupation": "Engineer",
+                        "nationality": "Nigeria",
+                        "birthYear": 1986,
+                        "birthMonth": 6,
+                        "birthDate": 15,
+                        "address": "Behind Paris African School, Royal Estate, FLAT 3B",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A07713324",
+                        "documentType": "International Passport",
+                        "email": "o.ejiwale@yahoo.com",
+                        "phone": "08059793431",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299163277,
+                    "companyId": 108929050,
+                    "personId": 66870755,
+                    "roleId": 60328,
+                    "appointedOn": "2022-04-12",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 66870755,
+                        "name": "ejiwale olumide peter",
+                        "countryId": 24,
+                        "address": ", , Flat 5, Flat 38, Behind Paris African School, Royal Estate",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "nifesoye@gmail.com",
+                        "phone": "8059793431",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "VIDAS ENGINEERING LIMITED",
+                            "internationalNumber": "RC-1340755"
+                        },
+                        {
+                            "name": "PETBUK CONSTRUCTION LIMITED",
+                            "internationalNumber": "RC-1342079"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299163279,
+                    "companyId": 108929050,
+                    "personId": 95665737,
+                    "roleId": 60324,
+                    "appointedOn": "2022-04-12",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 95665737,
+                        "name": "abiodun-oni taiwo ibukunoluwa james",
+                        "countryId": 24,
+                        "occupation": "Lawyer",
+                        "address": "Olumaro Street , Olambe Ogun State, No 16",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "onitaiwo8@gmail.com",
+                        "phone": "07059613203",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299163283,
+                    "companyId": 108929050,
+                    "personId": 102576000,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-12",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 6,
+                    "person": {
+                        "id": 102576000,
+                        "name": "ejiwale olumide peter",
+                        "countryId": 24,
+                        "occupation": "Engineer",
+                        "nationality": "Nigeria",
+                        "birthYear": 1986,
+                        "birthMonth": 6,
+                        "birthDate": 15,
+                        "address": "Behind Paris African School, Royal Estate, FLAT 3B",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A07713324",
+                        "documentType": "International Passport",
+                        "email": "o.ejiwale@yahoo.com",
+                        "phone": "08059793431",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299163284,
+                    "companyId": 108929050,
+                    "personId": 101718700,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-12",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1,
+                    "person": {
+                        "id": 101718700,
+                        "name": "ladipo ifeoluwa oluwabusayo",
+                        "countryId": 24,
+                        "occupation": "Electrical engineer",
+                        "nationality": "Nigeria",
+                        "birthYear": 1989,
+                        "birthMonth": 3,
+                        "birthDate": 1,
+                        "address": "Morroco, Yaba, Flat 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A04333002",
+                        "documentType": "International Passport",
+                        "email": "bejiwale@yahoo.com",
+                        "phone": "08034835227",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "nif***************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Olu**** Pet** Eji****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "805*******"
+                        ],
+                        "email": [
+                            "nif***************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Eji**** Olu**** Pet**",
+                    "contacts": {
+                        "email": [
+                            "nif***************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "19",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "1": 5,
+                "2": 6,
+                "null": 8
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

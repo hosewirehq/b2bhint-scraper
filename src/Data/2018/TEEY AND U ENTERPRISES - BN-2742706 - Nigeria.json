@@ -1,0 +1,328 @@
+[
+    {
+        "year": "2018",
+        "title": "TEEY AND U ENTERPRISES - BN-2742706 - Nigeria",
+        "description": "TEEY AND U ENTERPRISES Nigeria company, Company number: BN-2742706, Incorporation Date Dec 27, 2018;, Address: NO 4, OGUNMEFUN STREET, PAPA AJAO MUSHIN, LAGOS., PAPA AJAO, LAGOS STATE",
+        "company": {
+            "id": 62102163,
+            "name": "TEEY AND U ENTERPRISES",
+            "internationalNumber": "BN-2742706",
+            "localNumber": "2742706",
+            "countryId": 24,
+            "dateCreated": "2018-12-27T00:00:00.000Z",
+            "createdAt": "2021-05-28T06:04:05.447Z",
+            "updatedAt": "2024-06-15T15:15:33.909Z",
+            "alternateNames": [],
+            "address": "NO 4, OGUNMEFUN STREET, PAPA AJAO MUSHIN, LAGOS., PAPA AJAO, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5178774",
+            "updatedAtSitemap": "2023-06-09T18:00:16.000Z",
+            "oldInternationalNumber": "2742706",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2315,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196921,
+                    "providerId": "199277",
+                    "providerName": "Boutique Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.930706+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97875194,
+                    "address": "NO 4, OGUNMEFUN STREET, PAPA AJAO MUSHIN, LAGOS., PAPA AJAO, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 348599036,
+                    "companyId": 62102163,
+                    "personId": 68256902,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 68256902,
+                        "name": "bukola kofoworola fagbo",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1982,
+                        "birthMonth": 5,
+                        "birthDate": 18,
+                        "address": "NO24DSABONDALE SHOPPING COMPLEX JABI., JABI",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1683877",
+                        "documentType": "Driver's License",
+                        "documentNumber": "ABC92198AA02",
+                        "email": "kofofag@yahoo.com",
+                        "phone": "+234 805 672 2452",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "JAFWAS SOLATIL MULTINATIONALS LIMITED",
+                            "internationalNumber": "RC-1421014"
+                        },
+                        {
+                            "name": "ADUKEOLAGOLD NIG LTD",
+                            "internationalNumber": "RC-1832763"
+                        },
+                        {
+                            "name": "SHEPHERD-P NIG LTD",
+                            "internationalNumber": "RC-1699635"
+                        },
+                        {
+                            "name": "GRAMMY AWARDS BAKERY & CONFECTIONERY LTD",
+                            "internationalNumber": "RC-1510834"
+                        },
+                        {
+                            "name": "HAZEEMAT ENTERPRISES",
+                            "internationalNumber": "BN-2922830"
+                        },
+                        {
+                            "name": "TENUEL ADVOCATES",
+                            "internationalNumber": "BN-2707395"
+                        },
+                        {
+                            "name": "HAZEMS NIGERIA LIMITED",
+                            "internationalNumber": "RC-1632521"
+                        },
+                        {
+                            "name": "ABIDAK SPECIALIST MEDICALS AND DIAGNOSTIC CENTRE LTD",
+                            "internationalNumber": "RC-1491063"
+                        },
+                        {
+                            "name": "GOULMET ENERGY TECHNOLOGIES LIMITED",
+                            "internationalNumber": "RC-1589636"
+                        },
+                        {
+                            "name": "HOLISTIC CARE MEDICAL ASSISTANCE LIMITED",
+                            "internationalNumber": "RC-1603801"
+                        },
+                        {
+                            "name": "A.Y.M. SHAFA HOLDINGS LIMITED",
+                            "internationalNumber": "RC-1882033"
+                        },
+                        {
+                            "name": "MOS_ROSARIO VENTURES",
+                            "internationalNumber": "BN-2527856"
+                        },
+                        {
+                            "name": "THE PLUSH HUT ENTERPRISES",
+                            "internationalNumber": "BN-3389011"
+                        },
+                        {
+                            "name": "COASTAL MEDICAL ASSISTANCE LIMITED",
+                            "internationalNumber": "RC-1604094"
+                        },
+                        {
+                            "name": "JOZAR EMPIRE LIMITED",
+                            "internationalNumber": "RC-1668780"
+                        },
+                        {
+                            "name": "OLIVRABEL VENTURES",
+                            "internationalNumber": "BN-3482648"
+                        },
+                        {
+                            "name": "SYMPHONY SPRINGVILLE NIG LTD",
+                            "internationalNumber": "RC-1415549"
+                        },
+                        {
+                            "name": "FKEEM GLOBAL SERVICES NIG LTD",
+                            "internationalNumber": "RC-1857652"
+                        },
+                        {
+                            "name": "LP WATER LIMITED",
+                            "internationalNumber": "RC-1801377"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Buk*** Kof******* Fag**",
+                    "contacts": {
+                        "email": [
+                            "kof**************"
+                        ],
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Buk*** Fag** Kof*******",
+                    "contacts": {
+                        "email": [
+                            "kof**************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

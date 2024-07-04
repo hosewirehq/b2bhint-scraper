@@ -1,0 +1,408 @@
+[
+    {
+        "year": "2022",
+        "title": "MASHRIFINTEGRATEDPOULTRFARM - BN-3635179 - Nigeria",
+        "description": "MASHRIFINTEGRATEDPOULTRFARM Nigeria company, Company number: BN-3635179, Incorporation Date Apr 14, 2022;, Address: 106 AIYETORO BUS-STOP IYANO IYESI ROAD, OTA\/OTA\/AYETORO, OGUN STATE",
+        "company": {
+            "id": 109284359,
+            "name": "MASHRIFINTEGRATEDPOULTRFARM",
+            "internationalNumber": "BN-3635179",
+            "localNumber": "3635179",
+            "countryId": 24,
+            "dateCreated": "2022-04-14T00:00:00.000Z",
+            "createdAt": "2022-04-17T23:14:51.721Z",
+            "updatedAt": "2024-06-15T15:40:31.112Z",
+            "alternateNames": [],
+            "address": "106 AIYETORO BUS-STOP IYANO IYESI ROAD, OTA\/OTA\/AYETORO, OGUN STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6751832",
+            "updatedAtSitemap": "2023-12-14T17:45:45.000Z",
+            "oldInternationalNumber": "3635179",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 201,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197003,
+                    "providerId": "199110",
+                    "providerName": "Poultry Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:20.108422+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102091610,
+                    "address": "106 AIYETORO BUS-STOP IYANO IYESI ROAD, OTA\/OTA\/AYETORO, OGUN STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 298873736,
+                    "companyId": 109284359,
+                    "personId": 102108004,
+                    "roleId": 60320,
+                    "appointedOn": "2022-04-14",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 102108004,
+                        "name": "abubakar abdulmalik ajanah",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1984,
+                        "birthMonth": 2,
+                        "birthDate": 6,
+                        "address": "AYETORO BUSU STOP, IYANO-IYESI ROAD, , 106",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "905F B18E 2F29 5191 747",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "paradisemf2020@gmail.com",
+                        "phone": "08032590188",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298873737,
+                    "companyId": 109284359,
+                    "personId": 102108004,
+                    "roleId": 60319,
+                    "appointedOn": "2022-04-14",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 102108004,
+                        "name": "abubakar abdulmalik ajanah",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1984,
+                        "birthMonth": 2,
+                        "birthDate": 6,
+                        "address": "AYETORO BUSU STOP, IYANO-IYESI ROAD, , 106",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "905F B18E 2F29 5191 747",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "paradisemf2020@gmail.com",
+                        "phone": "08032590188",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298873738,
+                    "companyId": 109284359,
+                    "personId": 102108005,
+                    "roleId": 60327,
+                    "appointedOn": "2022-04-14",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 102108005,
+                        "name": "nazifi rukaya onozare",
+                        "countryId": 24,
+                        "occupation": "Company director",
+                        "address": "No 30, JUSTICE STREET OFF IYANO IYESI ROAD ADO-ODO OTA. OGUN STATE.",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "rukayanazifi1@gmail.com",
+                        "phone": "08039414090",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60327,
+                        "name": "Attestee",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 365511648,
+                    "companyId": 109284359,
+                    "personId": 143579983,
+                    "roleId": 114356,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 143579983,
+                        "name": "abdulmalik ajanah abubakar",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1984,
+                        "birthMonth": 2,
+                        "birthDate": 6,
+                        "address": "106AYETORO BUSU STOP, IYANO-IYESI ROAD, OTA, OGUN STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "3423692",
+                        "documentType": "Permanent Voters' Card",
+                        "documentNumber": "905F B18E 2F29 5191 747",
+                        "email": "paradisemf2020@gmail.com",
+                        "phone": "+234 803 259 0188",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114356,
+                        "name": "Business",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Business"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "par*********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Abd******* Aja*** Abu*****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "par*********************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Abd******* Abu***** Aja***",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "par*********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "4",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 1,
+                "null": 2
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

@@ -1,0 +1,621 @@
+[
+    {
+        "year": "2022",
+        "title": "SOSA 78 NIGERIA LIMITED - RC-1914819 - Nigeria",
+        "description": "SOSA 78 NIGERIA LIMITED Nigeria company, Company number: RC-1914819, Incorporation Date 5. Apr. 2022;, Address: NO. 1 STATE LOW COST HOUSING ESTATE, SHENDAM, PLATEAU STATE",
+        "company": {
+            "id": 108939213,
+            "name": "SOSA 78 NIGERIA LIMITED",
+            "internationalNumber": "RC-1914819",
+            "localNumber": "1914819",
+            "countryId": 24,
+            "dateCreated": "2022-04-05T00:00:00.000Z",
+            "createdAt": "2022-04-13T20:34:19.050Z",
+            "updatedAt": "2024-06-15T15:38:31.885Z",
+            "alternateNames": [],
+            "address": "NO. 1 STATE LOW COST HOUSING ESTATE, SHENDAM, PLATEAU STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "general contracts",
+            "providerId": "7872302",
+            "updatedAtSitemap": "2023-06-09T16:39:19.000Z",
+            "oldInternationalNumber": "1914819",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 706,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196924,
+                    "providerId": "199237",
+                    "providerName": "General Contracts",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:13.437675+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102151023,
+                    "address": "NO. 1 STATE LOW COST HOUSING ESTATE, SHENDAM, PLATEAU STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299138698,
+                    "companyId": 108939213,
+                    "personId": 104260161,
+                    "roleId": 60320,
+                    "appointedOn": "2022-04-05",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 104260161,
+                        "name": "mangat sunday choji",
+                        "countryId": 24,
+                        "occupation": "Accountant",
+                        "nationality": "Nigeria",
+                        "birthYear": 1973,
+                        "birthMonth": 2,
+                        "birthDate": 1,
+                        "address": "FLOOR MURTALA HOUSE, MOHAMMED WAY, JOS, 1ST ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A32445454",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "chojisundayjr@yahoo.com",
+                        "phone": "+2348036336222",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "HOMECARE DISPENSARY AND DIAGNOSTICS",
+                            "internationalNumber": "BN-3630426"
+                        },
+                        {
+                            "name": "DIVINE KINGS CONSULT GLOBAL SOLUTION",
+                            "internationalNumber": "BN-3567570"
+                        },
+                        {
+                            "name": "WISE PEOPLE'S PALACE",
+                            "internationalNumber": "BN-3561916"
+                        },
+                        {
+                            "name": "NAVEH GLOBAL CONCEPTS",
+                            "internationalNumber": "BN-3602547"
+                        },
+                        {
+                            "name": "ALTIMA GLOBAL RESOURCES",
+                            "internationalNumber": "BN-3591260"
+                        },
+                        {
+                            "name": "SHA EMPIRE NIG LTD",
+                            "internationalNumber": "RC-1903479"
+                        },
+                        {
+                            "name": "ILCHI MINERALS RESOURCES CO . LTD",
+                            "internationalNumber": "RC-1917155"
+                        },
+                        {
+                            "name": "DACH MINES GLOBAL RESOURCES LTD",
+                            "internationalNumber": "RC-1902674"
+                        },
+                        {
+                            "name": "GRACELAND MUSTARD SEED INTEGRATED CONCEPT LTD",
+                            "internationalNumber": "RC-1916258"
+                        },
+                        {
+                            "name": "JOS BREED GLOBAL RESOURCES LTD",
+                            "internationalNumber": "RC-1902455"
+                        },
+                        {
+                            "name": "GARMENT TOUCH GLOBAL RESOURCES LTD",
+                            "internationalNumber": "RC-1907568"
+                        },
+                        {
+                            "name": "JUSTDANA EXPRESS SERVICES LTD",
+                            "internationalNumber": "RC-1906998"
+                        },
+                        {
+                            "name": "MALHANN INTEGRATED GLOBAL SERVICES LTD",
+                            "internationalNumber": "RC-1915496"
+                        },
+                        {
+                            "name": "PHEEB'S FASHION WORLD",
+                            "internationalNumber": "BN-3598699"
+                        },
+                        {
+                            "name": "JYM QUALITY CONSTRUCTION COMPANY NIGERIA LIMITED",
+                            "internationalNumber": "RC-1905452"
+                        },
+                        {
+                            "name": "DAISYLAND ORTHOPAEDIC AND TRAUMA HOSPITAL",
+                            "internationalNumber": "BN-3599692"
+                        },
+                        {
+                            "name": "MAC BONAVENTURE AND SONS NIG LTD",
+                            "internationalNumber": "RC-1903972"
+                        },
+                        {
+                            "name": "TROM-SAP NIG LTD",
+                            "internationalNumber": "RC-1902940"
+                        },
+                        {
+                            "name": "NE-RACH MOTORS",
+                            "internationalNumber": "BN-3596398"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299138699,
+                    "companyId": 108939213,
+                    "personId": 67563615,
+                    "roleId": 60324,
+                    "appointedOn": "2022-04-05",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 67563615,
+                        "name": "choji sunday mangat",
+                        "countryId": 24,
+                        "occupation": "Accountant",
+                        "address": "Murtala house, murtala muhammed way , 1ST floor ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "chojisundayjr@yahoo.com",
+                        "phone": "08036336222",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "SHA EMPIRE NIG LTD",
+                            "internationalNumber": "RC-1903479"
+                        },
+                        {
+                            "name": "ILCHI MINERALS RESOURCES CO . LTD",
+                            "internationalNumber": "RC-1917155"
+                        },
+                        {
+                            "name": "GARMENT TOUCH GLOBAL RESOURCES LTD",
+                            "internationalNumber": "RC-1907568"
+                        },
+                        {
+                            "name": "MALHANN INTEGRATED GLOBAL SERVICES LTD",
+                            "internationalNumber": "RC-1915496"
+                        },
+                        {
+                            "name": "JYM QUALITY CONSTRUCTION COMPANY NIGERIA LIMITED",
+                            "internationalNumber": "RC-1905452"
+                        },
+                        {
+                            "name": "TROM-SAP NIG LTD",
+                            "internationalNumber": "RC-1902940"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299138700,
+                    "companyId": 108939213,
+                    "personId": 116125226,
+                    "roleId": 60317,
+                    "appointedOn": "2022-04-05",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 116125226,
+                        "name": "dodo chrisanthus kaslong",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1955,
+                        "birthMonth": 8,
+                        "birthDate": 19,
+                        "address": " State Low cost Housing Estate , Block 66",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "shdo02242aa02",
+                        "documentType": "Driver's License",
+                        "email": "dodokaslong@gmail.com",
+                        "phone": "08093555595",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299138704,
+                    "companyId": 108939213,
+                    "personId": 116125227,
+                    "roleId": 60322,
+                    "appointedOn": "2022-04-05",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 116125227,
+                        "name": "muhammad fibi h.",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1962,
+                        "birthMonth": 8,
+                        "birthDate": 28,
+                        "address": "King's Court Estate, Jabi, , no. 29",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "a12975505",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "fibimuhammad@yahoo.com",
+                        "phone": "08099443597",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60322,
+                        "name": "Secretary company",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary company"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299138705,
+                    "companyId": 108939213,
+                    "personId": 116125226,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-05",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 400000,
+                    "person": {
+                        "id": 116125226,
+                        "name": "dodo chrisanthus kaslong",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1955,
+                        "birthMonth": 8,
+                        "birthDate": 19,
+                        "address": " State Low cost Housing Estate , Block 66",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "shdo02242aa02",
+                        "documentType": "Driver's License",
+                        "email": "dodokaslong@gmail.com",
+                        "phone": "08093555595",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299138706,
+                    "companyId": 108939213,
+                    "personId": 116125227,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-05",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 200000,
+                    "person": {
+                        "id": 116125227,
+                        "name": "muhammad fibi h.",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1962,
+                        "birthMonth": 8,
+                        "birthDate": 28,
+                        "address": "King's Court Estate, Jabi, , no. 29",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "a12975505",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "fibimuhammad@yahoo.com",
+                        "phone": "08099443597",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "sos***************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Sun*** Cho** Man***",
+                    "contacts": {
+                        "email": [
+                            "cho********************"
+                        ],
+                        "phone": [
+                            "+23***********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Cho** Man*** Sun***",
+                    "contacts": {
+                        "email": [
+                            "cho********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "17",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "1": 4,
+                "2": 5,
+                "null": 8
+            },
+            "personsWithRelatedCount": 3
+        }
+    }
+]

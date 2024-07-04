@@ -1,0 +1,328 @@
+[
+    {
+        "year": "2020",
+        "title": "AEL LOGISTIC SERVICES LTD - RC-1748182 - Nigeria",
+        "description": "AEL LOGISTIC SERVICES LTD Nigeria company, Company number: RC-1748182, Incorporation Date Dec 24, 2020;, Address: C12U1 HORIZONS 2 ESTATE, LEKKI, LAGOS STATE",
+        "company": {
+            "id": 61513359,
+            "name": "AEL LOGISTIC SERVICES LTD",
+            "internationalNumber": "RC-1748182",
+            "localNumber": "1748182",
+            "countryId": 24,
+            "dateCreated": "2020-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-25T05:05:25.524Z",
+            "updatedAt": "2024-06-15T15:20:28.985Z",
+            "alternateNames": [],
+            "address": "C12U1 HORIZONS 2 ESTATE, LEKKI, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "6698251",
+            "updatedAtSitemap": "2023-06-09T17:49:20.000Z",
+            "oldInternationalNumber": "1748182",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 3823,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 5888446,
+                    "providerId": "13",
+                    "providerName": "Manufacture of textiles",
+                    "countryId": 24,
+                    "createdAt": "2021-05-18T12:36:42.568129+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 99681330,
+                    "address": "C12U1 HORIZONS 2 ESTATE, LEKKI, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 352783728,
+                    "companyId": 61513359,
+                    "personId": 66244828,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66244828,
+                        "name": "dimien edonkumoh",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1986,
+                        "birthMonth": 2,
+                        "birthDate": 4,
+                        "address": "suite 306Ochowa Plaza, Badore Road, opp Simply Delicious, Ajah-Lekki, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1891789",
+                        "documentType": "National ID Card",
+                        "documentNumber": "30683578060",
+                        "email": "edonkumohdimien2@gmail.com",
+                        "phone": "+234 706 675 8376",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "ZENAD APARTMENTS LTD",
+                            "internationalNumber": "RC-1758518"
+                        },
+                        {
+                            "name": "NZURI MERCHANTILE SERVICES",
+                            "internationalNumber": "BN-3363999"
+                        },
+                        {
+                            "name": "KAMAL KAMBI",
+                            "internationalNumber": "BN-3362876"
+                        },
+                        {
+                            "name": "SIBLINGS LAUNDROMAT",
+                            "internationalNumber": "BN-3650576"
+                        },
+                        {
+                            "name": "LAV AND LUX BY FREDA",
+                            "internationalNumber": "BN-3291941"
+                        },
+                        {
+                            "name": "EDONKUMOH AND ASSOCIATES",
+                            "internationalNumber": "BN-2568705"
+                        },
+                        {
+                            "name": "LEETU'S LAUNDRY",
+                            "internationalNumber": "BN-3445367"
+                        },
+                        {
+                            "name": "LA GRANDEUR PROJECT & ESTATE MANAGEMENT LTD",
+                            "internationalNumber": "RC-1890328"
+                        },
+                        {
+                            "name": "KEMKA EZINWO PRESS LTD",
+                            "internationalNumber": "RC-1632315"
+                        },
+                        {
+                            "name": "ASO LOUNGE",
+                            "internationalNumber": "BN-3533849"
+                        },
+                        {
+                            "name": "JOJO'S FROZEN FOODS",
+                            "internationalNumber": "BN-3434970"
+                        },
+                        {
+                            "name": "PAMICIOUS FASHION HUB",
+                            "internationalNumber": "BN-3109327"
+                        },
+                        {
+                            "name": "SWISS GH VENTURES",
+                            "internationalNumber": "BN-3542076"
+                        },
+                        {
+                            "name": "VJAY MUSE FASHION",
+                            "internationalNumber": "BN-3441980"
+                        },
+                        {
+                            "name": "PURPLEAPRI'CO'T",
+                            "internationalNumber": "BN-3343362"
+                        },
+                        {
+                            "name": "FIELD DEVELOPMENT ASSOCIATES NIGERIA LIMITED",
+                            "internationalNumber": "RC-1659176"
+                        },
+                        {
+                            "name": "ARPHA MERCHANTS",
+                            "internationalNumber": "BN-3546814"
+                        },
+                        {
+                            "name": "CREEK SOUNDS LTD",
+                            "internationalNumber": "RC-1795447"
+                        },
+                        {
+                            "name": "PRODUCTION OPTIMIZATIONS AND WELL INTERVENTION SERVICES LTD",
+                            "internationalNumber": "RC-1626013"
+                        },
+                        {
+                            "name": "FOLAA_O GRAND LOGISTICS LIMITED",
+                            "internationalNumber": "RC-1750524"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "ael**********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Dim*** Edo******",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "+23***********"
+                        ],
+                        "email": [
+                            "edo***********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

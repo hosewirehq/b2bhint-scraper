@@ -1,0 +1,490 @@
+[
+    {
+        "year": "2018",
+        "title": "ZIEDOK CONSULTING LTD - RC-1549537 - Nigeria",
+        "description": "ZIEDOK CONSULTING LTD Nigeria company, Company number: RC-1549537, Incorporation Date 2018 m. gruod\u017eio 21 d.;, Address: BLOCK 2\/47 FLAT 7, AREA D, HOSPITAL ROAD, NYANYA, ABUJA., ABUJA, FCT",
+        "company": {
+            "id": 60587872,
+            "name": "ZIEDOK CONSULTING LTD",
+            "internationalNumber": "RC-1549537",
+            "localNumber": "1549537",
+            "countryId": 24,
+            "dateCreated": "2018-12-21T00:00:00.000Z",
+            "createdAt": "2021-05-14T15:20:29.493Z",
+            "updatedAt": "2024-06-15T14:18:12.250Z",
+            "alternateNames": [],
+            "address": "BLOCK 2\/47 FLAT 7, AREA D, HOSPITAL ROAD, NYANYA, ABUJA., ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "5071292",
+            "updatedAtSitemap": "2023-06-09T18:11:05.000Z",
+            "oldInternationalNumber": "1549537",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1104,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197044,
+                    "providerId": "348594",
+                    "providerName": "IT Others",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:02:09.448381+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 27345384,
+                    "address": "BLOCK 2\/47 FLAT 7, AREA D, HOSPITAL ROAD, NYANYA, ABUJA., ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 241239263,
+                    "companyId": 60587872,
+                    "personId": 98527050,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98527050,
+                        "name": "agboola matthew olabode",
+                        "countryId": 24,
+                        "birthYear": 1989,
+                        "birthMonth": 1,
+                        "birthDate": 29,
+                        "address": "",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "21283197236",
+                        "documentType": "National Identification Number",
+                        "email": "agboolamatthew@gmail.com",
+                        "phone": "08109824200",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241239272,
+                    "companyId": 60587872,
+                    "personId": 98527050,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98527050,
+                        "name": "agboola matthew olabode",
+                        "countryId": 24,
+                        "birthYear": 1989,
+                        "birthMonth": 1,
+                        "birthDate": 29,
+                        "address": "",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "21283197236",
+                        "documentType": "National Identification Number",
+                        "email": "agboolamatthew@gmail.com",
+                        "phone": "08109824200",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241239269,
+                    "companyId": 60587872,
+                    "personId": 98527053,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 125000,
+                    "person": {
+                        "id": 98527053,
+                        "name": "agboola esther oluwafunmilola",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1991,
+                        "birthMonth": 6,
+                        "birthDate": 11,
+                        "address": "Block 2\/47 Flat 7, Area D , Hospital Road, Nyanya, Abuja",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "5298209001851630",
+                        "documentType": "National ID Card",
+                        "email": "oluwafunmilolaagboolaesther@yahoo.com",
+                        "phone": "08091359799",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241239270,
+                    "companyId": 60587872,
+                    "personId": 98527054,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98527054,
+                        "name": "chukwu ezekodie ugochukwu",
+                        "countryId": 24,
+                        "address": "15 Jere Street, Garki II Abuja FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "ugochukwuchukwu@gmail.com",
+                        "phone": "07067855801",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241239273,
+                    "companyId": 60587872,
+                    "personId": 98527054,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98527054,
+                        "name": "chukwu ezekodie ugochukwu",
+                        "countryId": 24,
+                        "address": "15 Jere Street, Garki II Abuja FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "ugochukwuchukwu@gmail.com",
+                        "phone": "07067855801",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241239271,
+                    "companyId": 60587872,
+                    "personId": 98527055,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 125000,
+                    "person": {
+                        "id": 98527055,
+                        "name": "agboola deborah oluwabusola",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1993,
+                        "birthMonth": 7,
+                        "birthDate": 8,
+                        "address": "No 18 Akorede Layout off Felele Straight, Felele, Ibadan",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "5298209001928396",
+                        "documentType": "National ID Card",
+                        "email": "debbieO@gmail.com",
+                        "phone": "08169968258",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "agb*********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Mat**** Ola**** Agb****",
+                    "contacts": {
+                        "phone": [
+                            "081********"
+                        ],
+                        "email": [
+                            "agb*********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "9",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 3,
+                "2": 4,
+                "null": 2
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

@@ -1,0 +1,346 @@
+[
+    {
+        "year": "2018",
+        "title": "BOSRA VENTURES - BN-2738608 - Nigeria",
+        "description": "BOSRA VENTURES Nigeria company, Company number: BN-2738608, Incorporation Date 2018. gada 21. dec;, Address: 19, TINUBU STREET, LAGOS., LAGOS ISLAND, LAGOS STATE",
+        "company": {
+            "id": 60738879,
+            "name": "BOSRA VENTURES",
+            "internationalNumber": "BN-2738608",
+            "localNumber": "2738608",
+            "countryId": 24,
+            "dateCreated": "2018-12-21T00:00:00.000Z",
+            "createdAt": "2021-05-15T01:27:46.170Z",
+            "updatedAt": "2024-06-15T14:16:32.850Z",
+            "alternateNames": [],
+            "address": "19, TINUBU STREET, LAGOS., LAGOS ISLAND, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99332,
+            "historicalNames": [],
+            "providerId": "5097567",
+            "updatedAtSitemap": "2023-06-09T18:06:55.000Z",
+            "oldInternationalNumber": "2738608",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99332,
+                "type": "Business name - partnership",
+                "countryId": 24,
+                "translation": {
+                    "en": "Partnership"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1104,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196948,
+                    "providerId": "199238",
+                    "providerName": "General Merchandise ",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:34.036647+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97412419,
+                    "address": "19, TINUBU STREET, LAGOS., LAGOS ISLAND, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 239738304,
+                    "companyId": 60738879,
+                    "personId": 97588560,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97588560,
+                        "name": "ologeh duncan imonijovo",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1958,
+                        "birthMonth": 7,
+                        "birthDate": 31,
+                        "address": "2, ORITSE STREET, IKEJA -LAGOS.",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "d_ologeh@yahoo.com",
+                        "phone": "+2348033007085",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "RHEMAH SYSTEMS SUPPLY VENTURES",
+                            "internationalNumber": "BN-2712806"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 239738305,
+                    "companyId": 60738879,
+                    "personId": 97750808,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97750808,
+                        "name": "abanum raphael elishi",
+                        "countryId": 24,
+                        "occupation": "Trader",
+                        "nationality": "Nigerian",
+                        "birthYear": 1962,
+                        "birthMonth": 9,
+                        "birthDate": 26,
+                        "address": "19, TINUBU STREET, LAGOS",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "5298201301646158",
+                        "documentType": "National ID Card",
+                        "email": "rabanum@gmail.com",
+                        "phone": "+2347084596179",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 239738306,
+                    "companyId": 60738879,
+                    "personId": 97750809,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97750809,
+                        "name": "abanum patricia abosede",
+                        "countryId": 24,
+                        "occupation": "Trader",
+                        "nationality": "Nigerian",
+                        "birthYear": 1962,
+                        "birthMonth": 9,
+                        "birthDate": 1,
+                        "address": "19, TINUBU STREET, LAGOS",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "5298209001370771",
+                        "documentType": "National ID Card",
+                        "email": "rabanum@gmail.com",
+                        "phone": "+2348033011108",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Dun*** Imo****** Olo***",
+                    "contacts": {
+                        "email": [
+                            "d_o***************"
+                        ],
+                        "phone": [
+                            "+23***********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "3",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

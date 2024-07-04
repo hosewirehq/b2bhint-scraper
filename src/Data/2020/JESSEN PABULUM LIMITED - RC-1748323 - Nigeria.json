@@ -1,0 +1,532 @@
+[
+    {
+        "year": "2020",
+        "title": "JESSEN PABULUM LIMITED - RC-1748323 - Nigeria",
+        "description": "JESSEN PABULUM LIMITED Nigeria company, Company number: RC-1748323, Incorporation Date 24 d\u00e9c. 2020;, Address: ABAK UKPOM, IKOT ABIA WARD3 OBOT AKARA, IKOT EKPENE, AKWA IBOM STATE",
+        "company": {
+            "id": 61588575,
+            "name": "JESSEN PABULUM LIMITED",
+            "internationalNumber": "RC-1748323",
+            "localNumber": "1748323",
+            "countryId": 24,
+            "dateCreated": "2020-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-25T14:47:18.708Z",
+            "updatedAt": "2024-06-15T15:20:55.986Z",
+            "alternateNames": [],
+            "address": "ABAK UKPOM, IKOT ABIA WARD3 OBOT AKARA, IKOT EKPENE, AKWA IBOM STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "500000 NGN",
+            "sharesIssued": "2",
+            "historicalNames": [],
+            "providerId": "6719216",
+            "updatedAtSitemap": "2023-06-09T17:48:23.000Z",
+            "oldInternationalNumber": "1748323",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 3823,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197195,
+                    "providerId": "199102",
+                    "providerName": "Food Production and Processing Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:05:45.802916+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 99752661,
+                    "address": "ABAK UKPOM, IKOT ABIA WARD3 OBOT AKARA, IKOT EKPENE, AKWA IBOM STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 162534688,
+                    "companyId": 61588575,
+                    "personId": 68946166,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "OTHER",
+                    "sharesCount": 1,
+                    "person": {
+                        "id": 68946166,
+                        "name": "jackson ubon-abasi etim",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1990,
+                        "birthMonth": 7,
+                        "birthDate": 26,
+                        "address": "Abak Ukpom, Ikot Abia Ward 3, Obot Akara",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "83897662385",
+                        "documentType": "National ID Card",
+                        "email": "jubonabasi@gmail.com",
+                        "phone": "08125181140",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 252508429,
+                    "companyId": 61588575,
+                    "personId": 101413333,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 101413333,
+                        "name": "jackson kingsley etim",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1990,
+                        "birthMonth": 7,
+                        "birthDate": 26,
+                        "address": "Abak Ukpom, Ikot Abia,Ward 3, Obot Akara",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "namaskaja@gmail.com",
+                        "phone": "08066657153",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 252508433,
+                    "companyId": 61588575,
+                    "personId": 102051767,
+                    "roleId": 60320,
+                    "appointedOn": "2021-12-15",
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 102051767,
+                        "name": "okoroafor reliance",
+                        "countryId": 24,
+                        "birthYear": 1980,
+                        "birthMonth": 2,
+                        "birthDate": 9,
+                        "address": "",
+                        "countryOfResidence": "NIGERIA",
+                        "documentType": "National Identification Number",
+                        "email": "relianceeke@gmail.com",
+                        "phone": "08038900441",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "T. N. UKAEGBU AND SONS LIMITED",
+                            "internationalNumber": "RC-452579"
+                        },
+                        {
+                            "name": "ASSIST NIGERIA LIMITED",
+                            "internationalNumber": "RC-157878"
+                        },
+                        {
+                            "name": "WESTOVER LANDING AND RESOURCES LIMITED",
+                            "internationalNumber": "RC-452605"
+                        },
+                        {
+                            "name": "NAYIDA ATTRACTIONS LIMITED",
+                            "internationalNumber": "RC-452583"
+                        },
+                        {
+                            "name": "MC OIL AND GAS INTEGRATED SERVICES LIMITED",
+                            "internationalNumber": "RC-452902"
+                        },
+                        {
+                            "name": "JAYOS GLOBAL INTERNATIONAL LIMITED",
+                            "internationalNumber": "RC-452434"
+                        },
+                        {
+                            "name": "MISSION CRITICAL SERVICES LIMITED",
+                            "internationalNumber": "RC-452471"
+                        },
+                        {
+                            "name": "SMARTCITY RESORTS PLC",
+                            "internationalNumber": "RC-452578"
+                        },
+                        {
+                            "name": "DAYLIGHT QUEST COMPANY LIMITED",
+                            "internationalNumber": "RC-452901"
+                        },
+                        {
+                            "name": "RAGNR NIGERIA LIMITED",
+                            "internationalNumber": "RC-452916"
+                        },
+                        {
+                            "name": "COLLEGE OF ESTATE MANAGEMENT NIGERIA LIMITED",
+                            "internationalNumber": "RC-452915"
+                        },
+                        {
+                            "name": "UGO-TEST BROTHERS INVESTMENTS LIMITED",
+                            "internationalNumber": "RC-452580"
+                        },
+                        {
+                            "name": "JIMLAD INTEGRATED CONCEPTS LIMITED",
+                            "internationalNumber": "RC-452584"
+                        },
+                        {
+                            "name": "MEDIATHYME COMMUNICATIONS LIMITED",
+                            "internationalNumber": "RC-452917"
+                        },
+                        {
+                            "name": "TRENDX CONCEPTS AND INVESTMENTS LIMITED",
+                            "internationalNumber": "RC-452576"
+                        },
+                        {
+                            "name": "E.A. OFFOR NIGERIA LIMITED",
+                            "internationalNumber": "RC-452606"
+                        },
+                        {
+                            "name": "CHRISHOLD NIGERIA LIMITED",
+                            "internationalNumber": "RC-452607"
+                        },
+                        {
+                            "name": "ZEKA VENTURES",
+                            "internationalNumber": "BN-3229644"
+                        },
+                        {
+                            "name": "JEJIMS INTERNATIONAL LIMITED",
+                            "internationalNumber": "RC-452918"
+                        },
+                        {
+                            "name": "OLIVER OLIS COMPUTER MANAGEMENT LTD",
+                            "internationalNumber": "RC-155768"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 252508431,
+                    "companyId": 61588575,
+                    "personId": 102052198,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 102052198,
+                        "name": "jackson kingsley etim",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1990,
+                        "birthMonth": 7,
+                        "birthDate": 26,
+                        "address": "Abak Ukpom, Ikot Abia Ward 3, Obot Akara",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "60153179191",
+                        "documentType": "National ID Card",
+                        "email": "namaskaja@gmail.com",
+                        "phone": "08066657153",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 252508432,
+                    "companyId": 61588575,
+                    "personId": 102052198,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "OTHER",
+                    "sharesCount": 1,
+                    "person": {
+                        "id": 102052198,
+                        "name": "jackson kingsley etim",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1990,
+                        "birthMonth": 7,
+                        "birthDate": 26,
+                        "address": "Abak Ukpom, Ikot Abia Ward 3, Obot Akara",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "60153179191",
+                        "documentType": "National ID Card",
+                        "email": "namaskaja@gmail.com",
+                        "phone": "08066657153",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "nam****************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Kin***** Eti* Jac****",
+                    "contacts": {
+                        "email": [
+                            "nam****************"
+                        ],
+                        "phone": [
+                            "080********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "6",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

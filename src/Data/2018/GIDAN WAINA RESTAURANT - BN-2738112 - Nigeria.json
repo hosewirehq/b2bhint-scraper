@@ -1,0 +1,283 @@
+[
+    {
+        "year": "2018",
+        "title": "GIDAN WAINA RESTAURANT - BN-2738112 - Nigeria",
+        "description": "GIDAN WAINA RESTAURANT Nigeria company, Company number: BN-2738112, Incorporation Date Dec 21, 2018;, Address: HOUSE NO. 9 DAKWA LAYIN SARKI ALHASSAN, BWARI AREA COUNCIL, DAKWA, FCT",
+        "company": {
+            "id": 62057461,
+            "name": "GIDAN WAINA RESTAURANT",
+            "internationalNumber": "BN-2738112",
+            "localNumber": "2738112",
+            "countryId": 24,
+            "dateCreated": "2018-12-21T00:00:00.000Z",
+            "createdAt": "2021-05-28T02:09:46.142Z",
+            "updatedAt": "2024-06-15T15:15:01.611Z",
+            "alternateNames": [],
+            "address": "HOUSE NO. 9 DAKWA LAYIN SARKI ALHASSAN, BWARI AREA COUNCIL, DAKWA, FCT",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5167523",
+            "updatedAtSitemap": "2023-06-09T18:01:19.000Z",
+            "oldInternationalNumber": "2738112",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1104,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196991,
+                    "providerId": "199255",
+                    "providerName": "Restaurant",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:12.693571+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 28806200,
+                    "address": "HOUSE NO. 9 DAKWA LAYIN SARKI ALHASSAN, BWARI AREA COUNCIL, DAKWA, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 348202165,
+                    "companyId": 62057461,
+                    "personId": 69380968,
+                    "roleId": 115456,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 69380968,
+                        "name": "wambushe john tikuri",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1984,
+                        "birthMonth": 5,
+                        "birthDate": 1,
+                        "address": "PLOT 778AIDEYAN OSARO ROYAL STREET, CRD ESTATE, FHA, LUGBE, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1751968",
+                        "documentType": "Driver's License",
+                        "documentNumber": "ABC99736AB02",
+                        "email": "wjtix@yahoo.com",
+                        "phone": "+234 813 323 0680",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 115456,
+                        "name": "Accountant\/auditor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "JOHN WAMBUSHE TIKURI & CO",
+                            "internationalNumber": "BN-3566393"
+                        },
+                        {
+                            "name": "VOX-NET SOLUTIONS LIMITED",
+                            "internationalNumber": "RC-1567735"
+                        },
+                        {
+                            "name": "HASSINE CONTRACTORS LIMITED",
+                            "internationalNumber": "RC-1629427"
+                        },
+                        {
+                            "name": "RUSHMORE ROYAL ACADEMY LIMITED",
+                            "internationalNumber": "RC-1628955"
+                        },
+                        {
+                            "name": "HSDC PROFESSIONAL SERVICES",
+                            "internationalNumber": "BN-2598776"
+                        },
+                        {
+                            "name": "CASTLEROCK ACADEMY LIMITED",
+                            "internationalNumber": "RC-1628002"
+                        },
+                        {
+                            "name": "OLIJEA COLLECTIONS",
+                            "internationalNumber": "BN-3387097"
+                        },
+                        {
+                            "name": "SINSYL LINKS LIMITED",
+                            "internationalNumber": "RC-1628961"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Wam***** Joh* Tik***",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "813*******"
+                        ],
+                        "email": [
+                            "wjt************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Joh* Tik*** Wam*****",
+                    "contacts": {
+                        "email": [
+                            "wjt************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

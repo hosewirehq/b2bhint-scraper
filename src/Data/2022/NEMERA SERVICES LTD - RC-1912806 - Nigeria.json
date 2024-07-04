@@ -1,0 +1,656 @@
+[
+    {
+        "year": "2022",
+        "title": "NEMERA SERVICES LTD - RC-1912806 - Nigeria",
+        "description": "NEMERA SERVICES LTD Nigeria company, Company number: RC-1912806, Incorporation Date Mar 31, 2022;, Address: 68 STADIUM ROAD, PORT-HARCOURT, RIVERS STATE",
+        "company": {
+            "id": 109041335,
+            "name": "NEMERA SERVICES LTD",
+            "internationalNumber": "RC-1912806",
+            "localNumber": "1912806",
+            "countryId": 24,
+            "dateCreated": "2022-03-31T00:00:00.000Z",
+            "createdAt": "2022-04-14T19:07:39.744Z",
+            "updatedAt": "2024-06-15T15:39:38.718Z",
+            "alternateNames": [],
+            "address": "68 STADIUM ROAD, PORT-HARCOURT, RIVERS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "25000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "EQUIPMENT SOURCING, PROCUREMENT AND SUPPLY, ENGINEERING SERVICES, GENERAL CONTRACTS AND SUPPLIES",
+            "providerId": "7906488",
+            "updatedAtSitemap": "2023-06-09T16:42:32.000Z",
+            "oldInternationalNumber": "1912806",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 702,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196924,
+                    "providerId": "199237",
+                    "providerName": "General Contracts",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:13.437675+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91741388,
+                    "address": "68 STADIUM ROAD, PORT-HARCOURT, RIVERS STATE",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "SWARTZBERG LIMITED",
+                            "internationalNumber": "RC-1689536"
+                        },
+                        {
+                            "name": "NEMERA DREDGING LIMITED",
+                            "internationalNumber": "RC-1763131"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299004369,
+                    "companyId": 109041335,
+                    "personId": 116108860,
+                    "roleId": 60320,
+                    "appointedOn": "2022-03-31",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 116108860,
+                        "name": "oguntoyinbo olusola bolarinwa",
+                        "countryId": 24,
+                        "occupation": "Legal practice",
+                        "nationality": "Nigeria",
+                        "birthYear": 1987,
+                        "birthMonth": 6,
+                        "birthDate": 29,
+                        "address": "PRINCESS INIKPI STR GWAGWALADA ABUJA, No.6",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "62190540673",
+                        "documentType": "National ID Card",
+                        "email": "olusolaoguntoyinbo@yahoo.com",
+                        "phone": "08133034437",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "MJ&K INVESTMENTS AND GENERAL SERVICES LIMITED",
+                            "internationalNumber": "RC-1917787"
+                        },
+                        {
+                            "name": "TASTE AND SEE ET ALIA",
+                            "internationalNumber": "BN-3592739"
+                        },
+                        {
+                            "name": "FJAMEEL POULTRY FARM",
+                            "internationalNumber": "BN-3576895"
+                        },
+                        {
+                            "name": "JACQUE JOUX MULTI LINK LTD",
+                            "internationalNumber": "RC-1907791"
+                        },
+                        {
+                            "name": "ILYASU POULTRY FARM ENTERPRISE",
+                            "internationalNumber": "BN-3587257"
+                        },
+                        {
+                            "name": "MAHMED YUSUFY FARMS",
+                            "internationalNumber": "BN-3573785"
+                        },
+                        {
+                            "name": "GLAD OWEN GUEST HOUSE LIMITED",
+                            "internationalNumber": "RC-1913561"
+                        },
+                        {
+                            "name": "MOHAIRS & GLAMS",
+                            "internationalNumber": "BN-3574329"
+                        },
+                        {
+                            "name": "ABBAN HUSNA SERVICES & COMMUNICATION",
+                            "internationalNumber": "BN-3587338"
+                        },
+                        {
+                            "name": "MSHELWAKSHA FARMS",
+                            "internationalNumber": "BN-3576508"
+                        },
+                        {
+                            "name": "RAZIJO ENTERPRISE",
+                            "internationalNumber": "BN-3573583"
+                        },
+                        {
+                            "name": "DAN MAMU POULTRY AND GENERAL ENTERPRISE",
+                            "internationalNumber": "BN-3587871"
+                        },
+                        {
+                            "name": "HEALTH CONNECT PHARMACY",
+                            "internationalNumber": "BN-3590624"
+                        },
+                        {
+                            "name": "SA'EED AQUACULTURE & MULTIPURPOSE ENTERPRISE",
+                            "internationalNumber": "BN-3587954"
+                        },
+                        {
+                            "name": "LIZMOL FRESH CONSTOMESTIC SERVICE",
+                            "internationalNumber": "BN-3602609"
+                        },
+                        {
+                            "name": "GOLDEN RICHFIELD SERVICES LTD",
+                            "internationalNumber": "RC-1905347"
+                        },
+                        {
+                            "name": "SPREEWILL LTD",
+                            "internationalNumber": "RC-1905548"
+                        },
+                        {
+                            "name": "TEMISHOLA AGRIC-VENTURES",
+                            "internationalNumber": "BN-3580115"
+                        },
+                        {
+                            "name": "U\/LAWAL SIDI FARMS",
+                            "internationalNumber": "BN-3580190"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299004370,
+                    "companyId": 109041335,
+                    "personId": 67386182,
+                    "roleId": 60324,
+                    "appointedOn": "2022-03-31",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 67386182,
+                        "name": "oguntoyinbo olusola bolarinwa",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "address": "PRINCESS INIKPI STR GWAGWALADA, no. 6",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "olusolaoguntoyinbo@yahoo.com",
+                        "phone": "08133034437",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "AUGUST INGLE CONSULTING LIMITED",
+                            "internationalNumber": "RC-1895692"
+                        },
+                        {
+                            "name": "JACQUE JOUX MULTI LINK LTD",
+                            "internationalNumber": "RC-1907791"
+                        },
+                        {
+                            "name": "THE CELEBRITY DOCTOR LTD",
+                            "internationalNumber": "RC-1887247"
+                        },
+                        {
+                            "name": "PRYMVAS PROPERTIES NIGERIA LIMITED",
+                            "internationalNumber": "RC-1915882"
+                        },
+                        {
+                            "name": "ANOVA PALEX LTD",
+                            "internationalNumber": "RC-1893967"
+                        },
+                        {
+                            "name": "OPTIMO HYBRID LTD",
+                            "internationalNumber": "RC-1893160"
+                        },
+                        {
+                            "name": "KARAKURI GLOBAL INVESTMENT RESOURCES LTD",
+                            "internationalNumber": "RC-1888944"
+                        },
+                        {
+                            "name": "GOLDEN RICHFIELD SERVICES LTD",
+                            "internationalNumber": "RC-1905347"
+                        },
+                        {
+                            "name": "SPREEWILL LTD",
+                            "internationalNumber": "RC-1905548"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299004371,
+                    "companyId": 109041335,
+                    "personId": 101899869,
+                    "roleId": 60317,
+                    "appointedOn": "2022-03-31",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101899869,
+                        "name": "arigbodi richardson paul",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1976,
+                        "birthMonth": 8,
+                        "birthDate": 30,
+                        "address": "STADIUM ROAD, 68",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "B50032048",
+                        "documentType": "International Passport",
+                        "email": "richiearigbodi@yahoo.com",
+                        "phone": "08096000900",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299004373,
+                    "companyId": 109041335,
+                    "personId": 101266942,
+                    "roleId": 60322,
+                    "appointedOn": "2022-03-31",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101266942,
+                        "name": "holloway kehinde oluseyi",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1977,
+                        "birthMonth": 3,
+                        "birthDate": 22,
+                        "address": " bode Thomas Street, 148-150",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "B50089337",
+                        "documentType": "International Passport",
+                        "email": "Kehindeh@gmail.com",
+                        "phone": "08027257080",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60322,
+                        "name": "Secretary company",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary company"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299004374,
+                    "companyId": 109041335,
+                    "personId": 101899869,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-31",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 12500000,
+                    "person": {
+                        "id": 101899869,
+                        "name": "arigbodi richardson paul",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1976,
+                        "birthMonth": 8,
+                        "birthDate": 30,
+                        "address": "STADIUM ROAD, 68",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "B50032048",
+                        "documentType": "International Passport",
+                        "email": "richiearigbodi@yahoo.com",
+                        "phone": "08096000900",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299004375,
+                    "companyId": 109041335,
+                    "personId": 116115758,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-31",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 12500000,
+                    "person": {
+                        "id": 116115758,
+                        "name": "arigbodi tejumola aderinsola",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1988,
+                        "birthMonth": 3,
+                        "birthDate": 4,
+                        "address": "STADIUM ROAD, 68",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "B50032048",
+                        "documentType": "International Passport",
+                        "email": "tejumolaarigbodi@yahoo.com",
+                        "phone": "08051600900",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "ric*********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Olu**** Bol****** Ogu********",
+                    "contacts": {
+                        "phone": [
+                            "081********"
+                        ],
+                        "email": [
+                            "olu*************************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Olu**** Bol****** Ogu******** ",
+                    "contacts": {
+                        "email": [
+                            "olu*************************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                },
+                {
+                    "name": " Bol****** Ogu******** Olu****",
+                    "contacts": {
+                        "email": [
+                            "olu*************************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "10",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 6,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "null": 5
+            },
+            "personsWithRelatedCount": 3
+        }
+    }
+]

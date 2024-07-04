@@ -1,0 +1,332 @@
+[
+    {
+        "year": "2019",
+        "title": "HEADIES WORLD - BN-3038185 - Nigeria",
+        "description": "HEADIES WORLD Nigeria company, Company number: BN-3038185, Incorporation Date 19 de dic de 2019;, Address: 87, OYEMEKUN STREET OFF COLLEGE ROAD, OGBA, LAGOS STATE",
+        "company": {
+            "id": 62609475,
+            "name": "HEADIES WORLD",
+            "internationalNumber": "BN-3038185",
+            "localNumber": "3038185",
+            "countryId": 24,
+            "dateCreated": "2019-12-19T00:00:00.000Z",
+            "createdAt": "2021-05-30T20:11:58.249Z",
+            "updatedAt": "2024-06-15T14:11:19.352Z",
+            "alternateNames": [],
+            "address": "87, OYEMEKUN STREET OFF COLLEGE ROAD, OGBA, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6168807",
+            "updatedAtSitemap": "2023-06-09T14:59:09.000Z",
+            "oldInternationalNumber": "3038185",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1520,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6198393,
+                    "providerId": "143270",
+                    "providerName": "Activities of households as employers of domestic personnel",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:41:31.648199+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91491416,
+                    "address": "87, OYEMEKUN STREET OFF COLLEGE ROAD, OGBA, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332591193,
+                    "companyId": 62609475,
+                    "personId": 66136779,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66136779,
+                        "name": "abimbola oluwafolakemi faleke",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1988,
+                        "birthMonth": 8,
+                        "birthDate": 15,
+                        "address": "plot 418oversea quarters, phase1, Kwali, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2048415",
+                        "documentType": "National ID Card",
+                        "documentNumber": "25420314831",
+                        "email": "lucky4bimbo@yahoo.com",
+                        "phone": "+234 816 985 7740",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "MINA OMOBONIKE",
+                            "internationalNumber": "BN-2662224"
+                        },
+                        {
+                            "name": "ONYEMEX EXCLUSIVE DESIGNERS",
+                            "internationalNumber": "BN-2620722"
+                        },
+                        {
+                            "name": "VIVIAN SIGNATURES",
+                            "internationalNumber": "BN-2687082"
+                        },
+                        {
+                            "name": "HOUSE OF MAG\u2019X",
+                            "internationalNumber": "BN-3006717"
+                        },
+                        {
+                            "name": "SOMTOS JANUARY ENTERPRISES",
+                            "internationalNumber": "BN-2645245"
+                        },
+                        {
+                            "name": "JAMWAK MULTIPURPOSE",
+                            "internationalNumber": "BN-3034075"
+                        },
+                        {
+                            "name": "MACWHIZ PHONES & ACCESSORISE",
+                            "internationalNumber": "BN-2877402"
+                        },
+                        {
+                            "name": "MYRTLE PALMS LIMITED",
+                            "internationalNumber": "RC-1813237"
+                        },
+                        {
+                            "name": "DE-HARRICX MARKET",
+                            "internationalNumber": "BN-2991582"
+                        },
+                        {
+                            "name": "LANTHANUM CONSULTING",
+                            "internationalNumber": "BN-3535038"
+                        },
+                        {
+                            "name": "TEE'S HIVE ENTERPRISE AND GENERAL CONTRACTORS",
+                            "internationalNumber": "BN-2873527"
+                        },
+                        {
+                            "name": "NELLYNELLS EMPIRE",
+                            "internationalNumber": "BN-3112694"
+                        },
+                        {
+                            "name": "OIL BASE ELECTRICAL (NIG)",
+                            "internationalNumber": "BN-2604893"
+                        },
+                        {
+                            "name": "DJ6EEN ENTERTAINMENT",
+                            "internationalNumber": "BN-3485589"
+                        },
+                        {
+                            "name": "THE LUXURY DECOR HOME",
+                            "internationalNumber": "BN-3199056"
+                        },
+                        {
+                            "name": "ONUCHUKWU VICTOR & ASSOCIATES",
+                            "internationalNumber": "BN-2620999"
+                        },
+                        {
+                            "name": "MALACHY SUPERMARKET & STORE",
+                            "internationalNumber": "BN-3004182"
+                        },
+                        {
+                            "name": "ACE BUSINESS EMPIRE",
+                            "internationalNumber": "BN-2665495"
+                        },
+                        {
+                            "name": "SANDY COCO ENTERPRISE",
+                            "internationalNumber": "BN-3494105"
+                        },
+                        {
+                            "name": "NAZONEX COMPUTERS",
+                            "internationalNumber": "BN-2641954"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Abi***** Olu********** Fal***",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "081********"
+                        ],
+                        "email": [
+                            "luc******************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Abi***** Fal*** Olu**********",
+                    "contacts": {
+                        "email": [
+                            "luc******************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

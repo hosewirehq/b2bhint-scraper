@@ -1,0 +1,492 @@
+[
+    {
+        "year": "2020",
+        "title": "BOLUZ CHEMICALS AND ALLIED PRODUCTS LTD - RC-1748082 - Nigeria",
+        "description": "BOLUZ CHEMICALS AND ALLIED PRODUCTS LTD Nigeria company, Company number: RC-1748082, Incorporation Date 24 gru 2020;, Address: 15 MAYOWA OLAKANYE STREET, EGBEDA, LAGOS., LAGOS, LAGOS STATE",
+        "company": {
+            "id": 61595890,
+            "name": "BOLUZ CHEMICALS AND ALLIED PRODUCTS LTD",
+            "internationalNumber": "RC-1748082",
+            "localNumber": "1748082",
+            "countryId": 24,
+            "dateCreated": "2020-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-25T15:38:10.406Z",
+            "updatedAt": "2024-06-15T15:20:41.658Z",
+            "alternateNames": [],
+            "address": "15 MAYOWA OLAKANYE STREET, EGBEDA, LAGOS., LAGOS, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1000 NGN",
+            "sharesIssued": "1000",
+            "historicalNames": [],
+            "providerId": "6721341",
+            "updatedAtSitemap": "2023-06-09T17:48:18.000Z",
+            "oldInternationalNumber": "1748082",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 3823,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6198186,
+                    "providerId": "199245",
+                    "providerName": "Industrial Chemical Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:34:50.241469+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 99756802,
+                    "address": "15 MAYOWA OLAKANYE STREET, EGBEDA, LAGOS., LAGOS, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 167699857,
+                    "companyId": 61595890,
+                    "personId": 68917072,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 50,
+                    "person": {
+                        "id": 68917072,
+                        "name": "olakanye cecilia febishola",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1948,
+                        "birthMonth": 6,
+                        "birthDate": 29,
+                        "address": "15 Mayowa Olakanye street, Egbeda, Lagos. ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A07920210",
+                        "documentType": "International Passport",
+                        "email": "orobolaolakanye1@gmail.com",
+                        "phone": "08062237449",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 167699853,
+                    "companyId": 61595890,
+                    "personId": 70122283,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 100,
+                    "person": {
+                        "id": 70122283,
+                        "name": "olakanye oluwatosin mary",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1985,
+                        "birthMonth": 12,
+                        "birthDate": 6,
+                        "address": "15 Mayowa Olakanye street, Egbeda, Lagos ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A06625488",
+                        "documentType": "International Passport",
+                        "email": "orolakanye@gmail.com",
+                        "phone": "08030486400",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 167699854,
+                    "companyId": 61595890,
+                    "personId": 70122284,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 70122284,
+                        "name": "olakanye oluwatosin mary",
+                        "countryId": 24,
+                        "address": "15 Mayowa Olakanye street, Egbeda, Lagos",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A06625488",
+                        "documentType": "International Passport",
+                        "email": "orolakanye@gmail.com",
+                        "phone": "08030486400",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 235403575,
+                    "companyId": 61595890,
+                    "personId": 77222057,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 77222057,
+                        "name": "olakanye orobola olutope",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1976,
+                        "birthMonth": 3,
+                        "birthDate": 17,
+                        "address": "15 Mayowa Olakanye street, Egbeda, Lagos.",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "boluzpaints@gmail.com",
+                        "phone": "09094546891",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 252484058,
+                    "companyId": 61595890,
+                    "personId": 102047859,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 100,
+                    "person": {
+                        "id": 102047859,
+                        "name": "olakanye orobola olutope",
+                        "countryId": 24,
+                        "birthYear": 1976,
+                        "birthMonth": 3,
+                        "birthDate": 17,
+                        "address": "",
+                        "countryOfResidence": "NIGERIA",
+                        "documentType": "National Identification Number",
+                        "email": "boluzpaints@gmail.com",
+                        "phone": "09094546891",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 252484060,
+                    "companyId": 61595890,
+                    "personId": 102047860,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 102047860,
+                        "name": "olakanye orobola olutope",
+                        "countryId": 24,
+                        "address": "15, Mayowa Olakanye Street, Egbeda, ",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "orobolaolakanye19@gmail.com",
+                        "phone": "08082573358",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "bol******************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Oro**** Olu**** Ola*****",
+                    "contacts": {
+                        "email": [
+                            "bol******************"
+                        ],
+                        "phone": [
+                            "090********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "10",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 6,
+                "2": 2,
+                "null": 2
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

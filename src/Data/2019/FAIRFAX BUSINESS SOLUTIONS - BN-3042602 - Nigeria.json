@@ -1,0 +1,327 @@
+[
+    {
+        "year": "2019",
+        "title": "FAIRFAX BUSINESS SOLUTIONS - BN-3042602 - Nigeria",
+        "description": "FAIRFAX BUSINESS SOLUTIONS Nigeria company, Company number: BN-3042602, Incorporation Date Dec 31, 2019;, Address: SUITE 6 2ND FLOOR, ZONE 4 PLAZA, WUSE, ABUJA, FCT",
+        "company": {
+            "id": 62573860,
+            "name": "FAIRFAX BUSINESS SOLUTIONS",
+            "internationalNumber": "BN-3042602",
+            "localNumber": "3042602",
+            "countryId": 24,
+            "dateCreated": "2019-12-31T00:00:00.000Z",
+            "createdAt": "2021-05-30T17:39:56.105Z",
+            "updatedAt": "2024-06-15T14:12:01.793Z",
+            "alternateNames": [],
+            "address": "SUITE 6 2ND FLOOR, ZONE 4 PLAZA, WUSE, ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6161914",
+            "updatedAtSitemap": "2023-06-09T14:59:38.000Z",
+            "oldInternationalNumber": "3042602",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1128,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196924,
+                    "providerId": "199237",
+                    "providerName": "General Contracts",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:13.437675+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91482357,
+                    "address": "SUITE 6 2ND FLOOR, ZONE 4 PLAZA, WUSE, ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332581352,
+                    "companyId": 62573860,
+                    "personId": 116745169,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 116745169,
+                        "name": "mohammed idris",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1977,
+                        "birthMonth": 1,
+                        "birthDate": 8,
+                        "address": "Annex 7 behind Access bank Dee Awwal plaza Micheal okpara street wuse zone 5 Abuja, Fct, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1697158",
+                        "documentType": "National ID Card",
+                        "documentNumber": "53908027446",
+                        "email": "imamidrismohammed@yahoo.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "PHOENIXCREST IMPERIAL ACADEMY LTD",
+                            "internationalNumber": "RC-1631114"
+                        },
+                        {
+                            "name": "FATMAK EXCELLENCE LTD",
+                            "internationalNumber": "RC-1623649"
+                        },
+                        {
+                            "name": "OMAPHUNBA ENTERPRISES",
+                            "internationalNumber": "BN-2673296"
+                        },
+                        {
+                            "name": "LANBASE GLOBAL CONSULTANT LTD",
+                            "internationalNumber": "RC-1468618"
+                        },
+                        {
+                            "name": "BULULUGA OIL & GAS LTD",
+                            "internationalNumber": "RC-1621392"
+                        },
+                        {
+                            "name": "M7 ROUND - TABLE VENTURES",
+                            "internationalNumber": "BN-2658582"
+                        },
+                        {
+                            "name": "HASSANATU MINING ASSOCIATES NIG. LTD",
+                            "internationalNumber": "RC-1457095"
+                        },
+                        {
+                            "name": "MADUSON TECHNOLOGIES CO. LTD",
+                            "internationalNumber": "RC-1627514"
+                        },
+                        {
+                            "name": "VISSCO FARMS & AGRO-ALLIED LTD",
+                            "internationalNumber": "RC-1613807"
+                        },
+                        {
+                            "name": "LANDMARK DOMESTIC BIRDS SERVICES LIMITED",
+                            "internationalNumber": "RC-1569157"
+                        },
+                        {
+                            "name": "TACT MULTI RESOURCES LTD",
+                            "internationalNumber": "RC-1564273"
+                        },
+                        {
+                            "name": "VELSCA LTD",
+                            "internationalNumber": "RC-1616512"
+                        },
+                        {
+                            "name": "AGVEST CAPITAL LIMITED",
+                            "internationalNumber": "RC-1634317"
+                        },
+                        {
+                            "name": "DE EMIRATES INTERNATIONAL FOUNDATION",
+                            "internationalNumber": "IT-119812"
+                        },
+                        {
+                            "name": "AL - GOYIT GLOBAL SERVICES NIG LTD",
+                            "internationalNumber": "RC-1618206"
+                        },
+                        {
+                            "name": "NICAS BEAUTY SALOON",
+                            "internationalNumber": "BN-3006250"
+                        },
+                        {
+                            "name": "AHMADA H.D MALLAHA ENTERPRISE",
+                            "internationalNumber": "BN-2712810"
+                        },
+                        {
+                            "name": "MOLTEN ROCK MINING LTD",
+                            "internationalNumber": "RC-1634955"
+                        },
+                        {
+                            "name": "BUBAKARI LOGISTICS SERVICES LTD",
+                            "internationalNumber": "RC-1614325"
+                        },
+                        {
+                            "name": "EE'S HOUSE & PRODUCTION LTD",
+                            "internationalNumber": "RC-1627595"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Moh***** Idr**",
+                    "contacts": {
+                        "email": [
+                            "ima************************"
+                        ],
+                        "phone": [
+                            "234*********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Idr** Moh*****",
+                    "contacts": {
+                        "email": [
+                            "ima************************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

@@ -1,0 +1,342 @@
+[
+    {
+        "year": "2020",
+        "title": "DIVINE POULTRY SERVICES - BN-3275814 - Nigeria",
+        "description": "DIVINE POULTRY SERVICES Nigeria company, Company number: BN-3275814, Incorporation Date Dec 24, 2020;, Address: NO. 5, NYALA CLOSE OFF TUNIS STREET, WUSE ZONE 6, ABUJA, FCT",
+        "company": {
+            "id": 62408277,
+            "name": "DIVINE POULTRY SERVICES",
+            "internationalNumber": "BN-3275814",
+            "localNumber": "3275814",
+            "countryId": 24,
+            "dateCreated": "2020-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-30T03:38:54.986Z",
+            "updatedAt": "2024-06-15T15:31:23.581Z",
+            "alternateNames": [],
+            "address": "NO. 5, NYALA CLOSE OFF TUNIS STREET, WUSE ZONE 6, ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6922312",
+            "updatedAtSitemap": "2023-06-09T17:25:59.000Z",
+            "oldInternationalNumber": "3275814",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 3823,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196954,
+                    "providerId": "199233",
+                    "providerName": "Farming",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:38.94858+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 29165781,
+                    "address": "NO. 5, NYALA CLOSE OFF TUNIS STREET, WUSE ZONE 6, ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 360300497,
+                    "companyId": 62408277,
+                    "personId": 93006635,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 93006635,
+                        "name": "dominic friday akor ",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1979,
+                        "birthMonth": 11,
+                        "birthDate": 25,
+                        "address": "no 2, pietersburg street wuse 2, Abuja, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1684007",
+                        "documentType": "National ID Card",
+                        "documentNumber": "45862874203",
+                        "email": "dominic4justice@gmail.com",
+                        "phone": "+234 806 839 9996",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "D'GENESIS REAL ESTATE LTD",
+                            "internationalNumber": "RC-1400644"
+                        },
+                        {
+                            "name": "OHII CITIZENS IN DIASPORA FORUM",
+                            "internationalNumber": "IT-151508"
+                        },
+                        {
+                            "name": "G-INJAS TRANSPORT LIMITED",
+                            "internationalNumber": "RC-1368133"
+                        },
+                        {
+                            "name": "ALPHA-TRUST DIVINE RESOURCES LIMITED",
+                            "internationalNumber": "RC-1632994"
+                        },
+                        {
+                            "name": "LONANITA ENTERPRISE",
+                            "internationalNumber": "BN-2698003"
+                        },
+                        {
+                            "name": "NKOYO PHARMACEUTICALS LIMITED",
+                            "internationalNumber": "RC-1468294"
+                        },
+                        {
+                            "name": "MOTONO FARMS LIMITED",
+                            "internationalNumber": "RC-1598354"
+                        },
+                        {
+                            "name": "SIMFRED INTEGRATED SERVICES NIG LTD",
+                            "internationalNumber": "RC-1463476"
+                        },
+                        {
+                            "name": "THE DECK OF GRILLS NIGERIA LTD",
+                            "internationalNumber": "RC-1614939"
+                        },
+                        {
+                            "name": "OGBELE O OGBELE GLOBAL SERVICES",
+                            "internationalNumber": "BN-2980981"
+                        },
+                        {
+                            "name": "TOPAFOLLY'S PLACE LTD",
+                            "internationalNumber": "RC-1397971"
+                        },
+                        {
+                            "name": "CITIZENS FOODS LIMITED",
+                            "internationalNumber": "RC-1621274"
+                        },
+                        {
+                            "name": "PROSPEROUS ENERGY & RESOURCES LTD",
+                            "internationalNumber": "RC-1455713"
+                        },
+                        {
+                            "name": "SAFEHOUSE CLINIC AND MATERNITY LIMITED",
+                            "internationalNumber": "RC-1621442"
+                        },
+                        {
+                            "name": "HERRITECH INTEGRATED SERVICES",
+                            "internationalNumber": "BN-2560354"
+                        },
+                        {
+                            "name": "E. J. OJOH LEGAL CONSULT",
+                            "internationalNumber": "BN-3545237"
+                        },
+                        {
+                            "name": "OOMEGAB FARMERS MARKET LIMITED",
+                            "internationalNumber": "RC-1620019"
+                        },
+                        {
+                            "name": "BROAD GATEWAY OIL AND GAS INT'L LTD",
+                            "internationalNumber": "RC-1635239"
+                        },
+                        {
+                            "name": "GILGAL INTERNATIONAL CLASSIC COLLEGE",
+                            "internationalNumber": "BN-2582014"
+                        },
+                        {
+                            "name": "SHAIBU KELLY NIGERIA ENTERPRISES",
+                            "internationalNumber": "BN-2989889"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Dom**** Fri*** Ako*",
+                    "contacts": {
+                        "phone": [
+                            "+23***********"
+                        ],
+                        "email": [
+                            "dom**********************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Dom**** Fri*** Ako* ",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "dom**********************"
+                        ]
+                    }
+                },
+                {
+                    "name": " Ako* Dom**** Fri***",
+                    "contacts": {
+                        "email": [
+                            "dom**********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 6,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

@@ -1,0 +1,288 @@
+[
+    {
+        "year": "2018",
+        "title": "GRINAR PROPERTIES - BN-2739553 - Nigeria",
+        "description": "GRINAR PROPERTIES Nigeria company, Company number: BN-2739553, Incorporation Date Dec 24, 2018;, Address: NO. 10 ASUQUO OFUM STREET, ABAK, AKWA IBOM STATE",
+        "company": {
+            "id": 60847360,
+            "name": "GRINAR PROPERTIES",
+            "internationalNumber": "BN-2739553",
+            "localNumber": "2739553",
+            "countryId": 24,
+            "dateCreated": "2018-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-15T09:24:35.072Z",
+            "updatedAt": "2024-06-15T14:15:17.932Z",
+            "alternateNames": [],
+            "address": "NO. 10 ASUQUO OFUM STREET, ABAK, AKWA IBOM STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5132357",
+            "updatedAtSitemap": "2023-06-09T18:04:15.000Z",
+            "oldInternationalNumber": "2739553",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2613,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197020,
+                    "providerId": "199187",
+                    "providerName": "Property Management Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:40.024658+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97544909,
+                    "address": "NO. 10 ASUQUO OFUM STREET, ABAK, AKWA IBOM STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 238754707,
+                    "companyId": 60847360,
+                    "personId": 97310431,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97310431,
+                        "name": "udofiah ukeme williams",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1993,
+                        "birthMonth": 9,
+                        "birthDate": 28,
+                        "address": "No.10 Asuquo Ofum street",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "ukemeudofiah@yahoo.com",
+                        "phone": "08108709840",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 238754708,
+                    "companyId": 60847360,
+                    "personId": 97310432,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97310432,
+                        "name": "udofiah ukeme williams",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1993,
+                        "birthMonth": 9,
+                        "birthDate": 27,
+                        "address": "# 10 Asuquo Ofum Street, Abak,",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "5298205005841056",
+                        "documentType": "National ID Card",
+                        "email": "ukemeudofiah@yahoo.com",
+                        "phone": "08108709840",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Uke** Wil***** Udo****",
+                    "contacts": {
+                        "phone": [
+                            "081********"
+                        ],
+                        "email": [
+                            "uke*******************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "2",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 1
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

@@ -1,0 +1,283 @@
+[
+    {
+        "year": "2019",
+        "title": "SPRINGBOX GLOBAL SERVICES - BN-3036922 - Nigeria",
+        "description": "SPRINGBOX GLOBAL SERVICES Nigeria company, Company number: BN-3036922, Incorporation Date Dec 17, 2019;, Address: PLOT 240 SL AKINTOLA BOULEVARD, GARKI, ABUJA, FCT",
+        "company": {
+            "id": 60717419,
+            "name": "SPRINGBOX GLOBAL SERVICES",
+            "internationalNumber": "BN-3036922",
+            "localNumber": "3036922",
+            "countryId": 24,
+            "dateCreated": "2019-12-17T00:00:00.000Z",
+            "createdAt": "2021-05-14T23:57:02.130Z",
+            "updatedAt": "2024-06-15T14:09:44.730Z",
+            "alternateNames": [],
+            "address": "PLOT 240 SL AKINTOLA BOULEVARD, GARKI, ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6109963",
+            "updatedAtSitemap": "2023-06-09T15:24:49.000Z",
+            "oldInternationalNumber": "3036922",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1241,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91431863,
+                    "address": "PLOT 240 SL AKINTOLA BOULEVARD, GARKI, ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "BENNOIT RESOURCES",
+                            "internationalNumber": "BN-3036920"
+                        },
+                        {
+                            "name": "EMERIC CONCEPT RESOURCES",
+                            "internationalNumber": "BN-3036117"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332533528,
+                    "companyId": 60717419,
+                    "personId": 68372091,
+                    "roleId": 114351,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 68372091,
+                        "name": "ginikanwa okeke",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1975,
+                        "birthMonth": 9,
+                        "birthDate": 20,
+                        "address": "PLOT 943Cadastral zone B06, Mabushi, Abuja, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1685223",
+                        "documentType": "International Passport",
+                        "documentNumber": "A06503851",
+                        "email": "ginyksbaby@yahoo.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114351,
+                        "name": "Legal Practice ",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "BENNOIT RESOURCES",
+                            "internationalNumber": "BN-3036920"
+                        },
+                        {
+                            "name": "MHTRADE LIMITED",
+                            "internationalNumber": "RC-1551296"
+                        },
+                        {
+                            "name": "IRORUNOLA TOKE TRADING VENTURES",
+                            "internationalNumber": "BN-3542668"
+                        },
+                        {
+                            "name": "EMERIC CONCEPT RESOURCES",
+                            "internationalNumber": "BN-3036117"
+                        },
+                        {
+                            "name": "TVN GLOBAL SERVICES LIMITED",
+                            "internationalNumber": "RC-1807806"
+                        },
+                        {
+                            "name": "VINENDY VENTURES",
+                            "internationalNumber": "BN-2784027"
+                        },
+                        {
+                            "name": "PELIGRINI RESOURCES",
+                            "internationalNumber": "BN-2797749"
+                        },
+                        {
+                            "name": "PUNCIO VENTURES",
+                            "internationalNumber": "BN-2780747"
+                        },
+                        {
+                            "name": "DE OLIVES LOGISTICS AND PROCUREMENT LIMITED",
+                            "internationalNumber": "RC-1551475"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Gin****** Oke**",
+                    "contacts": {
+                        "email": [
+                            "gin*****************"
+                        ],
+                        "phone": [
+                            "234**********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

@@ -1,0 +1,288 @@
+[
+    {
+        "year": "2018",
+        "title": "JAY-I ASSORTED - BN-2739432 - Nigeria",
+        "description": "JAY-I ASSORTED Nigeria company, Company number: BN-2739432, Incorporation Date 24 \u0433\u0440\u0443\u0434 2018 \u0440.;, Address: NO 47, BAY CLINIC ROAD, TUNGA, MINNA, NIGER STATE",
+        "company": {
+            "id": 60448893,
+            "name": "JAY-I ASSORTED",
+            "internationalNumber": "BN-2739432",
+            "localNumber": "2739432",
+            "countryId": 24,
+            "dateCreated": "2018-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-14T05:08:12.369Z",
+            "updatedAt": "2024-06-15T14:19:49.506Z",
+            "alternateNames": [],
+            "address": "NO 47, BAY CLINIC ROAD, TUNGA, MINNA, NIGER STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5036804",
+            "updatedAtSitemap": "2023-06-09T18:16:06.000Z",
+            "oldInternationalNumber": "2739432",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2613,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 5888446,
+                    "providerId": "13",
+                    "providerName": "Manufacture of textiles",
+                    "countryId": 24,
+                    "createdAt": "2021-05-18T12:36:42.568129+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 95221593,
+                    "address": "NO 47, BAY CLINIC ROAD, TUNGA, MINNA, NIGER STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 242705398,
+                    "companyId": 60448893,
+                    "personId": 99103050,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 99103050,
+                        "name": "chinedu agili ojonugwa",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1985,
+                        "birthMonth": 9,
+                        "birthDate": 17,
+                        "address": "No 13 daike street mudaike quarters asaba",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "Agilichinedu@gmail.com",
+                        "phone": "08035895993",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 242705399,
+                    "companyId": 60448893,
+                    "personId": 99103051,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 99103051,
+                        "name": "chinedu agili ojonugwa",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1985,
+                        "birthMonth": 9,
+                        "birthDate": 18,
+                        "address": "No.13,daike Street,mudaike quarters",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A2425062",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "Agilichinedu@gmail.com",
+                        "phone": "08035895993",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Agi** Ojo***** Chi****",
+                    "contacts": {
+                        "email": [
+                            "agi*******************"
+                        ],
+                        "phone": [
+                            "080********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "2",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 1
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

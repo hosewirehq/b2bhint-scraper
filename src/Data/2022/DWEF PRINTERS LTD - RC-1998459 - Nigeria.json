@@ -1,0 +1,322 @@
+[
+    {
+        "year": "2022",
+        "title": "DWEF PRINTERS LTD - RC-1998459 - Nigeria",
+        "description": "DWEF PRINTERS LTD Nigeria company, Company number: RC-1998459, Incorporation Date 14 Kas 2022;, Address: NO 1 OYOR AVENUE OGALE, ELEME, RIVERS STATE",
+        "company": {
+            "id": 191028050,
+            "name": "DWEF PRINTERS LTD",
+            "internationalNumber": "RC-1998459",
+            "localNumber": "1998459",
+            "countryId": 24,
+            "dateCreated": "2022-11-14T00:00:00.000Z",
+            "createdAt": "2022-12-07T13:50:33.385Z",
+            "updatedAt": "2024-06-15T14:39:48.509Z",
+            "alternateNames": [],
+            "address": "NO 1 OYOR AVENUE OGALE, ELEME, RIVERS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "activityDescription": "PRINTING AND GENERAL CONTRACTS ",
+            "providerId": "4829341",
+            "updatedAtSitemap": "2023-06-09T20:02:56.000Z",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 14,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196931,
+                    "providerId": "199270",
+                    "providerName": "Cybercaf\u00e9 and Business Centre",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:20.009827+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 107075227,
+                    "address": "NO 1 OYOR AVENUE OGALE, ELEME, RIVERS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 377275733,
+                    "companyId": 191028050,
+                    "personId": 66140298,
+                    "roleId": 114349,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66140298,
+                        "name": "kamil abdulraheem",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1970,
+                        "birthMonth": 11,
+                        "birthDate": 16,
+                        "address": "suite 008 lozumba complex, area10., abuja, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1309440",
+                        "documentType": "National ID Card",
+                        "documentNumber": "03238871232",
+                        "email": "kamilabdulraheem@yahoo.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114349,
+                        "name": "Legal Practice",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practice"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "JIFOJAD NIGERIA LIMITED",
+                            "internationalNumber": "RC-1561498"
+                        },
+                        {
+                            "name": "IZZY GOLD GLOBAL VENTURES",
+                            "internationalNumber": "BN-2800633"
+                        },
+                        {
+                            "name": "3-STAR TECHNICAL INSPECTION INTERNATIONAL SERVICES LTD",
+                            "internationalNumber": "RC-1628179"
+                        },
+                        {
+                            "name": "BARBOS BUREAU DE CHANGE LTD",
+                            "internationalNumber": "RC-1431295"
+                        },
+                        {
+                            "name": "RAFISAH WORLD WIDE LTD",
+                            "internationalNumber": "RC-1639183"
+                        },
+                        {
+                            "name": "ISH PICTURESQUE",
+                            "internationalNumber": "BN-2483246"
+                        },
+                        {
+                            "name": "U.B.A DIRO NIG LTD",
+                            "internationalNumber": "RC-1396158"
+                        },
+                        {
+                            "name": "HAFISAH MULTI CONCEPT VENTURES LTD",
+                            "internationalNumber": "RC-1639180"
+                        },
+                        {
+                            "name": "SAMTOKS SHUTTLES NIGERIA",
+                            "internationalNumber": "BN-2971971"
+                        },
+                        {
+                            "name": "ZILA INTEGRATED RESOURCES LTD",
+                            "internationalNumber": "RC-1755688"
+                        },
+                        {
+                            "name": "ITD AFRICA LIMITED",
+                            "internationalNumber": "RC-1818173"
+                        },
+                        {
+                            "name": "JAMISALE INTEGRATED CONCEPT",
+                            "internationalNumber": "BN-2495510"
+                        },
+                        {
+                            "name": "MABASH GLOBAL RESOURCES LTD",
+                            "internationalNumber": "RC-1431485"
+                        },
+                        {
+                            "name": "COMPLETE OIL & GAS LTD",
+                            "internationalNumber": "RC-1388403"
+                        },
+                        {
+                            "name": "A.A IBRO FURNITURE AND UPHOLSTERY LTD",
+                            "internationalNumber": "RC-1791708"
+                        },
+                        {
+                            "name": "HIGH INSTRUCTION LTD",
+                            "internationalNumber": "RC-1623758"
+                        },
+                        {
+                            "name": "NEXT HOMES INTERNATIONAL CONCEPT",
+                            "internationalNumber": "BN-2991958"
+                        },
+                        {
+                            "name": "ANALYTICAL SOLUTIONS GLOBAL CONCEPT LTD",
+                            "internationalNumber": "RC-1625522"
+                        },
+                        {
+                            "name": "MARY NESACHI GLOBAL LTD",
+                            "internationalNumber": "RC-1363250"
+                        },
+                        {
+                            "name": "SAROD INTEGRATED RESOURCES LTD",
+                            "internationalNumber": "RC-1571076"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "sup*********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Kam** Abd********",
+                    "contacts": {
+                        "email": [
+                            "kam***********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 1,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

@@ -1,0 +1,554 @@
+[
+    {
+        "year": "2019",
+        "title": "BEL-MONDO PROJECTS LTD - RC-1644062 - Nigeria",
+        "description": "BEL-MONDO PROJECTS LTD Nigeria company, Company number: RC-1644062, Incorporation Date 23 Ara 2019;, Address: BLOCK 2\/49, AREA B, NYANYA, ABUJA, ABUJA, FCT",
+        "company": {
+            "id": 62582166,
+            "name": "BEL-MONDO PROJECTS LTD",
+            "internationalNumber": "RC-1644062",
+            "localNumber": "1644062",
+            "countryId": 24,
+            "dateCreated": "2019-12-23T00:00:00.000Z",
+            "createdAt": "2021-05-30T18:20:04.489Z",
+            "updatedAt": "2024-06-15T14:11:14.256Z",
+            "alternateNames": [],
+            "address": "BLOCK 2\/49, AREA B, NYANYA, ABUJA, ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "6163519",
+            "updatedAtSitemap": "2023-06-09T14:59:32.000Z",
+            "oldInternationalNumber": "1644062",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1250,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 29348104,
+                    "address": "BLOCK 2\/49, AREA B, NYANYA, ABUJA, ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 158463108,
+                    "companyId": 62582166,
+                    "personId": 67047647,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67047647,
+                        "name": "monchie awele emmanuella",
+                        "countryId": 24,
+                        "address": "BLOCK 2\/49, FLAT 5, AREA B, NYANYA, ABUJA.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "32825261257",
+                        "documentType": "National ID Card",
+                        "email": "monchiechristian@yahoo.com",
+                        "phone": "08137733996",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158463104,
+                    "companyId": 62582166,
+                    "personId": 67047647,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 800000,
+                    "person": {
+                        "id": 67047647,
+                        "name": "monchie awele emmanuella",
+                        "countryId": 24,
+                        "address": "BLOCK 2\/49, FLAT 5, AREA B, NYANYA, ABUJA.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "32825261257",
+                        "documentType": "National ID Card",
+                        "email": "monchiechristian@yahoo.com",
+                        "phone": "08137733996",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158463105,
+                    "companyId": 62582166,
+                    "personId": 67047647,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 800000,
+                    "person": {
+                        "id": 67047647,
+                        "name": "monchie awele emmanuella",
+                        "countryId": 24,
+                        "address": "BLOCK 2\/49, FLAT 5, AREA B, NYANYA, ABUJA.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "32825261257",
+                        "documentType": "National ID Card",
+                        "email": "monchiechristian@yahoo.com",
+                        "phone": "08137733996",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158463107,
+                    "companyId": 62582166,
+                    "personId": 67047648,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 200000,
+                    "person": {
+                        "id": 67047648,
+                        "name": "boo samuel",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1988,
+                        "birthMonth": 9,
+                        "birthDate": 29,
+                        "address": "NO. 51, DOKHJI STREET, U\/PAMA SABIN TASHA, KADUNA STATE. ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A14414655",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "samuelboo88@gmail.com",
+                        "phone": "07036179163",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158463106,
+                    "companyId": 62582166,
+                    "personId": 67047648,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 200000,
+                    "person": {
+                        "id": 67047648,
+                        "name": "boo samuel",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1988,
+                        "birthMonth": 9,
+                        "birthDate": 29,
+                        "address": "NO. 51, DOKHJI STREET, U\/PAMA SABIN TASHA, KADUNA STATE. ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A14414655",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "samuelboo88@gmail.com",
+                        "phone": "07036179163",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 237283081,
+                    "companyId": 62582166,
+                    "personId": 71822778,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 71822778,
+                        "name": "eriamiantoe osasu tina",
+                        "countryId": 24,
+                        "address": "6 IKEJA CLOSE OYO STREET,AREA 2",
+                        "email": "osasuosa2@gmail.com",
+                        "phone": "07062433867",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "LEKKI ERRANDS LIMITED",
+                            "internationalNumber": "RC-1328696"
+                        },
+                        {
+                            "name": "RISANU IRO LINK ENT.",
+                            "internationalNumber": "BN-2411575"
+                        },
+                        {
+                            "name": "GYM STARLLION LTD",
+                            "internationalNumber": "RC-1542982"
+                        },
+                        {
+                            "name": "MEDICOBRIDGE LTD",
+                            "internationalNumber": "RC-1755218"
+                        },
+                        {
+                            "name": "DANYJOE AUTOMOBILE WORKS SERVICES",
+                            "internationalNumber": "BN-2492794"
+                        },
+                        {
+                            "name": "LAZOMAK INTEGRATED SERVICES LTD",
+                            "internationalNumber": "RC-1334427"
+                        },
+                        {
+                            "name": "A.S.TRADERS LIMITED",
+                            "internationalNumber": "RC-1450232"
+                        },
+                        {
+                            "name": "NICE EAGLE SHOES SYNERGY LTD",
+                            "internationalNumber": "RC-1639501"
+                        },
+                        {
+                            "name": "EZZE FIRST FITNESS LTD",
+                            "internationalNumber": "RC-1543044"
+                        },
+                        {
+                            "name": "OKMEX VENTURES",
+                            "internationalNumber": "BN-2322064"
+                        },
+                        {
+                            "name": "RITSHANG LIMITED",
+                            "internationalNumber": "RC-1447828"
+                        },
+                        {
+                            "name": "ASUNI FARMS LIMITED",
+                            "internationalNumber": "RC-1759274"
+                        },
+                        {
+                            "name": "ROSEWOOD LINK ENTERPRISES",
+                            "internationalNumber": "BN-2406949"
+                        },
+                        {
+                            "name": "AKUDAN INTEGRATED SERVICES",
+                            "internationalNumber": "BN-2405956"
+                        },
+                        {
+                            "name": "ELECTRO INTEGRATED SYNERGY NIGERIA LIMITED",
+                            "internationalNumber": "RC-1441178"
+                        },
+                        {
+                            "name": "DE ATHLETE CENTRE ODUMALIFE FITNESS LTD",
+                            "internationalNumber": "RC-1543048"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "mon***********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Osa** Tin* Eri********",
+                    "contacts": {
+                        "phone": [
+                            "070********"
+                        ],
+                        "email": [
+                            "osa****************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "7",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "null": 2
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

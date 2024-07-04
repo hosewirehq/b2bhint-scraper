@@ -1,0 +1,511 @@
+[
+    {
+        "year": "2019",
+        "title": "VERUCELY INTERNATIONAL LTD - RC-1643445 - Nigeria",
+        "description": "VERUCELY INTERNATIONAL LTD Nigeria company, Company number: RC-1643445, Incorporation Date Dec 20, 2019;, Address: NO.17, DAYO ABIONA CRESCENT OWUTU AGRIC IKORODU LAGOS., OWUTU -AGRIC, LAGOS STATE",
+        "company": {
+            "id": 64376140,
+            "name": "VERUCELY INTERNATIONAL LTD",
+            "internationalNumber": "RC-1643445",
+            "localNumber": "1643445",
+            "countryId": 24,
+            "dateCreated": "2019-12-20T00:00:00.000Z",
+            "createdAt": "2021-06-13T22:04:52.639Z",
+            "updatedAt": "2024-06-15T14:04:42.411Z",
+            "alternateNames": [],
+            "address": "NO.17, DAYO ABIONA CRESCENT OWUTU AGRIC IKORODU LAGOS., OWUTU -AGRIC, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "5692724",
+            "updatedAtSitemap": "2023-06-09T15:36:07.000Z",
+            "oldInternationalNumber": "1643445",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1178,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197363,
+                    "providerId": "143193",
+                    "providerName": "Manufacture of food products",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:09:58.387558+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91160738,
+                    "address": "NO.17, DAYO ABIONA CRESCENT OWUTU AGRIC IKORODU LAGOS., OWUTU -AGRIC, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 159104390,
+                    "companyId": 64376140,
+                    "personId": 67405645,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67405645,
+                        "name": "nwibe ginikachukwu soluchi",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1999,
+                        "birthMonth": 2,
+                        "birthDate": 3,
+                        "address": "No.17, Abiona Crescent Owutu Agric Ikorodu Lagos.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "83641269852",
+                        "documentType": "National ID Card",
+                        "email": "yucenandyucen@yahoo.com",
+                        "phone": "09038292055",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 159104395,
+                    "companyId": 64376140,
+                    "personId": 67405645,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 250000,
+                    "person": {
+                        "id": 67405645,
+                        "name": "nwibe ginikachukwu soluchi",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1999,
+                        "birthMonth": 2,
+                        "birthDate": 3,
+                        "address": "No.17, Abiona Crescent Owutu Agric Ikorodu Lagos.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "83641269852",
+                        "documentType": "National ID Card",
+                        "email": "yucenandyucen@yahoo.com",
+                        "phone": "09038292055",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 159104391,
+                    "companyId": 64376140,
+                    "personId": 67405646,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67405646,
+                        "name": "nwibe munachiso uchenna",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 2000,
+                        "birthMonth": 12,
+                        "birthDate": 5,
+                        "address": "No.17, Abiona Crescent Owutu Agric Ikorodu Lagos.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "29875388102",
+                        "documentType": "National ID Card",
+                        "email": "yucenandyucen@yahoo.com",
+                        "phone": "08103257615",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 159104396,
+                    "companyId": 64376140,
+                    "personId": 67405646,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 250000,
+                    "person": {
+                        "id": 67405646,
+                        "name": "nwibe munachiso uchenna",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 2000,
+                        "birthMonth": 12,
+                        "birthDate": 5,
+                        "address": "No.17, Abiona Crescent Owutu Agric Ikorodu Lagos.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "29875388102",
+                        "documentType": "National ID Card",
+                        "email": "yucenandyucen@yahoo.com",
+                        "phone": "08103257615",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 159104393,
+                    "companyId": 64376140,
+                    "personId": 67405648,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67405648,
+                        "name": "uwanaka declan ugochukwu",
+                        "countryId": 24,
+                        "address": "No 17, Abiona Crescent Owutu Agric Ikorodu Lagos.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "5298201701030318",
+                        "documentType": "National ID Card",
+                        "email": "yucenandyucen@yahoo.com",
+                        "phone": "07062601194",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 238185051,
+                    "companyId": 64376140,
+                    "personId": 96876455,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 96876455,
+                        "name": "oladiran juliana",
+                        "countryId": 24,
+                        "address": "5, Shomoye tejuosho close, Alade market Allen",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "OLADIRANJULIANA@GMAIL.COM",
+                        "phone": "09035380659",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "LATINO PHARMACEUTICALS LTD",
+                            "internationalNumber": "RC-1617242"
+                        },
+                        {
+                            "name": "RISINGSUN TOURS AND LOGISTICS LIMITED",
+                            "internationalNumber": "1634778"
+                        },
+                        {
+                            "name": "GOD'S TECH INTERNATIONAL LIMITED",
+                            "internationalNumber": "RC-1649650"
+                        },
+                        {
+                            "name": "WANANCHI FAVOURITE CROP FIRM LIMITED",
+                            "internationalNumber": "RC-1523234"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "yuc********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Obi***** Ver***** Nwi**",
+                    "contacts": {
+                        "phone": [
+                            "070********"
+                        ],
+                        "email": [
+                            "yuc********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "11",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 4,
+                "2": 5,
+                "null": 2
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

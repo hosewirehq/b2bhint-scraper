@@ -1,0 +1,300 @@
+[
+    {
+        "year": "2019",
+        "title": "FAME COLLECTIONZ - BN-3036106 - Nigeria",
+        "description": "FAME COLLECTIONZ Nigeria company, Company number: BN-3036106, Incorporation Date 16 \u0433\u0440\u0443\u0434 2019 \u0440.;, Address: 9 UPPER IYI-EWEKA NEW BENIN, BENIN CITY, EDO STATE",
+        "company": {
+            "id": 60714219,
+            "name": "FAME COLLECTIONZ",
+            "internationalNumber": "BN-3036106",
+            "localNumber": "3036106",
+            "countryId": 24,
+            "dateCreated": "2019-12-16T00:00:00.000Z",
+            "createdAt": "2021-05-14T23:43:30.353Z",
+            "updatedAt": "2024-06-15T14:09:44.653Z",
+            "alternateNames": [],
+            "address": "9 UPPER IYI-EWEKA NEW BENIN, BENIN CITY, EDO STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6109358",
+            "updatedAtSitemap": "2023-11-01T14:57:28.000Z",
+            "oldInternationalNumber": "3036106",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1487,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196921,
+                    "providerId": "199277",
+                    "providerName": "Boutique Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.930706+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91431281,
+                    "address": "9 UPPER IYI-EWEKA NEW BENIN, BENIN CITY, EDO STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332532948,
+                    "companyId": 60714219,
+                    "personId": 70426633,
+                    "roleId": 60318,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 70426633,
+                        "name": "oyenmwonsa joy abu",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1994,
+                        "birthMonth": 2,
+                        "birthDate": 8,
+                        "address": "1Ikpoba Slope, Benin, EDO STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2062464",
+                        "documentType": "National ID Card",
+                        "documentNumber": "61240909399",
+                        "email": "oyenmwonsa.abu@gmail.com",
+                        "phone": "+234 705 338 1130",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60318,
+                        "name": "Lawyer",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Lawyer"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "JERWAH FOODS",
+                            "internationalNumber": "BN-3227216"
+                        },
+                        {
+                            "name": "LETTICE CAKES AND EVENTS",
+                            "internationalNumber": "BN-3036387"
+                        },
+                        {
+                            "name": "WEBENAT VENTURES",
+                            "internationalNumber": "BN-3554961"
+                        },
+                        {
+                            "name": "PADDOCK FARMS LTD",
+                            "internationalNumber": "RC-123048"
+                        },
+                        {
+                            "name": "MUNA MOTHER CARE SHOP",
+                            "internationalNumber": "BN-3486469"
+                        },
+                        {
+                            "name": "SISTER'S HEART FOUNDATION",
+                            "internationalNumber": "IT-123048"
+                        },
+                        {
+                            "name": "VESTEES FITTINGS",
+                            "internationalNumber": "BN-3092652"
+                        },
+                        {
+                            "name": "WI-KONNECT NETWORK SOLUTIONS",
+                            "internationalNumber": "BN-3510392"
+                        },
+                        {
+                            "name": "A. AMRAM VENTURES",
+                            "internationalNumber": "BN-3483352"
+                        },
+                        {
+                            "name": "TOJ PHARMACY AND SUPER STORES",
+                            "internationalNumber": "BN-3220557"
+                        },
+                        {
+                            "name": "OTIS TV",
+                            "internationalNumber": "BN-3484141"
+                        },
+                        {
+                            "name": "OHENS FAB",
+                            "internationalNumber": "BN-3541796"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Oye******* Joy Abu",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "070********"
+                        ],
+                        "email": [
+                            "oye*********************"
+                        ]
+                    }
+                },
+                {
+                    "name": " Abu Joy Oye*******",
+                    "contacts": {
+                        "email": [
+                            "oye*********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

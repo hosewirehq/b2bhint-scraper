@@ -1,0 +1,322 @@
+[
+    {
+        "year": "2019",
+        "title": "BOS WINNING TEAM ESTATE - BN-3037932 - Nigeria",
+        "description": "BOS WINNING TEAM ESTATE Nigeria company, Company number: BN-3037932, Incorporation Date 19 Dec. 2019;, Address: 19, IFELODUN STREET, ILASAMAJA, OSHODI-ISOLO, LAGOS, ISOLO, LAGOS STATE",
+        "company": {
+            "id": 62593064,
+            "name": "BOS WINNING TEAM ESTATE",
+            "internationalNumber": "BN-3037932",
+            "localNumber": "3037932",
+            "countryId": 24,
+            "dateCreated": "2019-12-19T00:00:00.000Z",
+            "createdAt": "2021-05-30T19:06:03.207Z",
+            "updatedAt": "2024-06-15T14:11:19.539Z",
+            "alternateNames": [],
+            "address": "19, IFELODUN STREET, ILASAMAJA, OSHODI-ISOLO, LAGOS, ISOLO, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99332,
+            "historicalNames": [],
+            "providerId": "6165574",
+            "updatedAtSitemap": "2023-06-09T14:59:25.000Z",
+            "oldInternationalNumber": "3037932",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99332,
+                "type": "Business name - partnership",
+                "countryId": 24,
+                "translation": {
+                    "en": "Partnership"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1520,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197161,
+                    "providerId": "199182",
+                    "providerName": "Environmental and Landscaping Services ",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:04:54.356224+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91486417,
+                    "address": "19, IFELODUN STREET, ILASAMAJA, OSHODI-ISOLO, LAGOS, ISOLO, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332585585,
+                    "companyId": 62593064,
+                    "personId": 67087802,
+                    "roleId": 114490,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67087802,
+                        "name": "ogechukwu maureen agbazue",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1974,
+                        "birthMonth": 2,
+                        "birthDate": 27,
+                        "address": "NO. 16 IMAM MEMUDU STREET, COKER, SURULERE, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1811274",
+                        "documentType": "National ID Card",
+                        "documentNumber": "99663395401",
+                        "email": "ogechukwu1974@gmail.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114490,
+                        "name": "Solicitor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "KADICH FOOD & SNACKS",
+                            "internationalNumber": "BN-2921470"
+                        },
+                        {
+                            "name": "ISLE ENGINEERING SOLUTION LTD",
+                            "internationalNumber": "RC-1627426"
+                        },
+                        {
+                            "name": "ANELO ACADEMY",
+                            "internationalNumber": "BN-3253467"
+                        },
+                        {
+                            "name": "JUZIELA INTERNATIONAL LIMITED",
+                            "internationalNumber": "RC-1741506"
+                        },
+                        {
+                            "name": "FAAPRAGE INT'L PHARMACY LTD",
+                            "internationalNumber": "RC-1627378"
+                        },
+                        {
+                            "name": "ISLE INTEGRATED & GENERAL SERVICES LTD",
+                            "internationalNumber": "RC-1655922"
+                        },
+                        {
+                            "name": "QUEST VIRTUAL REALITY SOLUTIONS",
+                            "internationalNumber": "BN-3476360"
+                        },
+                        {
+                            "name": "F. OBYSCO GLOBAL BUSINESS",
+                            "internationalNumber": "BN-2871278"
+                        },
+                        {
+                            "name": "SPIRIT & WINE EMPORIUM",
+                            "internationalNumber": "BN-3481258"
+                        },
+                        {
+                            "name": "M. UNIQUE STANDARD ENTERPRISES",
+                            "internationalNumber": "BN-2871266"
+                        },
+                        {
+                            "name": "LJ MOBILE COMMUNICATION NIG LTD",
+                            "internationalNumber": "RC-1781869"
+                        },
+                        {
+                            "name": "SWELL LIVESTOCK AND LOGISTICS LTD",
+                            "internationalNumber": "RC-1802060"
+                        },
+                        {
+                            "name": "SHELLOPOLY GAMES",
+                            "internationalNumber": "BN-3476296"
+                        },
+                        {
+                            "name": "CHRISGLOFAJO OIL & GAS LTD",
+                            "internationalNumber": "RC-1490128"
+                        },
+                        {
+                            "name": "LAWMICKJOY NIG. ENTERPRISES",
+                            "internationalNumber": "BN-3163253"
+                        },
+                        {
+                            "name": "JAPHITO MARBLE AND GRANITE ENTREPRENEUR",
+                            "internationalNumber": "BN-3024410"
+                        },
+                        {
+                            "name": "REE STORES",
+                            "internationalNumber": "BN-3209073"
+                        },
+                        {
+                            "name": "BLESSED EMMANUEL TELECOMS",
+                            "internationalNumber": "BN-3090827"
+                        },
+                        {
+                            "name": "COCOANDEVERYTHINGESSENTIAL",
+                            "internationalNumber": "BN-3354439"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Oge****** Mau**** Agb****",
+                    "contacts": {
+                        "email": [
+                            "oge********************"
+                        ],
+                        "phone": [
+                            "234**********"
+                        ]
+                    }
+                },
+                {
+                    "name": " Agb**** Mau**** Oge******",
+                    "contacts": {
+                        "email": [
+                            "oge********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

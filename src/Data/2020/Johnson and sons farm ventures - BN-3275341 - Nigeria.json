@@ -1,0 +1,325 @@
+[
+    {
+        "year": "2020",
+        "title": "Johnson and sons farm ventures - BN-3275341 - Nigeria",
+        "description": "Johnson and sons farm ventures Nigeria company, Company number: BN-3275341, Incorporation Date 22 dec 2020;, Address: NO 33 AMACHARA, ABAKALIKI, EBONYI STATE",
+        "company": {
+            "id": 61986941,
+            "name": "Johnson and sons farm ventures",
+            "internationalNumber": "BN-3275341",
+            "localNumber": "3275341",
+            "countryId": 24,
+            "dateCreated": "2020-12-22T00:00:00.000Z",
+            "createdAt": "2021-05-27T13:59:50.030Z",
+            "updatedAt": "2024-06-15T15:45:37.877Z",
+            "alternateNames": [],
+            "address": "NO 33 AMACHARA, ABAKALIKI, EBONYI STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6811847",
+            "updatedAtSitemap": "2023-06-09T16:58:09.000Z",
+            "oldInternationalNumber": "3275341",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2292,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 101891032,
+                    "address": "NO 33 AMACHARA, ABAKALIKI, EBONYI STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 360249678,
+                    "companyId": 61986941,
+                    "personId": 66137541,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66137541,
+                        "name": "christian ndukaku agu",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1984,
+                        "birthMonth": 7,
+                        "birthDate": 26,
+                        "address": "187FAULKS ROAD, ABA, ABIA STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2721566",
+                        "documentType": "National ID Card",
+                        "documentNumber": "IM163625639",
+                        "email": "aguchristianndu@gmail.com",
+                        "phone": "+234 806 270 8353",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "DEN COOL VENTURES",
+                            "internationalNumber": "BN-3384925"
+                        },
+                        {
+                            "name": "EZENWATA INTEGRATED SERVICES",
+                            "internationalNumber": "BN-3002692"
+                        },
+                        {
+                            "name": "UREZGLAM CONCEPTS",
+                            "internationalNumber": "BN-2984821"
+                        },
+                        {
+                            "name": "KWUWA-AKA GI OTO INTEGRATED SERVICES",
+                            "internationalNumber": "BN-2998649"
+                        },
+                        {
+                            "name": "PASCAL INTEGRATED SERVICES",
+                            "internationalNumber": "BN-3002719"
+                        },
+                        {
+                            "name": "PRINCE ONYEKACHI UDAH VENTURES",
+                            "internationalNumber": "BN-2984674"
+                        },
+                        {
+                            "name": "ROCCIANO ENTERPRISE",
+                            "internationalNumber": "BN-2993592"
+                        },
+                        {
+                            "name": "WILLY CHEMICALS & PAINT VENTURE",
+                            "internationalNumber": "BN-3015135"
+                        },
+                        {
+                            "name": "BLESSED O S M ENTERPRISES",
+                            "internationalNumber": "BN-3548252"
+                        },
+                        {
+                            "name": "THE ROYAL IFECO ENTERPRISES",
+                            "internationalNumber": "BN-3425031"
+                        },
+                        {
+                            "name": "JOYXI COLLECTIBLES",
+                            "internationalNumber": "BN-2974958"
+                        },
+                        {
+                            "name": "KI-CHOFF AND SONS BUSINESS VENTURES",
+                            "internationalNumber": "BN-2975443"
+                        },
+                        {
+                            "name": "ZAINAGOLD DESIGNS",
+                            "internationalNumber": "BN-2975363"
+                        },
+                        {
+                            "name": "SNEWILL NIG LTD",
+                            "internationalNumber": "RC-1889220"
+                        },
+                        {
+                            "name": "GALICHIN AGENCIES",
+                            "internationalNumber": "BN-2989774"
+                        },
+                        {
+                            "name": "UCHE RABBI ENT",
+                            "internationalNumber": "BN-3343707"
+                        },
+                        {
+                            "name": "UNIQUE KALU INTEGRATED SERVICES",
+                            "internationalNumber": "BN-2998984"
+                        },
+                        {
+                            "name": "MARCEL T. INTEGRATED SERVICES",
+                            "internationalNumber": "BN-3002739"
+                        },
+                        {
+                            "name": "DE UNIQUE K. CHIMS ENTERPRISE",
+                            "internationalNumber": "BN-3404807"
+                        },
+                        {
+                            "name": "OJINI-NWA MULTICONCEPT ENT",
+                            "internationalNumber": "BN-3369468"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "ter*******************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Chr****** Ndu**** Agu",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "agu**********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

@@ -1,0 +1,448 @@
+[
+    {
+        "year": "2019",
+        "title": "BLUE WORKS LIMITED - RC-1644688 - Nigeria",
+        "description": "BLUE WORKS LIMITED Nigeria company, Company number: RC-1644688, Incorporation Date 31. pro 2019;, Address: 5 BODE FASHINUN STREET, AJASA COMMAND LAGOS STATE, LAGOS, LAGOS STATE",
+        "company": {
+            "id": 62576441,
+            "name": "BLUE WORKS LIMITED",
+            "internationalNumber": "RC-1644688",
+            "localNumber": "1644688",
+            "countryId": 24,
+            "dateCreated": "2019-12-31T00:00:00.000Z",
+            "createdAt": "2021-05-30T17:53:49.915Z",
+            "updatedAt": "2024-06-15T14:11:15.006Z",
+            "alternateNames": [],
+            "address": "5 BODE FASHINUN STREET, AJASA COMMAND LAGOS STATE, LAGOS, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "500000 NGN",
+            "sharesIssued": "2",
+            "historicalNames": [],
+            "providerId": "6162456",
+            "updatedAtSitemap": "2023-06-09T14:59:35.000Z",
+            "oldInternationalNumber": "1644688",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1128,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196984,
+                    "providerId": "199200",
+                    "providerName": "Electrical Engineering Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:05.412912+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91482942,
+                    "address": "5 BODE FASHINUN STREET, AJASA COMMAND LAGOS STATE, LAGOS, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 158478377,
+                    "companyId": 62576441,
+                    "personId": 67058145,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1,
+                    "person": {
+                        "id": 67058145,
+                        "name": "obiagazie chigozie",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1994,
+                        "birthMonth": 3,
+                        "birthDate": 20,
+                        "address": "15 Lawal street, Iyana Ipaja, Lagos State",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A09590353",
+                        "documentType": "International Passport",
+                        "email": "obiagaziec@gmail.com",
+                        "phone": "07060682411",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158478378,
+                    "companyId": 62576441,
+                    "personId": 67058145,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1,
+                    "person": {
+                        "id": 67058145,
+                        "name": "obiagazie chigozie",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1994,
+                        "birthMonth": 3,
+                        "birthDate": 20,
+                        "address": "15 Lawal street, Iyana Ipaja, Lagos State",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A09590353",
+                        "documentType": "International Passport",
+                        "email": "obiagaziec@gmail.com",
+                        "phone": "07060682411",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158478380,
+                    "companyId": 62576441,
+                    "personId": 67058146,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67058146,
+                        "name": "jideonwo ikenna andrew",
+                        "countryId": 24,
+                        "address": "A1, TM GARDENS, OFF AFRIC ROAD, IPONRI",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "jideonwoandrew@gmail.com",
+                        "phone": "08034602137",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 237307286,
+                    "companyId": 62576441,
+                    "personId": 94426399,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 94426399,
+                        "name": "inalegwu joy",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1992,
+                        "birthMonth": 10,
+                        "birthDate": 12,
+                        "address": "2, Oremosu Street, Oko - Oba, Agege, Lagos",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "inalegwujoy@gmail.com",
+                        "phone": "08168193771",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 237307288,
+                    "companyId": 62576441,
+                    "personId": 96922835,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1,
+                    "person": {
+                        "id": 96922835,
+                        "name": "inalegwu joy",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1992,
+                        "birthMonth": 10,
+                        "birthDate": 12,
+                        "address": "2, Oremosu Street, Oko - Oba, Agege, Lagos",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "90F5B05F4B535182214",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "inalegwujoy@gmail.com",
+                        "phone": "08168193771",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "ina******************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Joy Ina*****",
+                    "contacts": {
+                        "email": [
+                            "ina******************"
+                        ],
+                        "phone": [
+                            "081********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "6",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "null": 1
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

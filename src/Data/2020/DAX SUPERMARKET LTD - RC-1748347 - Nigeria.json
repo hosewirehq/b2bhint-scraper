@@ -1,0 +1,339 @@
+[
+    {
+        "year": "2020",
+        "title": "DAX SUPERMARKET LTD - RC-1748347 - Nigeria",
+        "description": "DAX SUPERMARKET LTD Nigeria company, Company number: RC-1748347, Incorporation Date Dec 24, 2020;, Address: PLOT 2080, ASOKORO CADASTRAL ZONE, ASOKORO, FCT",
+        "company": {
+            "id": 64140324,
+            "name": "DAX SUPERMARKET LTD",
+            "internationalNumber": "RC-1748347",
+            "localNumber": "1748347",
+            "countryId": 24,
+            "dateCreated": "2020-12-24T00:00:00.000Z",
+            "createdAt": "2021-06-10T16:04:04.044Z",
+            "updatedAt": "2024-06-15T15:28:57.366Z",
+            "alternateNames": [],
+            "address": "PLOT 2080, ASOKORO CADASTRAL ZONE, ASOKORO, FCT",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "2000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "2000000",
+            "historicalNames": [],
+            "providerId": "6428432",
+            "updatedAtSitemap": "2023-06-09T17:32:02.000Z",
+            "oldInternationalNumber": "1748347",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 3823,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 100716834,
+                    "address": "PLOT 2080, ASOKORO CADASTRAL ZONE, ASOKORO, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 359205992,
+                    "companyId": 64140324,
+                    "personId": 66733358,
+                    "roleId": 60318,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66733358,
+                        "name": "jacqueline ezeanyim",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1984,
+                        "birthMonth": 6,
+                        "birthDate": 12,
+                        "address": "No. 45Lagos Street, Ebute-Metta, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1715799",
+                        "documentType": "Permanent Voters' Card",
+                        "documentNumber": "A23154959",
+                        "email": "jackieeze@yahoo.com",
+                        "phone": "+234 803 955 7465",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60318,
+                        "name": "Lawyer",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Lawyer"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "PINKYS BEADS",
+                            "internationalNumber": "BN-2612141"
+                        },
+                        {
+                            "name": "TIM GLOBAL ELECTRICAL SOLUTIONS",
+                            "internationalNumber": "BN-3456337"
+                        },
+                        {
+                            "name": "ARK - UBA GLOBAL CONCEPT",
+                            "internationalNumber": "BN-3440126"
+                        },
+                        {
+                            "name": "FIRST QUEENSDRIVE HOMES",
+                            "internationalNumber": "BN-3248371"
+                        },
+                        {
+                            "name": "YOUNG AGES SOCIAL CLUB OF ENUGU - EZIKE",
+                            "internationalNumber": "IT-146584"
+                        },
+                        {
+                            "name": "TROPICAL AGRICULTURAL PRODUCE ENTERPRISE",
+                            "internationalNumber": "BN-2653011"
+                        },
+                        {
+                            "name": "CHOICEPRINT ENTERPRISES",
+                            "internationalNumber": "BN-3100486"
+                        },
+                        {
+                            "name": "VAN ASHLEY NIG. LTD",
+                            "internationalNumber": "RC-1722534"
+                        },
+                        {
+                            "name": "PROS - AMATEX NIGERIA ENTERPRISES",
+                            "internationalNumber": "BN-3079709"
+                        },
+                        {
+                            "name": "EZIKE-OBA BORN-TO-REIGN CLUB",
+                            "internationalNumber": "IT-119088"
+                        },
+                        {
+                            "name": "EINCA GLOBAL LIMITED",
+                            "internationalNumber": "RC-1719969"
+                        },
+                        {
+                            "name": "TRANSNOVO (NIG) LTD",
+                            "internationalNumber": "RC-1760390"
+                        },
+                        {
+                            "name": "PRESTIGE SWISS BULWARKS LTD",
+                            "internationalNumber": "RC-1472290"
+                        },
+                        {
+                            "name": "A. K. C. TECHNOLOGY",
+                            "internationalNumber": "BN-2901351"
+                        },
+                        {
+                            "name": "THICTOR INTERNATIONAL LIMITED",
+                            "internationalNumber": "RC-1704260"
+                        },
+                        {
+                            "name": "FRANK - LOIS PHARMACEUTICAL NIGERIA LTD",
+                            "internationalNumber": "RC-1501525"
+                        },
+                        {
+                            "name": "AFFLUENZA TEXTILES",
+                            "internationalNumber": "BN-3119702"
+                        },
+                        {
+                            "name": "KAY'S ONLINE",
+                            "internationalNumber": "BN-3168335"
+                        },
+                        {
+                            "name": "TEEMAK AUTO LTD",
+                            "internationalNumber": "RC-1803609"
+                        },
+                        {
+                            "name": "KUNDAS NETWORK INT'L",
+                            "internationalNumber": "BN-2705448"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "dax************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Jac******* Eze*****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "jac****************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Eze***** Jac*******",
+                    "contacts": {
+                        "email": [
+                            "jac****************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

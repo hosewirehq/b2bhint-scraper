@@ -1,0 +1,315 @@
+[
+    {
+        "year": "2020",
+        "title": "LU-TER Z.S. FOUNDATION - IT-155068 - Nigeria",
+        "description": "LU-TER Z.S. FOUNDATION Nigeria company, Company number: IT-155068, Incorporation Date 23 d\u00e9c. 2020;, Address: 20, ODUYEMI STREET, OFF OBAFEMI AWOLOWO WAY, IKEJA, LAGOS STATE",
+        "company": {
+            "id": 179548762,
+            "name": "LU-TER Z.S. FOUNDATION",
+            "internationalNumber": "IT-155068",
+            "localNumber": "155068",
+            "countryId": 24,
+            "dateCreated": "2020-12-23T00:00:00.000Z",
+            "createdAt": "2022-11-09T23:16:23.237Z",
+            "updatedAt": "2024-06-15T14:39:53.474Z",
+            "alternateNames": [],
+            "address": "20, ODUYEMI STREET, OFF OBAFEMI AWOLOWO WAY, IKEJA, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99333,
+            "historicalNames": [],
+            "providerId": "6759163",
+            "updatedAtSitemap": "2023-06-09T20:03:06.000Z",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99333,
+                "type": "Incorporated trustee",
+                "countryId": 24,
+                "translation": {
+                    "en": "Incorporated trustee"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 4022,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196942,
+                    "providerId": "199095",
+                    "providerName": "FOUNDATION BASED ASSOCIATION",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:29.578323+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 101875606,
+                    "address": "20, ODUYEMI STREET, OFF OBAFEMI AWOLOWO WAY, IKEJA, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 365260155,
+                    "companyId": 179548762,
+                    "personId": 66960119,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66960119,
+                        "name": "isoken aigbovo",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1977,
+                        "birthMonth": 1,
+                        "birthDate": 28,
+                        "address": "10BMUSTAPHA ABDUL STREET, OGUDU GRA, OGUDU, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2015093",
+                        "documentType": "Driver's License",
+                        "documentNumber": "FFF42017AA98",
+                        "email": "isokenaigbovo@yahoo.com",
+                        "phone": "+234 808 472 1006",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "PETROMUND OIL & GAS LIMITED",
+                            "internationalNumber": "RC-1578346"
+                        },
+                        {
+                            "name": "HELP VILLA ORPHANAGE",
+                            "internationalNumber": "IT-128789"
+                        },
+                        {
+                            "name": "ZBS LIMITED",
+                            "internationalNumber": "RC-1539018"
+                        },
+                        {
+                            "name": "SWIFT SPHINX LIMITED",
+                            "internationalNumber": "RC-1758516"
+                        },
+                        {
+                            "name": "IVY 53 ENTERPRISE",
+                            "internationalNumber": "BN-2873712"
+                        },
+                        {
+                            "name": "PROJECT TEN LIMITED",
+                            "internationalNumber": "RC-1722748"
+                        },
+                        {
+                            "name": "THE BUTTERFLY CARE LIMITED",
+                            "internationalNumber": "RC-1491879"
+                        },
+                        {
+                            "name": "SOFTSTRUCTURES LIMITED",
+                            "internationalNumber": "RC-1597820"
+                        },
+                        {
+                            "name": "VBOYLS ENGINEERING LIMITED",
+                            "internationalNumber": "RC-1687413"
+                        },
+                        {
+                            "name": "EOE LEGAL RESOURCES",
+                            "internationalNumber": "BN-2626882"
+                        },
+                        {
+                            "name": "3A4 COMMUNICATIONS LIMITED",
+                            "internationalNumber": "RC-1632637"
+                        },
+                        {
+                            "name": "JEYS TRIBE COMPANY LIMITED",
+                            "internationalNumber": "RC-1891306"
+                        },
+                        {
+                            "name": "FLEX FACILITIES LIMITED",
+                            "internationalNumber": "RC-1842153"
+                        },
+                        {
+                            "name": "JO PHENIX GLOBAL LIMITED",
+                            "internationalNumber": "RC-1482112"
+                        },
+                        {
+                            "name": "ROOKS AND KNIGHTS ESTATE LIMITED",
+                            "internationalNumber": "RC-1860945"
+                        },
+                        {
+                            "name": "NOELYN FARMS LIMITED",
+                            "internationalNumber": "RC-1746847"
+                        },
+                        {
+                            "name": "GRACITICUS LIMITED",
+                            "internationalNumber": "RC-1767488"
+                        },
+                        {
+                            "name": "BLACK HORNET LIMITED",
+                            "internationalNumber": "RC-1757586"
+                        },
+                        {
+                            "name": "P@G FIRST RESOURCES",
+                            "internationalNumber": "BN-3001030"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Iso*** Aig****",
+                    "contacts": {
+                        "email": [
+                            "iso********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

@@ -1,0 +1,360 @@
+[
+    {
+        "year": "2022",
+        "title": "NORDUM CREATION - BN-3618493 - Nigeria",
+        "description": "NORDUM CREATION Nigeria company, Company number: BN-3618493, Incorporation Date 28 Mar 2022;, Address: 11 CIRCULAR ROAD, PRESIDENTIAL ESTATE, PORT HARCOURT, PORT HARCOURT, RIVERS STATE",
+        "company": {
+            "id": 108985753,
+            "name": "NORDUM CREATION",
+            "internationalNumber": "BN-3618493",
+            "localNumber": "3618493",
+            "countryId": 24,
+            "dateCreated": "2022-03-28T00:00:00.000Z",
+            "createdAt": "2022-04-14T06:04:44.856Z",
+            "updatedAt": "2024-06-15T15:39:07.614Z",
+            "alternateNames": [],
+            "address": "11 CIRCULAR ROAD, PRESIDENTIAL ESTATE, PORT HARCOURT, PORT HARCOURT, RIVERS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "7891090",
+            "updatedAtSitemap": "2024-01-15T18:32:57.000Z",
+            "oldInternationalNumber": "3618493",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1037,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [],
+            "addresses": [
+                {
+                    "id": 94691475,
+                    "address": "11 CIRCULAR ROAD, PRESIDENTIAL ESTATE, PORT HARCOURT, PORT HARCOURT, RIVERS STATE",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "BLOCKCHAIN FESTIVAL",
+                            "internationalNumber": "BN-3498954"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299067899,
+                    "companyId": 108985753,
+                    "personId": 101306740,
+                    "roleId": 60320,
+                    "appointedOn": "2022-03-28",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101306740,
+                        "name": "gbenekori ezekial promise",
+                        "countryId": 24,
+                        "occupation": "Business man",
+                        "nationality": "Nigeria",
+                        "birthYear": 1994,
+                        "birthMonth": 6,
+                        "birthDate": 14,
+                        "address": "Circular Road Presidential Estate Port Harcourt , 11",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "33571636954",
+                        "documentType": "National ID Card",
+                        "email": "cac@superqueennigeria.com",
+                        "phone": "08150554351",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299067900,
+                    "companyId": 108985753,
+                    "personId": 101306740,
+                    "roleId": 60319,
+                    "appointedOn": "2022-03-28",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101306740,
+                        "name": "gbenekori ezekial promise",
+                        "countryId": 24,
+                        "occupation": "Business man",
+                        "nationality": "Nigeria",
+                        "birthYear": 1994,
+                        "birthMonth": 6,
+                        "birthDate": 14,
+                        "address": "Circular Road Presidential Estate Port Harcourt , 11",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "33571636954",
+                        "documentType": "National ID Card",
+                        "email": "cac@superqueennigeria.com",
+                        "phone": "08150554351",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 365558063,
+                    "companyId": 108985753,
+                    "personId": 101007174,
+                    "roleId": 114487,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 101007174,
+                        "name": "ezekial promise gbenekori",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1994,
+                        "birthMonth": 6,
+                        "birthDate": 14,
+                        "address": "11Circular Road Presidential Estate Port Harcourt, Port Harcourt, RIVERS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "4557794",
+                        "documentType": "National ID Card",
+                        "documentNumber": "33571636954",
+                        "email": "cac@superqueennigeria.com",
+                        "phone": "+234 815 055 4351",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114487,
+                        "name": "Business Man",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "SUPER QUEEN NIGERIA",
+                            "internationalNumber": "BN-3472862"
+                        },
+                        {
+                            "name": "BLOCKCHAIN FESTIVAL",
+                            "internationalNumber": "BN-3498954"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "cac**********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Eze**** Pro**** Gbe******",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "081********"
+                        ],
+                        "email": [
+                            "cac**********************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Eze**** Gbe****** Pro****",
+                    "contacts": {
+                        "email": [
+                            "cac**********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "3",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 1,
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

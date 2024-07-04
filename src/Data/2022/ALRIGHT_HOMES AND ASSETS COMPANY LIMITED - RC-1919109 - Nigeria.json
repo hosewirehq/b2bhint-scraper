@@ -1,0 +1,546 @@
+[
+    {
+        "year": "2022",
+        "title": "ALRIGHT_HOMES AND ASSETS COMPANY LIMITED - RC-1919109 - Nigeria",
+        "description": "ALRIGHT_HOMES AND ASSETS COMPANY LIMITED Nigeria company, Company number: RC-1919109, Incorporation Date 13 \u0430\u043f\u0440. 2022 \u0433.;, Address: 15. OLA -AYENI STREET, COMPUTER VILLAGE, LAGOS STATE",
+        "company": {
+            "id": 109022203,
+            "name": "ALRIGHT_HOMES AND ASSETS COMPANY LIMITED",
+            "internationalNumber": "RC-1919109",
+            "localNumber": "1919109",
+            "countryId": 24,
+            "dateCreated": "2022-04-13T00:00:00.000Z",
+            "createdAt": "2022-04-14T14:37:08.913Z",
+            "updatedAt": "2024-06-15T15:39:25.809Z",
+            "alternateNames": [],
+            "address": "15. OLA -AYENI STREET, COMPUTER VILLAGE, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "4000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "PROPERTY DEVELOPMENT SERVICES",
+            "providerId": "7899404",
+            "updatedAtSitemap": "2023-06-09T16:41:56.000Z",
+            "oldInternationalNumber": "1919109",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 321,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197025,
+                    "providerId": "199186",
+                    "providerName": "Property Development Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:46.079005+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102127661,
+                    "address": "15. OLA -AYENI STREET, COMPUTER VILLAGE, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299032520,
+                    "companyId": 109022203,
+                    "personId": 78600168,
+                    "roleId": 60328,
+                    "appointedOn": "2022-04-13",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 78600168,
+                        "name": "alagbada afeez akanbi",
+                        "countryId": 24,
+                        "occupation": "Businessman",
+                        "nationality": "Nigerian",
+                        "birthYear": 1984,
+                        "birthMonth": 1,
+                        "birthDate": 23,
+                        "address": ", , , , 15,, OLA -AYENI STREET",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "alrightbusiness1@gmail.com",
+                        "phone": "08073262852",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "ALRIGHT COMMUNICATION ENTERPRISE",
+                            "internationalNumber": "BN-2364867"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299032522,
+                    "companyId": 109022203,
+                    "personId": 116118257,
+                    "roleId": 60320,
+                    "appointedOn": "2022-04-13",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 116118257,
+                        "name": "alagbada afeez akanbi",
+                        "countryId": 24,
+                        "occupation": "Trading ",
+                        "nationality": "Nigeria",
+                        "birthYear": 1984,
+                        "birthMonth": 11,
+                        "birthDate": 23,
+                        "address": "OLA -AYENI STREET, 15,",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "B00453269",
+                        "documentType": "International Passport",
+                        "email": "alrightbusiness1@gmail.com",
+                        "phone": "08073262852",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299032524,
+                    "companyId": 109022203,
+                    "personId": 116118257,
+                    "roleId": 60317,
+                    "appointedOn": "2022-04-13",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 116118257,
+                        "name": "alagbada afeez akanbi",
+                        "countryId": 24,
+                        "occupation": "Trading ",
+                        "nationality": "Nigeria",
+                        "birthYear": 1984,
+                        "birthMonth": 11,
+                        "birthDate": 23,
+                        "address": "OLA -AYENI STREET, 15,",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "B00453269",
+                        "documentType": "International Passport",
+                        "email": "alrightbusiness1@gmail.com",
+                        "phone": "08073262852",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299032525,
+                    "companyId": 109022203,
+                    "personId": 68630875,
+                    "roleId": 60324,
+                    "appointedOn": "2022-04-13",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 68630875,
+                        "name": "mohammed ali",
+                        "countryId": 24,
+                        "occupation": "Business man",
+                        "nationality": "Nigeria",
+                        "birthYear": 1996,
+                        "birthMonth": 11,
+                        "birthDate": 6,
+                        "address": "Tashan Kano, Biu Road , 124",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "documentNumber": "A09207367",
+                        "email": "muhammedalee2018@gmail.com",
+                        "phone": "8033811145",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "BULAMA EXPRESS SERVICE LIMITED",
+                            "internationalNumber": "RC-1899391"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299032528,
+                    "companyId": 109022203,
+                    "personId": 116118258,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-13",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 500000,
+                    "person": {
+                        "id": 116118258,
+                        "name": "alagbada folashade sherifat",
+                        "countryId": 24,
+                        "occupation": "Trading ",
+                        "nationality": "Nigeria",
+                        "birthYear": 1964,
+                        "birthMonth": 6,
+                        "birthDate": 5,
+                        "address": "AYODELE FANOIKI, PLOT 20,",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "B50102677",
+                        "documentType": "International Passport",
+                        "email": "majeekworld@yahoo.com",
+                        "phone": "08035733514",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299032529,
+                    "companyId": 109022203,
+                    "personId": 116118259,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-13",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1500000,
+                    "person": {
+                        "id": 116118259,
+                        "name": "alagbada afeez akanbi",
+                        "countryId": 24,
+                        "occupation": "Trading ",
+                        "nationality": "Nigeria",
+                        "birthYear": 1984,
+                        "birthMonth": 11,
+                        "birthDate": 23,
+                        "address": "OLA-AYENI STREET, 15.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "BOO453269",
+                        "documentType": "International Passport",
+                        "email": "alrightbusiness1@gmail.com",
+                        "phone": "08073262852",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "alr***********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Afe** Aka*** Ala*****",
+                    "contacts": {
+                        "email": [
+                            "alr***********************"
+                        ],
+                        "phone": [
+                            "080********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Afe** Aka*** Ala***** ",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "alr***********************"
+                        ]
+                    }
+                },
+                {
+                    "name": " Afe** Aka*** Ala*****",
+                    "contacts": {
+                        "email": [
+                            "alr***********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "18",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 6,
+            "personsCountByPriority": {
+                "1": 6,
+                "2": 3,
+                "null": 9
+            },
+            "personsWithRelatedCount": 3
+        }
+    }
+]

@@ -1,0 +1,337 @@
+[
+    {
+        "year": "2021",
+        "title": "CENTERPOINT GLOBAL RESOURCES LTD - RC-1875936 - Nigeria",
+        "description": "CENTERPOINT GLOBAL RESOURCES LTD Nigeria company, Company number: RC-1875936, Incorporation Date 2021 m. gruod\u017eio 21 d.;, Address: 22 OKORO ROAD, ABA, ABIA STATE",
+        "company": {
+            "id": 108674619,
+            "name": "CENTERPOINT GLOBAL RESOURCES LTD",
+            "internationalNumber": "RC-1875936",
+            "localNumber": "1875936",
+            "countryId": 24,
+            "dateCreated": "2021-12-21T00:00:00.000Z",
+            "createdAt": "2022-04-11T00:04:48.447Z",
+            "updatedAt": "2024-06-15T14:19:49.526Z",
+            "alternateNames": [],
+            "address": "22 OKORO ROAD, ABA, ABIA STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "900000 NGN",
+            "historicalNames": [],
+            "activityDescription": "PRODUCTION AND SALE OF BOTTLE AND PACKED WATER",
+            "providerId": "7737533",
+            "updatedAtSitemap": "2023-06-09T18:16:14.000Z",
+            "oldInternationalNumber": "1875936",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1516,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197048,
+                    "providerId": "199125",
+                    "providerName": "Production and Sale of Bottled and Packed Water",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:02:11.974376+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 95214852,
+                    "address": "22 OKORO ROAD, ABA, ABIA STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 338358830,
+                    "companyId": 108674619,
+                    "personId": 66397723,
+                    "roleId": 114490,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66397723,
+                        "name": "chinedu louis anyanwu",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1966,
+                        "birthMonth": 10,
+                        "birthDate": 18,
+                        "address": "1010 olowogbowo street, lagos island, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1498233",
+                        "documentType": "Driver's License",
+                        "documentNumber": "AAA2400AA2",
+                        "email": "nedulaw@yahoo.com",
+                        "phone": "+234 806 314 5675",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114490,
+                        "name": "Solicitor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "CHICO AKPUKA ENTERPRISES LTD",
+                            "internationalNumber": "RC-172119"
+                        },
+                        {
+                            "name": "FEBRUARY 8 FASHION",
+                            "internationalNumber": "BN-2631162"
+                        },
+                        {
+                            "name": "STEVIS GLOBAL PETROLEUM LTD",
+                            "internationalNumber": "RC-1763166"
+                        },
+                        {
+                            "name": "ROOTED KIDS MONTESSORI SCHOOL LTD",
+                            "internationalNumber": "RC-1368754"
+                        },
+                        {
+                            "name": "PRIN PRAZ INTERNATIONAL",
+                            "internationalNumber": "BN-2629421"
+                        },
+                        {
+                            "name": "LAKEWINDS SOLUTIONS LTD",
+                            "internationalNumber": "RC-1715367"
+                        },
+                        {
+                            "name": "EQUBAZE INTERNATIONAL LTD",
+                            "internationalNumber": "RC-155833"
+                        },
+                        {
+                            "name": "NECHE LIGHTWAY ENTERPRISES.",
+                            "internationalNumber": "BN-3083206"
+                        },
+                        {
+                            "name": "FREE RECLINER LIMITED",
+                            "internationalNumber": "RC-1625052"
+                        },
+                        {
+                            "name": "J.TUBORG GLOBAL SERVICES LTD",
+                            "internationalNumber": "RC-1516461"
+                        },
+                        {
+                            "name": "CHIBUZOR . N. OSUJI AND COMPANY",
+                            "internationalNumber": "BN-2493491"
+                        },
+                        {
+                            "name": "CTI CONCEPTS LIMITED",
+                            "internationalNumber": "RC-1621378"
+                        },
+                        {
+                            "name": "BIORECYCLIO LTD",
+                            "internationalNumber": "RC-1470528"
+                        },
+                        {
+                            "name": "COMBINED AVIATION SERVICES NIG LTD",
+                            "internationalNumber": "RC-98345"
+                        },
+                        {
+                            "name": "KINGSGATE GROUP LIMITED",
+                            "internationalNumber": "RC-1830550"
+                        },
+                        {
+                            "name": "MAXI KING CONCERNS LTD",
+                            "internationalNumber": "RC-1403882"
+                        },
+                        {
+                            "name": "SALVATION SEVENTHDAY MISSION",
+                            "internationalNumber": "IT-155833"
+                        },
+                        {
+                            "name": "FUNTUA SURGICAL PRODUCTS LTD",
+                            "internationalNumber": "RC-109119"
+                        },
+                        {
+                            "name": "HOVER FRESH",
+                            "internationalNumber": "BN-3170758"
+                        },
+                        {
+                            "name": "DIAMONDSPRING HOTEL AND SUITES LTD",
+                            "internationalNumber": "RC-1404475"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "cen************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Chi**** Lou** Any****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "234**********"
+                        ],
+                        "email": [
+                            "ned**************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Any**** Chi**** Lou**",
+                    "contacts": {
+                        "email": [
+                            "ned**************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

@@ -1,0 +1,470 @@
+[
+    {
+        "year": "2022",
+        "title": "EBEES TOUCH - BN-3618281 - Nigeria",
+        "description": "EBEES TOUCH Nigeria company, Company number: BN-3618281, Incorporation Date 2022 m. kovo 28 d.;, Address: 32 ROTIMI SQUARE OFF ABINA STREET, LAGOS, LAGOS STATE",
+        "company": {
+            "id": 109108344,
+            "name": "EBEES TOUCH",
+            "internationalNumber": "BN-3618281",
+            "localNumber": "3618281",
+            "countryId": 24,
+            "dateCreated": "2022-03-28T00:00:00.000Z",
+            "createdAt": "2022-04-15T14:03:07.775Z",
+            "updatedAt": "2024-06-15T15:40:26.654Z",
+            "alternateNames": [],
+            "address": "32 ROTIMI SQUARE OFF ABINA STREET, LAGOS, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99332,
+            "historicalNames": [],
+            "providerId": "7936604",
+            "updatedAtSitemap": "2023-06-09T16:44:34.000Z",
+            "oldInternationalNumber": "3618281",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99332,
+                "type": "Business name - partnership",
+                "countryId": 24,
+                "translation": {
+                    "en": "Partnership"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1037,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [],
+            "addresses": [
+                {
+                    "id": 102095802,
+                    "address": "32 ROTIMI SQUARE OFF ABINA STREET, LAGOS, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 298890865,
+                    "companyId": 109108344,
+                    "personId": 68840725,
+                    "roleId": 60320,
+                    "appointedOn": "2022-03-28",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 68840725,
+                        "name": "obafemi damilola linda",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "nationality": "Nigeria",
+                        "birthYear": 1997,
+                        "birthMonth": 6,
+                        "birthDate": 14,
+                        "address": "Gbaja Street, 6",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "obafemid@yahoo.com",
+                        "phone": "08074588486",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "FLOQUICK LIMITED",
+                            "internationalNumber": "RC-1918180"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298890866,
+                    "companyId": 109108344,
+                    "personId": 116107071,
+                    "roleId": 60319,
+                    "appointedOn": "2022-03-28",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 116107071,
+                        "name": "ogunniyi emmanuel oluwafemi",
+                        "countryId": 24,
+                        "occupation": "Entrepreneur",
+                        "nationality": "Nigeria",
+                        "birthYear": 1989,
+                        "birthMonth": 4,
+                        "birthDate": 13,
+                        "address": "ANJORIN STREET OFF LAWANSON, 36",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "751272447707",
+                        "documentType": "National ID Card",
+                        "email": "emmanuelogunniyi604@gmail.com",
+                        "phone": "07035029382",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298890867,
+                    "companyId": 109108344,
+                    "personId": 101842671,
+                    "roleId": 60319,
+                    "appointedOn": "2022-03-28",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101842671,
+                        "name": "badru kuburat adijat",
+                        "countryId": 24,
+                        "occupation": "Entrepreneur",
+                        "nationality": "Nigeria",
+                        "birthYear": 1992,
+                        "birthMonth": 10,
+                        "birthDate": 9,
+                        "address": "ANJORIN STREET OFF LAWANSON, 36",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "30570489042",
+                        "documentType": "National ID Card",
+                        "email": "Oritoke08@gmail.com",
+                        "phone": "07080756189",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 365515585,
+                    "companyId": 109108344,
+                    "personId": 67883647,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67883647,
+                        "name": "damilola linda obafemi",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1997,
+                        "birthMonth": 6,
+                        "birthDate": 14,
+                        "address": "No 6, Flat 8Gbaja, Surulere, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "3572825",
+                        "documentType": "International Passport",
+                        "documentNumber": "B50038319",
+                        "email": "obafemid@yahoo.com",
+                        "phone": "+234 807 458 8486",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "SISIMI WILLIAMS",
+                            "internationalNumber": "BN-3374224"
+                        },
+                        {
+                            "name": "STARCKLAND LTD",
+                            "internationalNumber": "RC-1831638"
+                        },
+                        {
+                            "name": "KAMANI BUSINESS SOLUTIONS LTD",
+                            "internationalNumber": "RC-1882062"
+                        },
+                        {
+                            "name": "THE CREDIT SHOP NG",
+                            "internationalNumber": "BN-3394763"
+                        },
+                        {
+                            "name": "THREADLERS",
+                            "internationalNumber": "BN-3556364"
+                        },
+                        {
+                            "name": "MADE BY WENDY",
+                            "internationalNumber": "BN-3488015"
+                        },
+                        {
+                            "name": "PARTHENON DEVELOPMENT COMPANY LTD",
+                            "internationalNumber": "RC-1878460"
+                        },
+                        {
+                            "name": "SCHRAGERLAND LTD",
+                            "internationalNumber": "RC-1838426"
+                        },
+                        {
+                            "name": "MAIYEGUN ROYAL ENGINEERING",
+                            "internationalNumber": "BN-3524427"
+                        },
+                        {
+                            "name": "ECHO1 MOTORS LIMITED",
+                            "internationalNumber": "RC-1814074"
+                        },
+                        {
+                            "name": "AMPLYFYD MARKETING LIMITED",
+                            "internationalNumber": "RC-1889455"
+                        },
+                        {
+                            "name": "RENDICONA FARMS",
+                            "internationalNumber": "BN-3487333"
+                        },
+                        {
+                            "name": "DREGS ENTERPRISES",
+                            "internationalNumber": "BN-3598693"
+                        },
+                        {
+                            "name": "BENA FASHION AND ACCESSORIES",
+                            "internationalNumber": "BN-3583484"
+                        },
+                        {
+                            "name": "OGALANDLORD PROPERTY MANAGEMENT AND DEVELOPMENT LIMITED",
+                            "internationalNumber": "RC-1796227"
+                        },
+                        {
+                            "name": "NEW TECH TALENTS ACCELERATOR LIMITED",
+                            "internationalNumber": "RC-1840543"
+                        },
+                        {
+                            "name": "OGABASSEY SERVICES",
+                            "internationalNumber": "RC-2934231"
+                        },
+                        {
+                            "name": "FILMBYDT LIMITED",
+                            "internationalNumber": "RC-1858144"
+                        },
+                        {
+                            "name": "CAPIVEST SOLUTIONS AND ENTERPRISES LIMITED",
+                            "internationalNumber": "RC-1842086"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "emm**************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Dam***** Lin** Oba****",
+                    "contacts": {
+                        "email": [
+                            "oba***************"
+                        ],
+                        "phone": [
+                            "+23***********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "4",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 1,
+                "3": 1
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

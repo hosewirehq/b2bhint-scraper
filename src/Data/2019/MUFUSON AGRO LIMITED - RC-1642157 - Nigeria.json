@@ -1,0 +1,471 @@
+[
+    {
+        "year": "2019",
+        "title": "MUFUSON AGRO LIMITED - RC-1642157 - Nigeria",
+        "description": "MUFUSON AGRO LIMITED Nigeria company, Company number: RC-1642157, Incorporation Date 17 dec 2019;, Address: 6, OGUNGBAYE STREET, MUSHIN, LAGOS, MUSHIN, LAGOS STATE",
+        "company": {
+            "id": 62467868,
+            "name": "MUFUSON AGRO LIMITED",
+            "internationalNumber": "RC-1642157",
+            "localNumber": "1642157",
+            "countryId": 24,
+            "dateCreated": "2019-12-17T00:00:00.000Z",
+            "createdAt": "2021-05-30T08:56:43.263Z",
+            "updatedAt": "2024-06-15T16:29:36.274Z",
+            "alternateNames": [],
+            "address": "6, OGUNGBAYE STREET, MUSHIN, LAGOS, MUSHIN, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "5285539",
+            "updatedAtSitemap": "2023-06-09T15:50:43.000Z",
+            "oldInternationalNumber": "1642157",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1241,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196954,
+                    "providerId": "199233",
+                    "providerName": "Farming",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:38.94858+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 89523096,
+                    "address": "6, OGUNGBAYE STREET, MUSHIN, LAGOS, MUSHIN, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 231563499,
+                    "companyId": 62467868,
+                    "personId": 80526280,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 80526280,
+                        "name": "adebanjo adeola ganiyu",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1972,
+                        "birthMonth": 7,
+                        "birthDate": 25,
+                        "address": "28. Joseph Street, Lagos Island, Lagos",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "ganiadebanjo@yahoo.com",
+                        "phone": "08056275956",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "PETROPLUS BUSINESS VENTURES",
+                            "internationalNumber": "BN-3027149"
+                        },
+                        {
+                            "name": "MOSADI OLUWA MASJID",
+                            "internationalNumber": "BN-2884219"
+                        },
+                        {
+                            "name": "FAWZAN DIMEJI ENTERPRISES",
+                            "internationalNumber": "BN-2883606"
+                        },
+                        {
+                            "name": "STOP SUFFERING TRADING COMPANY LTD",
+                            "internationalNumber": "RC-1653834"
+                        },
+                        {
+                            "name": "ARCHYCHOICE & ASSOCIATES",
+                            "internationalNumber": "BN-2887812"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 231563500,
+                    "companyId": 62467868,
+                    "personId": 94631404,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 750000,
+                    "person": {
+                        "id": 94631404,
+                        "name": "adebanjo adedeji mufutau",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1969,
+                        "birthMonth": 12,
+                        "birthDate": 13,
+                        "address": "6, Ogungbaye Street, Mushin, Lagos. ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A39234502",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "deygycomventures@yahoo.com",
+                        "phone": "08032474788",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 231563501,
+                    "companyId": 62467868,
+                    "personId": 94631404,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 750000,
+                    "person": {
+                        "id": 94631404,
+                        "name": "adebanjo adedeji mufutau",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1969,
+                        "birthMonth": 12,
+                        "birthDate": 13,
+                        "address": "6, Ogungbaye Street, Mushin, Lagos. ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A39234502",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "deygycomventures@yahoo.com",
+                        "phone": "08032474788",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 231563503,
+                    "companyId": 62467868,
+                    "personId": 94631405,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 250000,
+                    "person": {
+                        "id": 94631405,
+                        "name": "adebanjo mulikat adetoro ",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1973,
+                        "birthMonth": 4,
+                        "birthDate": 28,
+                        "address": "6, Ogungbaye Street, Mushin, Lagos. ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A29012221",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "deygycomventures@yahoo.com",
+                        "phone": "07019224574",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 231563504,
+                    "companyId": 62467868,
+                    "personId": 94631406,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 94631406,
+                        "name": "adebanjo adeola ganiyu",
+                        "countryId": 24,
+                        "address": "60, Olabode Ojomu Street, Off Governor's Road, Ikotun, Lagos ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "FGE05840AA1",
+                        "documentType": "Driver's License",
+                        "email": "ganiadebanjo@yahoo.com",
+                        "phone": "08066014276",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "dey***********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Ade*** Gan*** Ade*****",
+                    "contacts": {
+                        "phone": [
+                            "080********"
+                        ],
+                        "email": [
+                            "gan*******************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "6",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

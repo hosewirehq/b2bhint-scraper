@@ -1,0 +1,314 @@
+[
+    {
+        "year": "2018",
+        "title": "OREBTRIX CREATIONS - BN-2746018 - Nigeria",
+        "description": "OREBTRIX CREATIONS Nigeria company, Company number: BN-2746018, Incorporation Date Dec 31, 2018;, Address: NO.14 VICTORIA ADEKOYA STREET, RIVER BANK ESTATE, OFF CHANNEL TV DRIVE, ISHERI NORTH, OGUN STATE",
+        "company": {
+            "id": 62115655,
+            "name": "OREBTRIX CREATIONS",
+            "internationalNumber": "BN-2746018",
+            "localNumber": "2746018",
+            "countryId": 24,
+            "dateCreated": "2018-12-31T00:00:00.000Z",
+            "createdAt": "2021-05-28T11:46:13.826Z",
+            "updatedAt": "2024-06-15T15:15:42.185Z",
+            "alternateNames": [],
+            "address": "NO.14 VICTORIA ADEKOYA STREET, RIVER BANK ESTATE, OFF CHANNEL TV DRIVE, ISHERI NORTH, OGUN STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5181024",
+            "updatedAtSitemap": "2023-06-09T17:59:59.000Z",
+            "oldInternationalNumber": "2746018",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1948,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197698,
+                    "providerId": "199268",
+                    "providerName": "Production and Sales of Footwear",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:19:05.118776+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97886606,
+                    "address": "NO.14 VICTORIA ADEKOYA STREET, RIVER BANK ESTATE, OFF CHANNEL TV DRIVE, ISHERI NORTH, OGUN STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 348696371,
+                    "companyId": 62115655,
+                    "personId": 66141475,
+                    "roleId": 114357,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66141475,
+                        "name": "chris ezenwa ugwoke",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1961,
+                        "birthMonth": 8,
+                        "birthDate": 17,
+                        "address": "15, Ogundana Street, off Allen Avenue, Ikeja, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1716948",
+                        "documentType": "International Passport",
+                        "documentNumber": "B00143659",
+                        "email": "chrisezenwaugwoke@yahoo.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114357,
+                        "name": "Legal Practitioner ",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "CRAVINGS HUB",
+                            "internationalNumber": "BN-2743855"
+                        },
+                        {
+                            "name": "PINKVAL INNOVATIONS LIMITED",
+                            "internationalNumber": "RC-1468280"
+                        },
+                        {
+                            "name": "APOTIERIOLUWA FOUNDATION",
+                            "internationalNumber": "IT-122725"
+                        },
+                        {
+                            "name": "CLUEGATE LTD",
+                            "internationalNumber": "RC-1443041"
+                        },
+                        {
+                            "name": "EVEGOLD WELL VENTURE",
+                            "internationalNumber": "BN-2977717"
+                        },
+                        {
+                            "name": "FOSURE TRAVELS AND TOURS LIMITED",
+                            "internationalNumber": "RC-1680957"
+                        },
+                        {
+                            "name": "G LIGHT STAR LTD",
+                            "internationalNumber": "RC-1801007"
+                        },
+                        {
+                            "name": "ZITAS NIGERIA LIMITED",
+                            "internationalNumber": "RC-168440"
+                        },
+                        {
+                            "name": "DAPREKY GLOBAL LTD",
+                            "internationalNumber": "RC-1560365"
+                        },
+                        {
+                            "name": "VIANILE LIMITED",
+                            "internationalNumber": "RC-1859987"
+                        },
+                        {
+                            "name": "SCIENTIFIC ALUMINIUM AND CEILING SYSTEMS NIG LTD",
+                            "internationalNumber": "RC-122725"
+                        },
+                        {
+                            "name": "JOYPRECIOUS FOOD VENTURES",
+                            "internationalNumber": "BN-2470908"
+                        },
+                        {
+                            "name": "BLESSED FRANKELEY RICH ENTERPRISE",
+                            "internationalNumber": "BN-2998882"
+                        },
+                        {
+                            "name": "SHARON SMILES FOUNDATION",
+                            "internationalNumber": "IT-151246"
+                        },
+                        {
+                            "name": "GENIUS MAKERS INDUSTRIAL SCHOOL",
+                            "internationalNumber": "BN-3545528"
+                        },
+                        {
+                            "name": "VIANILE NETWORK SERVICES LTD",
+                            "internationalNumber": "RC-1852996"
+                        },
+                        {
+                            "name": "MY 360 SHOP",
+                            "internationalNumber": "BN-3554222"
+                        },
+                        {
+                            "name": "PRINCESS CHAIK GLOBAL RESOURCES",
+                            "internationalNumber": "BN-2491908"
+                        },
+                        {
+                            "name": "GOD'S GRACE FARMS & AGRO-ALLIED VENTURES",
+                            "internationalNumber": "BN-2672430"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Chr** Eze*** Ugw***",
+                    "contacts": {
+                        "email": [
+                            "chr************************"
+                        ],
+                        "phone": [
+                            "234**********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

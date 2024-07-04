@@ -1,0 +1,344 @@
+[
+    {
+        "year": "2020",
+        "title": "TMAA VENTURES - BN-3273830 - Nigeria",
+        "description": "TMAA VENTURES Nigeria company, Company number: BN-3273830, Incorporation Date 22 gru 2020;, Address: NO. 2 IGHODALO DRIVE, BODIJA, IBADAN, IBADAN, OYO STATE",
+        "company": {
+            "id": 62127348,
+            "name": "TMAA VENTURES",
+            "internationalNumber": "BN-3273830",
+            "localNumber": "3273830",
+            "countryId": 24,
+            "dateCreated": "2020-12-22T00:00:00.000Z",
+            "createdAt": "2021-05-28T14:03:05.590Z",
+            "updatedAt": "2024-06-15T15:45:28.153Z",
+            "alternateNames": [],
+            "address": "NO. 2 IGHODALO DRIVE, BODIJA, IBADAN, IBADAN, OYO STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6839722",
+            "updatedAtSitemap": "2023-06-09T16:57:47.000Z",
+            "oldInternationalNumber": "3273830",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2292,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197182,
+                    "providerId": "199232",
+                    "providerName": "Errand and Home Delivery Services ",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:05:32.712925+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 101899482,
+                    "address": "NO. 2 IGHODALO DRIVE, BODIJA, IBADAN, IBADAN, OYO STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 390199081,
+                    "companyId": 62127348,
+                    "personId": 66147910,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66147910,
+                        "name": "richard oladiipo olakulehin",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1983,
+                        "birthMonth": 7,
+                        "birthDate": 17,
+                        "address": "House 11, Oorelope Street, Off Arulogun Road, Gbanda, Ojoo, Ibadan., Ibadan, OYO STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1317253",
+                        "documentType": "Driver's License",
+                        "documentNumber": "AGG13863AA56",
+                        "email": "richardlakuz@yahoo.com",
+                        "phone": "+234 703 847 8715",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "J-TA LOGISTICS AND DELIVERY SERVICES LIMITED",
+                            "internationalNumber": "RC-1764368"
+                        },
+                        {
+                            "name": "SIL GARMENT CARE",
+                            "internationalNumber": "BN-2422826"
+                        },
+                        {
+                            "name": "ALLIANCE QED LIMITED",
+                            "internationalNumber": "RC-1685131"
+                        },
+                        {
+                            "name": "THE MINARET HOSPITAL",
+                            "internationalNumber": "BN-2503404"
+                        },
+                        {
+                            "name": "RUMACK FARMS",
+                            "internationalNumber": "BN-3295186"
+                        },
+                        {
+                            "name": "QUADRI'S WORLD ENTERPRISES",
+                            "internationalNumber": "BN-2452797"
+                        },
+                        {
+                            "name": "WEPDRONE NIG LTD",
+                            "internationalNumber": "RC-1876471"
+                        },
+                        {
+                            "name": "LEANMEAT FARMS",
+                            "internationalNumber": "BN-3331675"
+                        },
+                        {
+                            "name": "SIMOF FRUITZ AND EVENTS VENTURES",
+                            "internationalNumber": "BN-2414964"
+                        },
+                        {
+                            "name": "FLEURAPEX AUTOS AND TYRES",
+                            "internationalNumber": "BN-3537353"
+                        },
+                        {
+                            "name": "CLEMAROCK BUILDERS",
+                            "internationalNumber": "BN-3612828"
+                        },
+                        {
+                            "name": "LOIS JEM NIGERIA ENTERPRISES",
+                            "internationalNumber": "BN-2482736"
+                        },
+                        {
+                            "name": "IYERU - OKIN ENTERPRISES",
+                            "internationalNumber": "BN-2452803"
+                        },
+                        {
+                            "name": "MAXX BRAINE TRUST CONSULTING LIMITED",
+                            "internationalNumber": "RC-1312580"
+                        },
+                        {
+                            "name": "AHMREB-O4Y NIGERIA ENTERPRISES",
+                            "internationalNumber": "BN-3574576"
+                        },
+                        {
+                            "name": "KERELNA MONDE",
+                            "internationalNumber": "BN-3451026"
+                        },
+                        {
+                            "name": "STERLING EYE HOSPITAL LIMITED",
+                            "internationalNumber": "RC-1682490"
+                        },
+                        {
+                            "name": "OVERCI INTEGRATED SERVICES",
+                            "internationalNumber": "BN-3309321"
+                        },
+                        {
+                            "name": "MEDIABOOSTERNIG",
+                            "internationalNumber": "BN-3461809"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "mus*********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Mus***** Nil* Nas**",
+                    "contacts": {
+                        "email": [
+                            "mus*********************",
+                            "yus*********************"
+                        ],
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ric**** Ola***** Ola*******",
+                    "contacts": {
+                        "email": [
+                            "ric*******************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ola***** Ola******* Ric****",
+                    "contacts": {
+                        "email": [
+                            "ric*******************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 8,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

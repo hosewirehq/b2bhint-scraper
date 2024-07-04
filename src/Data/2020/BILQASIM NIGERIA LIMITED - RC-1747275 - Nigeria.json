@@ -1,0 +1,492 @@
+[
+    {
+        "year": "2020",
+        "title": "BILQASIM NIGERIA LIMITED - RC-1747275 - Nigeria",
+        "description": "BILQASIM NIGERIA LIMITED Nigeria company, Company number: RC-1747275, Incorporation Date Dec 22, 2020;, Address: NO. 15 SHAISKAWA ROAD, BADIKO NEW EXTENSION, KADUNA, KADUNA STATE",
+        "company": {
+            "id": 60754938,
+            "name": "BILQASIM NIGERIA LIMITED",
+            "internationalNumber": "RC-1747275",
+            "localNumber": "1747275",
+            "countryId": 24,
+            "dateCreated": "2020-12-22T00:00:00.000Z",
+            "createdAt": "2021-05-15T02:41:55.278Z",
+            "updatedAt": "2024-06-15T14:09:56.086Z",
+            "alternateNames": [],
+            "address": "NO. 15 SHAISKAWA ROAD, BADIKO NEW EXTENSION, KADUNA, KADUNA STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "6117635",
+            "updatedAtSitemap": "2024-04-02T03:55:31.000Z",
+            "oldInternationalNumber": "1747275",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2292,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196924,
+                    "providerId": "199237",
+                    "providerName": "General Contracts",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:13.437675+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91439058,
+                    "address": "NO. 15 SHAISKAWA ROAD, BADIKO NEW EXTENSION, KADUNA, KADUNA STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 239558949,
+                    "companyId": 60754938,
+                    "personId": 97518774,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97518774,
+                        "name": "tijjani abubakar",
+                        "countryId": 24,
+                        "address": ", NO 11 IBRAHIM TAIWO ROAD",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "bkhkanorombe@gmail.com",
+                        "phone": "08124425475",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 239558943,
+                    "companyId": 60754938,
+                    "personId": 97660444,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97660444,
+                        "name": "hamza abdulsalam ogueyi",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1984,
+                        "birthMonth": 2,
+                        "birthDate": 24,
+                        "address": "NO. 15 SHAISKAWA ROAD, BADIKO NEW EXTENSION",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "hamzaogueyi@gmail.com",
+                        "phone": "08057384060",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 239558944,
+                    "companyId": 60754938,
+                    "personId": 97660445,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97660445,
+                        "name": "hamza abdulsalam ogueyi",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1984,
+                        "birthMonth": 2,
+                        "birthDate": 26,
+                        "address": "No.15 shaiskawa road, badiko new extension kaduna state",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "27308655041",
+                        "documentType": "National ID Card",
+                        "email": "hamzaogueyi@gmail.com",
+                        "phone": "08057384060",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 239558950,
+                    "companyId": 60754938,
+                    "personId": 97660446,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 400000,
+                    "person": {
+                        "id": 97660446,
+                        "name": "abdulsalam aliyu ogueyi",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1984,
+                        "birthMonth": 4,
+                        "birthDate": 21,
+                        "address": "NO. 15 SHAISKAWA ROAD, BADIKO NEW EXTENSION ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "11767218804",
+                        "documentType": "National ID Card",
+                        "email": "aliogueyi@gmail.com",
+                        "phone": "08131657630",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 239558946,
+                    "companyId": 60754938,
+                    "personId": 97660447,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97660447,
+                        "name": "abdulsalam aliyu ogueyi",
+                        "countryId": 24,
+                        "address": "NO. 15 SHAISKAWA ROAD, BADIKO NEW EXTENSION ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "11767218804",
+                        "documentType": "National ID Card",
+                        "email": "aliogueyi@gmail.com",
+                        "phone": "08131657630",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 239558947,
+                    "companyId": 60754938,
+                    "personId": 97660448,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 550000,
+                    "person": {
+                        "id": 97660448,
+                        "name": "abdulsalam hamza ogueyi",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1984,
+                        "birthMonth": 2,
+                        "birthDate": 23,
+                        "address": "NO.15. SHAISKAWA ROAD BADIKO NEW EXTENSION",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "27308655041",
+                        "documentType": "National ID Card",
+                        "email": "hamzaogueyi@gmail.com",
+                        "phone": "08057384060",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "bil***************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Abd******* Ogu*** Ham**",
+                    "contacts": {
+                        "phone": [
+                            "080********"
+                        ],
+                        "email": [
+                            "ham******************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "8",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 3,
+                "2": 3,
+                "null": 2
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

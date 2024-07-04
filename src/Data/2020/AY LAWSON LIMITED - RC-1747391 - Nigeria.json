@@ -1,0 +1,339 @@
+[
+    {
+        "year": "2020",
+        "title": "AY LAWSON LIMITED - RC-1747391 - Nigeria",
+        "description": "AY LAWSON LIMITED Nigeria company, Company number: RC-1747391, Incorporation Date 2020. gada 22. dec;, Address: 02, OLATUNJI LAWSON STREET, AGAYE, IJEODODO, IJEGUN, IKOTUN, LAGOS, LAGOS, LAGOS STATE",
+        "company": {
+            "id": 62267430,
+            "name": "AY LAWSON LIMITED",
+            "internationalNumber": "RC-1747391",
+            "localNumber": "1747391",
+            "countryId": 24,
+            "dateCreated": "2020-12-22T00:00:00.000Z",
+            "createdAt": "2021-05-29T13:27:00.492Z",
+            "updatedAt": "2024-06-15T15:27:24.521Z",
+            "alternateNames": [],
+            "address": "02, OLATUNJI LAWSON STREET, AGAYE, IJEODODO, IJEGUN, IKOTUN, LAGOS, LAGOS, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "6883155",
+            "updatedAtSitemap": "2023-06-09T17:34:59.000Z",
+            "oldInternationalNumber": "1747391",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2292,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 100595873,
+                    "address": "02, OLATUNJI LAWSON STREET, AGAYE, IJEODODO, IJEGUN, IKOTUN, LAGOS, LAGOS, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 358648104,
+                    "companyId": 62267430,
+                    "personId": 66446274,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66446274,
+                        "name": "muh'd bashir abdulazeez",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1992,
+                        "birthMonth": 2,
+                        "birthDate": 26,
+                        "address": "Plot 433Chuks Osemeka Crescent, Off Arab Road, Kubwa, Abuja, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "3041377",
+                        "documentType": "National ID Card",
+                        "documentNumber": "61960254180",
+                        "email": "bashdladd@gmail.com",
+                        "phone": "+234 706 115 0829",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "CODEVILLAGE LIMITED",
+                            "internationalNumber": "RC-1665570"
+                        },
+                        {
+                            "name": "SON OF LIGHT TV LTD",
+                            "internationalNumber": "RC-1844683"
+                        },
+                        {
+                            "name": "DEENDEMY LIMITED",
+                            "internationalNumber": "RC-1720468"
+                        },
+                        {
+                            "name": "PICKS GLOBAL RESOURCES LTD",
+                            "internationalNumber": "RC-1861404"
+                        },
+                        {
+                            "name": "SMITH FARMS",
+                            "internationalNumber": "BN-3215077"
+                        },
+                        {
+                            "name": "DE'LUSH FRUTTI DELIGHT",
+                            "internationalNumber": "BN-3478422"
+                        },
+                        {
+                            "name": "LIFE BREAKTHROUGH ASSEMBLY",
+                            "internationalNumber": "IT-155455"
+                        },
+                        {
+                            "name": "ANUOLUWAPO PHARMACY AND STORES LTD",
+                            "internationalNumber": "RC-155455"
+                        },
+                        {
+                            "name": "ICEPEAK LIMITED",
+                            "internationalNumber": "RC-1743058"
+                        },
+                        {
+                            "name": "SMITH AND TOWNSEND INVESTMENT LIMITED",
+                            "internationalNumber": "RC-170481"
+                        },
+                        {
+                            "name": "LUCHI'S P VENTURES",
+                            "internationalNumber": "BN-3516035"
+                        },
+                        {
+                            "name": "ALIRSHAD GLOBAL RESOURCES LTD",
+                            "internationalNumber": "RC-1882800"
+                        },
+                        {
+                            "name": "UNITY ROYAL TECHNOLOGIES",
+                            "internationalNumber": "BN-3216408"
+                        },
+                        {
+                            "name": "OOMAAA EVENTS AND PARTY PLACE",
+                            "internationalNumber": "BN-3477514"
+                        },
+                        {
+                            "name": "JOULES MUSIC LTD",
+                            "internationalNumber": "RC-1844699"
+                        },
+                        {
+                            "name": "LAWKAY GLOBAL EMPIRE LIMITED",
+                            "internationalNumber": "RC-1748105"
+                        },
+                        {
+                            "name": "AQUA CRYSTAL NIGERIA LTD",
+                            "internationalNumber": "RC-173566"
+                        },
+                        {
+                            "name": "ABUJA FLEA MARKET",
+                            "internationalNumber": "BN-3443086"
+                        },
+                        {
+                            "name": "BETZ AND BEN VENTURES",
+                            "internationalNumber": "BN-3498632"
+                        },
+                        {
+                            "name": "DEMBROS ENTERPRISES NIG LTD",
+                            "internationalNumber": "RC-162025"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "law********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Muh** Bas*** Abd*******",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "070********"
+                        ],
+                        "email": [
+                            "bas****************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Abd******* Bas*** Muh**",
+                    "contacts": {
+                        "email": [
+                            "bas****************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

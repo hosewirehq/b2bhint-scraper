@@ -1,0 +1,338 @@
+[
+    {
+        "year": "2018",
+        "title": "YDUAMPCS LIMITED - RC-1549643 - Nigeria",
+        "description": "YDUAMPCS LIMITED Nigeria company, Company number: RC-1549643, Incorporation Date 24 d\u00e9c. 2018;, Address: 75, RALPH SODEINDE STREET, OGUN HOUSE, CENTRAL AREA, ABUJA, FCT",
+        "company": {
+            "id": 60851094,
+            "name": "YDUAMPCS LIMITED",
+            "internationalNumber": "RC-1549643",
+            "localNumber": "1549643",
+            "countryId": 24,
+            "dateCreated": "2018-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-15T09:39:39.066Z",
+            "updatedAt": "2024-06-15T14:15:14.402Z",
+            "alternateNames": [],
+            "address": "75, RALPH SODEINDE STREET, OGUN HOUSE, CENTRAL AREA, ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "10000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "10000000",
+            "historicalNames": [],
+            "providerId": "5133026",
+            "updatedAtSitemap": "2023-06-09T18:04:09.000Z",
+            "oldInternationalNumber": "1549643",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2613,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196924,
+                    "providerId": "199237",
+                    "providerName": "General Contracts",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:13.437675+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 27600531,
+                    "address": "75, RALPH SODEINDE STREET, OGUN HOUSE, CENTRAL AREA, ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 346705473,
+                    "companyId": 60851094,
+                    "personId": 67176779,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67176779,
+                        "name": "sunday nwaolie okonta ",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1972,
+                        "birthMonth": 3,
+                        "birthDate": 4,
+                        "address": "SUITE B5\/6 DANSARARI PLAZA, NO. 5, ZINGUICHOR STREET, WUSE ZONE 4, ABUJA, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1697929",
+                        "documentType": "Driver's License",
+                        "documentNumber": "ABC26817AA02",
+                        "email": "sundaynwaolie@yahoo.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "HUNTERS INDUSTRIES LTD",
+                            "internationalNumber": "RC-101362"
+                        },
+                        {
+                            "name": "AFIGAMIKON & CO",
+                            "internationalNumber": "BN-2490768"
+                        },
+                        {
+                            "name": "DIVINE CONFIRMATION MINISTRY",
+                            "internationalNumber": "IT-140603"
+                        },
+                        {
+                            "name": "CHIEF SUNNY KAMPALA DE MASTER AND HIS DESTINY BAND OF AFRICA",
+                            "internationalNumber": "BN-2651919"
+                        },
+                        {
+                            "name": "JAMESJON QUEEN INTERNATIONAL ACADEMY",
+                            "internationalNumber": "BN-3424330"
+                        },
+                        {
+                            "name": "MOUNTAIN OF GOD GLORY CHURCH",
+                            "internationalNumber": "IT-113762"
+                        },
+                        {
+                            "name": "C. P. U. M INDUSTRY",
+                            "internationalNumber": "BN-2576338"
+                        },
+                        {
+                            "name": "A-EXCELLENT BATHROOM KITCHEN & LIGHT DECOR EQUIPMENT LTD",
+                            "internationalNumber": "RC-1397812"
+                        },
+                        {
+                            "name": "UGOMICH GLOBAL LTD",
+                            "internationalNumber": "RC-1693746"
+                        },
+                        {
+                            "name": "CONSBEN GLOBAL CONCEPT NIG LTD",
+                            "internationalNumber": "RC-1522627"
+                        },
+                        {
+                            "name": "OCHEDAN NIGERIA ENTERPRISES",
+                            "internationalNumber": "BN-3033964"
+                        },
+                        {
+                            "name": "WUSE ZONE 3 NEIGHBOURHOOD CENTER ALLOTTEES ASSOCIATION",
+                            "internationalNumber": "IT-101362"
+                        },
+                        {
+                            "name": "THE PROPHETIC DIVINE HEALING AND DELIVERANCE MINISTRY",
+                            "internationalNumber": "IT-111264"
+                        },
+                        {
+                            "name": "OPEC ALUMINIUM ROOFING TILES LTD",
+                            "internationalNumber": "RC-1411812"
+                        },
+                        {
+                            "name": "LUPEM ENTERPRISES NIGERIA LTD",
+                            "internationalNumber": "RC-111264"
+                        },
+                        {
+                            "name": "DE EBECONS CONCERNS GLOBAL LIMITED",
+                            "internationalNumber": "RC-1592404"
+                        },
+                        {
+                            "name": "ENYIOGUGU PATRIOTS INVESTMENT LTD",
+                            "internationalNumber": "RC-1743802"
+                        },
+                        {
+                            "name": "GHAZ NIG LTD",
+                            "internationalNumber": "RC-113762"
+                        },
+                        {
+                            "name": "CRUSHWEL GLOBAL CONCEPT LIMITED",
+                            "internationalNumber": "RC-1627876"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "ola************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Sun*** Nwa**** Oko***",
+                    "contacts": {
+                        "phone": [
+                            "234**********"
+                        ],
+                        "email": [
+                            "sun********************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Sun*** Nwa**** Oko*** ",
+                    "contacts": {
+                        "email": [
+                            "sun********************"
+                        ]
+                    }
+                },
+                {
+                    "name": " Nwa**** Oko*** Sun***",
+                    "contacts": {
+                        "email": [
+                            "sun********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 4,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

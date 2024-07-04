@@ -1,0 +1,549 @@
+[
+    {
+        "year": "2022",
+        "title": "ALPHA NATION LIMITED - RC-1913209 - Nigeria",
+        "description": "ALPHA NATION LIMITED Nigeria company, Company number: RC-1913209, Incorporation Date 31 mrt 2022;, Address: 1 JOSHUA EBUN OJO CLOSE LEKKI PHASE 1, LAGOS, LAGOS STATE",
+        "company": {
+            "id": 108935012,
+            "name": "ALPHA NATION LIMITED",
+            "internationalNumber": "RC-1913209",
+            "localNumber": "1913209",
+            "countryId": 24,
+            "dateCreated": "2022-03-31T00:00:00.000Z",
+            "createdAt": "2022-04-13T19:44:36.438Z",
+            "updatedAt": "2024-06-15T15:38:28.730Z",
+            "alternateNames": [],
+            "address": "1 JOSHUA EBUN OJO CLOSE LEKKI PHASE 1, LAGOS, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "General contracts ",
+            "providerId": "7870481",
+            "updatedAtSitemap": "2023-06-09T16:39:04.000Z",
+            "oldInternationalNumber": "1913209",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 702,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196924,
+                    "providerId": "199237",
+                    "providerName": "General Contracts",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:13.437675+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102152637,
+                    "address": "1 JOSHUA EBUN OJO CLOSE LEKKI PHASE 1, LAGOS, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299146711,
+                    "companyId": 108935012,
+                    "personId": 104318306,
+                    "roleId": 60320,
+                    "appointedOn": "2022-03-31",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 104318306,
+                        "name": "umeh nkeiru ngozi",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1992,
+                        "birthMonth": 12,
+                        "birthDate": 20,
+                        "address": "7TH AVENUE GWARIMPA, HOUSE 35 ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A37649125",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "bombyzandy@gmail.com",
+                        "phone": "2347031524982",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "XXI CENTURY TECHNOLOGY LTD",
+                            "internationalNumber": "RC-1906527"
+                        },
+                        {
+                            "name": "GILBRIDGE CONSTRUCTION AFRICA GLOBAL LTD",
+                            "internationalNumber": "RC-1896988"
+                        },
+                        {
+                            "name": "THE SPHINX EXCHANGE LIMITED",
+                            "internationalNumber": "RC-1890100"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299146712,
+                    "companyId": 108935012,
+                    "personId": 101649937,
+                    "roleId": 60324,
+                    "appointedOn": "2022-03-31",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101649937,
+                        "name": "umeh nkeiru",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner ",
+                        "address": "oguda close off lake chad maitama, Block 1 No 10 ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "Nkeirungoziumeh@gmail.com",
+                        "phone": "07031524982",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "XXI CENTURY TECHNOLOGY LTD",
+                            "internationalNumber": "RC-1906527"
+                        },
+                        {
+                            "name": "GILBRIDGE CONSTRUCTION AFRICA GLOBAL LTD",
+                            "internationalNumber": "RC-1896988"
+                        },
+                        {
+                            "name": "THE SPHINX EXCHANGE LIMITED",
+                            "internationalNumber": "RC-1890100"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299146713,
+                    "companyId": 108935012,
+                    "personId": 101714295,
+                    "roleId": 60317,
+                    "appointedOn": "2022-03-31",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101714295,
+                        "name": "ndolo ikechukwu",
+                        "countryId": 24,
+                        "occupation": "Business ",
+                        "nationality": "Nigeria",
+                        "birthYear": 1984,
+                        "birthMonth": 5,
+                        "birthDate": 14,
+                        "address": "Joshua Ebun ojo close lekki , 1",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A12058955",
+                        "documentType": "International Passport",
+                        "email": "ikesoki115@gmail.com",
+                        "phone": "08085041148",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299146714,
+                    "companyId": 108935012,
+                    "personId": 116125770,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-31",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 600000,
+                    "person": {
+                        "id": 116125770,
+                        "name": "ndolo ikechukwu soki",
+                        "countryId": 24,
+                        "occupation": "Business ",
+                        "nationality": "Nigeria",
+                        "birthYear": 1984,
+                        "birthMonth": 5,
+                        "birthDate": 14,
+                        "address": "Joshua Ebun ojo close lekki , 1",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A12058955",
+                        "documentType": "International Passport",
+                        "email": "ikesoki115@gmail.com",
+                        "phone": "08085041148",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299146716,
+                    "companyId": 108935012,
+                    "personId": 116125771,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-31",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 400000,
+                    "person": {
+                        "id": 116125771,
+                        "name": "obiefuna chekwube innocent",
+                        "countryId": 24,
+                        "occupation": "Business ",
+                        "nationality": "Nigeria",
+                        "birthYear": 1996,
+                        "birthMonth": 12,
+                        "birthDate": 19,
+                        "address": "faworo street ajao estate, No 7 ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "B00638050",
+                        "documentType": "International Passport",
+                        "email": "Chxqsofficial@gmail.com",
+                        "phone": "09028339909",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299146717,
+                    "companyId": 108935012,
+                    "personId": 69396888,
+                    "roleId": 60322,
+                    "appointedOn": "2022-03-31",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 69396888,
+                        "name": "umeh ngozi nkeiru",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner ",
+                        "nationality": "Nigeria",
+                        "birthYear": 1992,
+                        "birthMonth": 12,
+                        "birthDate": 20,
+                        "address": "oguda close off lake chad maitama, Block 1 No 10 ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A37649125",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "Nkeirungoziumeh@gmail.com",
+                        "phone": "07031524982",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60322,
+                        "name": "Secretary company",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary company"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "ike*****************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Nke*** Ngo** Ume*",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "234**********"
+                        ],
+                        "email": [
+                            "bom*****************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ngo** Nke*** Ume*",
+                    "contacts": {
+                        "email": [
+                            "bom*****************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "10",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "null": 5
+            },
+            "personsWithRelatedCount": 3
+        }
+    }
+]

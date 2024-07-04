@@ -1,0 +1,459 @@
+[
+    {
+        "year": "2018",
+        "title": "I AM NAIJA LIMITED - RC-1549757 - Nigeria",
+        "description": "I AM NAIJA LIMITED Nigeria company, Company number: RC-1549757, Incorporation Date 24 Dec. 2018;, Address: PLOT 975, GESSE STREET, MABUSHI, ABUJA., MABUSHI, ABUJA, FCT",
+        "company": {
+            "id": 62377245,
+            "name": "I AM NAIJA LIMITED",
+            "internationalNumber": "RC-1549757",
+            "localNumber": "1549757",
+            "countryId": 24,
+            "dateCreated": "2018-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-30T00:37:32.616Z",
+            "updatedAt": "2024-06-15T15:48:20.590Z",
+            "alternateNames": [],
+            "address": "PLOT 975, GESSE STREET, MABUSHI, ABUJA., MABUSHI, ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "4466499",
+            "updatedAtSitemap": "2023-06-09T17:02:33.000Z",
+            "oldInternationalNumber": "1549757",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2613,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197246,
+                    "providerId": "143240",
+                    "providerName": "Information service activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:07:02.196617+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 29132858,
+                    "address": "PLOT 975, GESSE STREET, MABUSHI, ABUJA., MABUSHI, ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "CORPERNAIJA CORPORATE SERVICES LIMITED",
+                            "internationalNumber": "RC-1549608"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 232100699,
+                    "companyId": 62377245,
+                    "personId": 66977952,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66977952,
+                        "name": "okoye chike ikechukwu",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1981,
+                        "birthMonth": 8,
+                        "birthDate": 7,
+                        "address": "Plot 975, Gesse Street, Mabushi, Abuja",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "chykeokoye@yahoo.com",
+                        "phone": "08111533315",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 232100700,
+                    "companyId": 62377245,
+                    "personId": 80293887,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 80293887,
+                        "name": "okoye chibuzo grace",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1987,
+                        "birthMonth": 2,
+                        "birthDate": 12,
+                        "address": "Plot 975, Gesse Street, Mabushi, Abuja",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A08129358",
+                        "documentType": "International Passport",
+                        "email": "graceey79@gmail.com",
+                        "phone": "08084631363",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "CORPERNAIJA CORPORATE SERVICES LIMITED",
+                            "internationalNumber": "RC-1549608"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 232100702,
+                    "companyId": 62377245,
+                    "personId": 80293887,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "Ordinary",
+                    "sharesCount": 200000,
+                    "person": {
+                        "id": 80293887,
+                        "name": "okoye chibuzo grace",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1987,
+                        "birthMonth": 2,
+                        "birthDate": 12,
+                        "address": "Plot 975, Gesse Street, Mabushi, Abuja",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A08129358",
+                        "documentType": "International Passport",
+                        "email": "graceey79@gmail.com",
+                        "phone": "08084631363",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [
+                        {
+                            "name": "CORPERNAIJA CORPORATE SERVICES LIMITED",
+                            "internationalNumber": "RC-1549608"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 238762216,
+                    "companyId": 62377245,
+                    "personId": 97299017,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97299017,
+                        "name": "augustine john abah",
+                        "countryId": 24,
+                        "address": "Suite 89, Area 11 Shopping Mall, Garki, Abuja",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "jogug2001@yahoo.com",
+                        "phone": "08056670252",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 238762215,
+                    "companyId": 62377245,
+                    "personId": 97313302,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "Ordinary",
+                    "sharesCount": 800000,
+                    "person": {
+                        "id": 97313302,
+                        "name": "okoye chike",
+                        "countryId": 24,
+                        "address": "6B, IBIYINKA OLORUNNIMBE STR., OFF A\/OJIKUTU V\/I LAGOS LAGOS",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [
+                        {
+                            "name": "EL-ORMAT NIGERIA LIMITED",
+                            "internationalNumber": "RC-309312"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "chi**********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Chi** Ike****** Oko**",
+                    "contacts": {
+                        "email": [
+                            "chi**********************"
+                        ],
+                        "phone": [
+                            "080********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "6",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "null": 1
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

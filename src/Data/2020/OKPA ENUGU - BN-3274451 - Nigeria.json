@@ -1,0 +1,478 @@
+[
+    {
+        "year": "2020",
+        "title": "OKPA ENUGU - BN-3274451 - Nigeria",
+        "description": "OKPA ENUGU Nigeria company, Company number: BN-3274451, Incorporation Date 22 Ara 2020;, Address: NO 1 MONROVIA STREET NEW HAVEN, ENUGU NORTH, ENUGU STATE",
+        "company": {
+            "id": 61686532,
+            "name": "OKPA ENUGU",
+            "internationalNumber": "BN-3274451",
+            "localNumber": "3274451",
+            "countryId": 24,
+            "dateCreated": "2020-12-22T00:00:00.000Z",
+            "createdAt": "2021-05-25T22:59:44.924Z",
+            "updatedAt": "2024-06-15T16:47:11.232Z",
+            "alternateNames": [],
+            "address": "NO 1 MONROVIA STREET NEW HAVEN, ENUGU NORTH, ENUGU STATE",
+            "additionalData": {},
+            "typeId": 99332,
+            "historicalNames": [],
+            "providerId": "5259424",
+            "updatedAtSitemap": "2023-06-09T16:25:56.000Z",
+            "oldInternationalNumber": "3274451",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99332,
+                "type": "Business name - partnership",
+                "countryId": 24,
+                "translation": {
+                    "en": "Partnership"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2292,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197195,
+                    "providerId": "199102",
+                    "providerName": "Food Production and Processing Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:05:45.802916+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 101596670,
+                    "address": "NO 1 MONROVIA STREET NEW HAVEN, ENUGU NORTH, ENUGU STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 252009472,
+                    "companyId": 61686532,
+                    "personId": 99493058,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 99493058,
+                        "name": "nnebe chukwuma ikeadim",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1986,
+                        "birthMonth": 11,
+                        "birthDate": 28,
+                        "address": "1b Monrovia Street, New Haven.",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "nnebenig@gmail.com",
+                        "phone": "+2348037745379",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "CANAAN DWELLINGS",
+                            "internationalNumber": "BN-2443592"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 252009475,
+                    "companyId": 61686532,
+                    "personId": 101927540,
+                    "roleId": 60320,
+                    "appointedOn": "2021-04-23",
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 101927540,
+                        "name": "olorunsaiye ola john",
+                        "countryId": 24,
+                        "address": "PLT. 2 ALGERIA STREET ZONE 3, WUSE, ABUJA",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "National Identification Number",
+                        "email": "olaolorunsaiyejnr2@yahoo.com",
+                        "phone": "2348038019823",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "DEB-LAK GLOBAL VENTURES",
+                            "internationalNumber": "BN-2397857"
+                        },
+                        {
+                            "name": "AWESMILE'S VENTURE",
+                            "internationalNumber": "BN-3986128"
+                        },
+                        {
+                            "name": "ZICOMONNI TELECOMMUNICATIONS",
+                            "internationalNumber": "BN-3087063"
+                        },
+                        {
+                            "name": "N. CHIGBO BUSINESS RESOURCES",
+                            "internationalNumber": "BN-2398875"
+                        },
+                        {
+                            "name": "NEFAB RESOURCES",
+                            "internationalNumber": "BN-3034498"
+                        },
+                        {
+                            "name": "DAH'S COLOUR EMPIRE",
+                            "internationalNumber": "BN-3986134"
+                        },
+                        {
+                            "name": "OWO AMBROSE ENTERPRISE",
+                            "internationalNumber": "BN-2397104"
+                        },
+                        {
+                            "name": "GREEN SOAR GLOBAL VENTURES",
+                            "internationalNumber": "BN-2399573"
+                        },
+                        {
+                            "name": "DAMAREN MUSIC GENTRY",
+                            "internationalNumber": "BN-2397006"
+                        },
+                        {
+                            "name": "OHO COUTURE",
+                            "internationalNumber": "BN-2399127"
+                        },
+                        {
+                            "name": "TUKUR RICE PROCESSING",
+                            "internationalNumber": "BN-3918447"
+                        },
+                        {
+                            "name": "ELECTRONIC SYSTEMS SOLUTIONS",
+                            "internationalNumber": "BN-2396794"
+                        },
+                        {
+                            "name": "MERIT PLACE COLLEGE",
+                            "internationalNumber": "BN-3029190"
+                        },
+                        {
+                            "name": "LIFNAB CONCEPT ENTERPRISES",
+                            "internationalNumber": "BN-3086540"
+                        },
+                        {
+                            "name": "CAMEL'Z BACK PRODUCTION",
+                            "internationalNumber": "BN-2397872"
+                        },
+                        {
+                            "name": "UGO2GOSWORLD VENTURES",
+                            "internationalNumber": "BN-2398885"
+                        },
+                        {
+                            "name": "OKE HENRY ADLA ENTERPRISES",
+                            "internationalNumber": "BN-2397821"
+                        },
+                        {
+                            "name": "YOUREKA VENTURES",
+                            "internationalNumber": "BN-2397030"
+                        },
+                        {
+                            "name": "A. VWA VENTURES",
+                            "internationalNumber": "BN-2397674"
+                        },
+                        {
+                            "name": "FRESH SPARKLES HOUSEHOLD",
+                            "internationalNumber": "BN-3004111"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 252009473,
+                    "companyId": 61686532,
+                    "personId": 101931334,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 101931334,
+                        "name": "nnebe chukwuma ikeadim",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1986,
+                        "birthMonth": 11,
+                        "birthDate": 28,
+                        "address": "1b Monrovia street, new haven, Enugu. ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "AKL4000AE",
+                        "documentType": "Driver's License",
+                        "email": "nnebenig@gmail.com",
+                        "phone": "+2348037745379",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 252009474,
+                    "companyId": 61686532,
+                    "personId": 101931335,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 101931335,
+                        "name": "nnebe chizoba jane",
+                        "countryId": 24,
+                        "occupation": "Student",
+                        "nationality": "Nigerian",
+                        "birthYear": 1992,
+                        "birthMonth": 5,
+                        "birthDate": 31,
+                        "address": "1 Monrovia Street New Haven",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "90F58ID669534083623",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "nnebenig@gmail.com",
+                        "phone": "08030493292",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "alk*************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Mus* Bel** Kas**",
+                    "contacts": {
+                        "email": [
+                            "alk***************************"
+                        ],
+                        "phone": [
+                            "080********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "4",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 2
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

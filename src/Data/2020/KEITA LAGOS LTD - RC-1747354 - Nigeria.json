@@ -1,0 +1,302 @@
+[
+    {
+        "year": "2020",
+        "title": "KEITA LAGOS LTD - RC-1747354 - Nigeria",
+        "description": "KEITA LAGOS LTD Nigeria company, Company number: RC-1747354, Incorporation Date Dec 22, 2020;, Address: 77, ODUDUWA CRESCENT, GRA, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+        "company": {
+            "id": 61677454,
+            "name": "KEITA LAGOS LTD",
+            "internationalNumber": "RC-1747354",
+            "localNumber": "1747354",
+            "countryId": 24,
+            "dateCreated": "2020-12-22T00:00:00.000Z",
+            "createdAt": "2021-05-25T22:10:57.997Z",
+            "updatedAt": "2024-06-15T15:21:38.614Z",
+            "alternateNames": [],
+            "address": "77, ODUDUWA CRESCENT, GRA, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "250000 NGN",
+            "sharesIssued": "4",
+            "historicalNames": [],
+            "providerId": "6740620",
+            "updatedAtSitemap": "2023-06-09T17:46:49.000Z",
+            "oldInternationalNumber": "1747354",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2292,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196996,
+                    "providerId": "199234",
+                    "providerName": "Fashion Designing\/ Tailoring Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:15.243055+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 99823143,
+                    "address": "77, ODUDUWA CRESCENT, GRA, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 353665981,
+                    "companyId": 61677454,
+                    "personId": 66904093,
+                    "roleId": 60318,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66904093,
+                        "name": "mosebolatan ajike fetuga ",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1967,
+                        "birthMonth": 9,
+                        "birthDate": 16,
+                        "address": "1818 barikisu iyede street yaba lagos mainland, lagos mainland",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1889149",
+                        "documentType": "International Passport",
+                        "documentNumber": "A10251278",
+                        "email": "bolalawex@outlook.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60318,
+                        "name": "Lawyer",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Lawyer"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "THE BLUE WHEEL BARROW LIMITED",
+                            "internationalNumber": "RC-1762951"
+                        },
+                        {
+                            "name": "THE SHEPHERD'S HAVEN",
+                            "internationalNumber": "BN-2576224"
+                        },
+                        {
+                            "name": "DOSAL PROTECTION SERVICES LTD",
+                            "internationalNumber": "RC-1896885"
+                        },
+                        {
+                            "name": "ATOM SOLAR NIGERIA LIMITED",
+                            "internationalNumber": "RC-1629209"
+                        },
+                        {
+                            "name": "HMT MEDEX LTD",
+                            "internationalNumber": "RC-1641396"
+                        },
+                        {
+                            "name": "MOLJEROBU INVESTMENT NIGERIA LIMITED",
+                            "internationalNumber": "RC-131265"
+                        },
+                        {
+                            "name": "The Shepherd\u2019s Haven Limited",
+                            "internationalNumber": "RC-1902329"
+                        },
+                        {
+                            "name": "FEED MY SHEEP OUTREACH",
+                            "internationalNumber": "IT-131265"
+                        },
+                        {
+                            "name": "PAIN ACTION INTERVENTIONAL NETWORK LTD",
+                            "internationalNumber": "RC-1634976"
+                        },
+                        {
+                            "name": "INART CULTURE",
+                            "internationalNumber": "BN-3138418"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "kei*****************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Mos******** Aji** Fet***",
+                    "contacts": {
+                        "phone": [
+                            "234**********"
+                        ],
+                        "email": [
+                            "bol******************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Mos******** Aji** Fet*** ",
+                    "contacts": {
+                        "email": [
+                            "bol******************"
+                        ]
+                    }
+                },
+                {
+                    "name": " Aji** Fet*** Mos********",
+                    "contacts": {
+                        "email": [
+                            "bol******************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 4,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

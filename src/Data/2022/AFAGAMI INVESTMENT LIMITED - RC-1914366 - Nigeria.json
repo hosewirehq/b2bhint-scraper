@@ -1,0 +1,658 @@
+[
+    {
+        "year": "2022",
+        "title": "AFAGAMI INVESTMENT LIMITED - RC-1914366 - Nigeria",
+        "description": "AFAGAMI INVESTMENT LIMITED Nigeria company, Company number: RC-1914366, Incorporation Date Apr 4, 2022;, Address: BLOCK 101 FLAT 7 KARU SITE, ABUJA, FCT",
+        "company": {
+            "id": 109029332,
+            "name": "AFAGAMI INVESTMENT LIMITED",
+            "internationalNumber": "RC-1914366",
+            "localNumber": "1914366",
+            "countryId": 24,
+            "dateCreated": "2022-04-04T00:00:00.000Z",
+            "createdAt": "2022-04-14T16:17:18.761Z",
+            "updatedAt": "2024-06-15T15:39:30.757Z",
+            "alternateNames": [],
+            "address": "BLOCK 101 FLAT 7 KARU SITE, ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "import and export of charcoal, general contracts and supplies ",
+            "providerId": "7902101",
+            "updatedAtSitemap": "2023-06-09T16:42:05.000Z",
+            "oldInternationalNumber": "1914366",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 638,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196919,
+                    "providerId": "143269",
+                    "providerName": "Other personal services activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T13:47:47.959002+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102125436,
+                    "address": "BLOCK 101 FLAT 7 KARU SITE, ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299020557,
+                    "companyId": 109029332,
+                    "personId": 99838558,
+                    "roleId": 60328,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 99838558,
+                        "name": "ajayi bodunrin ekundayo",
+                        "countryId": 24,
+                        "occupation": "Legal practice",
+                        "address": "BISSAU STREET, WUSE ZONE 6, NO. 12",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "EKUNJAYI@GMAIL.COM",
+                        "phone": "08091579088",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "SWALLOW PLUS",
+                            "internationalNumber": "BN-2446841"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299020558,
+                    "companyId": 109029332,
+                    "personId": 116117216,
+                    "roleId": 60320,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 116117216,
+                        "name": "ajayi bodunrin ekundayo",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "nationality": "Nigeria",
+                        "birthYear": 1979,
+                        "birthMonth": 12,
+                        "birthDate": 19,
+                        "address": "BISSAU STREET, WUSE ZONE 6, 12",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "BWR08515AA08",
+                        "documentType": "Driver's License",
+                        "email": "ekunjayi@gmail.com",
+                        "phone": "2348091579088",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299020559,
+                    "companyId": 109029332,
+                    "personId": 99838558,
+                    "roleId": 60324,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 99838558,
+                        "name": "ajayi bodunrin ekundayo",
+                        "countryId": 24,
+                        "occupation": "Legal practice",
+                        "address": "BISSAU STREET, WUSE ZONE 6, NO. 12",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "EKUNJAYI@GMAIL.COM",
+                        "phone": "08091579088",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "SWALLOW PLUS",
+                            "internationalNumber": "BN-2446841"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299020560,
+                    "companyId": 109029332,
+                    "personId": 101656990,
+                    "roleId": 60317,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101656990,
+                        "name": "zamani david ayenajeyi",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1983,
+                        "birthMonth": 3,
+                        "birthDate": 28,
+                        "address": " Flat 7 Karu Site, Block 101",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2766893960",
+                        "documentType": "National ID Card",
+                        "email": "davidzamani449@gmail.com",
+                        "phone": "08065593563 ",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299020561,
+                    "companyId": 109029332,
+                    "personId": 101656990,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 800000,
+                    "person": {
+                        "id": 101656990,
+                        "name": "zamani david ayenajeyi",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1983,
+                        "birthMonth": 3,
+                        "birthDate": 28,
+                        "address": " Flat 7 Karu Site, Block 101",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2766893960",
+                        "documentType": "National ID Card",
+                        "email": "davidzamani449@gmail.com",
+                        "phone": "08065593563 ",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299020563,
+                    "companyId": 109029332,
+                    "personId": 101656991,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-04",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 200000,
+                    "person": {
+                        "id": 101656991,
+                        "name": "abibi mariah",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1983,
+                        "birthMonth": 5,
+                        "birthDate": 26,
+                        "address": "FLAT 7 KARU SITE, Block 101",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "86179974274",
+                        "documentType": "National ID Card",
+                        "email": "davidzamani449@gmail.com",
+                        "phone": "08036489585",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 365544710,
+                    "companyId": 109029332,
+                    "personId": 66488733,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66488733,
+                        "name": "bodunrin ekundayo ajayi",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1979,
+                        "birthMonth": 12,
+                        "birthDate": 19,
+                        "address": "12BISSAU STREET, WUSE ZONE 6, Lagos, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1686696",
+                        "documentType": "Driver's License",
+                        "documentNumber": "BWR08515AA08",
+                        "email": "ekunjayi@gmail.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "SQUARE OUTLOOK LTD",
+                            "internationalNumber": "RC-1521110"
+                        },
+                        {
+                            "name": "ROCKAFIELD FARS NIG LTD",
+                            "internationalNumber": "RC-101036"
+                        },
+                        {
+                            "name": "SPHINX CONCEPTS LTD",
+                            "internationalNumber": "RC-170235"
+                        },
+                        {
+                            "name": "AYOTEATOTTI VENTURES",
+                            "internationalNumber": "BN-2588656"
+                        },
+                        {
+                            "name": "ALLOGUNS GLOBAL LIMITED",
+                            "internationalNumber": "RC-1694061"
+                        },
+                        {
+                            "name": "STARKECH ENTERPRISE",
+                            "internationalNumber": "BN-3549700"
+                        },
+                        {
+                            "name": "N. A. ODUNSI FARMS NIGERIA LTD",
+                            "internationalNumber": "RC-98596"
+                        },
+                        {
+                            "name": "FRIEDLY STEEL CONSTRUCTION COMPANY LIMITED",
+                            "internationalNumber": "RC-118461"
+                        },
+                        {
+                            "name": "HIGH QUESTE ENTERPRISE",
+                            "internationalNumber": "BN-2643614"
+                        },
+                        {
+                            "name": "MOSSLINKS SYNERGY LIMITED",
+                            "internationalNumber": "RC-1481420"
+                        },
+                        {
+                            "name": "FICHA INTEGRATED VENTURES",
+                            "internationalNumber": "BN-2536580"
+                        },
+                        {
+                            "name": "ULTIMATE ELEVATORS LIMITED",
+                            "internationalNumber": "RC-1665285"
+                        },
+                        {
+                            "name": "MILLZ FASHION",
+                            "internationalNumber": "BN-2463505"
+                        },
+                        {
+                            "name": "DENIGME CONSULTING",
+                            "internationalNumber": "BN-2627481"
+                        },
+                        {
+                            "name": "FAMZ OF DESH EMPIRE LTD",
+                            "internationalNumber": "RC-1659765"
+                        },
+                        {
+                            "name": "KAY-MYDE VENTURES",
+                            "internationalNumber": "BN-2655491"
+                        },
+                        {
+                            "name": "KLEARWRITE NIG LTD",
+                            "internationalNumber": "RC-114722"
+                        },
+                        {
+                            "name": "AMAZING GOD'S TIME GOSPEL MINISTRY INT'L",
+                            "internationalNumber": "IT-118461"
+                        },
+                        {
+                            "name": "BASILEIA CULTURE LIMITED",
+                            "internationalNumber": "RC-1521428"
+                        },
+                        {
+                            "name": "OLUSANYA S.A.O. INVESTMENT CO. NIG LTD",
+                            "internationalNumber": "RC-104957"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "dav*********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Bod***** Eku***** Aja**",
+                    "contacts": {
+                        "email": [
+                            "eku***************"
+                        ],
+                        "phone": [
+                            "234**********"
+                        ]
+                    }
+                },
+                {
+                    "name": " Aja** Bod***** Eku*****",
+                    "contacts": {
+                        "email": [
+                            "eku***************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "11",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "3": 1,
+                "null": 5
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

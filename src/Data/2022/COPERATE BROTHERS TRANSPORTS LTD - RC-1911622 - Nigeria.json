@@ -1,0 +1,521 @@
+[
+    {
+        "year": "2022",
+        "title": "COPERATE BROTHERS TRANSPORTS LTD - RC-1911622 - Nigeria",
+        "description": "COPERATE BROTHERS TRANSPORTS LTD Nigeria company, Company number: RC-1911622, Incorporation Date Mar 29, 2022;, Address: 31 NEW LAGOS-ASABA ROAD, ASABA, DELTA STATE",
+        "company": {
+            "id": 109002252,
+            "name": "COPERATE BROTHERS TRANSPORTS LTD",
+            "internationalNumber": "RC-1911622",
+            "localNumber": "1911622",
+            "countryId": 24,
+            "dateCreated": "2022-03-29T00:00:00.000Z",
+            "createdAt": "2022-04-14T09:37:40.005Z",
+            "updatedAt": "2024-06-15T15:39:26.561Z",
+            "alternateNames": [],
+            "address": "31 NEW LAGOS-ASABA ROAD, ASABA, DELTA STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "TRANSPORT SERVICES",
+            "providerId": "7896842",
+            "updatedAtSitemap": "2024-01-01T15:44:16.000Z",
+            "oldInternationalNumber": "1911622",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 671,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197028,
+                    "providerId": "199155",
+                    "providerName": "Road Transportation services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:51.497907+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 102129834,
+                    "address": "31 NEW LAGOS-ASABA ROAD, ASABA, DELTA STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299043914,
+                    "companyId": 109002252,
+                    "personId": 116118976,
+                    "roleId": 60320,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 116118976,
+                        "name": "odozor ikechukwu valentine",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1978,
+                        "birthMonth": 6,
+                        "birthDate": 4,
+                        "address": "OLU OBASANJO WAY, CENTRAL AREA, PLOT 987",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "12343354454",
+                        "documentType": "National ID Card",
+                        "email": "ikeodozor@gmail.com",
+                        "phone": "234703194813",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "OZOCHINO GLOBAL ENTERPRISES",
+                            "internationalNumber": "BN-3584772"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299043915,
+                    "companyId": 109002252,
+                    "personId": 102556112,
+                    "roleId": 60317,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 102556112,
+                        "name": "kwubei isioma",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1989,
+                        "birthMonth": 4,
+                        "birthDate": 13,
+                        "address": "NEW LAGOS-ASABA ROAD, NO. 31",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A09078923",
+                        "documentType": "International Passport",
+                        "email": "kwubei2019@gmail.com",
+                        "phone": "08033092411",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299043919,
+                    "companyId": 109002252,
+                    "personId": 101667106,
+                    "roleId": 60322,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101667106,
+                        "name": "patrick ikechukwu samson",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1986,
+                        "birthMonth": 2,
+                        "birthDate": 6,
+                        "address": "AGWAZE STREET, NO. 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "B00441107",
+                        "documentType": "International Passport",
+                        "email": "patrickiyke@yahoo.com",
+                        "phone": "08147461667",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60322,
+                        "name": "Secretary company",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary company"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299043920,
+                    "companyId": 109002252,
+                    "personId": 102235618,
+                    "roleId": 60328,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 102235618,
+                        "name": "kwubei isioma",
+                        "countryId": 24,
+                        "address": ", NO. 31, NEW LAGOS ASABA ROAD",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "kwubei2019@gmail.com",
+                        "phone": "08165225280",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299043921,
+                    "companyId": 109002252,
+                    "personId": 101667108,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 400000,
+                    "person": {
+                        "id": 101667108,
+                        "name": "sunday lucky",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1984,
+                        "birthMonth": 3,
+                        "birthDate": 13,
+                        "address": "AGWAZE STREET, NO. 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2723782899",
+                        "documentType": "National ID Card",
+                        "email": "sundaylucky@gmail.com",
+                        "phone": "07036651903",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299043922,
+                    "companyId": 109002252,
+                    "personId": 101667109,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 300000,
+                    "person": {
+                        "id": 101667109,
+                        "name": "dugbo augustine",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1991,
+                        "birthMonth": 8,
+                        "birthDate": 29,
+                        "address": "DEEPER LIFE CAMP ROAD, NO. 22",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "AYB05025AA07",
+                        "documentType": "Driver's License",
+                        "email": "dugboaustine@gmail.com",
+                        "phone": "08161518808",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "dug*******************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Ike****** Val****** Odo***",
+                    "contacts": {
+                        "email": [
+                            "ike****************"
+                        ],
+                        "phone": [
+                            "234*********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ike****** Odo*** Val******",
+                    "contacts": {
+                        "email": [
+                            "ike****************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "17",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "1": 4,
+                "2": 5,
+                "null": 8
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

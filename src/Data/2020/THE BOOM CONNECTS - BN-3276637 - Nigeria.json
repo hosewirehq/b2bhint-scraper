@@ -1,0 +1,467 @@
+[
+    {
+        "year": "2020",
+        "title": "THE BOOM CONNECTS - BN-3276637 - Nigeria",
+        "description": "THE BOOM CONNECTS Nigeria company, Company number: BN-3276637, Incorporation Date Dec 24, 2020;, Address: 2 USUNG ABAT STREET, IKOT AKPA ETOK, NUNG UDOE, AKWA IBOM STATE",
+        "company": {
+            "id": 63935078,
+            "name": "THE BOOM CONNECTS",
+            "internationalNumber": "BN-3276637",
+            "localNumber": "3276637",
+            "countryId": 24,
+            "dateCreated": "2020-12-24T00:00:00.000Z",
+            "createdAt": "2021-06-07T06:27:22.309Z",
+            "updatedAt": "2024-06-15T14:33:47.094Z",
+            "alternateNames": [],
+            "address": "2 USUNG ABAT STREET, IKOT AKPA ETOK, NUNG UDOE, AKWA IBOM STATE",
+            "additionalData": {},
+            "typeId": 99332,
+            "historicalNames": [],
+            "providerId": "6420099",
+            "updatedAtSitemap": "2023-06-09T19:44:53.000Z",
+            "oldInternationalNumber": "3276637",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99332,
+                "type": "Business name - partnership",
+                "countryId": 24,
+                "translation": {
+                    "en": "Partnership"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 3823,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196954,
+                    "providerId": "199233",
+                    "providerName": "Farming",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:38.94858+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91702483,
+                    "address": "2 USUNG ABAT STREET, IKOT AKPA ETOK, NUNG UDOE, AKWA IBOM STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 247846483,
+                    "companyId": 63935078,
+                    "personId": 84698585,
+                    "roleId": 60320,
+                    "appointedOn": "2021-04-23",
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 84698585,
+                        "name": "olorunsaiye ola john",
+                        "countryId": 24,
+                        "address": "PLT. 2 ALGERIA STREET ZONE 3, WUSE, ABUJA",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "National Identification Number",
+                        "email": "olaolorunsaiyejnr2@yahoo.com",
+                        "phone": "2348038019823",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "GOOD WORLD BOOKSHOP ENTERPRISE",
+                            "internationalNumber": "BN-3129326"
+                        },
+                        {
+                            "name": "ODIYE VENTURES AND AGRIBIZ GLOBAL CONCEPT",
+                            "internationalNumber": "BN-3129554"
+                        },
+                        {
+                            "name": "GRACE FOUND VARIETY STORES",
+                            "internationalNumber": "BN-3111457"
+                        },
+                        {
+                            "name": "A. A DOKORO INTERBIZ",
+                            "internationalNumber": "BN-3127905"
+                        },
+                        {
+                            "name": "RADIANCE LUXURY GLOW",
+                            "internationalNumber": "BN-3125409"
+                        },
+                        {
+                            "name": "BUMIE\u2019S XTEEM STORE",
+                            "internationalNumber": "BN-3121391"
+                        },
+                        {
+                            "name": "TESSY SAM AND SONS ENTERPRISES",
+                            "internationalNumber": "BN-3122046"
+                        },
+                        {
+                            "name": "MONDALIS STORES",
+                            "internationalNumber": "BN-3126023"
+                        },
+                        {
+                            "name": "RHAYO'S BEAUTYLUXE",
+                            "internationalNumber": "BN-3125393"
+                        },
+                        {
+                            "name": "BEEJONLY FARMS",
+                            "internationalNumber": "BN-3119851"
+                        },
+                        {
+                            "name": "NOMAD RESOURCE",
+                            "internationalNumber": "BN-3109889"
+                        },
+                        {
+                            "name": "M.M DIKWA STANDARD VISION",
+                            "internationalNumber": "BN-3111814"
+                        },
+                        {
+                            "name": "MASA SPOT",
+                            "internationalNumber": "BN-3119022"
+                        },
+                        {
+                            "name": "SHAGARI CATTLES PRODUCTION",
+                            "internationalNumber": "BN-3110134"
+                        },
+                        {
+                            "name": "SUCCESS CAKE & CONCEPTS",
+                            "internationalNumber": "BN-3116145"
+                        },
+                        {
+                            "name": "IBRAHIM DATTIJO BUILDING MATERIALS",
+                            "internationalNumber": "BN-3110547"
+                        },
+                        {
+                            "name": "TEMMY GOLD STORE",
+                            "internationalNumber": "BN-3118124"
+                        },
+                        {
+                            "name": "GANDM SERVICES",
+                            "internationalNumber": "BN-3125776"
+                        },
+                        {
+                            "name": "TRADITIONAL SPORTS AND GAMES NIGERIA",
+                            "internationalNumber": "BN-3130026"
+                        },
+                        {
+                            "name": "EVASTEV GLOBAL",
+                            "internationalNumber": "BN-3129439"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 247846479,
+                    "companyId": 63935078,
+                    "personId": 97493471,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97493471,
+                        "name": "samuel ita ita",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1988,
+                        "birthMonth": 2,
+                        "birthDate": 8,
+                        "address": "2 USUNG ABAT STREET, IKOT AKPA ETOK, ",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "itaitasam@gmail.com",
+                        "phone": "08064465371",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 247846481,
+                    "companyId": 63935078,
+                    "personId": 100912763,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 100912763,
+                        "name": "samuel ita ita",
+                        "countryId": 24,
+                        "birthYear": 1988,
+                        "birthMonth": 2,
+                        "birthDate": 11,
+                        "address": "",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "22043916257",
+                        "documentType": "National Identification Number",
+                        "email": "itaitasam@gmail.com",
+                        "phone": "08064465371",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 247846482,
+                    "companyId": 63935078,
+                    "personId": 100912763,
+                    "roleId": 60319,
+                    "appointedOn": "2021-01-22",
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 100912763,
+                        "name": "samuel ita ita",
+                        "countryId": 24,
+                        "birthYear": 1988,
+                        "birthMonth": 2,
+                        "birthDate": 11,
+                        "address": "",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "22043916257",
+                        "documentType": "National Identification Number",
+                        "email": "itaitasam@gmail.com",
+                        "phone": "08064465371",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Ita Ita Sam***",
+                    "contacts": {
+                        "email": [
+                            "ita****************"
+                        ],
+                        "phone": [
+                            "080********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "4",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 2
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

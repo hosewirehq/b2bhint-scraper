@@ -1,0 +1,523 @@
+[
+    {
+        "year": "2018",
+        "title": "SST GLOBAL FOUNDATION LTD - RC-1550004 - Nigeria",
+        "description": "SST GLOBAL FOUNDATION LTD Nigeria company, Company number: RC-1550004, Incorporation Date Dec 24, 2018;, Address: NO. 732, AMADU SALIHU STREET, DN, KANO, KANO STATE",
+        "company": {
+            "id": 60523547,
+            "name": "SST GLOBAL FOUNDATION LTD",
+            "internationalNumber": "RC-1550004",
+            "localNumber": "1550004",
+            "countryId": 24,
+            "dateCreated": "2018-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-14T11:03:21.986Z",
+            "updatedAt": "2024-06-15T14:18:49.373Z",
+            "alternateNames": [],
+            "address": "NO. 732, AMADU SALIHU STREET, DN, KANO, KANO STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "5052822",
+            "updatedAtSitemap": "2023-06-09T18:13:09.000Z",
+            "oldInternationalNumber": "1550004",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2613,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196957,
+                    "providerId": "4",
+                    "providerName": "EDUCATION",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:40.456898+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 95458511,
+                    "address": "NO. 732, AMADU SALIHU STREET, DN, KANO, KANO STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 241892638,
+                    "companyId": 60523547,
+                    "personId": 98639938,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98639938,
+                        "name": "muhammad sani ahmad",
+                        "countryId": 24,
+                        "address": "NO. 59 M\/MUH'D WAY FAGGE D2 WAPA, KANO",
+                        "email": "amsaniandco14e@gmail.com",
+                        "phone": "08023095443",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "AFRAH RESTAURANT & CATERING LTD",
+                            "internationalNumber": "RC-1553488"
+                        },
+                        {
+                            "name": "DAR ALMANDI RESTAURANT SERVICES LTD",
+                            "internationalNumber": "RC-1553493"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241892632,
+                    "companyId": 60523547,
+                    "personId": 98755867,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98755867,
+                        "name": "abubakar kasim usman",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1970,
+                        "birthMonth": 1,
+                        "birthDate": 31,
+                        "address": "732 AHMADU SALIHI ST DN Kano ",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "Kasim129@yahoo.com",
+                        "phone": "09096964090",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "SST FOUNDATION AND SCHOOLS SERVICES",
+                            "internationalNumber": "BN-2733352"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241892633,
+                    "companyId": 60523547,
+                    "personId": 98771006,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98771006,
+                        "name": "abubakar kasim usman",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1970,
+                        "birthMonth": 1,
+                        "birthDate": 31,
+                        "address": "NO. 732 AHMADU SALIHU ST. DN, KANO",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "Kasim129@yahoo.com",
+                        "phone": "09096964090",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "DAR ALMANDI RESTAURANT SERVICES LTD",
+                            "internationalNumber": "RC-1553493"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241892636,
+                    "companyId": 60523547,
+                    "personId": 98771006,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98771006,
+                        "name": "abubakar kasim usman",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1970,
+                        "birthMonth": 1,
+                        "birthDate": 31,
+                        "address": "NO. 732 AHMADU SALIHU ST. DN, KANO",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "Kasim129@yahoo.com",
+                        "phone": "09096964090",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "DAR ALMANDI RESTAURANT SERVICES LTD",
+                            "internationalNumber": "RC-1553493"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241892637,
+                    "companyId": 60523547,
+                    "personId": 98771006,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 900000,
+                    "person": {
+                        "id": 98771006,
+                        "name": "abubakar kasim usman",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1970,
+                        "birthMonth": 1,
+                        "birthDate": 31,
+                        "address": "NO. 732 AHMADU SALIHU ST. DN, KANO",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "Kasim129@yahoo.com",
+                        "phone": "09096964090",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [
+                        {
+                            "name": "DAR ALMANDI RESTAURANT SERVICES LTD",
+                            "internationalNumber": "RC-1553493"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241892635,
+                    "companyId": 60523547,
+                    "personId": 98771007,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 100000,
+                    "person": {
+                        "id": 98771007,
+                        "name": "miko adamu",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1980,
+                        "birthMonth": 3,
+                        "birthDate": 1,
+                        "address": "NO. 732 AHMADU SALIHU ST. DN, KANO",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A06614730",
+                        "documentType": "International Passport",
+                        "email": "kasim129@yahoo.com",
+                        "phone": "08039533809",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [
+                        {
+                            "name": "DAR ALMANDI RESTAURANT SERVICES LTD",
+                            "internationalNumber": "RC-1553493"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "kas***************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Kas** Usm** Abu*****",
+                    "contacts": {
+                        "phone": [
+                            "090********"
+                        ],
+                        "email": [
+                            "kas***************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "7",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "null": 2
+            },
+            "personsWithRelatedCount": 4
+        }
+    }
+]

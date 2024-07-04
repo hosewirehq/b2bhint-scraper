@@ -1,0 +1,327 @@
+[
+    {
+        "year": "2018",
+        "title": "TRUCKDOMAIN - BN-2742736 - Nigeria",
+        "description": "TRUCKDOMAIN Nigeria company, Company number: BN-2742736, Incorporation Date Dec 27, 2018;, Address: 15 RAIMI AKINYELE STREET, OFF MOBIL ESTATE ROAD, AJAH, LAGOS., LAGOS, LAGOS STATE",
+        "company": {
+            "id": 60626510,
+            "name": "TRUCKDOMAIN",
+            "internationalNumber": "BN-2742736",
+            "localNumber": "2742736",
+            "countryId": 24,
+            "dateCreated": "2018-12-27T00:00:00.000Z",
+            "createdAt": "2021-05-14T17:47:50.370Z",
+            "updatedAt": "2024-06-15T16:40:08.504Z",
+            "alternateNames": [],
+            "address": "15 RAIMI AKINYELE STREET, OFF MOBIL ESTATE ROAD, AJAH, LAGOS., LAGOS, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99332,
+            "historicalNames": [],
+            "providerId": "5077783",
+            "updatedAtSitemap": "2024-04-26T19:53:05.000Z",
+            "oldInternationalNumber": "2742736",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99332,
+                "type": "Business name - partnership",
+                "countryId": 24,
+                "translation": {
+                    "en": "Partnership"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2315,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 5888487,
+                    "providerId": "1",
+                    "providerName": "UNSPECIFIED",
+                    "countryId": 24,
+                    "createdAt": "2021-05-18T17:09:50.60028+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 96584766,
+                    "address": "15 RAIMI AKINYELE STREET, OFF MOBIL ESTATE ROAD, AJAH, LAGOS., LAGOS, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 490229858,
+                    "companyId": 60626510,
+                    "personId": 185195186,
+                    "roleId": 60318,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 185195186,
+                        "name": "joan greg",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1977,
+                        "birthMonth": 6,
+                        "birthDate": 22,
+                        "address": "Plot 112AMINU KANO CRESCENT, WUSE II, Abuja, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1686471",
+                        "documentType": "Driver's License",
+                        "documentNumber": "ABC68335AD38",
+                        "email": "loyajaytlcoffice@yahoo.com",
+                        "phone": "+234 805 463 3284",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60318,
+                        "name": "Lawyer",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Lawyer"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "MJBT AGRO PROCESSING LIMITED",
+                            "internationalNumber": "RC-1584812"
+                        },
+                        {
+                            "name": "LIN TALBOT INTEGRATED SERVICES LIMITED",
+                            "internationalNumber": "RC-1563843"
+                        },
+                        {
+                            "name": "STELLA PHILIPS",
+                            "internationalNumber": "BN-2448765"
+                        },
+                        {
+                            "name": "PEACH GREY CONSULTING LIMITED",
+                            "internationalNumber": "RC-1471553"
+                        },
+                        {
+                            "name": "LOBEN TRAINING AND ADVISORY LIMITED",
+                            "internationalNumber": "RC-1573475"
+                        },
+                        {
+                            "name": "SHEMEDIA.NG",
+                            "internationalNumber": "BN-2859981"
+                        },
+                        {
+                            "name": "EQUINIG FOODS LIMITED",
+                            "internationalNumber": "RC-1547451"
+                        },
+                        {
+                            "name": "SHELLCROPS FARMS",
+                            "internationalNumber": "BN-2538348"
+                        },
+                        {
+                            "name": "THE CATALOGUE LIFESTYLE SOLUTIONS LIMITED",
+                            "internationalNumber": "RC-1763009"
+                        },
+                        {
+                            "name": "BETSETT INTERNATIONAL",
+                            "internationalNumber": "BN-2568256"
+                        },
+                        {
+                            "name": "HEADWATERS PROPERTY AND INVESTMENTS LIMITED",
+                            "internationalNumber": "RC-1372106"
+                        },
+                        {
+                            "name": "UMUZI SOLUTIONS LIMITED",
+                            "internationalNumber": "RC-1567165"
+                        },
+                        {
+                            "name": "MACFEL DIVINE INTERNATIONAL LIMITED",
+                            "internationalNumber": "RC-1583848"
+                        },
+                        {
+                            "name": "MANSION CONSULTING LIMITED",
+                            "internationalNumber": "RC-1042356"
+                        },
+                        {
+                            "name": "SPACES BUSINESS LOGISTICS ENTERPRISE",
+                            "internationalNumber": "BN-2834388"
+                        },
+                        {
+                            "name": "KAYI MICROFINANCE BANK LIMITED ",
+                            "internationalNumber": "RC-1099354"
+                        },
+                        {
+                            "name": "GRAEY WORKS",
+                            "internationalNumber": "BN-2883769"
+                        },
+                        {
+                            "name": "FEADEB VENTURES",
+                            "internationalNumber": "BN-2883246"
+                        },
+                        {
+                            "name": "FIRST EDET ENERGY RESOURCES LIMITED",
+                            "internationalNumber": "RC-1510459"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Joa* Gre*",
+                    "contacts": {
+                        "phone": [
+                            "234**********"
+                        ],
+                        "email": [
+                            "loy***********************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Gre* Joa*",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "loy***********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 4,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

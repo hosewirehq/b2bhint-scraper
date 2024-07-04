@@ -1,0 +1,498 @@
+[
+    {
+        "year": "2019",
+        "title": "CORPORA REVIEWS & ANALYTICS LTD - RC-1642971 - Nigeria",
+        "description": "CORPORA REVIEWS & ANALYTICS LTD Nigeria company, Company number: RC-1642971, Incorporation Date 19 d\u00e9c. 2019;, Address: NO.3, ARMY BARRACKS, NEAR BETHEL JUNCTION, YOLA, ADAMAWA STATE",
+        "company": {
+            "id": 62634681,
+            "name": "CORPORA REVIEWS & ANALYTICS LTD",
+            "internationalNumber": "RC-1642971",
+            "localNumber": "1642971",
+            "countryId": 24,
+            "dateCreated": "2019-12-19T00:00:00.000Z",
+            "createdAt": "2021-05-30T21:28:16.335Z",
+            "updatedAt": "2024-06-15T14:11:21.863Z",
+            "alternateNames": [],
+            "address": "NO.3, ARMY BARRACKS, NEAR BETHEL JUNCTION, YOLA, ADAMAWA STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "6172523",
+            "updatedAtSitemap": "2023-06-09T14:58:55.000Z",
+            "oldInternationalNumber": "1642971",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1520,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197040,
+                    "providerId": "143250",
+                    "providerName": "Other professional,Scientific and technical activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:02:01.548944+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91496119,
+                    "address": "NO.3, ARMY BARRACKS, NEAR BETHEL JUNCTION, YOLA, ADAMAWA STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 158313038,
+                    "companyId": 62634681,
+                    "personId": 66946909,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 100000,
+                    "person": {
+                        "id": 66946909,
+                        "name": "udemezue ngozi perpetual",
+                        "countryId": 24,
+                        "address": "NO 3, Army Barrack Road, Bethel Junction, Jimeta",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "63353422389",
+                        "documentType": "National ID Card",
+                        "email": "ibekwengozi89@gmail.com",
+                        "phone": "08068872301",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "GALAXINNO TECHNOLOGIES LIMITED",
+                            "internationalNumber": "RC-1642392"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158313039,
+                    "companyId": 62634681,
+                    "personId": 66946909,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 100000,
+                    "person": {
+                        "id": 66946909,
+                        "name": "udemezue ngozi perpetual",
+                        "countryId": 24,
+                        "address": "NO 3, Army Barrack Road, Bethel Junction, Jimeta",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "63353422389",
+                        "documentType": "National ID Card",
+                        "email": "ibekwengozi89@gmail.com",
+                        "phone": "08068872301",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [
+                        {
+                            "name": "GALAXINNO TECHNOLOGIES LIMITED",
+                            "internationalNumber": "RC-1642392"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158313040,
+                    "companyId": 62634681,
+                    "personId": 66946910,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66946910,
+                        "name": "emodi comfort chinwe",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1983,
+                        "birthMonth": 4,
+                        "birthDate": 6,
+                        "address": "No.5 Hanwa Lowcost Area, Hanwa Zaria",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A30216510",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "comfortemodi@gmail.com",
+                        "phone": "08038782664",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158313043,
+                    "companyId": 62634681,
+                    "personId": 66946913,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66946913,
+                        "name": "udemezue ngozi perpetual",
+                        "countryId": 24,
+                        "address": "No.3 , Army Barracks Road , Bethel Junction ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "63353422389",
+                        "documentType": "National ID Card",
+                        "email": "ibekwengozi89@gmail.com",
+                        "phone": "08068872301",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158313044,
+                    "companyId": 62634681,
+                    "personId": 66946914,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 900000,
+                    "person": {
+                        "id": 66946914,
+                        "name": "udemezue innocent chinedu",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1978,
+                        "birthMonth": 1,
+                        "birthDate": 21,
+                        "address": "No.3 , Army Barracks Road, Bethel Junction Jimeta",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A09311147",
+                        "documentType": "International Passport",
+                        "email": "icuinnocent@gmail.com",
+                        "phone": "08033336529",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158313045,
+                    "companyId": 62634681,
+                    "personId": 66946915,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66946915,
+                        "name": "udemezue innocent ",
+                        "countryId": 24,
+                        "address": "No. 3 , Army Barracks Road, Bethel Junction",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "icuinnocent@gmail.com",
+                        "phone": "08033336529",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "icu******************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Inn***** Ude*****",
+                    "contacts": {
+                        "email": [
+                            "icu*******************"
+                        ],
+                        "phone": [
+                            "080********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "10",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 6,
+                "null": 2
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

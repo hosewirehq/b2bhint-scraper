@@ -1,0 +1,317 @@
+[
+    {
+        "year": "2019",
+        "title": "LIZFRED FANNY COMPANY - BN-3040618 - Nigeria",
+        "description": "LIZFRED FANNY COMPANY Nigeria company, Company number: BN-3040618, Incorporation Date Dec 23, 2019;, Address: 7, ADEBIYI STREET, MAGODO PHASE 1, MAGODO- ISHERI, LAGOS STATE",
+        "company": {
+            "id": 60853595,
+            "name": "LIZFRED FANNY COMPANY",
+            "internationalNumber": "BN-3040618",
+            "localNumber": "3040618",
+            "countryId": 24,
+            "dateCreated": "2019-12-23T00:00:00.000Z",
+            "createdAt": "2021-05-15T09:49:58.260Z",
+            "updatedAt": "2024-06-15T14:10:17.790Z",
+            "alternateNames": [],
+            "address": "7, ADEBIYI STREET, MAGODO PHASE 1, MAGODO- ISHERI, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6138160",
+            "updatedAtSitemap": "2023-06-09T15:23:41.000Z",
+            "oldInternationalNumber": "3040618",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1250,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196954,
+                    "providerId": "199233",
+                    "providerName": "Farming",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:38.94858+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91458256,
+                    "address": "7, ADEBIYI STREET, MAGODO PHASE 1, MAGODO- ISHERI, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332558980,
+                    "companyId": 60853595,
+                    "personId": 99383582,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 99383582,
+                        "name": "adebusola adekoya",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1968,
+                        "birthMonth": 10,
+                        "birthDate": 24,
+                        "address": "1 Asabi Cole StreetAgidingbi, Ikeja, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1720448",
+                        "documentType": "International Passport",
+                        "documentNumber": "A10336303",
+                        "email": "busolaadek17@gmail.com",
+                        "phone": "+234 806 647 7226",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "TEE PEARL GLOBAL RESOURCES LIMITED",
+                            "internationalNumber": "RC-1495101"
+                        },
+                        {
+                            "name": "PRAYINGMUMS MINISTRY",
+                            "internationalNumber": "IT-152585"
+                        },
+                        {
+                            "name": "SAFESTORE LIMITED",
+                            "internationalNumber": "RC-1522198"
+                        },
+                        {
+                            "name": "TAIROYAL CHIN CHOPS AND SERVICES",
+                            "internationalNumber": "BN-2978636"
+                        },
+                        {
+                            "name": "AKANDU VENTURES LIMITED",
+                            "internationalNumber": "RC-158319"
+                        },
+                        {
+                            "name": "DEOBOD COMPUTERS LIMITED",
+                            "internationalNumber": "RC-1482905"
+                        },
+                        {
+                            "name": "TUTU MAN ENTERPRISES",
+                            "internationalNumber": "BN-2969566"
+                        },
+                        {
+                            "name": "JANSSEN GLOBAL COMPANY LIMITED",
+                            "internationalNumber": "RC-1641069"
+                        },
+                        {
+                            "name": "FARTHER RAY VENTURES LIMITED",
+                            "internationalNumber": "RC-1554764"
+                        },
+                        {
+                            "name": "ARTYNOOKEH CLOTHINGS",
+                            "internationalNumber": "BN-2868526"
+                        },
+                        {
+                            "name": "HAIRLOVE BEAUTYXTRA SALON AND COSMETICS",
+                            "internationalNumber": "BN-2806790"
+                        },
+                        {
+                            "name": "DES EMPOREEUM VENTURES",
+                            "internationalNumber": "BN-2890133"
+                        },
+                        {
+                            "name": "COMPUDEC ENGINEERING LIMITED",
+                            "internationalNumber": "RC-123080"
+                        },
+                        {
+                            "name": "ORUNWA YOUTH MENTORING FOUNDATION",
+                            "internationalNumber": "IT-123080"
+                        },
+                        {
+                            "name": "PRIVEDOC NIGERIA LIMITED",
+                            "internationalNumber": "RC-1474055"
+                        },
+                        {
+                            "name": "K.O AYODELE & CO",
+                            "internationalNumber": "BN-2666214"
+                        },
+                        {
+                            "name": "BLOOMFIELD COMPUTERS LIMITED",
+                            "internationalNumber": "RC-1473280"
+                        },
+                        {
+                            "name": "OLAKUNLE TRIPO VENTURES",
+                            "internationalNumber": "BN-2978655"
+                        },
+                        {
+                            "name": "PART-KENZ AUTO VENTURES",
+                            "internationalNumber": "BN-2802076"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Ade****** Ade****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "bus*******************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

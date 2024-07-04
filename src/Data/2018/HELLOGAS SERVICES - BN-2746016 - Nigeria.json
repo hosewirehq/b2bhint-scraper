@@ -1,0 +1,260 @@
+[
+    {
+        "year": "2018",
+        "title": "HELLOGAS SERVICES - BN-2746016 - Nigeria",
+        "description": "HELLOGAS SERVICES Nigeria company, Company number: BN-2746016, Incorporation Date Dec 31, 2018;, Address: 1, OKUNFOLAMI STREET, ANTHONY VILLAGE, LAGOS STATE",
+        "company": {
+            "id": 62168722,
+            "name": "HELLOGAS SERVICES",
+            "internationalNumber": "BN-2746016",
+            "localNumber": "2746016",
+            "countryId": 24,
+            "dateCreated": "2018-12-31T00:00:00.000Z",
+            "createdAt": "2021-05-28T21:22:16.989Z",
+            "updatedAt": "2024-06-15T15:16:18.650Z",
+            "alternateNames": [],
+            "address": "1, OKUNFOLAMI STREET, ANTHONY VILLAGE, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5195619",
+            "updatedAtSitemap": "2023-06-09T17:58:42.000Z",
+            "oldInternationalNumber": "2746016",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1948,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197403,
+                    "providerId": "199279",
+                    "providerName": "Sale of Petroleum Products",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:11:20.046779+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97990664,
+                    "address": "1, OKUNFOLAMI STREET, ANTHONY VILLAGE, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 349262621,
+                    "companyId": 62168722,
+                    "personId": 72662975,
+                    "roleId": 114555,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 72662975,
+                        "name": "adedayo michael okunfolami",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1981,
+                        "birthMonth": 6,
+                        "birthDate": 27,
+                        "address": "4BOshineye Street, Pedro, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2225510",
+                        "documentType": "National ID Card",
+                        "documentNumber": "14025651104",
+                        "email": "dayokuns@yahoo.com",
+                        "phone": "+234 807 289 5365",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114555,
+                        "name": "Software Engineer",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "PREORDERMART ONLINE",
+                            "internationalNumber": "BN-2730293"
+                        },
+                        {
+                            "name": "TAILOREDMADE SIGNATURE",
+                            "internationalNumber": "BN-2761416"
+                        },
+                        {
+                            "name": "ASSIST DISPATCH LOGISTICS",
+                            "internationalNumber": "BN-3157195"
+                        },
+                        {
+                            "name": "MOTOCARE AUTOMOBILE TECHNOLOGY",
+                            "internationalNumber": "BN-3075148"
+                        },
+                        {
+                            "name": "TECPRO BUSINESS APPLICATIONS",
+                            "internationalNumber": "BN-2859421"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Ade**** Mic**** Oku*******",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "day***************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

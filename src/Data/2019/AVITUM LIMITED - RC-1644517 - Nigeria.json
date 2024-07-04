@@ -1,0 +1,337 @@
+[
+    {
+        "year": "2019",
+        "title": "AVITUM LIMITED - RC-1644517 - Nigeria",
+        "description": "AVITUM LIMITED Nigeria company, Company number: RC-1644517, Incorporation Date Dec 27, 2019;, Address: 188, AWOLOWO ROAD, IKOYI, LAGOS STATE",
+        "company": {
+            "id": 60540654,
+            "name": "AVITUM LIMITED",
+            "internationalNumber": "RC-1644517",
+            "localNumber": "1644517",
+            "countryId": 24,
+            "dateCreated": "2019-12-27T00:00:00.000Z",
+            "createdAt": "2021-05-14T12:18:36.955Z",
+            "updatedAt": "2024-06-15T14:09:10.073Z",
+            "alternateNames": [],
+            "address": "188, AWOLOWO ROAD, IKOYI, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "10000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "10000000",
+            "historicalNames": [],
+            "providerId": "6077889",
+            "updatedAtSitemap": "2023-06-09T15:26:09.000Z",
+            "oldInternationalNumber": "1644517",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 574,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196967,
+                    "providerId": "199119",
+                    "providerName": "Oil and Gas Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:47.223789+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 90524565,
+                    "address": "188, AWOLOWO ROAD, IKOYI, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "FINCODE LIMITED",
+                            "internationalNumber": "RC-1509834"
+                        },
+                        {
+                            "name": "SEA- BREEZE ENERGY AND SERVICES LIMITED",
+                            "internationalNumber": "RC-1577414"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332504693,
+                    "companyId": 60540654,
+                    "personId": 66139023,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66139023,
+                        "name": "olubunmi olusola tadema",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1987,
+                        "birthMonth": 6,
+                        "birthDate": 26,
+                        "address": "23Onipede Street, Surulere, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1826676",
+                        "documentType": "International Passport",
+                        "documentNumber": "A07806643",
+                        "email": "tademaolubunmi@gmail.com",
+                        "phone": "+234 706 884 9237",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "SAM CHARIS PRODUCTS MARKETING LIMITED",
+                            "internationalNumber": "RC-1752005"
+                        },
+                        {
+                            "name": "BIOENERGY AND OLEOCHEMICALS LIMITED",
+                            "internationalNumber": "RC-1727531"
+                        },
+                        {
+                            "name": "ADSAN CONSULTING LIMITED",
+                            "internationalNumber": "RC-1685821"
+                        },
+                        {
+                            "name": "UNIQUE JMK LIMITED",
+                            "internationalNumber": "RC-1749627"
+                        },
+                        {
+                            "name": "LAGELU WARRIORS FOOTBALL CLUB LIMITED",
+                            "internationalNumber": "RC-1801839"
+                        },
+                        {
+                            "name": "ROJOAN INTEGRATED SERVICES LIMITED",
+                            "internationalNumber": "RC-1625132"
+                        },
+                        {
+                            "name": "FIXATION PAINTS NIGERIA LIMITED",
+                            "internationalNumber": "RC-1644513"
+                        },
+                        {
+                            "name": "STUDIO 78 HOSSANNAH MEDIA",
+                            "internationalNumber": "BN-3464763"
+                        },
+                        {
+                            "name": "N1 VENTURES LIMITED",
+                            "internationalNumber": "RC-1908440"
+                        },
+                        {
+                            "name": "INFINITY SCHOOLS AND EDUCATIONAL CONCEPTS",
+                            "internationalNumber": "BN-3545841"
+                        },
+                        {
+                            "name": "AUDEX CONSTRUCTION & ENGINEERING LIMITED",
+                            "internationalNumber": "RC-1663580"
+                        },
+                        {
+                            "name": "PEN94 LIMITED",
+                            "internationalNumber": "RC-1756570"
+                        },
+                        {
+                            "name": "EMT ELECTRICAL ENGINEERING LIMITED",
+                            "internationalNumber": "RC-1869970"
+                        },
+                        {
+                            "name": "DEEGADGETS AND ACCESSORIES",
+                            "internationalNumber": "BN-3484084"
+                        },
+                        {
+                            "name": "MAYGOBE HOME OF COLLECTION",
+                            "internationalNumber": "BN-3442171"
+                        },
+                        {
+                            "name": "THE NIYO PAPERCRAFT LTD",
+                            "internationalNumber": "RC-1653870"
+                        },
+                        {
+                            "name": "MIXIE ELECTRICAL GADGETS",
+                            "internationalNumber": "BN-3468864"
+                        },
+                        {
+                            "name": "FAITHIANO COMMUNICATION",
+                            "internationalNumber": "BN-3496474"
+                        },
+                        {
+                            "name": "AAA GADGET PLUG",
+                            "internationalNumber": "BN-3447705"
+                        },
+                        {
+                            "name": "INCORPORATED TRUSTEES OF PA BISHOP MAXWELL ORJI FOUNDATION (PABMO)",
+                            "internationalNumber": "IT-152237"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "ak.**************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Olu***** Olu**** Tad***",
+                    "contacts": {
+                        "email": [
+                            "tad*********************"
+                        ],
+                        "phone": [
+                            "+23**************",
+                            "+23***********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

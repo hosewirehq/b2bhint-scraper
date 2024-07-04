@@ -1,0 +1,343 @@
+[
+    {
+        "year": "2018",
+        "title": "DESSIE'S KONCEPTS - BN-2738389 - Nigeria",
+        "description": "DESSIE'S KONCEPTS Nigeria company, Company number: BN-2738389, Incorporation Date 21 d\u00e9c. 2018;, Address: 30, FRANCIS OKEDIJI STREET OLD BODIJA IBADAN, IBADAN, OYO STATE",
+        "company": {
+            "id": 60686690,
+            "name": "DESSIE'S KONCEPTS",
+            "internationalNumber": "BN-2738389",
+            "localNumber": "2738389",
+            "countryId": 24,
+            "dateCreated": "2018-12-21T00:00:00.000Z",
+            "createdAt": "2021-05-14T21:43:26.759Z",
+            "updatedAt": "2024-06-15T14:17:06.312Z",
+            "alternateNames": [],
+            "address": "30, FRANCIS OKEDIJI STREET OLD BODIJA IBADAN, IBADAN, OYO STATE",
+            "additionalData": {},
+            "typeId": 99332,
+            "historicalNames": [],
+            "providerId": "5088002",
+            "updatedAtSitemap": "2023-06-09T18:08:11.000Z",
+            "oldInternationalNumber": "2738389",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99332,
+                "type": "Business name - partnership",
+                "countryId": 24,
+                "translation": {
+                    "en": "Partnership"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1104,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197102,
+                    "providerId": "199230",
+                    "providerName": "EVENTS MANAGEMENT, GENERAL MERCHANDISE, WHOLESALE AND RETAIL TRADE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:03:30.111946+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97322377,
+                    "address": "30, FRANCIS OKEDIJI STREET OLD BODIJA IBADAN, IBADAN, OYO STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 240341348,
+                    "companyId": 60686690,
+                    "personId": 98066491,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98066491,
+                        "name": "akinpelu adesola comfort",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1992,
+                        "birthMonth": 11,
+                        "birthDate": 7,
+                        "address": "30, Francis okediji street old Bodija Ibadan",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "akinpeluadesolafunmi@gmail.com",
+                        "phone": "+2348168212527",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 240341349,
+                    "companyId": 60686690,
+                    "personId": 98066492,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98066492,
+                        "name": "olanipekun michael segun",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1987,
+                        "birthMonth": 10,
+                        "birthDate": 30,
+                        "address": "Plot 765 Cadestral Zone B02, Durumi 2, Garki -Abuja.",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "molansilent@gmail.com",
+                        "phone": "08103577905",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [
+                        {
+                            "name": "PMIKE TECHNOLOGIES",
+                            "internationalNumber": "BN-2704804"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 240341350,
+                    "companyId": 60686690,
+                    "personId": 98066493,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98066493,
+                        "name": "akinpelu adesola comfort",
+                        "countryId": 24,
+                        "occupation": "Psychologist",
+                        "nationality": "Nigerian",
+                        "birthYear": 1992,
+                        "birthMonth": 11,
+                        "birthDate": 7,
+                        "address": "30, Francis okediji street old Bodija Ibadan",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A09676919",
+                        "documentType": "International Passport",
+                        "email": "akinpeluadesolafunmi@gmail.com",
+                        "phone": "08168212527",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Mic**** Seg** Ola*******",
+                    "contacts": {
+                        "phone": [
+                            "081********"
+                        ],
+                        "email": [
+                            "mol******************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "3",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

@@ -1,0 +1,326 @@
+[
+    {
+        "year": "2021",
+        "title": "CUSNIK FARMS LIMITED - RC-1877412 - Nigeria",
+        "description": "CUSNIK FARMS LIMITED Nigeria company, Company number: RC-1877412, Incorporation Date 24 dec 2021;, Address: NO 22 STELLIAN ROAD ELELENWO, PORT HARCOURT, RIVERS STATE",
+        "company": {
+            "id": 108714557,
+            "name": "CUSNIK FARMS LIMITED",
+            "internationalNumber": "RC-1877412",
+            "localNumber": "1877412",
+            "countryId": 24,
+            "dateCreated": "2021-12-24T00:00:00.000Z",
+            "createdAt": "2022-04-11T21:30:39.552Z",
+            "updatedAt": "2024-06-15T14:17:28.163Z",
+            "alternateNames": [],
+            "address": "NO 22 STELLIAN ROAD ELELENWO, PORT HARCOURT, RIVERS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "10000000 NGN",
+            "historicalNames": [],
+            "providerId": "7777899",
+            "updatedAtSitemap": "2023-06-09T18:09:04.000Z",
+            "oldInternationalNumber": "1877412",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 915,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6198663,
+                    "providerId": "199106",
+                    "providerName": "Livestock Management Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:49:39.275243+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 94854829,
+                    "address": "NO 22 STELLIAN ROAD ELELENWO, PORT HARCOURT, RIVERS STATE",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "CHIZEL DREDGING COMPANY LTD",
+                            "internationalNumber": "RC-1861659"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 343577751,
+                    "companyId": 108714557,
+                    "personId": 66866155,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66866155,
+                        "name": "edward toochukwu ihieri",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1983,
+                        "birthMonth": 10,
+                        "birthDate": 12,
+                        "address": "No 38Okigwe Road Orji, Owerri, IMO STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "3348154",
+                        "documentType": "National ID Card",
+                        "documentNumber": "74200728143",
+                        "email": "Edwardihieri@yahoo.com",
+                        "phone": "+234 703 668 9060",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "NES GLOBAL TRADING LTD",
+                            "internationalNumber": "RC-1816955"
+                        },
+                        {
+                            "name": "WILLY CONCEPT AUTOMOBILE",
+                            "internationalNumber": "BN-3553984"
+                        },
+                        {
+                            "name": "E. T. IHIERI & CO.",
+                            "internationalNumber": "BN-3386700"
+                        },
+                        {
+                            "name": "JP ROCKS & LOGISTICS LIMITED",
+                            "internationalNumber": "RC-1804300"
+                        },
+                        {
+                            "name": "DOMITOR LIMITED",
+                            "internationalNumber": "RC-1814252"
+                        },
+                        {
+                            "name": "LUCHIZ MIRIANO DESIGNS",
+                            "internationalNumber": "BN-3439958"
+                        },
+                        {
+                            "name": "CHIZEL DREDGING COMPANY LTD",
+                            "internationalNumber": "RC-1861659"
+                        },
+                        {
+                            "name": "EMZEEPRO CONTRACTING LIMITED",
+                            "internationalNumber": "RC-1864679"
+                        },
+                        {
+                            "name": "CHIED KIDDIES AND TEENS LTD",
+                            "internationalNumber": "RC-1838258"
+                        },
+                        {
+                            "name": "ACE'S TUSH ENTERPRISES",
+                            "internationalNumber": "BN-3491432"
+                        },
+                        {
+                            "name": "SMART KIDS INT'L FOUNDATION",
+                            "internationalNumber": "IT-127803"
+                        },
+                        {
+                            "name": "VABETA PHARMACEUTICAL CO. NIG LTD",
+                            "internationalNumber": "RC-176276"
+                        },
+                        {
+                            "name": "LIVIA DYNAMIC SERVICES",
+                            "internationalNumber": "BN-3444011"
+                        },
+                        {
+                            "name": "EDICONS OIL AND GAS NIG. LIMITED",
+                            "internationalNumber": "RC-1915695"
+                        },
+                        {
+                            "name": "FRONTLINE MEDICAL DIAGNOSTIC LABORATORIES LIMITED",
+                            "internationalNumber": "RC-1803195"
+                        },
+                        {
+                            "name": "M.O EMPIRE CONCERNS",
+                            "internationalNumber": "BN-3524221"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "cus*************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Edw*** Too****** Ihi***",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "070********"
+                        ],
+                        "email": [
+                            "edw*******************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Edw*** Ihi*** Too******",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "edw*******************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

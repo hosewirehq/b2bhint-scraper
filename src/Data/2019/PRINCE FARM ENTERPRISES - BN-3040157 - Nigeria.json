@@ -1,0 +1,332 @@
+[
+    {
+        "year": "2019",
+        "title": "PRINCE FARM ENTERPRISES - BN-3040157 - Nigeria",
+        "description": "PRINCE FARM ENTERPRISES Nigeria company, Company number: BN-3040157, Incorporation Date 23. Dez. 2019;, Address: 61 LIMCA ROAD, NKPOR, ONITSHA, ANAMBRA STATE",
+        "company": {
+            "id": 60844887,
+            "name": "PRINCE FARM ENTERPRISES",
+            "internationalNumber": "BN-3040157",
+            "localNumber": "3040157",
+            "countryId": 24,
+            "dateCreated": "2019-12-23T00:00:00.000Z",
+            "createdAt": "2021-05-15T09:13:30.273Z",
+            "updatedAt": "2024-06-15T14:10:13.581Z",
+            "alternateNames": [],
+            "address": "61 LIMCA ROAD, NKPOR, ONITSHA, ANAMBRA STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6136445",
+            "updatedAtSitemap": "2023-06-09T15:23:44.000Z",
+            "oldInternationalNumber": "3040157",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1250,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196919,
+                    "providerId": "143269",
+                    "providerName": "Other personal services activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T13:47:47.959002+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91456693,
+                    "address": "61 LIMCA ROAD, NKPOR, ONITSHA, ANAMBRA STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332557437,
+                    "companyId": 60844887,
+                    "personId": 66136723,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66136723,
+                        "name": "ebenezer oladipupo ogunleye",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1990,
+                        "birthMonth": 10,
+                        "birthDate": 5,
+                        "address": "NO. 1GREG ILUKWE STREET, GRA, ENUGU, ENUGU STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2347301",
+                        "documentType": "International Passport",
+                        "documentNumber": "A09662074",
+                        "email": "ebenparadise@gmail.com",
+                        "phone": "+234 706 833 0197",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "MAVEX AGRO VENTURES",
+                            "internationalNumber": "BN-3012249"
+                        },
+                        {
+                            "name": "BURNING BUSH FARMS LTD",
+                            "internationalNumber": "RC-1633915"
+                        },
+                        {
+                            "name": "WILLVILLES IMPEX ENTERPRISES",
+                            "internationalNumber": "BN-2977957"
+                        },
+                        {
+                            "name": "UGWU AUTOMOBILE WORKS",
+                            "internationalNumber": "BN-3002591"
+                        },
+                        {
+                            "name": "INTERNATIONAL CORRESPONDENCE COLLEGE LTD",
+                            "internationalNumber": "RC-1638273"
+                        },
+                        {
+                            "name": "THE ARK OF FAITH RESCUE MINISTRY",
+                            "internationalNumber": "IT-151188"
+                        },
+                        {
+                            "name": "WE CARE RESTORE HOPE FOUNDATION",
+                            "internationalNumber": "IT-150917"
+                        },
+                        {
+                            "name": "FRANCO ANCILLARIES INTERNATIONAL",
+                            "internationalNumber": "BN-2966399"
+                        },
+                        {
+                            "name": "EMMA EJIKE INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1637928"
+                        },
+                        {
+                            "name": "CITY INDOMITABLE VENTURES LIMITED",
+                            "internationalNumber": "RC-1625129"
+                        },
+                        {
+                            "name": "STERLING INTEGRATED DEVELOPMENTS",
+                            "internationalNumber": "BN-3170408"
+                        },
+                        {
+                            "name": "PENNY WISE PROPERTIES NIG LTD",
+                            "internationalNumber": "RC-1622489"
+                        },
+                        {
+                            "name": "FIRENATION EVANGELISTIC MINISTRY",
+                            "internationalNumber": "IT-150981"
+                        },
+                        {
+                            "name": "NOVA HILL ENTERTAINMENT LTD",
+                            "internationalNumber": "RC-1638321"
+                        },
+                        {
+                            "name": "OKPURU ULO ELU BUSINESS CENTRE",
+                            "internationalNumber": "BN-3000715"
+                        },
+                        {
+                            "name": "ENJOYMENT AFRICA LTD",
+                            "internationalNumber": "RC-1617692"
+                        },
+                        {
+                            "name": "ADENO CONSULT",
+                            "internationalNumber": "BN-2999261"
+                        },
+                        {
+                            "name": "OCTS GLOBAL RESOURCES",
+                            "internationalNumber": "BN-3320917"
+                        },
+                        {
+                            "name": "NOPET PETROLEUM LIMITED",
+                            "internationalNumber": "RC-1640573"
+                        },
+                        {
+                            "name": "COLD SCOOP GELATO",
+                            "internationalNumber": "BN-2980274"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Ebe***** Ola****** Ogu*****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "070********"
+                        ],
+                        "email": [
+                            "ebe*******************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ebe***** Ogu***** Ola******",
+                    "contacts": {
+                        "email": [
+                            "ebe*******************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

@@ -1,0 +1,331 @@
+[
+    {
+        "year": "2019",
+        "title": "PAULOBI GLOBAL VENTURE - BN-3038666 - Nigeria",
+        "description": "PAULOBI GLOBAL VENTURE Nigeria company, Company number: BN-3038666, Incorporation Date Dec 19, 2019;, Address: 57, MARTINS STREET, LAGOS ISLAND, LAGOS STATE",
+        "company": {
+            "id": 62610640,
+            "name": "PAULOBI GLOBAL VENTURE",
+            "internationalNumber": "BN-3038666",
+            "localNumber": "3038666",
+            "countryId": 24,
+            "dateCreated": "2019-12-19T00:00:00.000Z",
+            "createdAt": "2021-05-30T20:15:30.285Z",
+            "updatedAt": "2024-06-15T14:11:18.024Z",
+            "alternateNames": [],
+            "address": "57, MARTINS STREET, LAGOS ISLAND, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6168981",
+            "updatedAtSitemap": "2023-06-09T14:59:09.000Z",
+            "oldInternationalNumber": "3038666",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1520,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91491633,
+                    "address": "57, MARTINS STREET, LAGOS ISLAND, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332591427,
+                    "companyId": 62610640,
+                    "personId": 66139936,
+                    "roleId": 114357,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66139936,
+                        "name": "somtochukwu gerald oruigbo",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1990,
+                        "birthMonth": 10,
+                        "birthDate": 2,
+                        "address": "NO 8OUAGADOUGOU STREET, WUSE ZONE 2, ABUJA, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1855534",
+                        "documentType": "National ID Card",
+                        "documentNumber": "58598979126",
+                        "email": "somty4eva@gmail.com",
+                        "phone": "+234 703 576 1628",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114357,
+                        "name": "Legal Practitioner ",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "GATEWAY PHARMACY LIMITED",
+                            "internationalNumber": "RC-1660776"
+                        },
+                        {
+                            "name": "A&O ENTERPRISES",
+                            "internationalNumber": "BN-2796966"
+                        },
+                        {
+                            "name": "C J MARBLE AND GRANITE ENTERPRISES",
+                            "internationalNumber": "BN-3058726"
+                        },
+                        {
+                            "name": "HOUSE 9 CLUB",
+                            "internationalNumber": "IT-155431"
+                        },
+                        {
+                            "name": "TUNDE IKEKULEHIN FARMS LTD",
+                            "internationalNumber": "RC-1565499"
+                        },
+                        {
+                            "name": "LEBRILLS BUREAU DE CHANGE LIMITED",
+                            "internationalNumber": "RC-1626130"
+                        },
+                        {
+                            "name": "HUGOTRADE VENTURES LIMITED",
+                            "internationalNumber": "RC-1907026"
+                        },
+                        {
+                            "name": "NONIGOLD VENTURE",
+                            "internationalNumber": "BN-2998929"
+                        },
+                        {
+                            "name": "GRACE BLOOMFIELD CONCEPTS INT'L LTD",
+                            "internationalNumber": "RC-1694502"
+                        },
+                        {
+                            "name": "CHISOMEJE TRANSPORT COMPANY NIG LTD",
+                            "internationalNumber": "RC-1690348"
+                        },
+                        {
+                            "name": "SHEPHERD INTEGRATED CONCEPTS LIMITED",
+                            "internationalNumber": "RC-1657506"
+                        },
+                        {
+                            "name": "JB'S VENTURES",
+                            "internationalNumber": "BN-3246578"
+                        },
+                        {
+                            "name": "VINAMEK VIABLE VENTURES",
+                            "internationalNumber": "BN-3018872"
+                        },
+                        {
+                            "name": "TONVISOE INT'L INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1581086"
+                        },
+                        {
+                            "name": "Zitadan Farms",
+                            "internationalNumber": "BN-3269601"
+                        },
+                        {
+                            "name": "BUSFIELD SOLICITORS",
+                            "internationalNumber": "BN-2812663"
+                        },
+                        {
+                            "name": "MACNUEL GLOBAL ENTERPRISES",
+                            "internationalNumber": "BN-2988849"
+                        },
+                        {
+                            "name": "OKENDOSMITH VENTURES",
+                            "internationalNumber": "BN-2971007"
+                        },
+                        {
+                            "name": "TIGERNUT PREMIUM BY LYDIA",
+                            "internationalNumber": "BN-3556837"
+                        },
+                        {
+                            "name": "JOCAL O VENTURES LIMITED",
+                            "internationalNumber": "RC-1615213"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Som******** Ger*** Oru****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "070********"
+                        ],
+                        "email": [
+                            "som****************"
+                        ]
+                    }
+                },
+                {
+                    "name": " Ger*** Oru**** Som********",
+                    "contacts": {
+                        "email": [
+                            "som****************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

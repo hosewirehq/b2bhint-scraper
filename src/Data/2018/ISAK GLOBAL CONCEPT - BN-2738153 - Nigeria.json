@@ -1,0 +1,370 @@
+[
+    {
+        "year": "2018",
+        "title": "ISAK GLOBAL CONCEPT - BN-2738153 - Nigeria",
+        "description": "ISAK GLOBAL CONCEPT Nigeria company, Company number: BN-2738153, Incorporation Date 21 dec 2018;, Address: NO. 34 SABAN KAURA, BEHIND ATBU BAUCH, BAUCHI, BAUCHI STATE",
+        "company": {
+            "id": 62101597,
+            "name": "ISAK GLOBAL CONCEPT",
+            "internationalNumber": "BN-2738153",
+            "localNumber": "2738153",
+            "countryId": 24,
+            "dateCreated": "2018-12-21T00:00:00.000Z",
+            "createdAt": "2021-05-28T06:01:11.446Z",
+            "updatedAt": "2024-06-15T15:15:31.743Z",
+            "alternateNames": [],
+            "address": "NO. 34 SABAN KAURA, BEHIND ATBU BAUCH, BAUCHI, BAUCHI STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5178630",
+            "updatedAtSitemap": "2023-06-09T18:00:19.000Z",
+            "oldInternationalNumber": "2738153",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1104,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97874463,
+                    "address": "NO. 34 SABAN KAURA, BEHIND ATBU BAUCH, BAUCHI, BAUCHI STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 241157704,
+                    "companyId": 62101597,
+                    "personId": 66149763,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66149763,
+                        "name": "sani fatima matori",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1982,
+                        "birthMonth": 5,
+                        "birthDate": 12,
+                        "address": "11A, MOHAMMED BELLO KIRFI ROAD,OPPOSITE STATE LIBRARY,\nBAUCHI.",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "fatimasmatori@yahoo.com",
+                        "phone": "07066502090",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "YIBBAN FURNITURES",
+                            "internationalNumber": "BN-2741753"
+                        },
+                        {
+                            "name": "MADRIMO GLOBAL VENTURES",
+                            "internationalNumber": "BN-3064333"
+                        },
+                        {
+                            "name": "I.S.A MULTI BUSINESS ENTERPRISES",
+                            "internationalNumber": "BN-2700439"
+                        },
+                        {
+                            "name": "REFRESH AUDIO VISUAL",
+                            "internationalNumber": "BN-3010914"
+                        },
+                        {
+                            "name": "SURAIYA- BABIKA COMPANY",
+                            "internationalNumber": "BN-2749848"
+                        },
+                        {
+                            "name": "AL - YUSRAT BUSINESS VENTURES",
+                            "internationalNumber": "BN-2700444"
+                        },
+                        {
+                            "name": "MUSNADA GLOBAL ENTERPRISE",
+                            "internationalNumber": "BN-2700465"
+                        },
+                        {
+                            "name": "DOMA MULTI BUSINESS VENTURES",
+                            "internationalNumber": "BN-2725509"
+                        },
+                        {
+                            "name": "SEDOO SARAUNIYA FARMS",
+                            "internationalNumber": "BN-2763676"
+                        },
+                        {
+                            "name": "ANNAJM LEARNERS' ACADEMY",
+                            "internationalNumber": "BN-3018869"
+                        },
+                        {
+                            "name": "ALH. MUHAMMAD ABUBAKAR RIMIN ZAYAM VENTURES",
+                            "internationalNumber": "BN-2998511"
+                        },
+                        {
+                            "name": "ALRAVO FURNITURES",
+                            "internationalNumber": "BN-2741754"
+                        },
+                        {
+                            "name": "YELWA AGROVET GENERAL ENTERPRISE",
+                            "internationalNumber": "BN-2683688"
+                        },
+                        {
+                            "name": "HAMZA BISHI & CO GENERAL ENTERPRISE",
+                            "internationalNumber": "BN-2702535"
+                        },
+                        {
+                            "name": "YARO AZARE GENERAL CONTRACTOR",
+                            "internationalNumber": "BN-2690805"
+                        },
+                        {
+                            "name": "MADAFA MULTI GLOBAL ENTERPRISES",
+                            "internationalNumber": "BN-2685059"
+                        },
+                        {
+                            "name": "JELA AND SONS FARMS",
+                            "internationalNumber": "BN-2750926"
+                        },
+                        {
+                            "name": "JABIR HARUN RISHI ENTERPRISES",
+                            "internationalNumber": "BN-2763383"
+                        },
+                        {
+                            "name": "ALARAMMA FURNITURE",
+                            "internationalNumber": "BN-2727644"
+                        },
+                        {
+                            "name": "DE-FLEX MEDIA ENTERPRISE",
+                            "internationalNumber": "BN-2757950"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241157705,
+                    "companyId": 62101597,
+                    "personId": 98488837,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98488837,
+                        "name": "ismaila imrana ahmed",
+                        "countryId": 24,
+                        "occupation": "Business man",
+                        "nationality": "Nigerian",
+                        "birthYear": 1988,
+                        "birthMonth": 5,
+                        "birthDate": 14,
+                        "address": "NO. 1 NASARAWA JAHUN, OPPOSITE SHEIKH JAFAR MAHMUD ADAM NURSERY AND PRIMARY SCHOOL ",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "S7Y0NYFK30001M5",
+                        "documentType": "National ID Card",
+                        "email": "imranismail660@gmail.com",
+                        "phone": "08039693176",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Fat*** Mat*** San*",
+                    "contacts": {
+                        "email": [
+                            "fat********************"
+                        ],
+                        "phone": [
+                            "070********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "2",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

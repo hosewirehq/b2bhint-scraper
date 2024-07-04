@@ -1,0 +1,318 @@
+[
+    {
+        "year": "2019",
+        "title": "SUFFICIENT LIFE INITIATIVE - IT-141093 - Nigeria",
+        "description": "SUFFICIENT LIFE INITIATIVE Nigeria company, Company number: IT-141093, Incorporation Date 18. Dez. 2019;, Address: PENT HOUSE GOBI PLAZA 121-123, IDIMU EGBEDA ROAD, BY ILE EPO ALHAJI BUS STOP, EGBEDA, LAGOS STATE",
+        "company": {
+            "id": 177227184,
+            "name": "SUFFICIENT LIFE INITIATIVE",
+            "internationalNumber": "IT-141093",
+            "localNumber": "141093",
+            "countryId": 24,
+            "dateCreated": "2019-12-18T00:00:00.000Z",
+            "createdAt": "2022-11-09T11:08:29.138Z",
+            "updatedAt": "2024-06-15T14:40:35.985Z",
+            "alternateNames": [],
+            "address": "PENT HOUSE GOBI PLAZA 121-123, IDIMU EGBEDA ROAD, BY ILE EPO ALHAJI BUS STOP, EGBEDA, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99333,
+            "historicalNames": [],
+            "providerId": "5954256",
+            "updatedAtSitemap": "2023-06-09T20:04:42.000Z",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99333,
+                "type": "Incorporated trustee",
+                "countryId": 24,
+                "translation": {
+                    "en": "Incorporated trustee"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1428,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197311,
+                    "providerId": "349626",
+                    "providerName": "FOUNDATION BASED ASSOCIATION",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:08:37.748956+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 101711056,
+                    "address": "PENT HOUSE GOBI PLAZA 121-123, IDIMU EGBEDA ROAD, BY ILE EPO ALHAJI BUS STOP, EGBEDA, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 365095184,
+                    "companyId": 177227184,
+                    "personId": 66139050,
+                    "roleId": 114359,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66139050,
+                        "name": "joseph olugbenga",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1973,
+                        "birthMonth": 11,
+                        "birthDate": 25,
+                        "address": "22, OLANREWAJU STREETOREGUN, LAGOS, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1621748",
+                        "documentType": "International Passport",
+                        "documentNumber": "A09984628",
+                        "email": "glorious.gold@yahoo.com",
+                        "phone": "+234 808 277 7782",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114359,
+                        "name": "Chartered Accountant",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Chartered Accountant"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "ROOF RITE LIMITED",
+                            "internationalNumber": "RC-1537891"
+                        },
+                        {
+                            "name": "ANJOLA SPICE & CONFECTIONERIES",
+                            "internationalNumber": "BN-3031424"
+                        },
+                        {
+                            "name": "H M MOONLIGHT SERVICES",
+                            "internationalNumber": "BN-2419730"
+                        },
+                        {
+                            "name": "MAMA T. MERCHANDISE",
+                            "internationalNumber": "BN-2455385"
+                        },
+                        {
+                            "name": "D'GAVIS LINKS CO",
+                            "internationalNumber": "BN-2601386"
+                        },
+                        {
+                            "name": "STELLA JOYLAND LIMITED",
+                            "internationalNumber": "RC-1685176"
+                        },
+                        {
+                            "name": "VINELS EMPIRE",
+                            "internationalNumber": "BN-3462694"
+                        },
+                        {
+                            "name": "MARIOODOFA GLOBAL ENTERPRISES",
+                            "internationalNumber": "BN-2418973"
+                        },
+                        {
+                            "name": "BIMTEC CONSULTANTS LIMITED",
+                            "internationalNumber": "RC-1577087"
+                        },
+                        {
+                            "name": "GHAZAL ADEPOJU & CO",
+                            "internationalNumber": "BN-3776414"
+                        },
+                        {
+                            "name": "TOMIDE YOLE CLEMENT ENTERPRISES",
+                            "internationalNumber": "BN-2795362"
+                        },
+                        {
+                            "name": "EVERGRANDE TAOBAO INTERNATIONAL COMPANY LIMITED",
+                            "internationalNumber": "RC-1442103"
+                        },
+                        {
+                            "name": "INFANTS & TODDLERS MONTESSORI PREP",
+                            "internationalNumber": "BN-2891539"
+                        },
+                        {
+                            "name": "HAGGIS PROPERTIES AND HOMES LIMITED",
+                            "internationalNumber": "RC-1372194"
+                        },
+                        {
+                            "name": "OZICK INDUSTRIAL CLEANING TOUCH",
+                            "internationalNumber": "BN-3549289"
+                        },
+                        {
+                            "name": "SPORTING INITIATIVES FOR DIFFERENTLY ABLED",
+                            "internationalNumber": "IT-147914"
+                        },
+                        {
+                            "name": "KMYB SYNERGY NIGERIA ENTERPRISES",
+                            "internationalNumber": "BN-3370874"
+                        },
+                        {
+                            "name": "BANK OF FOOD STUFFS LIMITED",
+                            "internationalNumber": "RC-1634361"
+                        },
+                        {
+                            "name": "TONNYTAM IMPERIAL ENTERPRISES",
+                            "internationalNumber": "BN-3278903"
+                        },
+                        {
+                            "name": "JADEOL BEAUTY PRO",
+                            "internationalNumber": "BN-2528379"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Jos*** Olu******",
+                    "contacts": {
+                        "email": [
+                            "glo********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

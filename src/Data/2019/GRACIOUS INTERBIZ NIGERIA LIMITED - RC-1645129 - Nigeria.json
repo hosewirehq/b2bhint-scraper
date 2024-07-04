@@ -1,0 +1,498 @@
+[
+    {
+        "year": "2019",
+        "title": "GRACIOUS INTERBIZ NIGERIA LIMITED - RC-1645129 - Nigeria",
+        "description": "GRACIOUS INTERBIZ NIGERIA LIMITED Nigeria company, Company number: RC-1645129, Incorporation Date 2019\u5e7412\u670831\u65e5;, Address: I OGU OPARA STREET VICTORY ESTATE IBA-OJO, BADAGRY, LAGOS STATE",
+        "company": {
+            "id": 62541947,
+            "name": "GRACIOUS INTERBIZ NIGERIA LIMITED",
+            "internationalNumber": "RC-1645129",
+            "localNumber": "1645129",
+            "countryId": 24,
+            "dateCreated": "2019-12-31T00:00:00.000Z",
+            "createdAt": "2021-05-30T15:08:37.881Z",
+            "updatedAt": "2024-06-15T14:11:03.782Z",
+            "alternateNames": [],
+            "address": "I OGU OPARA STREET VICTORY ESTATE IBA-OJO, BADAGRY, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "6155930",
+            "updatedAtSitemap": "2023-06-09T15:00:02.000Z",
+            "oldInternationalNumber": "1645129",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1128,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91476346,
+                    "address": "I OGU OPARA STREET VICTORY ESTATE IBA-OJO, BADAGRY, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 158585818,
+                    "companyId": 62541947,
+                    "personId": 67135838,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 250000,
+                    "person": {
+                        "id": 67135838,
+                        "name": "emeka isaac umunnakwe",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1995,
+                        "birthMonth": 2,
+                        "birthDate": 9,
+                        "address": "1 OGU OPARA STREET VICTORY ESTATE IBA-OJO LAGOS",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A10765044",
+                        "documentType": "International Passport",
+                        "email": "umunnakwesaacemeka@ao1.com",
+                        "phone": "+23058229652",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158585819,
+                    "companyId": 62541947,
+                    "personId": 67135838,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 250000,
+                    "person": {
+                        "id": 67135838,
+                        "name": "emeka isaac umunnakwe",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1995,
+                        "birthMonth": 2,
+                        "birthDate": 9,
+                        "address": "1 OGU OPARA STREET VICTORY ESTATE IBA-OJO LAGOS",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A10765044",
+                        "documentType": "International Passport",
+                        "email": "umunnakwesaacemeka@ao1.com",
+                        "phone": "+23058229652",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158585820,
+                    "companyId": 62541947,
+                    "personId": 67135839,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 250000,
+                    "person": {
+                        "id": 67135839,
+                        "name": "chinedu michael umunnakwe",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 2000,
+                        "birthMonth": 1,
+                        "birthDate": 9,
+                        "address": "1 OGU OPARA STREET VICTORY ESTATE IBA-OJO LAGOS",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A10765059",
+                        "documentType": "International Passport",
+                        "email": "michaelcumunnakwe@gmail.com",
+                        "phone": "+23058229641",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158585821,
+                    "companyId": 62541947,
+                    "personId": 67135839,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 250000,
+                    "person": {
+                        "id": 67135839,
+                        "name": "chinedu michael umunnakwe",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 2000,
+                        "birthMonth": 1,
+                        "birthDate": 9,
+                        "address": "1 OGU OPARA STREET VICTORY ESTATE IBA-OJO LAGOS",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A10765059",
+                        "documentType": "International Passport",
+                        "email": "michaelcumunnakwe@gmail.com",
+                        "phone": "+23058229641",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158585822,
+                    "companyId": 62541947,
+                    "personId": 67135840,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67135840,
+                        "name": "grace ngozi umunnakwe",
+                        "countryId": 24,
+                        "address": "1 OGU OPARA STREET,VICTORY ESTATE IBA-OJO LAGOS.\n",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A07296292",
+                        "documentType": "International Passport",
+                        "email": "Esthergrace2004@outlook.com",
+                        "phone": "08036388129",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 158585824,
+                    "companyId": 62541947,
+                    "personId": 67135842,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67135842,
+                        "name": "grace ngozi umunnakwe",
+                        "countryId": 24,
+                        "address": "1 OGU OPARA STREET,VICTORY ESTATE IBA-OJO LAGOS.\n",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "Esthergrace2004@outlook.com",
+                        "phone": "08036388129",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "est************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Gra** Umu****** Ngo**",
+                    "contacts": {
+                        "email": [
+                            "est************************"
+                        ],
+                        "phone": [
+                            "080********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "9",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 3,
+                "2": 4,
+                "null": 2
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

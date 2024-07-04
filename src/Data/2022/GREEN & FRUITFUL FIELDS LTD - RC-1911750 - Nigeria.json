@@ -1,0 +1,559 @@
+[
+    {
+        "year": "2022",
+        "title": "GREEN & FRUITFUL FIELDS LTD - RC-1911750 - Nigeria",
+        "description": "GREEN & FRUITFUL FIELDS LTD Nigeria company, Company number: RC-1911750, Incorporation Date 29 \u043c\u0430\u0440. 2022 \u0433.;, Address: 16 AHMED MUSA CRESCENT, JABI, FCT",
+        "company": {
+            "id": 109100170,
+            "name": "GREEN & FRUITFUL FIELDS LTD",
+            "internationalNumber": "RC-1911750",
+            "localNumber": "1911750",
+            "countryId": 24,
+            "dateCreated": "2022-03-29T00:00:00.000Z",
+            "createdAt": "2022-04-15T10:47:43.894Z",
+            "updatedAt": "2024-06-15T15:40:24.004Z",
+            "alternateNames": [],
+            "address": "16 AHMED MUSA CRESCENT, JABI, FCT",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "Investment and General Contractor",
+            "providerId": "7932766",
+            "updatedAtSitemap": "2023-06-09T16:44:23.000Z",
+            "oldInternationalNumber": "1911750",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 671,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196924,
+                    "providerId": "199237",
+                    "providerName": "General Contracts",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:13.437675+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 69574696,
+                    "address": "16 AHMED MUSA CRESCENT, JABI, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 298908537,
+                    "companyId": 109100170,
+                    "personId": 104332839,
+                    "roleId": 60320,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 104332839,
+                        "name": "ahara nnamdi",
+                        "countryId": 24,
+                        "occupation": "Lawyer",
+                        "nationality": "Nigeria",
+                        "birthYear": 1995,
+                        "birthMonth": 11,
+                        "birthDate": 9,
+                        "address": "Olusegun Obasanjo Way., Danziyal Plaza",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "41310120286",
+                        "documentType": "National ID Card",
+                        "email": "aharannamdi@gmail.com",
+                        "phone": "08102634686",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "MAC HANDLES DESIGNS & COLLECTION",
+                            "internationalNumber": "BN-3597982"
+                        },
+                        {
+                            "name": "JAY-WORLD TRADING SERVICES",
+                            "internationalNumber": "BN-3599160"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298908538,
+                    "companyId": 109100170,
+                    "personId": 93213314,
+                    "roleId": 60324,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 93213314,
+                        "name": "ahara nnamdi",
+                        "countryId": 24,
+                        "occupation": "Lawyer",
+                        "address": "Samuel Ajayi Crowther street, Dantsoho Plaza",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "Nnamdiahara@gmail.com",
+                        "phone": "08102634686",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298908539,
+                    "companyId": 109100170,
+                    "personId": 101848556,
+                    "roleId": 60317,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101848556,
+                        "name": "egopijah udung",
+                        "countryId": 24,
+                        "occupation": "Business woman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1974,
+                        "birthMonth": 11,
+                        "birthDate": 29,
+                        "address": "Ahmed Musa Crescent, 16",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "ABC44000AA02",
+                        "documentType": "Driver's License",
+                        "email": "udimokan@yahoo.com",
+                        "phone": "08037193783",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298908540,
+                    "companyId": 109100170,
+                    "personId": 101848556,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1000000,
+                    "person": {
+                        "id": 101848556,
+                        "name": "egopijah udung",
+                        "countryId": 24,
+                        "occupation": "Business woman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1974,
+                        "birthMonth": 11,
+                        "birthDate": 29,
+                        "address": "Ahmed Musa Crescent, 16",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "ABC44000AA02",
+                        "documentType": "Driver's License",
+                        "email": "udimokan@yahoo.com",
+                        "phone": "08037193783",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 298908541,
+                    "companyId": 109100170,
+                    "personId": 101848556,
+                    "roleId": 60321,
+                    "percentage": 100,
+                    "appointedOn": "2022-03-29",
+                    "votingShares": "100%",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1000000,
+                    "person": {
+                        "id": 101848556,
+                        "name": "egopijah udung",
+                        "countryId": 24,
+                        "occupation": "Business woman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1974,
+                        "birthMonth": 11,
+                        "birthDate": 29,
+                        "address": "Ahmed Musa Crescent, 16",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "ABC44000AA02",
+                        "documentType": "Driver's License",
+                        "email": "udimokan@yahoo.com",
+                        "phone": "08037193783",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60321,
+                        "name": "Persons with significant control",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Persons with significant control"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 365518506,
+                    "companyId": 109100170,
+                    "personId": 100933763,
+                    "roleId": 60318,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 100933763,
+                        "name": "nnamdi ahara",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1995,
+                        "birthMonth": 11,
+                        "birthDate": 9,
+                        "address": "C010 Dantshoho PlazaSamuel Ajayi Crowther Street, Asokoro, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "3680246",
+                        "documentType": "National ID Card",
+                        "documentNumber": "41310120286",
+                        "email": "aharannamdi@gmail.com",
+                        "phone": "+234 810 263 4686",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60318,
+                        "name": "Lawyer",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Lawyer"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "ALBIZZZLES INVESTMENT LTD",
+                            "internationalNumber": "RC-1243518"
+                        },
+                        {
+                            "name": "MAC HANDLES DESIGNS & COLLECTION",
+                            "internationalNumber": "BN-3597982"
+                        },
+                        {
+                            "name": "JAY-WORLD TRADING SERVICES",
+                            "internationalNumber": "BN-3599160"
+                        },
+                        {
+                            "name": "SUNNEX FOOD MART",
+                            "internationalNumber": "BN-3451507"
+                        },
+                        {
+                            "name": "LYNK-TRUST SERVICES LIMITED",
+                            "internationalNumber": "RC-177435"
+                        },
+                        {
+                            "name": "JERIC HOSPITAL LTD",
+                            "internationalNumber": "RC-1831570"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "udi***************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Nna*** Aha**",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "081********"
+                        ],
+                        "email": [
+                            "aha******************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Aha** Nna***",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "aha******************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "6",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 2,
+                "3": 1,
+                "null": 2
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

@@ -1,0 +1,631 @@
+[
+    {
+        "year": "2022",
+        "title": "SOHON KADA NIG LTD - RC-1913285 - Nigeria",
+        "description": "SOHON KADA NIG LTD Nigeria company, Company number: RC-1913285, Incorporation Date 1 \u043a\u0432\u0456\u0442 2022 \u0440.;, Address: NO 5 ELBE CLOSE PANAMA STREET, MAITAMA, ABUJA, FCT",
+        "company": {
+            "id": 109043650,
+            "name": "SOHON KADA NIG LTD",
+            "internationalNumber": "RC-1913285",
+            "localNumber": "1913285",
+            "countryId": 24,
+            "dateCreated": "2022-04-01T00:00:00.000Z",
+            "createdAt": "2022-04-14T19:40:45.105Z",
+            "updatedAt": "2024-06-15T15:39:42.426Z",
+            "alternateNames": [],
+            "address": "NO 5 ELBE CLOSE PANAMA STREET, MAITAMA, ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "MINING\/GENERAL SERVICES",
+            "providerId": "7907328",
+            "updatedAtSitemap": "2023-06-09T16:42:39.000Z",
+            "oldInternationalNumber": "1913285",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 573,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196919,
+                    "providerId": "143269",
+                    "providerName": "Other personal services activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T13:47:47.959002+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 69534443,
+                    "address": "NO 5 ELBE CLOSE PANAMA STREET, MAITAMA, ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299000708,
+                    "companyId": 109043650,
+                    "personId": 101667043,
+                    "roleId": 60320,
+                    "appointedOn": "2022-04-01",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101667043,
+                        "name": "ibrahim umar wunti",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "nationality": "Nigeria",
+                        "birthYear": 1980,
+                        "birthMonth": 6,
+                        "birthDate": 7,
+                        "address": "WUNTI STREET, NO 326",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "11769169591",
+                        "documentType": "National ID Card",
+                        "email": "wuntyfptb.edu.gov.ng@gmail.com",
+                        "phone": "08065620828",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "KAZARA INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1893082"
+                        },
+                        {
+                            "name": "KANTI INVESTMENT NIG LTD",
+                            "internationalNumber": "RC-1894438"
+                        },
+                        {
+                            "name": "GEO-TAG CONSULTING LTD",
+                            "internationalNumber": "RC-1899997"
+                        },
+                        {
+                            "name": "QUEENARSENAL STORES",
+                            "internationalNumber": "BN-3587303"
+                        },
+                        {
+                            "name": "BANZIR STANDARD SYNERGY LIMITED",
+                            "internationalNumber": "RC-1912469"
+                        },
+                        {
+                            "name": "DAN GASKE INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1894955"
+                        },
+                        {
+                            "name": "VEGRIS INTEGRATED SERVICES LTD",
+                            "internationalNumber": "RC-1896333"
+                        },
+                        {
+                            "name": "JEMIS BAKERY CONFECTIONERS AND CATERING SERVICES",
+                            "internationalNumber": "BN-3619255"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299000709,
+                    "companyId": 109043650,
+                    "personId": 101898629,
+                    "roleId": 60324,
+                    "appointedOn": "2022-04-01",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101898629,
+                        "name": "abdullahi usman tijjani",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "address": "AHMED ABDULKADIR WAY, BANK ROAD , NO 2",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "bangibogus2015@gmail.com",
+                        "phone": "08036092366",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299000710,
+                    "companyId": 109043650,
+                    "personId": 104318870,
+                    "roleId": 60317,
+                    "appointedOn": "2022-04-01",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 104318870,
+                        "name": "sani adamu",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1992,
+                        "birthMonth": 2,
+                        "birthDate": 28,
+                        "address": "ELBE CLOSE PANAMA STREET, MAITAMA, NO 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "84718735903",
+                        "documentType": "National ID Card",
+                        "email": "askada@gmail.com",
+                        "phone": "08075216239",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299000711,
+                    "companyId": 109043650,
+                    "personId": 104318870,
+                    "roleId": 60322,
+                    "appointedOn": "2022-04-01",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 104318870,
+                        "name": "sani adamu",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1992,
+                        "birthMonth": 2,
+                        "birthDate": 28,
+                        "address": "ELBE CLOSE PANAMA STREET, MAITAMA, NO 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "84718735903",
+                        "documentType": "National ID Card",
+                        "email": "askada@gmail.com",
+                        "phone": "08075216239",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60322,
+                        "name": "Secretary company",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary company"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299000712,
+                    "companyId": 109043650,
+                    "personId": 104318870,
+                    "roleId": 60323,
+                    "appointedOn": "2022-04-01",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1000000,
+                    "person": {
+                        "id": 104318870,
+                        "name": "sani adamu",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigeria",
+                        "birthYear": 1992,
+                        "birthMonth": 2,
+                        "birthDate": 28,
+                        "address": "ELBE CLOSE PANAMA STREET, MAITAMA, NO 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "84718735903",
+                        "documentType": "National ID Card",
+                        "email": "askada@gmail.com",
+                        "phone": "08075216239",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 365539672,
+                    "companyId": 109043650,
+                    "personId": 94167585,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 94167585,
+                        "name": "umar wunti ibrahim",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1980,
+                        "birthMonth": 6,
+                        "birthDate": 7,
+                        "address": "NO 326WUNTI STREET, BAUCHI, BAUCHI STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "3648066",
+                        "documentType": "National ID Card",
+                        "documentNumber": "11769169591",
+                        "email": "wuntyfptb.edu.gov.ng@gmail.com",
+                        "phone": "+234 806 562 0828",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "19 HOSPITAL LIMITED",
+                            "internationalNumber": "RC-1868293"
+                        },
+                        {
+                            "name": "CECA & DEMOORE ELECTRICAL ENGINEERING COMPANY LTD",
+                            "internationalNumber": "RC-1882631"
+                        },
+                        {
+                            "name": "LIFENET DIGITAL PRINTS LTD",
+                            "internationalNumber": "RC-1837262"
+                        },
+                        {
+                            "name": "VINEYARD MECHANICAL ENGINEERING CO. LTD",
+                            "internationalNumber": "RC-1894840"
+                        },
+                        {
+                            "name": "KAZARA INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1893082"
+                        },
+                        {
+                            "name": "KANTI INVESTMENT NIG LTD",
+                            "internationalNumber": "RC-1894438"
+                        },
+                        {
+                            "name": "GEO-TAG CONSULTING LTD",
+                            "internationalNumber": "RC-1899997"
+                        },
+                        {
+                            "name": "QUEENARSENAL STORES",
+                            "internationalNumber": "BN-3587303"
+                        },
+                        {
+                            "name": "PRIME CURE HEALTHCARE LIMITED",
+                            "internationalNumber": "RC-1802887"
+                        },
+                        {
+                            "name": "BANZIR STANDARD SYNERGY LIMITED",
+                            "internationalNumber": "RC-1912469"
+                        },
+                        {
+                            "name": "YAMOMA GLOBAL VENTURES LIMITED",
+                            "internationalNumber": "RC-1893067"
+                        },
+                        {
+                            "name": "AA INNOVATIONS CONCEPTS NIG. LTD",
+                            "internationalNumber": "RC-1893396"
+                        },
+                        {
+                            "name": "DE MAGNIFICIENT DJ STIKO ENTERTAINMENT",
+                            "internationalNumber": "BN-3563638"
+                        },
+                        {
+                            "name": "DAN GASKE INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1894955"
+                        },
+                        {
+                            "name": "JIBWIS SCIENCE SECONDARY SCHOOL BURRA",
+                            "internationalNumber": "BN-3580247"
+                        },
+                        {
+                            "name": "DIVDAN GLOBAL RESOURCES LTD",
+                            "internationalNumber": "RC-1868314"
+                        },
+                        {
+                            "name": "VEGRIS INTEGRATED SERVICES LTD",
+                            "internationalNumber": "RC-1896333"
+                        },
+                        {
+                            "name": "JEMIS BAKERY CONFECTIONERS AND CATERING SERVICES",
+                            "internationalNumber": "BN-3619255"
+                        },
+                        {
+                            "name": "KABAYA MINING & CONSTRUCTIONS LTD",
+                            "internationalNumber": "RC-1824487"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "soh**********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Uma* Wun** Ibr****",
+                    "contacts": {
+                        "email": [
+                            "wun***************************"
+                        ],
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ibr**** Uma* Wun**",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "wun***************************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "7",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 2,
+                "3": 1,
+                "null": 3
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

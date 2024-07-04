@@ -1,0 +1,484 @@
+[
+    {
+        "year": "2019",
+        "title": "EMMANUEL ARCHIBONG JAMES & CO - BN-3040163 - Nigeria",
+        "description": "EMMANUEL ARCHIBONG JAMES & CO Nigeria company, Company number: BN-3040163, Incorporation Date Dec 23, 2019;, Address: 39 GANA STREET, MAITAMA, ABUJA, FCT",
+        "company": {
+            "id": 62659137,
+            "name": "EMMANUEL ARCHIBONG JAMES & CO",
+            "internationalNumber": "BN-3040163",
+            "localNumber": "3040163",
+            "countryId": 24,
+            "dateCreated": "2019-12-23T00:00:00.000Z",
+            "createdAt": "2021-05-30T22:42:30.588Z",
+            "updatedAt": "2024-06-15T14:11:26.230Z",
+            "alternateNames": [],
+            "address": "39 GANA STREET, MAITAMA, ABUJA, FCT",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6175996",
+            "updatedAtSitemap": "2023-06-09T14:58:35.000Z",
+            "oldInternationalNumber": "3040163",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1250,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196965,
+                    "providerId": "199296",
+                    "providerName": "Business Support\/Development Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:46.48207+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 29429769,
+                    "address": "39 GANA STREET, MAITAMA, ABUJA, FCT",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "DIGITAL EDUTAINMENT SOLUTIONS",
+                            "internationalNumber": "BN-2858381"
+                        },
+                        {
+                            "name": "2URDOOR LIMITED",
+                            "internationalNumber": "RC-1578297"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 158252135,
+                    "companyId": 62659137,
+                    "personId": 66907729,
+                    "roleId": 60319,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66907729,
+                        "name": "james emmanuel archibong ",
+                        "countryId": 24,
+                        "occupation": "Businessman",
+                        "nationality": "Nigerian",
+                        "birthYear": 1970,
+                        "birthMonth": 12,
+                        "birthDate": 16,
+                        "address": "35 ABEOKUTA CLOSE, AREA 8, GARKI",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "5298202628501092",
+                        "documentType": "National ID Card",
+                        "email": "kokojames@rocketmail.com",
+                        "phone": "08037241111",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 236940903,
+                    "companyId": 62659137,
+                    "personId": 77502003,
+                    "roleId": 60320,
+                    "appointedOn": "2021-04-29",
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 77502003,
+                        "name": "olorunsaiye ola john",
+                        "countryId": 24,
+                        "address": "PLT. 2 ALGERIA STREET ZONE 3, WUSE, ABUJA",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "National Identification Number",
+                        "email": "olaolorunsaiyejnr2@yahoo.com",
+                        "phone": "2348038019823",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "HOUSE OF TREASURE VENTURE",
+                            "internationalNumber": "BN-3041968"
+                        },
+                        {
+                            "name": "PEACE EXCEL OPTIMUM SERVICES",
+                            "internationalNumber": "BN-3040589"
+                        },
+                        {
+                            "name": "EMEFOH FARMS AND AGRITECH.",
+                            "internationalNumber": "BN-3051806"
+                        },
+                        {
+                            "name": "GREEN FIELD VENTURE",
+                            "internationalNumber": "BN-3050782"
+                        },
+                        {
+                            "name": "CHIROMAWA GLOBAL VENTURES BATSARI",
+                            "internationalNumber": "BN-3040099"
+                        },
+                        {
+                            "name": "SPECIALTY AGRICULTURAL BIOTECHNOLOGY COMPANY",
+                            "internationalNumber": "BN-3069196"
+                        },
+                        {
+                            "name": "DE CROWN CATERERS AND EVENT MANAGERS",
+                            "internationalNumber": "BN-3041585"
+                        },
+                        {
+                            "name": "BABAN NANA ELECTRONICS",
+                            "internationalNumber": "BN-3285121"
+                        },
+                        {
+                            "name": "MCSAGE ENTERPRISES",
+                            "internationalNumber": "BN-3089040"
+                        },
+                        {
+                            "name": "kpenengerz ventures",
+                            "internationalNumber": "BN-3973634"
+                        },
+                        {
+                            "name": "JOANNA\u2019S SIGNATURES",
+                            "internationalNumber": "BN-3052457"
+                        },
+                        {
+                            "name": "ROYALSEDE KIDDIES ACADEMY",
+                            "internationalNumber": "BN-3041916"
+                        },
+                        {
+                            "name": "GINIA MEDICAL LABORATORY",
+                            "internationalNumber": "BN-3099999"
+                        },
+                        {
+                            "name": "DOJO FISH TRADING WORLD",
+                            "internationalNumber": "BN-3973619"
+                        },
+                        {
+                            "name": "PRO COLLEGE",
+                            "internationalNumber": "BN-3055002"
+                        },
+                        {
+                            "name": "IMPREZZ NIG ENTERPRISES",
+                            "internationalNumber": "BN-3041947"
+                        },
+                        {
+                            "name": "CHARLESVILLE PARADISO VENTURES",
+                            "internationalNumber": "BN-3047810"
+                        },
+                        {
+                            "name": "JASCOS UNISEX COLLECTIONS",
+                            "internationalNumber": "BN-3045035"
+                        },
+                        {
+                            "name": "DOUBLE CROWN NEEDLE & STITCHES",
+                            "internationalNumber": "BN-3045599"
+                        },
+                        {
+                            "name": "ADDY APPAREL",
+                            "internationalNumber": "BN-3056083"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 230406928,
+                    "companyId": 62659137,
+                    "personId": 78572959,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 78572959,
+                        "name": "obasi sandra ori",
+                        "countryId": 24,
+                        "address": "No. 13 Gambo Sawaba",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "sashaflix@yahoo.com",
+                        "phone": "2348122274460",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "REDSAND CITY INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1545611"
+                        },
+                        {
+                            "name": "NLECH\u00c1 CLOTHING",
+                            "internationalNumber": "BN-2918485"
+                        },
+                        {
+                            "name": "EDEM EKONG & CO",
+                            "internationalNumber": "BN-2636040"
+                        },
+                        {
+                            "name": "ADEMOLA ABIODUN PROPERTIES NIG LIMITED",
+                            "internationalNumber": "RC-1564904"
+                        },
+                        {
+                            "name": "EKUNDU NIGERIA LIMITED",
+                            "internationalNumber": "RC-1711806"
+                        },
+                        {
+                            "name": "MAUNNA CONSTRUCTION COMPANY LIMITED",
+                            "internationalNumber": "RC-1749078"
+                        },
+                        {
+                            "name": "PRISTINE AD LIMITED",
+                            "internationalNumber": "RC-1722243"
+                        },
+                        {
+                            "name": "MABBLE SWEET BUBBLES",
+                            "internationalNumber": "BN-2656722"
+                        },
+                        {
+                            "name": "RUKKEL EDUCARE LIMITED",
+                            "internationalNumber": "RC-1700330"
+                        },
+                        {
+                            "name": "PACIFIC PRISTINE LIMITED",
+                            "internationalNumber": "RC-1722287"
+                        },
+                        {
+                            "name": "ONE-MECH LIMITED",
+                            "internationalNumber": "RC-1564220"
+                        },
+                        {
+                            "name": "ATLANTIC PRISTINE LIMITED",
+                            "internationalNumber": "RC-1721358"
+                        },
+                        {
+                            "name": "BOOKBAG PUBLISHING LIMITED",
+                            "internationalNumber": "RC-1564219"
+                        },
+                        {
+                            "name": "SKY LAW ASSOCIATES",
+                            "internationalNumber": "BN-2866605"
+                        },
+                        {
+                            "name": "DELAWARE ENERGY LIMITED",
+                            "internationalNumber": "RC-1531402"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "San*** Ori Oba**",
+                    "contacts": {
+                        "email": [
+                            "sas****************"
+                        ],
+                        "phone": [
+                            "081********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "3",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 2
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

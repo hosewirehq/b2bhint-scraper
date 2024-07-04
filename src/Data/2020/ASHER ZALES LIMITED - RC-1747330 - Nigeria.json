@@ -1,0 +1,452 @@
+[
+    {
+        "year": "2020",
+        "title": "ASHER ZALES LIMITED - RC-1747330 - Nigeria",
+        "description": "ASHER ZALES LIMITED Nigeria company, Company number: RC-1747330, Incorporation Date 22 gru 2020;, Address: NO 1, VICTOR IKWENMESI STREET, IDADO ESTATE, LEKKI PHASE 2, LAGOS, LEKKI, LAGOS STATE",
+        "company": {
+            "id": 89519025,
+            "name": "ASHER ZALES LIMITED",
+            "internationalNumber": "RC-1747330",
+            "localNumber": "1747330",
+            "countryId": 24,
+            "dateCreated": "2020-12-22T00:00:00.000Z",
+            "createdAt": "2022-01-10T18:06:03.026Z",
+            "updatedAt": "2024-06-15T16:21:44.145Z",
+            "alternateNames": [],
+            "address": "NO 1, VICTOR IKWENMESI STREET, IDADO ESTATE, LEKKI PHASE 2, LAGOS, LEKKI, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "6632286",
+            "updatedAtSitemap": "2023-06-09T19:36:10.000Z",
+            "oldInternationalNumber": "1747330",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2292,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197460,
+                    "providerId": "143254",
+                    "providerName": "Travel agency, tour operator and other reservation services and related activities",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:12:36.787216+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91939777,
+                    "address": "NO 1, VICTOR IKWENMESI STREET, IDADO ESTATE, LEKKI PHASE 2, LAGOS, LEKKI, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 200189666,
+                    "companyId": 89519025,
+                    "personId": 80179503,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 100000,
+                    "person": {
+                        "id": 80179503,
+                        "name": "dokpesi magdalene usomine",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1954,
+                        "birthMonth": 5,
+                        "birthDate": 19,
+                        "address": "NO 24, OBAOLAGBEGI CRESCENT, OFF OSHUNTOKUN ROAD, OLD BODIJA ESTATE, IBADAN, OYO STATE.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A11182975",
+                        "documentType": "International Passport",
+                        "email": "magdalenedokpesi@gmail.com",
+                        "phone": "08037060708",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 200189665,
+                    "companyId": 89519025,
+                    "personId": 80179503,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 100000,
+                    "person": {
+                        "id": 80179503,
+                        "name": "dokpesi magdalene usomine",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1954,
+                        "birthMonth": 5,
+                        "birthDate": 19,
+                        "address": "NO 24, OBAOLAGBEGI CRESCENT, OFF OSHUNTOKUN ROAD, OLD BODIJA ESTATE, IBADAN, OYO STATE.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A11182975",
+                        "documentType": "International Passport",
+                        "email": "magdalenedokpesi@gmail.com",
+                        "phone": "08037060708",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 200189667,
+                    "companyId": 89519025,
+                    "personId": 80179504,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 100000,
+                    "person": {
+                        "id": 80179504,
+                        "name": "dokpesi oshiobugie ihapo",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1978,
+                        "birthMonth": 11,
+                        "birthDate": 28,
+                        "address": "NO 24, OBAOLAGBEGI CRESCENT, OFF OSHUNTOKUN ROAD, OLD BODIJA ESTATE, IBADAN, OYO STATE.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A08759813",
+                        "documentType": "International Passport",
+                        "email": "bugiep@gmail.com",
+                        "phone": "+447950548954",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 200189668,
+                    "companyId": 89519025,
+                    "personId": 80179504,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 100000,
+                    "person": {
+                        "id": 80179504,
+                        "name": "dokpesi oshiobugie ihapo",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1978,
+                        "birthMonth": 11,
+                        "birthDate": 28,
+                        "address": "NO 24, OBAOLAGBEGI CRESCENT, OFF OSHUNTOKUN ROAD, OLD BODIJA ESTATE, IBADAN, OYO STATE.",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A08759813",
+                        "documentType": "International Passport",
+                        "email": "bugiep@gmail.com",
+                        "phone": "+447950548954",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 200189675,
+                    "companyId": 89519025,
+                    "personId": 80179509,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 80179509,
+                        "name": "ezeh malachy uzor",
+                        "countryId": 24,
+                        "address": "NO 18C BEN OKAGBUE MBAH ST\/REET, LEKKI PHASE 1, LAGOS",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "macuzor@gmail.com",
+                        "phone": "08035105835",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "odo***************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Odu** Ebi**** Dok****",
+                    "contacts": {
+                        "email": [
+                            "odo***************"
+                        ],
+                        "phone": [
+                            "081********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "13",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 6,
+                "2": 6,
+                "null": 1
+            },
+            "personsWithRelatedCount": 0
+        }
+    }
+]

@@ -1,0 +1,342 @@
+[
+    {
+        "year": "2019",
+        "title": "IBRAVICS FABRICATION VENTURES - BN-3040001 - Nigeria",
+        "description": "IBRAVICS FABRICATION VENTURES Nigeria company, Company number: BN-3040001, Incorporation Date Dec 23, 2019;, Address: NO. 1, OPPOSITE ECWA CHURCH, MPAPE, FCT",
+        "company": {
+            "id": 62615844,
+            "name": "IBRAVICS FABRICATION VENTURES",
+            "internationalNumber": "BN-3040001",
+            "localNumber": "3040001",
+            "countryId": 24,
+            "dateCreated": "2019-12-23T00:00:00.000Z",
+            "createdAt": "2021-05-30T20:30:40.391Z",
+            "updatedAt": "2024-06-15T14:11:19.980Z",
+            "alternateNames": [],
+            "address": "NO. 1, OPPOSITE ECWA CHURCH, MPAPE, FCT",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6169725",
+            "updatedAtSitemap": "2023-06-09T14:59:06.000Z",
+            "oldInternationalNumber": "3040001",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1250,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 29384722,
+                    "address": "NO. 1, OPPOSITE ECWA CHURCH, MPAPE, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332592440,
+                    "companyId": 62615844,
+                    "personId": 66393710,
+                    "roleId": 114351,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66393710,
+                        "name": "grace ose inegbenebor ",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1977,
+                        "birthMonth": 3,
+                        "birthDate": 6,
+                        "address": "SUITE 61 NANDU PLAZA, ABUJA, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1715901",
+                        "documentType": "National ID Card",
+                        "documentNumber": "96639158710",
+                        "email": "graceose37@gmail.com",
+                        "phone": "+234 704 030 3772",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114351,
+                        "name": "Legal Practice ",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "THE PALACE WATCH MEDIA INTERNATIONAL LTD",
+                            "internationalNumber": "RC-1538482"
+                        },
+                        {
+                            "name": "FERGALI VENTURES",
+                            "internationalNumber": "BN-3482149"
+                        },
+                        {
+                            "name": "GIROT SYNERGY",
+                            "internationalNumber": "BN-3487980"
+                        },
+                        {
+                            "name": "ENERGY & POWER DYNAMICS LIMITED",
+                            "internationalNumber": "RC-1669292"
+                        },
+                        {
+                            "name": "RUZU HERBAL PRODUCTS AND SERVICES LIMITED ",
+                            "internationalNumber": "RC-1466226"
+                        },
+                        {
+                            "name": "DE-GRACY & DEDA INT'L ACADEMY",
+                            "internationalNumber": "BN-2660746"
+                        },
+                        {
+                            "name": "P V 1 ROYAL CONCEPTS",
+                            "internationalNumber": "BN-3064197"
+                        },
+                        {
+                            "name": "STAND SAFE SOCIETY AGAINST DRUGS AND SUBSTANCE ABUSE INITIATIVE",
+                            "internationalNumber": "IT-152560"
+                        },
+                        {
+                            "name": "PRESTIGE LUXURY SHELTER LIMITED",
+                            "internationalNumber": "RC-1825730"
+                        },
+                        {
+                            "name": "GHAFE OIL & GAS LTD",
+                            "internationalNumber": "RC-1404094"
+                        },
+                        {
+                            "name": "ROSSOSSAM ENTERPRISES",
+                            "internationalNumber": "BN-2488972"
+                        },
+                        {
+                            "name": "LEARNER'S JOVANDA WORLD ACADEMY",
+                            "internationalNumber": "BN-2585968"
+                        },
+                        {
+                            "name": "TJ ROYAL INT'L ACADEMY",
+                            "internationalNumber": "BN-3252699"
+                        },
+                        {
+                            "name": "GVC TRANSPORT SERVICES",
+                            "internationalNumber": "BN-3165732"
+                        },
+                        {
+                            "name": "JUDAVE MULTI RESOURCES LTD",
+                            "internationalNumber": "RC-1795376"
+                        },
+                        {
+                            "name": "TROPICANA LOUNGE LIMITED",
+                            "internationalNumber": "RC-1848102"
+                        },
+                        {
+                            "name": "GRANT MEDICAL & ALLIED SERVICES",
+                            "internationalNumber": "BN-3009661"
+                        },
+                        {
+                            "name": "HANIHIB VENTURES LIMITED",
+                            "internationalNumber": "RC-1717111"
+                        },
+                        {
+                            "name": "NOZZLES GRILLS SERVICES",
+                            "internationalNumber": "BN-2526299"
+                        },
+                        {
+                            "name": "SOVIEW RANKING INT'L",
+                            "internationalNumber": "BN-2803651"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Gra** Ose Ine********",
+                    "contacts": {
+                        "email": [
+                            "gra***************"
+                        ],
+                        "phone": [
+                            "080**********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Gra** Ose Ine******** ",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "gra***************"
+                        ]
+                    }
+                },
+                {
+                    "name": " Gra** Ine******** Ose",
+                    "contacts": {
+                        "email": [
+                            "gra*****************",
+                            "gra***************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 7,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

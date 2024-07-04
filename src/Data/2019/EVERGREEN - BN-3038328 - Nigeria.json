@@ -1,0 +1,332 @@
+[
+    {
+        "year": "2019",
+        "title": "EVERGREEN - BN-3038328 - Nigeria",
+        "description": "EVERGREEN Nigeria company, Company number: BN-3038328, Incorporation Date 19 d\u00e9c. 2019;, Address: HOUSE 18, OFF NEW YIDI ROAD, ILORIN, KWARA STATE",
+        "company": {
+            "id": 62517568,
+            "name": "EVERGREEN",
+            "internationalNumber": "BN-3038328",
+            "localNumber": "3038328",
+            "countryId": 24,
+            "dateCreated": "2019-12-19T00:00:00.000Z",
+            "createdAt": "2021-05-30T13:07:33.175Z",
+            "updatedAt": "2024-06-15T14:11:01.093Z",
+            "alternateNames": [],
+            "address": "HOUSE 18, OFF NEW YIDI ROAD, ILORIN, KWARA STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6151254",
+            "updatedAtSitemap": "2023-06-09T15:00:20.000Z",
+            "oldInternationalNumber": "3038328",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1520,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196948,
+                    "providerId": "199238",
+                    "providerName": "General Merchandise ",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:34.036647+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91471279,
+                    "address": "HOUSE 18, OFF NEW YIDI ROAD, ILORIN, KWARA STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332571208,
+                    "companyId": 62517568,
+                    "personId": 66393801,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66393801,
+                        "name": "margaret agwu",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1987,
+                        "birthMonth": 12,
+                        "birthDate": 14,
+                        "address": "170AIbrahim taiwo road, Ilorin, KWARA STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1677833",
+                        "documentType": "National ID Card",
+                        "documentNumber": "41908358151",
+                        "email": "agwumargaret@yahoo.com",
+                        "phone": "+234 803 492 7783",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "HILLVIEW EMPOWERMENT INITIATIVE",
+                            "internationalNumber": "IT-142439"
+                        },
+                        {
+                            "name": "PUKKA GLASS AND STAINLESS STEEL",
+                            "internationalNumber": "BN-3554562"
+                        },
+                        {
+                            "name": "ACHITECH SYSTEM",
+                            "internationalNumber": "BN-3585291"
+                        },
+                        {
+                            "name": "KEL-OSIDOT GLOBAL LIMITED",
+                            "internationalNumber": "RC-1644983"
+                        },
+                        {
+                            "name": "F.A DEBIS INTERNATIONAL",
+                            "internationalNumber": "BN-3230305"
+                        },
+                        {
+                            "name": "ZUG & ZIS VENTURES",
+                            "internationalNumber": "BN-3169524"
+                        },
+                        {
+                            "name": "HILLVIEW AVENTURA",
+                            "internationalNumber": "BN-3568183"
+                        },
+                        {
+                            "name": "MKM-ROVIC VENTURES",
+                            "internationalNumber": "BN-3288368"
+                        },
+                        {
+                            "name": "BIN-HASSAN VENTURE",
+                            "internationalNumber": "BN-3169522"
+                        },
+                        {
+                            "name": "ALL_KIDSRIDE",
+                            "internationalNumber": "BN-3483682"
+                        },
+                        {
+                            "name": "LASS AUTOMOTIVE",
+                            "internationalNumber": "BN-3379348"
+                        },
+                        {
+                            "name": "KENNYTEE COLLECTIONS",
+                            "internationalNumber": "BN-3552607"
+                        },
+                        {
+                            "name": "BEAUTELLO HAIR DISTRICT",
+                            "internationalNumber": "BN-3576075"
+                        },
+                        {
+                            "name": "NIEY VENTURES",
+                            "internationalNumber": "BN-3041438"
+                        },
+                        {
+                            "name": "ULTIMATE DELICIOUS LOAF",
+                            "internationalNumber": "BN-3021415"
+                        },
+                        {
+                            "name": "GODSTIME EXCEL CHOPBITE ENTERPRISES",
+                            "internationalNumber": "BN-3358272"
+                        },
+                        {
+                            "name": "BASHIFAT ENTERPRISES",
+                            "internationalNumber": "BN-3169520"
+                        },
+                        {
+                            "name": "SLEEK 'N' BEYOND BODY ESSENCE",
+                            "internationalNumber": "BN-3215895"
+                        },
+                        {
+                            "name": "EM-ELLA BEAUTY PALACE",
+                            "internationalNumber": "BN-3560479"
+                        },
+                        {
+                            "name": "SEIVARI DELICASIES ENTERPRISES",
+                            "internationalNumber": "BN-3312653"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Mar***** Agw*",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "agw*******************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Agw* Mar*****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "agw*******************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

@@ -1,0 +1,334 @@
+[
+    {
+        "year": "2019",
+        "title": "DOJA RIDE MOTORS LIMITED - RC-1643171 - Nigeria",
+        "description": "DOJA RIDE MOTORS LIMITED Nigeria company, Company number: RC-1643171, Incorporation Date 19 de dic de 2019;, Address: 123, ABA PORT-HARCOURT EXPRESSWAY, PORT-HARCOURT, RIVERS STATE",
+        "company": {
+            "id": 60346725,
+            "name": "DOJA RIDE MOTORS LIMITED",
+            "internationalNumber": "RC-1643171",
+            "localNumber": "1643171",
+            "countryId": 24,
+            "dateCreated": "2019-12-19T00:00:00.000Z",
+            "createdAt": "2021-05-13T19:21:20.197Z",
+            "updatedAt": "2024-06-15T14:08:25.621Z",
+            "alternateNames": [],
+            "address": "123, ABA PORT-HARCOURT EXPRESSWAY, PORT-HARCOURT, RIVERS STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "10000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "10000000",
+            "historicalNames": [],
+            "providerId": "6016575",
+            "updatedAtSitemap": "2023-06-09T15:28:02.000Z",
+            "oldInternationalNumber": "1643171",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1520,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196924,
+                    "providerId": "199237",
+                    "providerName": "General Contracts",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:13.437675+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91357969,
+                    "address": "123, ABA PORT-HARCOURT EXPRESSWAY, PORT-HARCOURT, RIVERS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332465592,
+                    "companyId": 60346725,
+                    "personId": 101174068,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 101174068,
+                        "name": "solomon oyakhilome uduebor",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1979,
+                        "birthMonth": 4,
+                        "birthDate": 14,
+                        "address": "Block 17, flat 4, Area 10 Garki, abuja, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1309059",
+                        "documentType": "National ID Card",
+                        "documentNumber": "26671043616",
+                        "email": "solo4ever2007@yahoo.com",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "JAHED ENGINEERING LIMITED",
+                            "internationalNumber": "RC-1748917"
+                        },
+                        {
+                            "name": "BAN-FLEX GLOBAL SERVICES LTD",
+                            "internationalNumber": "RC-1816721"
+                        },
+                        {
+                            "name": "SAMEZ INVESMENT NIGERIA LIMITED",
+                            "internationalNumber": "RC-111926"
+                        },
+                        {
+                            "name": "PROSPEROUS CHRISTIAN INT'L CENTRE",
+                            "internationalNumber": "IT-148742"
+                        },
+                        {
+                            "name": "IGBO LANGUAGE ONLINE NIG LTD",
+                            "internationalNumber": "RC-1561551"
+                        },
+                        {
+                            "name": "THE GREAT FGGC OSHA 2010 ALUMNI",
+                            "internationalNumber": "IT-188910"
+                        },
+                        {
+                            "name": "GENESIS MIND FOUNDATION",
+                            "internationalNumber": "IT-153456"
+                        },
+                        {
+                            "name": "PRECIOUS DISTILLERS VENTURES",
+                            "internationalNumber": "BN-2524782"
+                        },
+                        {
+                            "name": "DE GRAFT MEDICALS NIGERIA LTD",
+                            "internationalNumber": "RC-1624842"
+                        },
+                        {
+                            "name": "FOOD EQUIPMENT AND ENGINEERING COMPANY LIMITED",
+                            "internationalNumber": "RC-29120"
+                        },
+                        {
+                            "name": "LOG CONCEPTS DESIGNS AND INNOVATION",
+                            "internationalNumber": "BN-3084235"
+                        },
+                        {
+                            "name": "ZE-COM GLOBAL RESOURCES NIG LTD",
+                            "internationalNumber": "RC-1628967"
+                        },
+                        {
+                            "name": "MIBISAK NIG. ENTERPRISES",
+                            "internationalNumber": "BN-3005683"
+                        },
+                        {
+                            "name": "F. ALUYA GENERAL ENTERPRISES & CONSTRUCTION LTD",
+                            "internationalNumber": "RC-1623035"
+                        },
+                        {
+                            "name": "GKINGDOM PURPOSE FOUNDATION LIBRARY",
+                            "internationalNumber": "IT-150370"
+                        },
+                        {
+                            "name": "JUSTINEHAIR CASTLE",
+                            "internationalNumber": "BN-3340657"
+                        },
+                        {
+                            "name": "APAKARI LUXURY CITIZENSHIP AND TRAVELS LIMITED",
+                            "internationalNumber": "RC-1622427"
+                        },
+                        {
+                            "name": "FORTUNE GATE PROPERTY AND INVESTMENT LTD",
+                            "internationalNumber": "RC-1624779"
+                        },
+                        {
+                            "name": "SHARUWALAWANI AND SONS NIG LTD",
+                            "internationalNumber": "RC-1764789"
+                        },
+                        {
+                            "name": "SKYLAR JOLESON VENTURES",
+                            "internationalNumber": "BN-2980475"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "dor*******************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Sol**** Oya******* Udu****",
+                    "contacts": {
+                        "email": [
+                            "sol********************"
+                        ],
+                        "phone": [
+                            "234**********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Oya******* Sol**** Udu****",
+                    "contacts": {
+                        "email": [
+                            "sol********************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

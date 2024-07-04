@@ -1,0 +1,317 @@
+[
+    {
+        "year": "2018",
+        "title": "C.A.D.A. ENTERPRISES - BN-2746175 - Nigeria",
+        "description": "C.A.D.A. ENTERPRISES Nigeria company, Company number: BN-2746175, Incorporation Date 31 d\u00e9c. 2018;, Address: G3 UNIT 2 LEKKI GARDENS, AJAH, LAGOS STATE",
+        "company": {
+            "id": 62086384,
+            "name": "C.A.D.A. ENTERPRISES",
+            "internationalNumber": "BN-2746175",
+            "localNumber": "2746175",
+            "countryId": 24,
+            "dateCreated": "2018-12-31T00:00:00.000Z",
+            "createdAt": "2021-05-28T04:34:22.343Z",
+            "updatedAt": "2024-06-15T15:15:21.406Z",
+            "alternateNames": [],
+            "address": "G3 UNIT 2 LEKKI GARDENS, AJAH, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5174504",
+            "updatedAtSitemap": "2023-06-09T18:00:39.000Z",
+            "oldInternationalNumber": "2746175",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1948,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196996,
+                    "providerId": "199234",
+                    "providerName": "Fashion Designing\/ Tailoring Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:01:15.243055+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97859383,
+                    "address": "G3 UNIT 2 LEKKI GARDENS, AJAH, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 348453452,
+                    "companyId": 62086384,
+                    "personId": 67771454,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67771454,
+                        "name": "olotu omosigho",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1981,
+                        "birthMonth": 3,
+                        "birthDate": 16,
+                        "address": "71MODUPE YOUNG STREET, THOMAS ESTATE, AJAH, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2105639",
+                        "documentType": "Driver's License",
+                        "documentNumber": "EKY03609AB01",
+                        "email": "amazingolotu@yahoo.com",
+                        "phone": "+234 703 490 6881",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "SUNNY FASCO ELECT CO. LTD",
+                            "internationalNumber": "RC-171157"
+                        },
+                        {
+                            "name": "WESLEY FARMS AND MACHINERIES",
+                            "internationalNumber": "BN-3327551"
+                        },
+                        {
+                            "name": "ASHBLISS SCHOOLS",
+                            "internationalNumber": "BN-3491561"
+                        },
+                        {
+                            "name": "HEALTHCARE AND SKINCARE ESSENTIALS STORE",
+                            "internationalNumber": "BN-3237794"
+                        },
+                        {
+                            "name": "MODERN EDGE ENERGY SERVICES",
+                            "internationalNumber": "BN-3408726"
+                        },
+                        {
+                            "name": "TIDY CULTURE LTD",
+                            "internationalNumber": "RC-1700445"
+                        },
+                        {
+                            "name": "FINEDGE SERVICES",
+                            "internationalNumber": "BN-3178636"
+                        },
+                        {
+                            "name": "LEKKI FASHION ARCADE",
+                            "internationalNumber": "BN-2708370"
+                        },
+                        {
+                            "name": "PHEELINKS CLEANING SERVICES",
+                            "internationalNumber": "BN-3543892"
+                        },
+                        {
+                            "name": "VOGUE BY OMA Y",
+                            "internationalNumber": "BN-3387243"
+                        },
+                        {
+                            "name": "MICB PHARM VENTURES",
+                            "internationalNumber": "BN-2702701"
+                        },
+                        {
+                            "name": "KITAN CLOTHIER",
+                            "internationalNumber": "BN-2651688"
+                        },
+                        {
+                            "name": "SBA HOME ESSENTIALS LTD",
+                            "internationalNumber": "RC-1568430"
+                        },
+                        {
+                            "name": "BROOKS LAW FIRM",
+                            "internationalNumber": "BN-3413413"
+                        },
+                        {
+                            "name": "GRAND IMPERIAL LOGISTICS",
+                            "internationalNumber": "BN-3379119"
+                        },
+                        {
+                            "name": "GOSHEN EYE CENTRE LIMITED",
+                            "internationalNumber": "RC-1845486"
+                        },
+                        {
+                            "name": "WIZI DIGITAL MEDIA MARKETING LIMITED",
+                            "internationalNumber": "RC-1642548"
+                        },
+                        {
+                            "name": "FEMASS GIFTED HANDS WORLD",
+                            "internationalNumber": "BN-3436269"
+                        },
+                        {
+                            "name": "EMT RECORDINGS LTD",
+                            "internationalNumber": "RC-1513632"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Olo** Omo*****",
+                    "contacts": {
+                        "email": [
+                            "ama*******************"
+                        ],
+                        "phone": [
+                            "+23**************",
+                            "070********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 3,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

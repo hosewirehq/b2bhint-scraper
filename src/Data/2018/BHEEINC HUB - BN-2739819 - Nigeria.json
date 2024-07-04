@@ -1,0 +1,332 @@
+[
+    {
+        "year": "2018",
+        "title": "BHEEINC HUB - BN-2739819 - Nigeria",
+        "description": "BHEEINC HUB Nigeria company, Company number: BN-2739819, Incorporation Date Dec 24, 2018;, Address: 6, OTEDOLA CRESCENT, OFF JOEL OGUNAIKE STREET, IKEJA G.R.A, LAGOS STATE",
+        "company": {
+            "id": 62050212,
+            "name": "BHEEINC HUB",
+            "internationalNumber": "BN-2739819",
+            "localNumber": "2739819",
+            "countryId": 24,
+            "dateCreated": "2018-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-28T01:26:21.902Z",
+            "updatedAt": "2024-06-15T15:14:57.575Z",
+            "alternateNames": [],
+            "address": "6, OTEDOLA CRESCENT, OFF JOEL OGUNAIKE STREET, IKEJA G.R.A, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99332,
+            "historicalNames": [],
+            "providerId": "5165460",
+            "updatedAtSitemap": "2023-06-09T18:01:28.000Z",
+            "oldInternationalNumber": "2739819",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99332,
+                "type": "Business name - partnership",
+                "countryId": 24,
+                "translation": {
+                    "en": "Partnership"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2613,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97793414,
+                    "address": "6, OTEDOLA CRESCENT, OFF JOEL OGUNAIKE STREET, IKEJA G.R.A, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 348123829,
+                    "companyId": 62050212,
+                    "personId": 66495977,
+                    "roleId": 60318,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66495977,
+                        "name": "adekunle damilola adelowo",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1989,
+                        "birthMonth": 12,
+                        "birthDate": 6,
+                        "address": "233IKORODU ROAD, ILUPEJU, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1949082",
+                        "documentType": "Driver's License",
+                        "documentNumber": "GGE45022AA20",
+                        "email": "cliste.att@gmail.com",
+                        "phone": "+234 813 304 0294",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60318,
+                        "name": "Lawyer",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Lawyer"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "MACPETAL INTEGRATED SERVICES",
+                            "internationalNumber": "BN-2816386"
+                        },
+                        {
+                            "name": "AGUDA CONTINENTAL AUTOS LIMITED",
+                            "internationalNumber": "RC-1500109"
+                        },
+                        {
+                            "name": "FASTOLOGISTIQUE SERVICES",
+                            "internationalNumber": "BN-2799082"
+                        },
+                        {
+                            "name": "SHOPWITHBEEZ REPUBLIC",
+                            "internationalNumber": "BN-2742799"
+                        },
+                        {
+                            "name": "GEMONYX BEAUTY NIGERIA LIMITED",
+                            "internationalNumber": "RC-1472684"
+                        },
+                        {
+                            "name": "DEGRAPEVINE MULTISERVICES LIMITED",
+                            "internationalNumber": "RC-1499971"
+                        },
+                        {
+                            "name": "DELSUKARO RESOURCES LIMITED",
+                            "internationalNumber": "RC-1501763"
+                        },
+                        {
+                            "name": "GLOBETROT FACILITATION SERVICES LIMITED",
+                            "internationalNumber": "RC-1630395"
+                        },
+                        {
+                            "name": "SNABB COURIER LOGISTICS SERVICES",
+                            "internationalNumber": "BN-2987778"
+                        },
+                        {
+                            "name": "ICE CUBE DRINKS AND ENTERTAINMENT LIMITED",
+                            "internationalNumber": "RC-1791817"
+                        },
+                        {
+                            "name": "PRIMOFINESSE CONSULTING",
+                            "internationalNumber": "BN-3196093"
+                        },
+                        {
+                            "name": "D-MODISH LOGISTICS SERVICES",
+                            "internationalNumber": "BN-3135456"
+                        },
+                        {
+                            "name": "STRALOGICS GLOBAL LIMITED",
+                            "internationalNumber": "RC-1900091"
+                        },
+                        {
+                            "name": "OKUNADE BABS MULERO FILM PRODUCTION",
+                            "internationalNumber": "BN-2657675"
+                        },
+                        {
+                            "name": "OGOMIDE-JONES ENTERPRISES",
+                            "internationalNumber": "BN-2823668"
+                        },
+                        {
+                            "name": "ZIZOE ESTHES",
+                            "internationalNumber": "BN-3012552"
+                        },
+                        {
+                            "name": "KLTEE ENTERPRISES",
+                            "internationalNumber": "BN-3263913"
+                        },
+                        {
+                            "name": "KREEM PASTRIES LIMITED",
+                            "internationalNumber": "RC-1500021"
+                        },
+                        {
+                            "name": "SERALAKE INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1781875"
+                        },
+                        {
+                            "name": "BAY-LINE SERVICES",
+                            "internationalNumber": "BN-3386807"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Ade***** Dam***** Ade****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "081********"
+                        ],
+                        "email": [
+                            "cli*****************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ade***** Ade**** Dam*****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************"
+                        ],
+                        "email": [
+                            "cli*****************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

@@ -1,0 +1,337 @@
+[
+    {
+        "year": "2019",
+        "title": "DAMIAL RESOURCES - BN-3041693 - Nigeria",
+        "description": "DAMIAL RESOURCES Nigeria company, Company number: BN-3041693, Incorporation Date 30 d\u00e9c. 2019;, Address: NO. 127 FAULKS ROAD, ABA, ABIA STATE",
+        "company": {
+            "id": 61683437,
+            "name": "DAMIAL RESOURCES",
+            "internationalNumber": "BN-3041693",
+            "localNumber": "3041693",
+            "countryId": 24,
+            "dateCreated": "2019-12-30T00:00:00.000Z",
+            "createdAt": "2021-05-25T22:44:57.570Z",
+            "updatedAt": "2024-06-15T15:28:19.478Z",
+            "alternateNames": [],
+            "address": "NO. 127 FAULKS ROAD, ABA, ABIA STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5923201",
+            "updatedAtSitemap": "2024-01-01T16:09:45.000Z",
+            "oldInternationalNumber": "3041693",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 620,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196924,
+                    "providerId": "199237",
+                    "providerName": "General Contracts",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:13.437675+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91310946,
+                    "address": "NO. 127 FAULKS ROAD, ABA, ABIA STATE",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "ALMIDA GLOBAL RESOURCES",
+                            "internationalNumber": "BN-2985162"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 332418335,
+                    "companyId": 61683437,
+                    "personId": 116744527,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 116744527,
+                        "name": "ordu james",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1974,
+                        "birthMonth": 7,
+                        "birthDate": 11,
+                        "address": "NO.14 AZIKIWE STREET MILE 2 DIOBU, PORT HARCOURT, RIVERS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2631740",
+                        "documentType": "National ID Card",
+                        "documentNumber": "23783289065",
+                        "email": "bar.ordujames@gmail.com",
+                        "phone": "+234 706 808 8120",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "PATJENNIX RESOURCES",
+                            "internationalNumber": "BN-2986278"
+                        },
+                        {
+                            "name": "NDONI DISTRICT INDEGINOUS ARTISANS ASSOCIATION",
+                            "internationalNumber": "IT-151546"
+                        },
+                        {
+                            "name": "DEBEST SUNSKIL GLOBAL VENTURES LIMITED",
+                            "internationalNumber": "RC-1638069"
+                        },
+                        {
+                            "name": "EKECHRIS INVESTMENT LTD",
+                            "internationalNumber": "RC-1887452"
+                        },
+                        {
+                            "name": "MUSA WYTE FASHION DESIGNER",
+                            "internationalNumber": "BN-2981827"
+                        },
+                        {
+                            "name": "OMUACHIM AND SONS ENTERPRISE",
+                            "internationalNumber": "BN-2994862"
+                        },
+                        {
+                            "name": "JOHN POSI INTEGRATED SERVICES",
+                            "internationalNumber": "BN-3513298"
+                        },
+                        {
+                            "name": "NNEM OBUNODI'S ENTERPRISES",
+                            "internationalNumber": "BN-2994453"
+                        },
+                        {
+                            "name": "CHIGOZILEM INTEGRATED SERVICES",
+                            "internationalNumber": "BN-2999861"
+                        },
+                        {
+                            "name": "IMUMECHEN SONS AND COMPANY",
+                            "internationalNumber": "BN-3005657"
+                        },
+                        {
+                            "name": "40GGM ENVIRONMENTAL SERVICES LTD",
+                            "internationalNumber": "RC-1633610"
+                        },
+                        {
+                            "name": "DAVEZUBBY INTER - BIZ RESOURCES",
+                            "internationalNumber": "BN-3005353"
+                        },
+                        {
+                            "name": "LUJEVEE INVESTMENT COMPANY NIG LTD",
+                            "internationalNumber": "RC-1624092"
+                        },
+                        {
+                            "name": "UMOH & SON'S FOOD STUFF",
+                            "internationalNumber": "BN-2994448"
+                        },
+                        {
+                            "name": "DMIRA GLOBAL CONSULTING SERVICES LTD",
+                            "internationalNumber": "RC-1887568"
+                        },
+                        {
+                            "name": "EMMA - STAR INTEGRATED BUSINESS",
+                            "internationalNumber": "BN-3163481"
+                        },
+                        {
+                            "name": "THE LIVINGROCK OUTREACH WORLDWIDE",
+                            "internationalNumber": "IT-149386"
+                        },
+                        {
+                            "name": "TERRA MULTA ENTERPRISE SOLUTIONS LTD",
+                            "internationalNumber": "RC-1667495"
+                        },
+                        {
+                            "name": "GOLDLLINS GLOBAL SERVICES",
+                            "internationalNumber": "BN-3000046"
+                        },
+                        {
+                            "name": "KUDOSCARE MEDICINE AND STORES",
+                            "internationalNumber": "BN-3359806"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Ord* Jam**",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "070********"
+                        ],
+                        "email": [
+                            "bar********************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Jam** Ord*",
+                    "contacts": {
+                        "email": [
+                            "bar********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

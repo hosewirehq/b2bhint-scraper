@@ -1,0 +1,508 @@
+[
+    {
+        "year": "2022",
+        "title": "OBI ORA REAL WORLD - BN-3621424 - Nigeria",
+        "description": "OBI ORA REAL WORLD Nigeria company, Company number: BN-3621424, Incorporation Date Mar 30, 2022;, Address: NO 2 ORLU STREET, ABAKPA NIKE, ENUGU, ENUGU STATE",
+        "company": {
+            "id": 108846081,
+            "name": "OBI ORA REAL WORLD",
+            "internationalNumber": "BN-3621424",
+            "localNumber": "3621424",
+            "countryId": 24,
+            "dateCreated": "2022-03-30T00:00:00.000Z",
+            "createdAt": "2022-04-13T00:59:31.857Z",
+            "updatedAt": "2024-06-15T15:36:58.462Z",
+            "alternateNames": [],
+            "address": "NO 2 ORLU STREET, ABAKPA NIKE, ENUGU, ENUGU STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "7834865",
+            "updatedAtSitemap": "2023-06-09T16:35:42.000Z",
+            "oldInternationalNumber": "3621424",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 771,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [],
+            "addresses": [
+                {
+                    "id": 102189513,
+                    "address": "NO 2 ORLU STREET, ABAKPA NIKE, ENUGU, ENUGU STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299503367,
+                    "companyId": 108846081,
+                    "personId": 116282338,
+                    "roleId": 60319,
+                    "appointedOn": "2022-03-30",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 116282338,
+                        "name": "okeh innocent uchechukwu",
+                        "countryId": 24,
+                        "occupation": "Business ",
+                        "nationality": "Nigeria",
+                        "birthYear": 1978,
+                        "birthMonth": 8,
+                        "birthDate": 28,
+                        "address": "ORLU STREET, OBINNAGU ROAD ABAKPA NIKE, NO 2",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "L\/NOENU57133AA02",
+                        "documentType": "Driver's License",
+                        "email": "innokeh3@gmail.com",
+                        "phone": "08038907630",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299503368,
+                    "companyId": 108846081,
+                    "personId": 104346635,
+                    "roleId": 60320,
+                    "appointedOn": "2022-03-30",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 104346635,
+                        "name": "eze enyinna onwukadike",
+                        "countryId": 24,
+                        "occupation": "Legal practice",
+                        "nationality": "Nigeria",
+                        "birthYear": 1989,
+                        "birthMonth": 7,
+                        "birthDate": 23,
+                        "address": "EDEM NRU JUNCTION, NO. 3",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "NSK01071AA01",
+                        "documentType": "Driver's License",
+                        "email": "godsloveenyi@gmail.com",
+                        "phone": "08066174678",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "CHIMA NWODO & SON'S ENTERPRISES",
+                            "internationalNumber": "BN-3610357"
+                        },
+                        {
+                            "name": "NIKKY-ANN GLOBAL VENTURES",
+                            "internationalNumber": "BN-3605229"
+                        },
+                        {
+                            "name": "CHUKWUEZE JUDE AGRO PROCESSING AND ALLIED VENTURE",
+                            "internationalNumber": "BN-3606157"
+                        },
+                        {
+                            "name": "NJIKOKA VENTURES",
+                            "internationalNumber": "BN-3595071"
+                        },
+                        {
+                            "name": "MAGICAL EBONY FINGERS VENTURES",
+                            "internationalNumber": "BN-3598010"
+                        },
+                        {
+                            "name": "GLOWRITE BOOK PRAT VENTURES",
+                            "internationalNumber": "BN-3598249"
+                        },
+                        {
+                            "name": "AGATEX STITCHES",
+                            "internationalNumber": "BN-3596900"
+                        },
+                        {
+                            "name": "MONDAY-MAYOR AUTOMOBILE",
+                            "internationalNumber": "BN-3589834"
+                        },
+                        {
+                            "name": "MR MORIS COMMUNICATION",
+                            "internationalNumber": "BN-3597995"
+                        },
+                        {
+                            "name": "UGBO ASSOCIATE",
+                            "internationalNumber": "BN-3604423"
+                        },
+                        {
+                            "name": "MANARISIA DIAMOND CATERING & SERVICES",
+                            "internationalNumber": "BN-3595269"
+                        },
+                        {
+                            "name": "FCC DE RECIPE WORLD",
+                            "internationalNumber": "BN-3615607"
+                        },
+                        {
+                            "name": "FRESHVILLE FOODS GLOBAL RESOURCES",
+                            "internationalNumber": "BN-3602508"
+                        },
+                        {
+                            "name": "ELBRAVAM GLOBAL",
+                            "internationalNumber": "BN-3609970"
+                        },
+                        {
+                            "name": "NYE-NYE PEPSCO FOODS SERVICES",
+                            "internationalNumber": "BN-3609971"
+                        },
+                        {
+                            "name": "IFEANYI V.I.P RESOURCES",
+                            "internationalNumber": "BN-3604974"
+                        },
+                        {
+                            "name": "OSSYLINA COMMUNICATION VENTURE",
+                            "internationalNumber": "BN-3592676"
+                        },
+                        {
+                            "name": "GOEM GLOBAL SERVICES",
+                            "internationalNumber": "BN-3594107"
+                        },
+                        {
+                            "name": "DEAL RENEWABLE ENERGY SERVICES",
+                            "internationalNumber": "BN-3609891"
+                        },
+                        {
+                            "name": "NALUX PAINT VENTURE",
+                            "internationalNumber": "BN-3598700"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 365667452,
+                    "companyId": 108846081,
+                    "personId": 66135078,
+                    "roleId": 114349,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66135078,
+                        "name": "enyinna onwukadike eze",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1989,
+                        "birthMonth": 7,
+                        "birthDate": 23,
+                        "address": "NO. 3EDEM NRU JUNCTION, NSUKKA, ENUGU STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2068342",
+                        "documentType": "Driver's License",
+                        "documentNumber": "NSK01071AA01",
+                        "email": "godsloveenyi@gmail.com",
+                        "phone": "+234 806 617 4678",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114349,
+                        "name": "Legal Practice",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practice"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "MARYCLINT ENTERPRISES",
+                            "internationalNumber": "BN-3340046"
+                        },
+                        {
+                            "name": "EMERIEKE AGRO FARMS",
+                            "internationalNumber": "BN-2987483"
+                        },
+                        {
+                            "name": "APEX FINISHER FANTASTIC GLOBAL SERVICES",
+                            "internationalNumber": "BN-3441497"
+                        },
+                        {
+                            "name": "ROCKYTECH ENGINEERING SERVICES",
+                            "internationalNumber": "BN-3435355"
+                        },
+                        {
+                            "name": "SYLVIA'S SCENT ENTERPRISES",
+                            "internationalNumber": "BN-3002534"
+                        },
+                        {
+                            "name": "J . ROCKSON CONTRACTORS NIG",
+                            "internationalNumber": "BN-3061001"
+                        },
+                        {
+                            "name": "THEO'S FAVOUR MULTIPURPOSE FARM",
+                            "internationalNumber": "BN-2991202"
+                        },
+                        {
+                            "name": "ODENIGWE DE GREAT INTERNATIONAL",
+                            "internationalNumber": "BN-3163134"
+                        },
+                        {
+                            "name": "FABTAB ENTERPRISE",
+                            "internationalNumber": "BN-3027485"
+                        },
+                        {
+                            "name": "KOKO LUXURY INTERIORS AND BEDDINGS ",
+                            "internationalNumber": "BN-3301750"
+                        },
+                        {
+                            "name": "LIVING TIGRIS FARMS",
+                            "internationalNumber": "BN-3156208"
+                        },
+                        {
+                            "name": "HEOBIC AUTOMOBILE VENTURES",
+                            "internationalNumber": "BN-3566328"
+                        },
+                        {
+                            "name": "CHUKWUEBUKA SAMUEL GENERAL SERVICES",
+                            "internationalNumber": "BN-3517652"
+                        },
+                        {
+                            "name": "PREMANO GENERAL ELECTRIC",
+                            "internationalNumber": "BN-2970399"
+                        },
+                        {
+                            "name": "UMUEZEOCHA FARMS",
+                            "internationalNumber": "BN-3402376"
+                        },
+                        {
+                            "name": "OBYIKE ENTERPRISES",
+                            "internationalNumber": "BN-2976314"
+                        },
+                        {
+                            "name": "G & G GLOBAL TRADE",
+                            "internationalNumber": "BN-3267797"
+                        },
+                        {
+                            "name": "NICHOLAS ELECTRICAL WORLD",
+                            "internationalNumber": "BN-2975450"
+                        },
+                        {
+                            "name": "LIBERTY WOOD",
+                            "internationalNumber": "BN-3429230"
+                        },
+                        {
+                            "name": "MITBEC CONCEPTS",
+                            "internationalNumber": "BN-2992247"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "inn***************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Eny**** Onw******* Eze",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "god*******************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Eny**** Eze Onw*******",
+                    "contacts": {
+                        "email": [
+                            "god*******************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "3",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 1,
+                "null": 1
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

@@ -1,0 +1,592 @@
+[
+    {
+        "year": "2019",
+        "title": "ALHUB HOSPITAL LIMITED - RC-1644556 - Nigeria",
+        "description": "ALHUB HOSPITAL LIMITED Nigeria company, Company number: RC-1644556, Incorporation Date 27. pro 2019;, Address: MAKAMA NEW EXTENSION, BAUCHI, BAUCHI STATE",
+        "company": {
+            "id": 60570350,
+            "name": "ALHUB HOSPITAL LIMITED",
+            "internationalNumber": "RC-1644556",
+            "localNumber": "1644556",
+            "countryId": 24,
+            "dateCreated": "2019-12-27T00:00:00.000Z",
+            "createdAt": "2021-05-14T14:13:55.337Z",
+            "updatedAt": "2024-06-15T14:09:17.348Z",
+            "alternateNames": [],
+            "address": "MAKAMA NEW EXTENSION, BAUCHI, BAUCHI STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "providerId": "6083243",
+            "updatedAtSitemap": "2023-06-09T15:25:54.000Z",
+            "oldInternationalNumber": "1644556",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 574,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197328,
+                    "providerId": "199205",
+                    "providerName": "Medical Practice and Consultancy",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:08:56.608756+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 91405615,
+                    "address": "MAKAMA NEW EXTENSION, BAUCHI, BAUCHI STATE",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "WASILA TEXTILES AND FABRICS ENTERPRISES",
+                            "internationalNumber": "BN-4075923"
+                        },
+                        {
+                            "name": "ASASUDDEEN SCIENCE ACADEMY",
+                            "internationalNumber": "BN-3206256"
+                        },
+                        {
+                            "name": "WAMSFA GLOBAL VENTURES",
+                            "internationalNumber": "BN-4069926"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 241436221,
+                    "companyId": 60570350,
+                    "personId": 66155074,
+                    "roleId": 60328,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66155074,
+                        "name": "abdulhameed dahiru",
+                        "countryId": 24,
+                        "address": "BAUSHE CHAMBERS FEDERAL MORTGAGE BANK BUILDING BAUCHI",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "baushechambers@yahoo.com",
+                        "phone": "08067382108",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60328,
+                        "name": "Deponent",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Deponent"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "A Y M LAMIDO INVESTMENT RESOURCES LTD",
+                            "internationalNumber": "RC-1550046"
+                        },
+                        {
+                            "name": "ASABCO MULTIBIZ CONCEPT LTD",
+                            "internationalNumber": "RC-1634075"
+                        },
+                        {
+                            "name": "BUGERE STANDARD PHARMACEUTICAL COMPANY LTD",
+                            "internationalNumber": "RC-1644463"
+                        },
+                        {
+                            "name": "MALINA MULTIBIZ CONCEPT LTD",
+                            "internationalNumber": "RC-1625608"
+                        },
+                        {
+                            "name": "KIRFI PHARMACY LTD",
+                            "internationalNumber": "RC-1644462"
+                        },
+                        {
+                            "name": "ABU MUBASHIR INTEGRATED SERVICES LTD",
+                            "internationalNumber": "RC-1645861"
+                        },
+                        {
+                            "name": "AHMZAK CONSOLIDATED ENERGY LTD ",
+                            "internationalNumber": "RC-1680590"
+                        },
+                        {
+                            "name": "ANNOOR MULTIBIZ CONCEPT LIMITED",
+                            "internationalNumber": "RC-1651233"
+                        },
+                        {
+                            "name": "AB-99 AND COMPANY NIG LTD",
+                            "internationalNumber": "RC-1570497"
+                        },
+                        {
+                            "name": "MALINA ENGINEERING & CONSTRUCTION CO LTD",
+                            "internationalNumber": "RC-1625609"
+                        },
+                        {
+                            "name": "RUSIYA AL-YAUM ENTERPRISES NIG LTD",
+                            "internationalNumber": "RC-1558259"
+                        },
+                        {
+                            "name": "TAWAJIN ALKHAIR INTEGRATED FARMS LTD",
+                            "internationalNumber": "RC-1647253"
+                        },
+                        {
+                            "name": "MAJ INTEGRATED GOLDEN SERVICES",
+                            "internationalNumber": "BN-3046777"
+                        },
+                        {
+                            "name": "BABAN ZARA GLOBAL INVESTMENT NIG LTD",
+                            "internationalNumber": "RC-1629327"
+                        },
+                        {
+                            "name": "ZAURA MINING AND MINERAL RESOURCES LTD",
+                            "internationalNumber": "RC-1646224"
+                        },
+                        {
+                            "name": "SAJRMY CONCEPT LTD",
+                            "internationalNumber": "RC-1550047"
+                        },
+                        {
+                            "name": "SCIENCE BEST MULTI GLOBAL CONCEPT LTD",
+                            "internationalNumber": "RC-1572595"
+                        },
+                        {
+                            "name": "I. S MAKAYYE INVESTMENT RESOURCES LTD",
+                            "internationalNumber": "RC-1641021"
+                        },
+                        {
+                            "name": "SAMDE RESOURCES & INVESTMENT LTD",
+                            "internationalNumber": "RC-1649755"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241436215,
+                    "companyId": 60570350,
+                    "personId": 97259083,
+                    "roleId": 60320,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 97259083,
+                        "name": "alhassan aliyu",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1981,
+                        "birthMonth": 6,
+                        "birthDate": 17,
+                        "address": "MAKAMA JAHUN NEW EXTENSION",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "aaliyu978@yahoo.com",
+                        "phone": "08065481574",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241436216,
+                    "companyId": 60570350,
+                    "personId": 98587101,
+                    "roleId": 60317,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98587101,
+                        "name": "alhassan aliyu",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "address": "AHMADU BELLO WAY, MABUSHI, SUITE 5O11 KINGFEM GA 247",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "aliyualhassan206@nigerianbar.ng",
+                        "phone": "08061259905",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "HASAL GLOBAL VENTURES LIMITED",
+                            "internationalNumber": "RC-630969"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241436219,
+                    "companyId": 60570350,
+                    "personId": 98587101,
+                    "roleId": 60329,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 98587101,
+                        "name": "alhassan aliyu",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "address": "AHMADU BELLO WAY, MABUSHI, SUITE 5O11 KINGFEM GA 247",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "aliyualhassan206@nigerianbar.ng",
+                        "phone": "08061259905",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60329,
+                        "name": "Secretary",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Secretary"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "HASAL GLOBAL VENTURES LIMITED",
+                            "internationalNumber": "RC-630969"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241436218,
+                    "companyId": 60570350,
+                    "personId": 98587102,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 300000,
+                    "person": {
+                        "id": 98587102,
+                        "name": "mustapha hauwa",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1981,
+                        "birthMonth": 1,
+                        "birthDate": 4,
+                        "address": "NO 7 RAILWAY STAFF QUARTERS",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A27068909",
+                        "documentType": "Permanent Voters' Card",
+                        "email": "gadangaaliyu@gmail.com",
+                        "phone": "07038063602",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 241436220,
+                    "companyId": 60570350,
+                    "personId": 98587103,
+                    "roleId": 60323,
+                    "sourceNum": 1,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 700000,
+                    "person": {
+                        "id": 98587103,
+                        "name": "alhassani aliyu",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1981,
+                        "birthMonth": 6,
+                        "birthDate": 17,
+                        "address": "MAKAMA NEW EXTENSION",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A10758332",
+                        "documentType": "International Passport",
+                        "email": "gadangaaliyu@gmail.com",
+                        "phone": "08065481574",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "gad*******************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Ali** Alh*****",
+                    "contacts": {
+                        "email": [
+                            "aal****************"
+                        ],
+                        "phone": [
+                            "080********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "7",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 2,
+                "2": 3,
+                "null": 2
+            },
+            "personsWithRelatedCount": 2
+        }
+    }
+]

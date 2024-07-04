@@ -1,0 +1,345 @@
+[
+    {
+        "year": "2020",
+        "title": "ONIM-OPRAH NIGERIA LIMITED - RC-1748033 - Nigeria",
+        "description": "ONIM-OPRAH NIGERIA LIMITED Nigeria company, Company number: RC-1748033, Incorporation Date Dec 24, 2020;, Address: 10, OMISANJANA STREET, ADO EKITI, EKITI STATE",
+        "company": {
+            "id": 62163954,
+            "name": "ONIM-OPRAH NIGERIA LIMITED",
+            "internationalNumber": "RC-1748033",
+            "localNumber": "1748033",
+            "countryId": 24,
+            "dateCreated": "2020-12-24T00:00:00.000Z",
+            "createdAt": "2021-05-28T20:47:29.242Z",
+            "updatedAt": "2024-06-15T15:25:40.113Z",
+            "alternateNames": [],
+            "address": "10, OMISANJANA STREET, ADO EKITI, EKITI STATE",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "sharesValue": "1 NGN",
+            "sharesIssued": "1000000",
+            "historicalNames": [],
+            "activityDescription": "GENERAL CONTRACT AND MERCHANDISE",
+            "providerId": "6850204",
+            "updatedAtSitemap": "2023-06-09T17:39:17.000Z",
+            "oldInternationalNumber": "1748033",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 3823,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196920,
+                    "providerId": "493889",
+                    "providerName": "GENERAL CONTRACT AND MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:10.574983+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 92003103,
+                    "address": "10, OMISANJANA STREET, ADO EKITI, EKITI STATE",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "ITS-FIVESCORE LTD",
+                            "internationalNumber": "RC-1747185"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 356847188,
+                    "companyId": 62163954,
+                    "personId": 129105418,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 129105418,
+                        "name": "olayemi andrew ijalana",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1976,
+                        "birthMonth": 1,
+                        "birthDate": 7,
+                        "address": "SUITE 6ALHAJI YAJUBU SHITTU SHOPPING MALL, ONDO ROAD, MODAKEKE-IFE, OSUN STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2046351",
+                        "documentType": "National ID Card",
+                        "documentNumber": "14073297571",
+                        "email": "andrewijalana@gmail.com",
+                        "phone": "+234 803 431 2058",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "TOMJET ENTREPRENEURIAL SERVICES",
+                            "internationalNumber": "BN-3050260"
+                        },
+                        {
+                            "name": "MOSOLAB N. H. M ENTERPRISES",
+                            "internationalNumber": "BN-3549360"
+                        },
+                        {
+                            "name": "JOMILOJU PHARMACY",
+                            "internationalNumber": "BN-2818728"
+                        },
+                        {
+                            "name": "PURPLE VIOLET DESIGNS & STORES",
+                            "internationalNumber": "BN-2663073"
+                        },
+                        {
+                            "name": "GREEN LANE ROYAL MULTIVENTURE LTD",
+                            "internationalNumber": "RC-1531728"
+                        },
+                        {
+                            "name": "AK HOWOE MOTOR",
+                            "internationalNumber": "BN-3557253"
+                        },
+                        {
+                            "name": "OMITADE ROYAL BIZ. VENTURE",
+                            "internationalNumber": "BN-2806259"
+                        },
+                        {
+                            "name": "PEPPER QUEEN & CARTEL FASHION DESIGNS",
+                            "internationalNumber": "BN-3000209"
+                        },
+                        {
+                            "name": "ALTAR OF POWER & PRAISE EVANGELICAL MINISTRY",
+                            "internationalNumber": "IT-154006"
+                        },
+                        {
+                            "name": "SAMAN TECHNOLOGY AND INVESTMENT COMPANY LIMITED",
+                            "internationalNumber": "RC-1886070"
+                        },
+                        {
+                            "name": "GBADELOLA MULTIVENTURES",
+                            "internationalNumber": "BN-2817396"
+                        },
+                        {
+                            "name": "SOUNDMIND PUBLISHING COMPANY",
+                            "internationalNumber": "BN-3047108"
+                        },
+                        {
+                            "name": "WASILANDER MULTIPURPOSE LTD",
+                            "internationalNumber": "RC-1893488"
+                        },
+                        {
+                            "name": "PRINCESS NIKKI VINE BRANCH ENTERPRISES",
+                            "internationalNumber": "BN-3088150"
+                        },
+                        {
+                            "name": "RASHZEE209 MULTILINKS CONCEPTS",
+                            "internationalNumber": "BN-3574244"
+                        },
+                        {
+                            "name": "AUNTY TEE XCLUSIVE FABRICS & MORE ENT",
+                            "internationalNumber": "BN-3561762"
+                        },
+                        {
+                            "name": "TEMEY SAM GLOBAL SERVICES",
+                            "internationalNumber": "BN-3572176"
+                        },
+                        {
+                            "name": "GREAT DIANA LOGISTICS",
+                            "internationalNumber": "BN-3603225"
+                        },
+                        {
+                            "name": "HEROVIST HOME OF FASHION",
+                            "internationalNumber": "BN-3438541"
+                        },
+                        {
+                            "name": "YETTY SIZZLES RESOURCES",
+                            "internationalNumber": "BN-3080886"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "ale********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Ola**** And*** Ija****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "and********************"
+                        ]
+                    }
+                },
+                {
+                    "name": "And*** Ija**** Ola****",
+                    "contacts": {
+                        "email": [
+                            "and********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

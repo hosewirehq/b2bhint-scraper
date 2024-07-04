@@ -1,0 +1,424 @@
+[
+    {
+        "year": "2020",
+        "title": "Dannyperfections - BN-3275414 - Nigeria",
+        "description": "Dannyperfections Nigeria company, Company number: BN-3275414, Incorporation Date Dec 22, 2020;, Address: OWERRI MUNICIPAL, LKEDURU, IMO STATE",
+        "company": {
+            "id": 61463967,
+            "name": "Dannyperfections",
+            "internationalNumber": "BN-3275414",
+            "localNumber": "3275414",
+            "countryId": 24,
+            "dateCreated": "2020-12-22T00:00:00.000Z",
+            "createdAt": "2021-05-25T00:39:22.749Z",
+            "updatedAt": "2024-06-15T15:21:12.774Z",
+            "alternateNames": [],
+            "address": "OWERRI MUNICIPAL, LKEDURU, IMO STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6727962",
+            "updatedAtSitemap": "2023-06-09T17:47:47.000Z",
+            "oldInternationalNumber": "3275414",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2292,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197063,
+                    "providerId": "199212",
+                    "providerName": "Engineering Services",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:02:30.74539+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 99785169,
+                    "address": "OWERRI MUNICIPAL, LKEDURU, IMO STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 250379039,
+                    "companyId": 61463967,
+                    "personId": 67527083,
+                    "roleId": 60319,
+                    "appointedOn": "2020-12-22",
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 67527083,
+                        "name": "emeh daniel chinemerem",
+                        "countryId": 24,
+                        "occupation": "Business",
+                        "nationality": "Nigerian",
+                        "birthYear": 1992,
+                        "birthMonth": 1,
+                        "birthDate": 17,
+                        "address": "83 Amaigbo street owerri",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "8349567",
+                        "documentType": "International Passport",
+                        "email": "dannyperfections@gmail.com",
+                        "phone": "07067523783",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60319,
+                        "name": "Proprietor",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Proprietor"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 250379040,
+                    "companyId": 61463967,
+                    "personId": 101332222,
+                    "roleId": 60320,
+                    "appointedOn": "2021-04-23",
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 101332222,
+                        "name": "olorunsaiye ola john",
+                        "countryId": 24,
+                        "address": "PLT. 2 ALGERIA STREET ZONE 3, WUSE, ABUJA",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "National Identification Number",
+                        "email": "olaolorunsaiyejnr2@yahoo.com",
+                        "phone": "2348038019823",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "KABOHAUSA.COM",
+                            "internationalNumber": "BN-3072747"
+                        },
+                        {
+                            "name": "AMABITE",
+                            "internationalNumber": "BN-3100857"
+                        },
+                        {
+                            "name": "13 STARS VENTURES",
+                            "internationalNumber": "BN-3123003"
+                        },
+                        {
+                            "name": "AJ DIGITAL LIFESTYLES MANAGEMENT",
+                            "internationalNumber": "BN-3072882"
+                        },
+                        {
+                            "name": "TRUST LIQ PALACE",
+                            "internationalNumber": "BN-3131518"
+                        },
+                        {
+                            "name": "DUROTOMI FOODS AND CATERING SERVICES",
+                            "internationalNumber": "BN-3083932"
+                        },
+                        {
+                            "name": "VASCO YOGHAYE FARM ENTERPRISES",
+                            "internationalNumber": "BN-2396621"
+                        },
+                        {
+                            "name": "APEX-MEGA PLACE",
+                            "internationalNumber": "BN-3074784"
+                        },
+                        {
+                            "name": "KINGDOU GLOBAL RESOURCES",
+                            "internationalNumber": "BN-3081406"
+                        },
+                        {
+                            "name": "ORZANIGWE ENTERPRISE",
+                            "internationalNumber": "BN-3077088"
+                        },
+                        {
+                            "name": "BOISON GLOBAL",
+                            "internationalNumber": "BN-3078860"
+                        },
+                        {
+                            "name": "KATEH AND SONS ENTERPRISES",
+                            "internationalNumber": "BN-3083897"
+                        },
+                        {
+                            "name": "LOOKING GOOD FURNITURE HUB",
+                            "internationalNumber": "BN-3078871"
+                        },
+                        {
+                            "name": "RI-KWECH ENTERPRISE",
+                            "internationalNumber": "BN-2395990"
+                        },
+                        {
+                            "name": "TRIUMPH AUTOMOBILE PAINT VENTURES",
+                            "internationalNumber": "BN-3073208"
+                        },
+                        {
+                            "name": "FEMI CLOTHING GLOBAL RESOURCES",
+                            "internationalNumber": "BN-3077163"
+                        },
+                        {
+                            "name": "INNOBEST GLOBAL COMMUNICATIONS",
+                            "internationalNumber": "BN-3077237"
+                        },
+                        {
+                            "name": "GUDU SHOES",
+                            "internationalNumber": "BN-3099791"
+                        },
+                        {
+                            "name": "LM UNIQUE GLOBAL SERVICES",
+                            "internationalNumber": "BN-3072849"
+                        },
+                        {
+                            "name": "PR BRANDS",
+                            "internationalNumber": "BN-3071563"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 250379038,
+                    "companyId": 61463967,
+                    "personId": 101523049,
+                    "roleId": 60320,
+                    "appointedOn": "2020-12-22",
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 101523049,
+                        "name": "nwokorie geoffrey emeka",
+                        "countryId": 24,
+                        "nationality": "Nigerian",
+                        "birthYear": 1970,
+                        "birthMonth": 3,
+                        "birthDate": 23,
+                        "address": "Galaxy Bristish Hospital Complex, Area C New Owerri",
+                        "countryOfResidence": "NIGERIA",
+                        "email": "emekageoffrey@yahoo.com",
+                        "phone": "08033461826",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "dan***********************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Geo***** Eme** Nwo*****",
+                    "contacts": {
+                        "email": [
+                            "eme********************"
+                        ],
+                        "phone": [
+                            "080********"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "3",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 2,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 2
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

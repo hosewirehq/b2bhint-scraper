@@ -1,0 +1,331 @@
+[
+    {
+        "year": "2018",
+        "title": "TIJOTA MULTIPURPOSE VENTURES - BN-2737544 - Nigeria",
+        "description": "TIJOTA MULTIPURPOSE VENTURES Nigeria company, Company number: BN-2737544, Incorporation Date Dec 20, 2018;, Address: NO.6, OJUWO -EGUME ROAD NEAR ANYIGBA DEKINA LGA, ANYIGBA, KOGI STATE",
+        "company": {
+            "id": 62124641,
+            "name": "TIJOTA MULTIPURPOSE VENTURES",
+            "internationalNumber": "BN-2737544",
+            "localNumber": "2737544",
+            "countryId": 24,
+            "dateCreated": "2018-12-20T00:00:00.000Z",
+            "createdAt": "2021-05-28T13:40:07.097Z",
+            "updatedAt": "2024-06-15T15:15:45.746Z",
+            "alternateNames": [],
+            "address": "NO.6, OJUWO -EGUME ROAD NEAR ANYIGBA DEKINA LGA, ANYIGBA, KOGI STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "5182832",
+            "updatedAtSitemap": "2023-06-09T17:59:51.000Z",
+            "oldInternationalNumber": "2737544",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 2242,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196924,
+                    "providerId": "199237",
+                    "providerName": "General Contracts",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:13.437675+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 97900662,
+                    "address": "NO.6, OJUWO -EGUME ROAD NEAR ANYIGBA DEKINA LGA, ANYIGBA, KOGI STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 348769790,
+                    "companyId": 62124641,
+                    "personId": 66527892,
+                    "roleId": 114349,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 66527892,
+                        "name": "ojumu cletus",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1983,
+                        "birthMonth": 7,
+                        "birthDate": 14,
+                        "address": "GP 180 Phase 1 Quarters LokojaIsa Ichaba, Lokoja, KOGI STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2103577",
+                        "documentType": "National ID Card",
+                        "documentNumber": "62763373407",
+                        "email": "cletusojumu4all@gmail.com",
+                        "phone": "+234 806 700 9160",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114349,
+                        "name": "Legal Practice",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practice"
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "AS-MUSTY GLOBAL SERVICES",
+                            "internationalNumber": "BN-2649156"
+                        },
+                        {
+                            "name": "HOTEL OWNERS ASSOCIATION OBAJANA",
+                            "internationalNumber": "IT-124975"
+                        },
+                        {
+                            "name": "WINNING WAYS CLINIC & MATERNITY LOKOJA",
+                            "internationalNumber": "BN-2713993"
+                        },
+                        {
+                            "name": "MEKACO NIGERIA LIMITED",
+                            "internationalNumber": "RC-124975"
+                        },
+                        {
+                            "name": "ALAGANI COMMUNITY SECONDARY SCHOOL, OKPO",
+                            "internationalNumber": "BN-2739451"
+                        },
+                        {
+                            "name": "GRASS-ROOT INTEGRATED FARM VENTURES",
+                            "internationalNumber": "BN-3243703"
+                        },
+                        {
+                            "name": "PANGLES INTEGRATED RESOURCES VENTURES",
+                            "internationalNumber": "BN-2928219"
+                        },
+                        {
+                            "name": "LIONHEART POWER VENTURES",
+                            "internationalNumber": "BN-2732733"
+                        },
+                        {
+                            "name": "M. ALAMIN & NANA AYISHA COMMUNICATION",
+                            "internationalNumber": "BN-2737621"
+                        },
+                        {
+                            "name": "MUKAADEX ENTERPRISE",
+                            "internationalNumber": "BN-2639963"
+                        },
+                        {
+                            "name": "CLETUS OJUMU & ASSOCIATES",
+                            "internationalNumber": "BN-2737230"
+                        },
+                        {
+                            "name": "TEMEKE FOREAL ENTERPRISE",
+                            "internationalNumber": "BN-2635843"
+                        },
+                        {
+                            "name": "ROCK 'N' GARDENS CLINIC LIMITED",
+                            "internationalNumber": "RC-1683030"
+                        },
+                        {
+                            "name": "AL-MUBARAK CEMENT DEPOT COMPANY",
+                            "internationalNumber": "BN-2668090"
+                        },
+                        {
+                            "name": "ADMIRAL PRINTING PRESS",
+                            "internationalNumber": "BN-2644575"
+                        },
+                        {
+                            "name": "INTERNATIONAL MERCHANTRADE LIMITED",
+                            "internationalNumber": "RC-118371"
+                        },
+                        {
+                            "name": "ST. RIZIRI GLOBAL SERVICES",
+                            "internationalNumber": "BN-2652375"
+                        },
+                        {
+                            "name": "JAMESONIC BUSINESS VENTURES",
+                            "internationalNumber": "BN-2670280"
+                        },
+                        {
+                            "name": "BEST ELITE STANDARD INT'L SCHOOL",
+                            "internationalNumber": "BN-2664415"
+                        },
+                        {
+                            "name": "CLASSIC COUTURE TEXTILE SERVICES",
+                            "internationalNumber": "BN-2636505"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Oju** Cle***",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "080********"
+                        ],
+                        "email": [
+                            "cle**********************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Cle*** Oju**",
+                    "contacts": {
+                        "email": [
+                            "cle**********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

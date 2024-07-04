@@ -1,0 +1,617 @@
+[
+    {
+        "year": "2022",
+        "title": "TRAKAM DIGITAL COMPANY LIMITED - RC-1911964 - Nigeria",
+        "description": "TRAKAM DIGITAL COMPANY LIMITED Nigeria company, Company number: RC-1911964, Incorporation Date 29 \u0431\u0435\u0440 2022 \u0440.;, Address: T4H6 SHELL COOPERATIVE ESTATE, GADUWA DISTRICT, FCT",
+        "company": {
+            "id": 109029706,
+            "name": "TRAKAM DIGITAL COMPANY LIMITED",
+            "internationalNumber": "RC-1911964",
+            "localNumber": "1911964",
+            "countryId": 24,
+            "dateCreated": "2022-03-29T00:00:00.000Z",
+            "createdAt": "2022-04-14T16:22:28.852Z",
+            "updatedAt": "2024-06-15T15:39:33.198Z",
+            "alternateNames": [],
+            "address": "T4H6 SHELL COOPERATIVE ESTATE, GADUWA DISTRICT, FCT",
+            "additionalData": {},
+            "typeId": 99330,
+            "paidShareCapital": "1000000 NGN",
+            "historicalNames": [],
+            "activityDescription": "INFORMATION TECHNOLOGY SERVICES",
+            "providerId": "7902234",
+            "updatedAtSitemap": "2023-06-09T16:42:07.000Z",
+            "oldInternationalNumber": "1911964",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99330,
+                "type": "Private company limited by shares",
+                "countryId": 24,
+                "translation": {
+                    "en": "Private company limited by shares"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007874,
+                    "providerId": "ACTIVE",
+                    "providerName": "ACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Active"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 671,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6197140,
+                    "providerId": "143238",
+                    "providerName": "Telecommunications",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:04:31.161083+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 69525754,
+                    "address": "T4H6 SHELL COOPERATIVE ESTATE, GADUWA DISTRICT, FCT",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 299020028,
+                    "companyId": 109029706,
+                    "personId": 67580995,
+                    "roleId": 60320,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 67580995,
+                        "name": "okoye christian chinemelum",
+                        "countryId": 24,
+                        "occupation": "Legal practitioner",
+                        "nationality": "Nigeria",
+                        "birthYear": 1978,
+                        "birthMonth": 4,
+                        "birthDate": 15,
+                        "address": "Kokoma Close, 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "ABC06572AA01",
+                        "documentType": "Driver's License",
+                        "email": "chriscokoye@gmail.com",
+                        "phone": "8066802729",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60320,
+                        "name": "Presenter",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Presenter"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [
+                        {
+                            "name": "CMORE GLOBAL VENTURES LIMITED",
+                            "internationalNumber": "RC-1905794"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299020029,
+                    "companyId": 109029706,
+                    "personId": 72670947,
+                    "roleId": 60324,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 72670947,
+                        "name": "izebhor victor",
+                        "countryId": 24,
+                        "occupation": "Lawyer",
+                        "address": "KOKOMA CLOSE, 5",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "",
+                        "documentType": "",
+                        "email": "izebhorvictor@gmail.com",
+                        "phone": "08102518189",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60324,
+                        "name": "Witness",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Witness"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299020030,
+                    "companyId": 109029706,
+                    "personId": 101656727,
+                    "roleId": 60317,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "person": {
+                        "id": 101656727,
+                        "name": "nnaemego anita ogochukwu",
+                        "countryId": 24,
+                        "occupation": "Businesswoman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1982,
+                        "birthMonth": 1,
+                        "birthDate": 8,
+                        "address": "SHELL COOPERATIVE ESTATE, T4H6",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A08914150",
+                        "documentType": "International Passport",
+                        "email": "INFO@TRAKAM.NET",
+                        "phone": "08095434441",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60317,
+                        "name": "Director",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Director"
+                        },
+                        "priority": 2
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299020032,
+                    "companyId": 109029706,
+                    "personId": 101656727,
+                    "roleId": 60323,
+                    "appointedOn": "2022-03-29",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1000000,
+                    "person": {
+                        "id": 101656727,
+                        "name": "nnaemego anita ogochukwu",
+                        "countryId": 24,
+                        "occupation": "Businesswoman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1982,
+                        "birthMonth": 1,
+                        "birthDate": 8,
+                        "address": "SHELL COOPERATIVE ESTATE, T4H6",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A08914150",
+                        "documentType": "International Passport",
+                        "email": "INFO@TRAKAM.NET",
+                        "phone": "08095434441",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60323,
+                        "name": "Shareholder",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Shareholder"
+                        },
+                        "priority": 1
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 299020033,
+                    "companyId": 109029706,
+                    "personId": 101656727,
+                    "roleId": 60321,
+                    "percentage": 100,
+                    "appointedOn": "2022-03-29",
+                    "votingShares": "100%",
+                    "sourceNum": 2,
+                    "sharesType": "ORDINARY",
+                    "sharesCount": 1000000,
+                    "person": {
+                        "id": 101656727,
+                        "name": "nnaemego anita ogochukwu",
+                        "countryId": 24,
+                        "occupation": "Businesswoman",
+                        "nationality": "Nigeria",
+                        "birthYear": 1982,
+                        "birthMonth": 1,
+                        "birthDate": 8,
+                        "address": "SHELL COOPERATIVE ESTATE, T4H6",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "A08914150",
+                        "documentType": "International Passport",
+                        "email": "INFO@TRAKAM.NET",
+                        "phone": "08095434441",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60321,
+                        "name": "Persons with significant control",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Persons with significant control"
+                        }
+                    },
+                    "companies": [],
+                    "naturesOfControl": [],
+                    "personShares": []
+                },
+                {
+                    "id": 365544572,
+                    "companyId": 109029706,
+                    "personId": 80127687,
+                    "roleId": 114332,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 80127687,
+                        "name": "christian chinemelum okoye ",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1978,
+                        "birthMonth": 4,
+                        "birthDate": 15,
+                        "address": "5Kokoma Close, Wuse 2, Abuja, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "1717276",
+                        "documentType": "Driver's License",
+                        "documentNumber": "ABC06572AA01",
+                        "email": "chriscokoye@gmail.com",
+                        "phone": "+234 806 680 2729",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114332,
+                        "name": "Legal Practitioner",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Legal Practitioner"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "MIKE-VICK PHARMACY & STORES LIMITED",
+                            "internationalNumber": "RC-1506525"
+                        },
+                        {
+                            "name": "G.A.P. INVESTMENT AND AGRO-ALLIED SERVICES LIMITED",
+                            "internationalNumber": "RC-1428005"
+                        },
+                        {
+                            "name": "METROPOLITAN NETWORKS EMEA INTEGRATED LIMITED",
+                            "internationalNumber": "RC-1460028"
+                        },
+                        {
+                            "name": "EAGLE INTERNATIONAL HOSPITAL TECHNICAL SER. LTD",
+                            "internationalNumber": "RC-117062"
+                        },
+                        {
+                            "name": "NEWKONCEPTS KREATIONS",
+                            "internationalNumber": "BN-2595926"
+                        },
+                        {
+                            "name": "CMORE GLOBAL VENTURES LIMITED",
+                            "internationalNumber": "RC-1905794"
+                        },
+                        {
+                            "name": "BLESSED LUCK GLOBAL INVESTMENT LIMITED",
+                            "internationalNumber": "RC-1504306"
+                        },
+                        {
+                            "name": "SUNNY UGUGE & SONS NIGERIA LIMITED",
+                            "internationalNumber": "RC-112313"
+                        },
+                        {
+                            "name": "HAPIVILA PROPERTIES LIMITED",
+                            "internationalNumber": "RC-1874850"
+                        },
+                        {
+                            "name": "ANNBELLA'S KOLLECTIONS",
+                            "internationalNumber": "BN-2507076"
+                        },
+                        {
+                            "name": "TOPVIEW TECHNOLOGY LIMITED",
+                            "internationalNumber": "RC-1879759"
+                        },
+                        {
+                            "name": "AFROLICLES LIMITED",
+                            "internationalNumber": "RC-1794192"
+                        },
+                        {
+                            "name": "SAINT JOHN INTERNATIONAL PRIVATE SCHOOL LIMITED",
+                            "internationalNumber": "RC-1429732"
+                        },
+                        {
+                            "name": "KAN ELECTRIC NIG LTD",
+                            "internationalNumber": "RC-110769"
+                        },
+                        {
+                            "name": "HUANYU INTERNATIONAL LIMITED",
+                            "internationalNumber": "RC-1454316"
+                        },
+                        {
+                            "name": "HAVEN BY QUEEN LOGISTICS LIMITED",
+                            "internationalNumber": "RC-1764233"
+                        },
+                        {
+                            "name": "IKOM DRIVERS SUSU FINANCE LTD",
+                            "internationalNumber": "RC-115437"
+                        },
+                        {
+                            "name": "KINGLION GLOBAL LIMITED ",
+                            "internationalNumber": "RC-1505936"
+                        },
+                        {
+                            "name": "LINDA SECRET GLOW",
+                            "internationalNumber": "BN-3066386"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "inf************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Chr****** Chi******* Oko**",
+                    "contacts": {
+                        "phone": [
+                            "806*******"
+                        ],
+                        "email": [
+                            "chr******************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Chr****** Chi******* Oko** ",
+                    "contacts": {
+                        "email": [
+                            "chr******************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                },
+                {
+                    "name": " Chi******* Chr****** Oko**",
+                    "contacts": {
+                        "email": [
+                            "chr******************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "8",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 6,
+            "personsCountByPriority": {
+                "1": 1,
+                "2": 3,
+                "3": 1,
+                "null": 3
+            },
+            "personsWithRelatedCount": 4
+        }
+    }
+]

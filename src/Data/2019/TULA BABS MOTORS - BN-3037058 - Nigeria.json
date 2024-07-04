@@ -1,0 +1,260 @@
+[
+    {
+        "year": "2019",
+        "title": "TULA BABS MOTORS - BN-3037058 - Nigeria",
+        "description": "TULA BABS MOTORS Nigeria company, Company number: BN-3037058, Incorporation Date 2019 m. gruod\u017eio 18 d.;, Address: 598 IKORODU ROAD, KOSOFE, LAGOS STATE",
+        "company": {
+            "id": 62399439,
+            "name": "TULA BABS MOTORS",
+            "internationalNumber": "BN-3037058",
+            "localNumber": "3037058",
+            "countryId": 24,
+            "dateCreated": "2019-12-18T00:00:00.000Z",
+            "createdAt": "2021-05-30T02:42:43.271Z",
+            "updatedAt": "2024-06-15T15:18:53.778Z",
+            "alternateNames": [],
+            "address": "598 IKORODU ROAD, KOSOFE, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99332,
+            "historicalNames": [],
+            "activityDescription": "MANUFACTURERS' REPRESENTATION, IMPORT, EXPORT AND GENERAL MERCHANDISE",
+            "providerId": "5267360",
+            "updatedAtSitemap": "2023-06-09T17:52:39.000Z",
+            "oldInternationalNumber": "3037058",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99332,
+                "type": "Business name - partnership",
+                "countryId": 24,
+                "translation": {
+                    "en": "Partnership"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 1428,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 6196941,
+                    "providerId": "493888",
+                    "providerName": "MANUFACTURERS' REPRESENTATION, IMPORT, EXPORT AND GENERAL MERCHANDISE",
+                    "countryId": 24,
+                    "createdAt": "2021-11-07T14:00:29.304135+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 98770691,
+                    "address": "598 IKORODU ROAD, KOSOFE, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": []
+                }
+            ],
+            "persons": [
+                {
+                    "id": 351427026,
+                    "companyId": 62399439,
+                    "personId": 70249244,
+                    "roleId": 114457,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 70249244,
+                        "name": "olatunde adewale abolarin",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1975,
+                        "birthMonth": 9,
+                        "birthDate": 29,
+                        "address": "598 ikorodu roadIkorodu road, Kosofe lagos, LAGOS STATE",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2110225",
+                        "documentType": "National ID Card",
+                        "documentNumber": "36043516777",
+                        "email": "Olatunde.abolarin@gmail.com",
+                        "phone": "+234 803 215 8491",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 114457,
+                        "name": "Trader",
+                        "countryId": 24,
+                        "translation": {
+                            "en": ""
+                        }
+                    },
+                    "companies": [
+                        {
+                            "name": "TULA TRAVELS AND TOURS",
+                            "internationalNumber": "BN-2634399"
+                        },
+                        {
+                            "name": "ADEWALE ABOLARIN ENTERPRISES",
+                            "internationalNumber": "BN-3531137"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {},
+            "companyContactPersons": [
+                {
+                    "name": "Ola***** Ade**** Abo*****",
+                    "contacts": {
+                        "phone": [
+                            "+23**************",
+                            "+23***********"
+                        ],
+                        "email": [
+                            "ola************************"
+                        ]
+                    }
+                },
+                {
+                    "name": "Abo***** Ade**** Ola*****",
+                    "contacts": {
+                        "email": [
+                            "ola************************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 0,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "null": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]

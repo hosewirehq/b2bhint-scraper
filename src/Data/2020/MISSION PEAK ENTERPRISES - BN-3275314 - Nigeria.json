@@ -1,0 +1,341 @@
+[
+    {
+        "year": "2020",
+        "title": "MISSION PEAK ENTERPRISES - BN-3275314 - Nigeria",
+        "description": "MISSION PEAK ENTERPRISES Nigeria company, Company number: BN-3275314, Incorporation Date 23 d\u00e9c. 2020;, Address: 1ST FLOOR, 21 BOYLE STREET, ONIKAN, LAGOS, LAGOS STATE",
+        "company": {
+            "id": 61946302,
+            "name": "MISSION PEAK ENTERPRISES",
+            "internationalNumber": "BN-3275314",
+            "localNumber": "3275314",
+            "countryId": 24,
+            "dateCreated": "2020-12-23T00:00:00.000Z",
+            "createdAt": "2021-05-27T06:30:06.662Z",
+            "updatedAt": "2024-06-15T15:27:52.304Z",
+            "alternateNames": [],
+            "address": "1ST FLOOR, 21 BOYLE STREET, ONIKAN, LAGOS, LAGOS STATE",
+            "additionalData": {},
+            "typeId": 99331,
+            "historicalNames": [],
+            "providerId": "6889272",
+            "updatedAtSitemap": "2023-06-09T17:34:05.000Z",
+            "oldInternationalNumber": "3275314",
+            "claimCompanyData": {},
+            "country": {
+                "id": 24,
+                "name": "Nigeria",
+                "deadCompanyStatus": [
+                    3995958,
+                    3995963,
+                    3995977,
+                    4007873,
+                    4007877,
+                    4007875
+                ],
+                "liquidatedCompanyStatus": [
+                    3995962,
+                    4007878
+                ],
+                "liquidationCompanyStatus": [
+                    4002573,
+                    4006402,
+                    4007876,
+                    4007879,
+                    4007881
+                ],
+                "bankruptcyProcessCompanyStatus": [],
+                "reservationCompanyStatus": [],
+                "formationCompanyStatus": [],
+                "code": "ng",
+                "currency": "NGN",
+                "sources": [
+                    {
+                        "url": "https:\/\/www.cac.gov.ng\/",
+                        "name": "Corporate Affairs Commission"
+                    }
+                ],
+                "translation": {
+                    "en": "Nigeria"
+                },
+                "fromCountry": {
+                    "en": "Nigeria"
+                },
+                "companiesCount": 4517406,
+                "activeCompaniesCount": 690055,
+                "restrictedData": {},
+                "languages": [
+                    "en"
+                ]
+            },
+            "type": {
+                "id": 99331,
+                "type": "Business name - sole proprietor",
+                "countryId": 24,
+                "translation": {
+                    "en": "Sole proprietor"
+                },
+                "isIndividual": false
+            },
+            "statuses": [
+                {
+                    "id": 4007873,
+                    "providerId": "INACTIVE",
+                    "providerName": "INACTIVE",
+                    "countryId": 24,
+                    "translation": {
+                        "en": "Inactive"
+                    }
+                }
+            ],
+            "accounts": [],
+            "tags": [],
+            "LEI": [],
+            "CIK": [],
+            "CAGE": [],
+            "companiesRegisteredSameDate": 4022,
+            "reviews": [],
+            "allReviewsCount": "0",
+            "allReviewsRating": "0",
+            "categories": [],
+            "activities": [
+                {
+                    "id": 5888446,
+                    "providerId": "13",
+                    "providerName": "Manufacture of textiles",
+                    "countryId": 24,
+                    "createdAt": "2021-05-18T12:36:42.568129+00:00",
+                    "translation": {},
+                    "type": {
+                        "id": 1,
+                        "name": "Primary",
+                        "translation": {
+                            "en": "Primary activities"
+                        }
+                    }
+                }
+            ],
+            "addresses": [
+                {
+                    "id": 82533957,
+                    "address": "1ST FLOOR, 21 BOYLE STREET, ONIKAN, LAGOS, LAGOS STATE",
+                    "countryId": 24,
+                    "companies": [
+                        {
+                            "name": "WD AFRICA CONSULTANCY LIMITED",
+                            "internationalNumber": "RC-1724069"
+                        },
+                        {
+                            "name": "MAGNA GAMING SOLUTIONS LIMITED",
+                            "internationalNumber": "RC-1243250"
+                        }
+                    ]
+                }
+            ],
+            "persons": [
+                {
+                    "id": 359000717,
+                    "companyId": 61946302,
+                    "personId": 96225832,
+                    "roleId": 60318,
+                    "sourceNum": 1,
+                    "person": {
+                        "id": 96225832,
+                        "name": "josephine monioluwa adeyele",
+                        "countryId": 24,
+                        "nationality": "NIGERIAN",
+                        "birthYear": 1992,
+                        "birthMonth": 2,
+                        "birthDate": 18,
+                        "address": "Suite 7, Moz Mall, No 19 Durban Street, Wuse II, Abuja, Abuja, FCT",
+                        "countryOfResidence": "NIGERIA",
+                        "number": "2446025",
+                        "documentType": "Driver's License",
+                        "documentNumber": "KEY00468AA01",
+                        "email": "jadeyele@ikeyishittuco.com",
+                        "phone": "+234 703 780 5423",
+                        "countryCode": "ng",
+                        "countryTranslation": {
+                            "cs": "Nigeria",
+                            "de": "Nigeria",
+                            "en": "Nigeria",
+                            "es": "Nigeria",
+                            "fr": "Nigeria",
+                            "lt": "Nigerija",
+                            "lv": "Nig\u0113rija",
+                            "nl": "Nigeria",
+                            "pl": "Nigeria",
+                            "ro": "Nigeria",
+                            "ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+                            "tr": "Nijerya",
+                            "uk": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                            "zh": "\u5c3c\u65e5\u5229\u4e9a"
+                        }
+                    },
+                    "role": {
+                        "id": 60318,
+                        "name": "Lawyer",
+                        "countryId": 24,
+                        "translation": {
+                            "en": "Lawyer"
+                        },
+                        "priority": 3
+                    },
+                    "companies": [
+                        {
+                            "name": "MEADOWEDGE INVESTMENT LTD",
+                            "internationalNumber": "RC-1754034"
+                        },
+                        {
+                            "name": "BEST BIFAR BAKERY",
+                            "internationalNumber": "BN-3447892"
+                        },
+                        {
+                            "name": "GONUMAG HOLDS NIG LIMITED",
+                            "internationalNumber": "RC-156025"
+                        },
+                        {
+                            "name": "SONAMA MARINE LIMITED ",
+                            "internationalNumber": "RC-1825140"
+                        },
+                        {
+                            "name": "KASI CLOUD LIMITED",
+                            "internationalNumber": "RC-1665823"
+                        },
+                        {
+                            "name": "ACORNVINE BUSINESS SOLUTIONS LIMITED",
+                            "internationalNumber": "RC-1697901"
+                        },
+                        {
+                            "name": "KIBO COMMUNICATION SERVICES LIMITED",
+                            "internationalNumber": "RC-1823479"
+                        },
+                        {
+                            "name": "OBIJACKSON HEALTHCARE SERVICES LIMITED",
+                            "internationalNumber": "RC-1709789"
+                        },
+                        {
+                            "name": "ADEBAYO RASHEED TAIWO FOUNDATION",
+                            "internationalNumber": "IT-156025"
+                        },
+                        {
+                            "name": "KI DEVELOPMENT COMPANY LIMITED",
+                            "internationalNumber": "RC-1711212"
+                        },
+                        {
+                            "name": "ZOLT-FAST POWER IPP LIMITED",
+                            "internationalNumber": "RC-1688278"
+                        },
+                        {
+                            "name": "WD AFRICA CONSULTANCY LIMITED",
+                            "internationalNumber": "RC-1724069"
+                        },
+                        {
+                            "name": "IS&C CORPORATE NOMINEES LIMITED",
+                            "internationalNumber": "RC-1603972"
+                        },
+                        {
+                            "name": "JAZUC FINANCIAL SERVICES LIMITED",
+                            "internationalNumber": "RC-1825529"
+                        },
+                        {
+                            "name": "EFFICIENCY LEGAL",
+                            "internationalNumber": "BN-3568068"
+                        },
+                        {
+                            "name": "PANOVIA PLATFORM VENTURE",
+                            "internationalNumber": "BN-3001137"
+                        },
+                        {
+                            "name": "NATHELIN RESOURCES LIMITED",
+                            "internationalNumber": "RC-1754117"
+                        },
+                        {
+                            "name": "DVM NIGERIA LIMITED",
+                            "internationalNumber": "RC-1844048"
+                        },
+                        {
+                            "name": "OUR BEAUTY JUNKY AFRICA LIMITED",
+                            "internationalNumber": "RC-1771796"
+                        }
+                    ],
+                    "naturesOfControl": [],
+                    "personShares": []
+                }
+            ],
+            "companyContacts": {
+                "email": [
+                    "ter*******************************"
+                ]
+            },
+            "companyContactPersons": [
+                {
+                    "name": "Jos****** Mon****** Ade****",
+                    "contacts": {
+                        "email": [
+                            "jad***********************"
+                        ],
+                        "phone": [
+                            "+23**************",
+                            "070********"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ade**** Jos****** Mon******",
+                    "contacts": {
+                        "email": [
+                            "jad***********************"
+                        ],
+                        "phone": [
+                            "+23**************"
+                        ]
+                    }
+                }
+            ],
+            "shares": [],
+            "financialReports": "[]",
+            "permits": [],
+            "licenses": [],
+            "inspections": [],
+            "subdivisions": [],
+            "insolvencies": [],
+            "events": [],
+            "history": [],
+            "links": [],
+            "vehicles": [],
+            "restrictions": [],
+            "courtCases": [],
+            "acquisitions": [],
+            "securityMeasures": [],
+            "companyDocuments": [],
+            "filings": [],
+            "charges": [],
+            "affiliates": [],
+            "listTags": [],
+            "inspectionsCount": 0,
+            "permitsCount": 0,
+            "licensesCount": 0,
+            "subdivisionsCount": 0,
+            "insolvenciesCount": 0,
+            "eventsCount": 0,
+            "historyCount": 0,
+            "linksCount": 0,
+            "companyVehiclesCount": 0,
+            "restrictionsCount": 0,
+            "courtCasesCount": 0,
+            "acquisitionsCount": 0,
+            "securityMeasuresCount": 0,
+            "companyDocumentsCount": 0,
+            "filingsCount": 0,
+            "chargesCount": 0,
+            "affiliatesCount": "0",
+            "personsCount": "1",
+            "companyContactsCount": 1,
+            "companyContactPersonsCount": 5,
+            "personsCountByPriority": {
+                "3": 1
+            },
+            "personsWithRelatedCount": 1
+        }
+    }
+]
