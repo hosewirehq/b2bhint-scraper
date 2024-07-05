@@ -27,8 +27,17 @@ class CompaniesSpider extends BasicSpider
 
             $requests = array_merge($requests, array_map(fn ($page) => new Request(
                 'GET',
-                "https://b2bhint.com/en/search?country=24&years={$year}&type=companies&page={$page}",
-                [$this, 'parse']
+                "https://b2bhint.com/en/search?country=24&years={$year}&page={$page}",
+                [$this, 'parse'],
+                [
+                    'headers' => [
+                        'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+                        'Accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+                        'Accept-Language' => 'en-US,en;q=0.9',
+                        'Accept-Encoding' => 'gzip, deflate, br',
+                        'Connection' => 'keep-alive',
+                    ]
+                ],
             ), $pages));
         }
 

@@ -1,0 +1,40 @@
+name: Scrape and Commit Data
+
+on:
+  workflow_dispatch:  # This allows you to manually trigger the workflow
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # This allows us to set up a personal access token for committing
+
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'  # Specify your PHP version
+
+      - name: Install dependencies
+        run: composer install
+
+      - name: Run PHP script
+        run: composer scrape:companies  # Replace with the path to your script
+
+      - name: Configure git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit scraped data
+        run: |
+          git add .  # Replace with the path to your JSON files
+          git commit -m "chore: Update scraped data" || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
