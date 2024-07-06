@@ -2,6 +2,16 @@ name: JavaScript Script Scrape and Commit Data
 
 on:
   workflow_dispatch:  # This allows you to manually trigger the workflow
+    inputs:
+      year:
+        description: 'The year to scrape from'
+        required: true
+      fromPage:
+        description: 'The first page to scrape from'
+        required: true
+      toPage:
+        description: 'The second page to scrape from'
+        required: true
 
 jobs:
   build:
@@ -32,7 +42,7 @@ jobs:
         run: chmod +x ./src/scrape.mjs
 
       - name: Run script
-        run: ./src/scrape.mjs
+        run: ./src/scrape.mjs --year=${{ github.event.inputs.year }} --fromPage=${{ github.event.inputs.fromPage }} --toPage=${{ github.event.inputs.toPage }}
         continue-on-error: true
 
       - name: Configure git
@@ -43,7 +53,7 @@ jobs:
       - name: Commit scraped data
         run: |
           git add .  # Replace with the path to your JSON files
-          git commit -m "chore: Update scraped data" || echo "No changes to commit"
+          git commit -m "chore: ${{ github.event.inputs.year }}, page ${{ github.event.inputs.fromPage }} - ${{ github.event.inputs.toPage }}" || echo "No changes to commit"
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0

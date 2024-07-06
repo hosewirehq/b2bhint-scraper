@@ -3,8 +3,6 @@
 const argv = minimist(process.argv.slice(2));
 const { year, fromPage, toPage } = argv;
 
-const fs = require('fs');
-
 // Import the CompanyItemProcessor class
 const CompanyItemProcessor = require('./companyProcessor');
 const processor = new CompanyItemProcessor();
