@@ -1,0 +1,479 @@
+[
+  {
+    "year": "2015",
+    "title": "NEEDLEYE GLOBAL VENTURES - BN-2383399 - Nigeria",
+    "description": "NEEDLEYE GLOBAL VENTURES Nigeria company, Company number: BN-2383399, Incorporation Date Dec 29, 2015;, Address: 5, ADEYANJU STREET, OSHODI, LAGOS STATE",
+    "company": {
+      "id": 61416610,
+      "name": "NEEDLEYE GLOBAL VENTURES",
+      "internationalNumber": "BN-2383399",
+      "localNumber": "2383399",
+      "countryId": 24,
+      "dateCreated": "2015-12-29T00:00:00.000Z",
+      "createdAt": "2021-05-24T15:18:48.996Z",
+      "updatedAt": "2024-06-15T15:19:30.063Z",
+      "alternateNames": [],
+      "address": "5, ADEYANJU STREET, OSHODI, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99331,
+      "historicalNames": [],
+      "providerId": "3337194",
+      "updatedAtSitemap": "2023-06-09T17:51:12.000Z",
+      "oldInternationalNumber": "2383399",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99331,
+        "type": "Business name - sole proprietor",
+        "countryId": 24,
+        "translation": {
+          "en": "Sole proprietor"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 664,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [],
+      "addresses": [
+        {
+          "id": 99280258,
+          "address": "5, ADEYANJU STREET, OSHODI, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 159484189,
+          "companyId": 61416610,
+          "personId": 67603463,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 67603463,
+            "name": "nnali emmanuel",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigerian",
+            "birthYear": 1980,
+            "birthMonth": 8,
+            "birthDate": 15,
+            "address": "5, ADEYANJU STREET",
+            "countryOfResidence": "NIGERIA",
+            "number": "12345",
+            "documentType": "Permanent Voters' Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 250528346,
+          "companyId": 61416610,
+          "personId": 101095309,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 101095309,
+            "name": "business name registration agent",
+            "countryId": 24,
+            "address": "N/A",
+            "countryOfResidence": "NIGERIA",
+            "email": "N/A",
+            "phone": "N/A",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "KIDS IDENTITY MALL",
+              "internationalNumber": "BN-2503990"
+            },
+            {
+              "name": "MIRA - ELI COMMUNICATION ENTERPRISES",
+              "internationalNumber": "BN-2382510"
+            },
+            {
+              "name": "KEYBASE INFORMATIC TECHNOLOGIES",
+              "internationalNumber": "BN-2382612"
+            },
+            {
+              "name": "BUKINSS ADEAL ENTERPRISES",
+              "internationalNumber": "BN-2385189"
+            },
+            {
+              "name": "BURST THE WORLD ENTERTAINMENT",
+              "internationalNumber": "BN-2504269"
+            },
+            {
+              "name": "FIRST-CLASS UNIVERSAL SERVICES",
+              "internationalNumber": "BN-2447757"
+            },
+            {
+              "name": "GLADYMOORE RESOURCES",
+              "internationalNumber": "BN-2515446"
+            },
+            {
+              "name": "KAMSY-KEN SUPERMARKET",
+              "internationalNumber": "BN-2504068"
+            },
+            {
+              "name": "OLUSALT NIGERIA ENTERPRISES",
+              "internationalNumber": "BN-2592399"
+            },
+            {
+              "name": "HIS ROYAL MAJESTY NURSERY AND PRIMARY SCHOOL SABO-OKE ILORIN",
+              "internationalNumber": "BN-2510153"
+            },
+            {
+              "name": "EAST WIND GRACE INTERNATIONAL CONCEPT",
+              "internationalNumber": "BN-2455083"
+            },
+            {
+              "name": "JENGLOVIC AND BROTHERS NIGERIA",
+              "internationalNumber": "BN-2385399"
+            },
+            {
+              "name": "ANDCHIN AGRO ALLIED INDUSTRIES",
+              "internationalNumber": "BN-2504576"
+            },
+            {
+              "name": "MC DAVOU'S ENTERPRISES",
+              "internationalNumber": "BN-2503674"
+            },
+            {
+              "name": "OMOTELE NURSERY/PRIMARY SCHOOL AGBAJE IJOKODO IBADAN",
+              "internationalNumber": "BN-2383873"
+            },
+            {
+              "name": "BLESSED AVAN CEE VENTURES",
+              "internationalNumber": "BN-2382266"
+            },
+            {
+              "name": "EMMABRIGHT AGRO VENTURES",
+              "internationalNumber": "BN-2452706"
+            },
+            {
+              "name": "STEF .O. SIGNS",
+              "internationalNumber": "BN-2389563"
+            },
+            {
+              "name": "D.T ADEYEMI VENTURES",
+              "internationalNumber": "BN-2382992"
+            },
+            {
+              "name": "DAN - AUNA FARM",
+              "internationalNumber": "BN-2507332"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 250528347,
+          "companyId": 61416610,
+          "personId": 101506032,
+          "roleId": 60320,
+          "appointedOn": "2021-05-08",
+          "sourceNum": 1,
+          "person": {
+            "id": 101506032,
+            "name": "olapo folorunso samuel",
+            "countryId": 24,
+            "address": "No. 3, Layi Oyekanmi Street, Mushin, Lagos",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "National Identification Number",
+            "email": "folusolapo@yahoo.com",
+            "phone": "2348055219813",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "HANZAI POULTRY ENTERPRISE",
+              "internationalNumber": "BN-2384215"
+            },
+            {
+              "name": "REG'S FLAVOUR ENTERPRISES",
+              "internationalNumber": "BN-2390447"
+            },
+            {
+              "name": "ZEKNWAMAX VENTURES",
+              "internationalNumber": "BN-2353140"
+            },
+            {
+              "name": "DVY - NOSABEN INTERNATIONAL",
+              "internationalNumber": "BN-2383287"
+            },
+            {
+              "name": "PEEKAY MOTORS ENTERPRISES",
+              "internationalNumber": "BN-2355579"
+            },
+            {
+              "name": "JAMIUBIN SAL BUSINESS MULTI CONCEPTS",
+              "internationalNumber": "BN-2384887"
+            },
+            {
+              "name": "S20 MEDIA",
+              "internationalNumber": "BN-2355394"
+            },
+            {
+              "name": "ELLOGAG VENTURES NIGERIA",
+              "internationalNumber": "BN-2381809"
+            },
+            {
+              "name": "SWCA CONSULT",
+              "internationalNumber": "BN-2380904"
+            },
+            {
+              "name": "AARE AFEEZ PROPERTY VENTURES",
+              "internationalNumber": "BN-2363927"
+            },
+            {
+              "name": "3 - G SIGNATURE",
+              "internationalNumber": "BN-2365918"
+            },
+            {
+              "name": "- P & D INSIGHTS",
+              "internationalNumber": "BN-2389507"
+            },
+            {
+              "name": "JAMES MANFRED ENTERPRISES",
+              "internationalNumber": "BN-2382638"
+            },
+            {
+              "name": "FOODS COLLECTION INTEGRATED SERVICES",
+              "internationalNumber": "BN-2386862"
+            },
+            {
+              "name": "CY LOGISTICS",
+              "internationalNumber": "BN-2381432"
+            },
+            {
+              "name": "DONIFY NIGERIA ENTERPRISES",
+              "internationalNumber": "BN-2382870"
+            },
+            {
+              "name": "DEBSTINE TRANSPORT / KOREA SERVICES",
+              "internationalNumber": "BN-2381725"
+            },
+            {
+              "name": "COWRIES ALLIANCE NIGERIA LMITED",
+              "internationalNumber": "RC-430792"
+            },
+            {
+              "name": "KWADAYI BUKKA KITCHEN",
+              "internationalNumber": "BN-2382044"
+            },
+            {
+              "name": "DAVE SCAFFOLDING NETWORK ENTERPRISES",
+              "internationalNumber": "BN-2382726"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Olu**** Oye****",
+          "contacts": {
+            "email": [
+              "oye***************"
+            ],
+            "phone": [
+              "080********"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 1,
+        "2": 2
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

@@ -1,0 +1,453 @@
+[
+  {
+    "year": "2015",
+    "title": "CARSTAIRS BUSINESS SOLUTIONS LTD - RC-1307734 - Nigeria",
+    "description": "CARSTAIRS BUSINESS SOLUTIONS LTD Nigeria company, Company number: RC-1307734, Incorporation Date Dec 31, 2015;, Address: NO. 7, GENERAL HOSPITAL ROAD, GBAGADA, LAGOS STATE",
+    "company": {
+      "id": 61417438,
+      "name": "CARSTAIRS BUSINESS SOLUTIONS LTD",
+      "internationalNumber": "RC-1307734",
+      "localNumber": "1307734",
+      "countryId": 24,
+      "dateCreated": "2015-12-31T00:00:00.000Z",
+      "createdAt": "2021-05-24T15:25:03.091Z",
+      "updatedAt": "2024-06-15T15:19:33.924Z",
+      "alternateNames": [],
+      "address": "NO. 7, GENERAL HOSPITAL ROAD, GBAGADA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "500000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "500000",
+      "historicalNames": [],
+      "providerId": "3337520",
+      "updatedAtSitemap": "2023-06-09T17:51:11.000Z",
+      "oldInternationalNumber": "1307734",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 868,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [],
+      "addresses": [
+        {
+          "id": 99289972,
+          "address": "NO. 7, GENERAL HOSPITAL ROAD, GBAGADA, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 159480830,
+          "companyId": 61417438,
+          "personId": 67601072,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67601072,
+            "name": "olufela olufemi michael",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1978,
+            "birthMonth": 8,
+            "birthDate": 15,
+            "address": "NO. 7, GENERAL HOSPITAL ROAD",
+            "countryOfResidence": "NIGERIA",
+            "number": "12345",
+            "documentType": "Driver's License",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159480834,
+          "companyId": 61417438,
+          "personId": 67601072,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 250000,
+          "person": {
+            "id": 67601072,
+            "name": "olufela olufemi michael",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1978,
+            "birthMonth": 8,
+            "birthDate": 15,
+            "address": "NO. 7, GENERAL HOSPITAL ROAD",
+            "countryOfResidence": "NIGERIA",
+            "number": "12345",
+            "documentType": "Driver's License",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159480832,
+          "companyId": 61417438,
+          "personId": 67601074,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 67601074,
+            "name": "faleye omotola",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1969,
+            "birthMonth": 12,
+            "birthDate": 17,
+            "address": "11, TAJUDEEN OLUSOGA STREET ORILOWO, EJIGBO",
+            "countryOfResidence": "NIGERIA",
+            "number": "12345",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [
+            {
+              "name": "HEGAMOR OIL TRADING & LOGISTICS SOLUTION LTD",
+              "internationalNumber": "RC-1237448"
+            },
+            {
+              "name": "PARIES PROTO NIG LTD",
+              "internationalNumber": "RC-1311554"
+            },
+            {
+              "name": "KOTECH ROOF LIMITED",
+              "internationalNumber": "RC-1315249"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 250525082,
+          "companyId": 61417438,
+          "personId": 98288825,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 98288825,
+            "name": "onyeabor victor ogoli",
+            "countryId": 24,
+            "address": "PLOT 9,LADIPO OLUWELE,OFF ADENIYI                 ",
+            "email": "onyeaborogolidassociates@gmail.com                ",
+            "phone": "08099348093         ",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "IZONDISE RESOURCES & DEV. CO. LTD",
+              "internationalNumber": "RC-1221839"
+            },
+            {
+              "name": "AKPISO LOGISTICS LTD",
+              "internationalNumber": "RC-1222630"
+            },
+            {
+              "name": "3 O. J. INVESTMENT NIGERIA LIMITED",
+              "internationalNumber": "RC-1226499"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 250525085,
+          "companyId": 61417438,
+          "personId": 101552500,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 250000,
+          "person": {
+            "id": 101552500,
+            "name": "oluboye ariyo",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1979,
+            "birthMonth": 4,
+            "birthDate": 29,
+            "address": "NO. 7, GENERAL HOSPITAL ROAD",
+            "countryOfResidence": "NIGERIA",
+            "number": "A055892395",
+            "documentType": "International Passport",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Olu**** Oye****",
+          "contacts": {
+            "email": [
+              "oye***************"
+            ],
+            "phone": [
+              "080********"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 4,
+        "null": 1
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

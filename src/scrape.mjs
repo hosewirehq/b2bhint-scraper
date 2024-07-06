@@ -1,5 +1,8 @@
 #!/usr/bin/env zx
 
+const argv = minimist(process.argv.slice(2));
+const { year, fromPage, toPage } = argv;
+
 const fs = require('fs');
 
 // Import the CompanyItemProcessor class
@@ -15,13 +18,12 @@ const puppeteer = require('puppeteer-extra');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 puppeteer.use(StealthPlugin());
 
-async function generateUrls(data) {
+async function generateUrls() {
     const urls = [];
-    const yearsWithPages = JSON.parse(data);
 
-    yearsWithPages.forEach(({ year, pages }) =>
-        pages.forEach(page => urls.push(`https://b2bhint.com/en/search?country=24&years=${year}&page=${page}`))
-    );
+    for (let i = fromPage; i <= toPage; i++) {
+        urls.push(`https://b2bhint.com/en/search?country=24&years=${year}&page=${i}`)
+    }
 
     return urls;
 }
@@ -73,7 +75,7 @@ async function crawlURL(browser, url) {
         args: ['--no-sandbox', '--disable-setuid-sandbox'],
         timeout: 0,
     });
-    const urls = await generateUrls(fs.readFileSync('./src/Data/pages-by-year.json', 'utf8'));
+    const urls = await generateUrls();
 
     // Use Promise.all to wait for all crawlURL operations to complete
     // await Promise.all(urls.map(url => crawlURL(browser, url)));
