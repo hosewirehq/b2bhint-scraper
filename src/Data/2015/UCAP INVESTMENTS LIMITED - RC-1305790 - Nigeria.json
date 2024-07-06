@@ -1,0 +1,594 @@
+[
+  {
+    "year": "2015",
+    "title": "UCAP INVESTMENTS LIMITED - RC-1305790 - Nigeria",
+    "description": "UCAP INVESTMENTS LIMITED Nigeria company, Company number: RC-1305790, Incorporation Date Dec 17, 2015;, Address: UBA HOUSE (12TH FLOOR) 57, MARINA, IKOYI, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61418467,
+      "name": "UCAP INVESTMENTS LIMITED",
+      "internationalNumber": "RC-1305790",
+      "localNumber": "1305790",
+      "countryId": 24,
+      "dateCreated": "2015-12-17T00:00:00.000Z",
+      "createdAt": "2021-05-24T15:33:00.560Z",
+      "updatedAt": "2024-06-15T15:19:30.789Z",
+      "alternateNames": [],
+      "address": "UBA HOUSE (12TH FLOOR) 57, MARINA, IKOYI, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "10000000",
+      "historicalNames": [],
+      "activityDescription": "",
+      "providerId": "3337931",
+      "updatedAtSitemap": "2023-06-09T17:51:10.000Z",
+      "oldInternationalNumber": "1305790",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 541,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197051,
+          "providerId": "143241",
+          "providerName": "Financial services activities, except insurance and pension funding",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:15.008256+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 99301511,
+          "address": "UBA HOUSE (12TH FLOOR) 57, MARINA, IKOYI, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 159476509,
+          "companyId": 61418467,
+          "personId": 67598022,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 1,
+          "person": {
+            "id": 67598022,
+            "name": "mrs. sanni oluwatoyin",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1965,
+            "birthMonth": 9,
+            "birthDate": 9,
+            "address": "UBA HOUSE (12TH FLOOR), 57 MARINA,",
+            "countryOfResidence": "NIGERIA",
+            "number": "A01581391",
+            "documentType": "International Passport",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159476510,
+          "companyId": 61418467,
+          "personId": 67598023,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 2499999,
+          "person": {
+            "id": 67598023,
+            "name": "united capital asset management limited",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1970,
+            "birthMonth": 4,
+            "birthDate": 9,
+            "address": "UBA HOUSE (12TH FLOOR), 57 MARINA,",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06260433",
+            "documentType": "International Passport",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 250521267,
+          "companyId": 61418467,
+          "personId": 101072846,
+          "roleId": 60320,
+          "appointedOn": "2021-03-01",
+          "sourceNum": 1,
+          "person": {
+            "id": 101072846,
+            "name": "samaila kabiru bulum",
+            "countryId": 24,
+            "address": "",
+            "documentType": "National Identification Number",
+            "email": "kbsamaila@cac.gov.ng",
+            "phone": "08123975755",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "DALLASCENTS PHARMACEUTICALS AND SUPERSTORES",
+              "internationalNumber": "BN-3015113"
+            },
+            {
+              "name": "BREEZCOM FX BUREAU DE CHANGE LIMITED",
+              "internationalNumber": "RC-1770486"
+            },
+            {
+              "name": "TRUST MICROFINANCE BANK NIGERIA LIMITED  ",
+              "internationalNumber": "RC-327143"
+            },
+            {
+              "name": "DANCA BUSINESS CONCEPT NIG. LTD",
+              "internationalNumber": "RC-1671770"
+            },
+            {
+              "name": "ASB INTEGRATED BUSINESS",
+              "internationalNumber": "BN-3124434"
+            },
+            {
+              "name": "METRO DAN BOOKS VENTURES",
+              "internationalNumber": "BN-2445792"
+            },
+            {
+              "name": "OCHUAP BOKI NIG LIMITED",
+              "internationalNumber": "RC-1492799"
+            },
+            {
+              "name": "MOB  ENERGY  COMPANY",
+              "internationalNumber": "BN-3100977"
+            },
+            {
+              "name": "IBN AAMIR QUR'ANIC MEMORIZATION AND ISLAMIC STUDIES SCHOOL",
+              "internationalNumber": "BN-3092061"
+            },
+            {
+              "name": "HAM UNIC STAR NIGERIA LIMITED",
+              "internationalNumber": "RC-699803"
+            },
+            {
+              "name": "DAHIRU & RABIU TRANSPORT 2",
+              "internationalNumber": "BN-ZA1181"
+            },
+            {
+              "name": "KHAYSONIZ NIG LTD",
+              "internationalNumber": "RC-965797"
+            },
+            {
+              "name": "SOLUTIONS HIVE LIMITED",
+              "internationalNumber": "RC-1375392"
+            },
+            {
+              "name": "CAPCAF INTERNATIONAL LTD",
+              "internationalNumber": "RC-1372344"
+            },
+            {
+              "name": "WACOT RICE LIMITED",
+              "internationalNumber": "RC-1209432"
+            },
+            {
+              "name": "CHUKSLYN  INTERNATIONAL ENTERPRISES",
+              "internationalNumber": "BN-3107065"
+            },
+            {
+              "name": "WISVIAN AGENCIES NIG LTD",
+              "internationalNumber": "RC-1717320"
+            },
+            {
+              "name": "ANENE & ASSOCIATES",
+              "internationalNumber": "BN-LAZ083112"
+            },
+            {
+              "name": "VELMA SOLICITORS",
+              "internationalNumber": "BN-2174166"
+            },
+            {
+              "name": "IBN TAIMIYYAH NURSERY AND PRIMARY SCHOOL MARERI",
+              "internationalNumber": "BN-ZA1175"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 250521263,
+          "companyId": 61418467,
+          "personId": 101125652,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 101125652,
+            "name": "llc direct registration",
+            "countryId": 24,
+            "address": "N/A",
+            "email": "N/A",
+            "phone": "N/A",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "OMAZUS JOINT TECH LTD",
+              "internationalNumber": "RC-1325250"
+            },
+            {
+              "name": "SLOGAN 4REAL INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-1320678"
+            },
+            {
+              "name": "CEV - MUSTARD GLOBAL LIMITED",
+              "internationalNumber": "RC-1317407"
+            },
+            {
+              "name": "KHRISTARS SOLUTIONS INTEGRATED SERVICES LTD",
+              "internationalNumber": "RC-1319194"
+            },
+            {
+              "name": "ABASA CONSTRUCTION COMPANY LTD",
+              "internationalNumber": "RC-1320475"
+            },
+            {
+              "name": "LIMAN ZAKI PETROLEUM RESOURCES LTD",
+              "internationalNumber": "RC-1325021"
+            },
+            {
+              "name": "KINMAT PHARMACY LTD",
+              "internationalNumber": "RC-1362269"
+            },
+            {
+              "name": "INDUCE GLOBAL SERVICES LTD",
+              "internationalNumber": "RC-1323301"
+            },
+            {
+              "name": "MEEVA GREEN CONSULTING LIMITED",
+              "internationalNumber": "RC-1320345"
+            },
+            {
+              "name": "TAJAD ROYAL HOTEL LTD",
+              "internationalNumber": "RC-1317102"
+            },
+            {
+              "name": "DIEU COMMUNICATION LTD",
+              "internationalNumber": "RC-1320644"
+            },
+            {
+              "name": "OKEOSUSU RESOURCES NIG LTD",
+              "internationalNumber": "RC-1323204"
+            },
+            {
+              "name": "FRONTLIFE XCLUSIVE MULTI CONCEPT LTD",
+              "internationalNumber": "RC-1367359"
+            },
+            {
+              "name": "HAGLOZY RESOURCES LTD",
+              "internationalNumber": "RC-1356286"
+            },
+            {
+              "name": "MYSTICAL ROSE PHARMACY LTD",
+              "internationalNumber": "RC-1478080"
+            },
+            {
+              "name": "DESYRAJ GLOBAL RESOURCES NIG. LIMITED",
+              "internationalNumber": "RC-1365316"
+            },
+            {
+              "name": "KAIMA CONSULT NIG LTD",
+              "internationalNumber": "RC-1317353"
+            },
+            {
+              "name": "RAVDON TRAVEL AGENCY LTD",
+              "internationalNumber": "RC-1323536"
+            },
+            {
+              "name": "SOLARMAN AGRICULTURAL SERVICES LTD",
+              "internationalNumber": "RC-1355358"
+            },
+            {
+              "name": "KAKA COMMUNICATION LTD",
+              "internationalNumber": "RC-1317841"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 250521266,
+          "companyId": 61418467,
+          "personId": 101548878,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 101548878,
+            "name": "okafor leo",
+            "countryId": 24,
+            "address": "7, ALFRED REWANE ROAD IKOYI  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Ugi**** Fav*** Ito***",
+          "contacts": {
+            "phone": [
+              "803*******"
+            ],
+            "email": [
+              "iug****************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 4,
+        "null": 1
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

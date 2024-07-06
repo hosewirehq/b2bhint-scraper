@@ -1,0 +1,451 @@
+[
+  {
+    "year": "2015",
+    "title": "AHAD GLOBAL SYSTEM LTD - RC-1305863 - Nigeria",
+    "description": "AHAD GLOBAL SYSTEM LTD Nigeria company, Company number: RC-1305863, Incorporation Date Dec 18, 2015;, Address: NO. 32 BEIRUT ROAD, KANO, KANO STATE",
+    "company": {
+      "id": 61417757,
+      "name": "AHAD GLOBAL SYSTEM LTD",
+      "internationalNumber": "RC-1305863",
+      "localNumber": "1305863",
+      "countryId": 24,
+      "dateCreated": "2015-12-18T00:00:00.000Z",
+      "createdAt": "2021-05-24T15:27:32.742Z",
+      "updatedAt": "2024-06-15T15:19:32.072Z",
+      "alternateNames": [],
+      "address": "NO. 32 BEIRUT ROAD, KANO, KANO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "3337647",
+      "updatedAtSitemap": "2023-06-09T17:51:10.000Z",
+      "oldInternationalNumber": "1305863",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 618,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [],
+      "addresses": [
+        {
+          "id": 91972391,
+          "address": "NO. 32 BEIRUT ROAD, KANO, KANO STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "HUZY COMMUNICATIONS AND ASSOCIATES",
+              "internationalNumber": "BN-3229561"
+            },
+            {
+              "name": "AUTA GLOBAL COMMUNICATION ENTERPRISES",
+              "internationalNumber": "BN-3228462"
+            },
+            {
+              "name": "YGN LOGISTICS LTD",
+              "internationalNumber": "RC-1566455"
+            },
+            {
+              "name": "SANI M-TECH GLOBAL & GENERAL ENTERPRISES",
+              "internationalNumber": "BN-3597457"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 159479495,
+          "companyId": 61417757,
+          "personId": 67600122,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67600122,
+            "name": "tijjani ahmad badawi",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1971,
+            "birthMonth": 3,
+            "birthDate": 20,
+            "address": "NO. 1196 DORAYI YAMADAWA",
+            "countryOfResidence": "NIGERIA",
+            "number": "DKA16671AA02",
+            "documentType": "Driver's License",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159479499,
+          "companyId": 61417757,
+          "personId": 67600122,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 700000,
+          "person": {
+            "id": 67600122,
+            "name": "tijjani ahmad badawi",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1971,
+            "birthMonth": 3,
+            "birthDate": 20,
+            "address": "NO. 1196 DORAYI YAMADAWA",
+            "countryOfResidence": "NIGERIA",
+            "number": "DKA16671AA02",
+            "documentType": "Driver's License",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159479496,
+          "companyId": 61417757,
+          "personId": 67600123,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67600123,
+            "name": "tijjani muhammad ahmad",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1986,
+            "birthMonth": 3,
+            "birthDate": 2,
+            "address": "NO. 43 OC ENGINEERS LINE KABUGA HOUSING ESTATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "DUT6743AA1",
+            "documentType": "Driver's License",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159479498,
+          "companyId": 61417757,
+          "personId": 67600123,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 67600123,
+            "name": "tijjani muhammad ahmad",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1986,
+            "birthMonth": 3,
+            "birthDate": 2,
+            "address": "NO. 43 OC ENGINEERS LINE KABUGA HOUSING ESTATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "DUT6743AA1",
+            "documentType": "Driver's License",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159479500,
+          "companyId": 61417757,
+          "personId": 67600123,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 300000,
+          "person": {
+            "id": 67600123,
+            "name": "tijjani muhammad ahmad",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1986,
+            "birthMonth": 3,
+            "birthDate": 2,
+            "address": "NO. 43 OC ENGINEERS LINE KABUGA HOUSING ESTATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "DUT6743AA1",
+            "documentType": "Driver's License",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Abd******  Sul*****",
+          "contacts": {
+            "email": [
+              "sab***********************"
+            ],
+            "phone": [
+              "080*********"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 4,
+        "null": 1
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
