@@ -1,0 +1,591 @@
+[
+  {
+    "year": "2016",
+    "title": "FILGLAD PROPERTIES LIMITED - RC-1382292 - Nigeria",
+    "description": "FILGLAD PROPERTIES LIMITED Nigeria company, Company number: RC-1382292, Incorporation Date Dec 28, 2016;, Address: 13 SAJI AYANGADE STREET, ANTHONY VILLAGE, LAGOS STATE",
+    "company": {
+      "id": 63603719,
+      "name": "FILGLAD PROPERTIES LIMITED",
+      "internationalNumber": "RC-1382292",
+      "localNumber": "1382292",
+      "countryId": 24,
+      "dateCreated": "2016-12-28T00:00:00.000Z",
+      "createdAt": "2021-06-05T06:35:00.714Z",
+      "updatedAt": "2024-06-15T16:20:01.028Z",
+      "alternateNames": [],
+      "address": "13 SAJI AYANGADE STREET, ANTHONY VILLAGE, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "3928876",
+      "updatedAtSitemap": "2023-06-09T19:32:42.000Z",
+      "oldInternationalNumber": "1382292",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 949,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [],
+      "addresses": [
+        {
+          "id": 92051310,
+          "address": "13 SAJI AYANGADE STREET, ANTHONY VILLAGE, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "FILGLAD SCHOOLS LIMITED",
+              "internationalNumber": "RC-1382305"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 227280391,
+          "companyId": 63603719,
+          "personId": 93364838,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 93364838,
+            "name": "ayemoba-fidelis gladys enifomhe",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1980,
+            "birthMonth": 8,
+            "birthDate": 19,
+            "address": "13 SAJI AYANGADE STREET",
+            "countryOfResidence": "NIGERIA",
+            "number": "A03361003",
+            "documentType": "International Passport",
+            "email": "",
+            "phone": "08187491205",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "FILGLAD PHARMACY LIMITED",
+              "internationalNumber": "RC-1389579"
+            },
+            {
+              "name": "FILGLAD SCHOOLS LIMITED",
+              "internationalNumber": "RC-1382305"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 227280392,
+          "companyId": 63603719,
+          "personId": 93364838,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 93364838,
+            "name": "ayemoba-fidelis gladys enifomhe",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1980,
+            "birthMonth": 8,
+            "birthDate": 19,
+            "address": "13 SAJI AYANGADE STREET",
+            "countryOfResidence": "NIGERIA",
+            "number": "A03361003",
+            "documentType": "International Passport",
+            "email": "",
+            "phone": "08187491205",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [
+            {
+              "name": "FILGLAD PHARMACY LIMITED",
+              "internationalNumber": "RC-1389579"
+            },
+            {
+              "name": "FILGLAD SCHOOLS LIMITED",
+              "internationalNumber": "RC-1382305"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 227280394,
+          "companyId": 63603719,
+          "personId": 93364838,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 300000,
+          "person": {
+            "id": 93364838,
+            "name": "ayemoba-fidelis gladys enifomhe",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1980,
+            "birthMonth": 8,
+            "birthDate": 19,
+            "address": "13 SAJI AYANGADE STREET",
+            "countryOfResidence": "NIGERIA",
+            "number": "A03361003",
+            "documentType": "International Passport",
+            "email": "",
+            "phone": "08187491205",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "FILGLAD PHARMACY LIMITED",
+              "internationalNumber": "RC-1389579"
+            },
+            {
+              "name": "FILGLAD SCHOOLS LIMITED",
+              "internationalNumber": "RC-1382305"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 227280396,
+          "companyId": 63603719,
+          "personId": 93367447,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 50000,
+          "person": {
+            "id": 93367447,
+            "name": "flourish odufa ayemoba-fidelis",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 2009,
+            "birthMonth": 12,
+            "birthDate": 19,
+            "address": "13 SAJI AYANGADE STREET",
+            "countryOfResidence": "NIGERIA",
+            "number": "A03361004",
+            "documentType": "International Passport",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "FILGLAD FLOURISH FASHION LIMITED",
+              "internationalNumber": "RC-1382395"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 227280398,
+          "companyId": 63603719,
+          "personId": 93368242,
+          "roleId": 60321,
+          "percentage": 50,
+          "appointedOn": "2021-11-25",
+          "votingShares": "50%",
+          "sourceNum": 1,
+          "person": {
+            "id": 93368242,
+            "name": "ayemoba fidelis  momodu",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "SAJI AYANGADE, 13",
+            "countryOfResidence": "NIGERIA",
+            "number": "B00117871",
+            "documentType": "PREFERENCE",
+            "email": "fidelisayemoba@hotmail.com",
+            "phone": "08036269812",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 248574381,
+          "companyId": 63603719,
+          "personId": 96465523,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96465523,
+            "name": "benedict omale ocholi",
+            "countryId": 24,
+            "address": "SUITE SA 86, BANEX  PLAZA VOM WUSE 11, ABUJA      ",
+            "email": "barryben2005@yahoo.com                            ",
+            "phone": "08033155021         ",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "POLYGLOBES NIGERIA LIMITED",
+              "internationalNumber": "RC-1362151"
+            },
+            {
+              "name": "FILGLAD SCHOOLS LIMITED",
+              "internationalNumber": "RC-1382305"
+            },
+            {
+              "name": "DON-PHILIPS VENTURES",
+              "internationalNumber": "BN-2486485"
+            },
+            {
+              "name": "GRAMMY PHARMACY LIMITED",
+              "internationalNumber": "RC-1375358"
+            },
+            {
+              "name": "KEBAAS VENTURES",
+              "internationalNumber": "BN-2362638"
+            },
+            {
+              "name": "JAYKZ ENTERPRISES",
+              "internationalNumber": "BN-2493007"
+            },
+            {
+              "name": "COMMINTBUKA LIMITED",
+              "internationalNumber": "RC-1359960"
+            },
+            {
+              "name": "JKAPORTA NIGERIA LIMITED",
+              "internationalNumber": "RC-1310185"
+            },
+            {
+              "name": "FARUK SANI CHAMBERS",
+              "internationalNumber": "BN-2476872"
+            },
+            {
+              "name": "ROUNDWOOD LIMITED",
+              "internationalNumber": "RC-1366679"
+            },
+            {
+              "name": "BLESSED SUNNY VITECH RESOURCES LIMITED",
+              "internationalNumber": "RC-1252266"
+            },
+            {
+              "name": "A2Z GLOBAL COMMODITIES NIGERIA LIMITED",
+              "internationalNumber": "RC-1245666"
+            },
+            {
+              "name": "FILGLAD FLOURISH FASHION LIMITED",
+              "internationalNumber": "RC-1382395"
+            },
+            {
+              "name": "ESE - TECH SUPPORT ENTERPRISE",
+              "internationalNumber": "BN-2324507"
+            },
+            {
+              "name": "CHARTERED INSTITUTE OF BANKERS OF NIGERIA CENTRE FOR FINANCIAL STUDIES LTD/GTE",
+              "internationalNumber": "RC-1307166"
+            },
+            {
+              "name": "FUNBOOTHNG SELFIE STATION",
+              "internationalNumber": "BN-2485102"
+            },
+            {
+              "name": "MICMARK GLOBAL RESOURCES LIMITED",
+              "internationalNumber": "RC-1374167"
+            },
+            {
+              "name": "FUMIGATE MASTERS LIMITED",
+              "internationalNumber": "RC-1240511"
+            },
+            {
+              "name": "IFAWCH INTEGRATED CONCEPT LIMITED",
+              "internationalNumber": "RC-1359672"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Och*** Ben***** Oma**",
+          "contacts": {
+            "email": [
+              "bar*******************"
+            ],
+            "phone": [
+              "080********"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "10",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 5,
+        "2": 3,
+        "null": 2
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

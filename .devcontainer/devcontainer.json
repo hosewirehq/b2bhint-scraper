@@ -16,7 +16,8 @@
 		8080
 	],
 	"features": {
-		"ghcr.io/devcontainers/features/node:1": {}
+		"ghcr.io/devcontainers/features/node:1": {},
+		"ghcr.io/kreemer/features/chrometesting:1": {}
 	}
 
 	// Use 'postCreateCommand' to run commands after the container is created.

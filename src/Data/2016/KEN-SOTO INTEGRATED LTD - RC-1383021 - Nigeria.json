@@ -1,0 +1,492 @@
+[
+  {
+    "year": "2016",
+    "title": "KEN-SOTO INTEGRATED LTD - RC-1383021 - Nigeria",
+    "description": "KEN-SOTO INTEGRATED LTD Nigeria company, Company number: RC-1383021, Incorporation Date Dec 29, 2016;, Address: 17B, FEDERAL HOUSING ESTATE, OWERRI WEST, IMO STATE",
+    "company": {
+      "id": 63632404,
+      "name": "KEN-SOTO INTEGRATED LTD",
+      "internationalNumber": "RC-1383021",
+      "localNumber": "1383021",
+      "countryId": 24,
+      "dateCreated": "2016-12-29T00:00:00.000Z",
+      "createdAt": "2021-06-05T11:04:55.434Z",
+      "updatedAt": "2024-06-15T16:19:41.381Z",
+      "alternateNames": [],
+      "address": "17B, FEDERAL HOUSING ESTATE, OWERRI WEST, IMO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "3935564",
+      "updatedAtSitemap": "2023-06-09T19:32:11.000Z",
+      "oldInternationalNumber": "1383021",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 546,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [],
+      "addresses": [
+        {
+          "id": 92066712,
+          "address": "17B, FEDERAL HOUSING ESTATE, OWERRI WEST, IMO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 227087452,
+          "companyId": 63632404,
+          "personId": 93285222,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 93285222,
+            "name": "egbebu kenneth chijioke",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1976,
+            "birthMonth": 8,
+            "birthDate": 13,
+            "address": "17B, FEDERAL HOUSING ESTATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "123456",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 227087455,
+          "companyId": 63632404,
+          "personId": 93285222,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 700000,
+          "person": {
+            "id": 93285222,
+            "name": "egbebu kenneth chijioke",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1976,
+            "birthMonth": 8,
+            "birthDate": 13,
+            "address": "17B, FEDERAL HOUSING ESTATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "123456",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 227087453,
+          "companyId": 63632404,
+          "personId": 93285223,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 93285223,
+            "name": "egbebu chioma jennifer",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1982,
+            "birthMonth": 4,
+            "birthDate": 25,
+            "address": "17B, FEDERAL HOUSING ESTATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "123456",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 227087456,
+          "companyId": 63632404,
+          "personId": 93285223,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 300000,
+          "person": {
+            "id": 93285223,
+            "name": "egbebu chioma jennifer",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1982,
+            "birthMonth": 4,
+            "birthDate": 25,
+            "address": "17B, FEDERAL HOUSING ESTATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "123456",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241580534,
+          "companyId": 63632404,
+          "personId": 97398332,
+          "roleId": 60336,
+          "sourceNum": 1,
+          "person": {
+            "id": 97398332,
+            "name": "onyeka paul chikezie",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "SUITES 1&2, AOSEE PLAZA, FESTAC 3RD GATE",
+            "number": "KJA22091AA01",
+            "documentType": "Driver's License",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60336,
+            "name": "Affiliate",
+            "countryId": 24,
+            "translation": {
+              "en": "Affiliate"
+            }
+          },
+          "companies": [
+            {
+              "name": "MARK & MICH INTEGRATED SERVICES LTD",
+              "internationalNumber": "RC-1243464"
+            },
+            {
+              "name": "SYMBUILD NIG LTD",
+              "internationalNumber": "RC-1234170"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 248491955,
+          "companyId": 63632404,
+          "personId": 100938543,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 100938543,
+            "name": "onyeka paul chikezie",
+            "countryId": 24,
+            "address": "01 & 02, AOSEE PLAZA, FESTAC 3RD GATE, FESTAC TOWN, LAGOS.",
+            "countryOfResidence": "NIGERIA",
+            "email": "paulo2net@yahoo.com",
+            "phone": "2348037068680",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [
+            {
+              "name": "IKECHUKWU C. OKOYE & CO",
+              "internationalNumber": "BN-2331662"
+            },
+            {
+              "name": "FREEWINGS INTEGRATED SERVICES LTD",
+              "internationalNumber": "RC-1248733"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Jud*** O Nze***",
+          "contacts": {
+            "phone": [
+              "234**********"
+            ],
+            "email": [
+              "vik*************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 3,
+        "null": 2
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

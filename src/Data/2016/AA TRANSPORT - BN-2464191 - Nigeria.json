@@ -1,0 +1,415 @@
+[
+  {
+    "year": "2016",
+    "title": "AA TRANSPORT - BN-2464191 - Nigeria",
+    "description": "AA TRANSPORT Nigeria company, Company number: BN-2464191, Incorporation Date Dec 6, 2016;, Address: 15, DAVID OLADAPO CRESCENT, SANGOTEDO, LAGOS STATE",
+    "company": {
+      "id": 63576016,
+      "name": "AA TRANSPORT",
+      "internationalNumber": "BN-2464191",
+      "localNumber": "2464191",
+      "countryId": 24,
+      "dateCreated": "2016-12-06T00:00:00.000Z",
+      "createdAt": "2021-06-05T02:40:54.366Z",
+      "updatedAt": "2024-06-15T16:20:20.781Z",
+      "alternateNames": [],
+      "address": "15, DAVID OLADAPO CRESCENT, SANGOTEDO, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99332,
+      "historicalNames": [],
+      "providerId": "3920489",
+      "updatedAtSitemap": "2023-06-09T19:33:23.000Z",
+      "oldInternationalNumber": "2464191",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99332,
+        "type": "Business name - partnership",
+        "countryId": 24,
+        "translation": {
+          "en": "Partnership"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 636,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197028,
+          "providerId": "199155",
+          "providerName": "Road Transportation services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:01:51.497907+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 89371460,
+          "address": "15, DAVID OLADAPO CRESCENT, SANGOTEDO, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "EASY RENTALS",
+              "internationalNumber": "BN-2349606"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 227475690,
+          "companyId": 63576016,
+          "personId": 93456054,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 93456054,
+            "name": "kudira aliu-muhammad",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigerian",
+            "birthYear": 1989,
+            "birthMonth": 12,
+            "birthDate": 26,
+            "address": "15, DAVID OLADAPO CRESCENT",
+            "countryOfResidence": "NIGERIA",
+            "number": "12345",
+            "documentType": "Permanent Voters' Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242132908,
+          "companyId": 63576016,
+          "personId": 98869237,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 98869237,
+            "name": "zubair muhammad",
+            "countryId": 24,
+            "address": "SHEMA TOWN FASKARI LG  FASKARI                                                                                               KATSINA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 248658712,
+          "companyId": 63576016,
+          "personId": 101072129,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 101072129,
+            "name": "business name registration agent",
+            "countryId": 24,
+            "address": "N/A",
+            "countryOfResidence": "NIGERIA",
+            "email": "N/A",
+            "phone": "N/A",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "KEYINFU ENTERPRISES",
+              "internationalNumber": "BN-2396504"
+            },
+            {
+              "name": "K . BOY AND SONS ENTERPRISE",
+              "internationalNumber": "BN-2458001"
+            },
+            {
+              "name": "1STOP COLLECTIBLES",
+              "internationalNumber": "BN-2458687"
+            },
+            {
+              "name": "SIKTKAB STORE VENTURES",
+              "internationalNumber": "BN-2457526"
+            },
+            {
+              "name": "OCEANIC SUPERMARKET AND BAR",
+              "internationalNumber": "BN-2392285"
+            },
+            {
+              "name": "QUEEN JUMMY VENTURES",
+              "internationalNumber": "BN-2461577"
+            },
+            {
+              "name": "LUGARD -ONOS- VENTURE",
+              "internationalNumber": "BN-2513906"
+            },
+            {
+              "name": "BLESSED RENCE GLOBAL ENTERPRISES",
+              "internationalNumber": "BN-2461043"
+            },
+            {
+              "name": "SPARK AND LIGHTEN WAVE",
+              "internationalNumber": "BN-2467447"
+            },
+            {
+              "name": "RAMSAK ROAD TRANSPORTATION SERVICES",
+              "internationalNumber": "BN-2391948"
+            },
+            {
+              "name": "HABFIELD ENTERPRISE",
+              "internationalNumber": "BN-2458216"
+            },
+            {
+              "name": "OKPAME RESOURCES & LOGISTICS",
+              "internationalNumber": "BN-2522865"
+            },
+            {
+              "name": "A.R. JIBIA GENERAL MERCHANDISE",
+              "internationalNumber": "BN-2515383"
+            },
+            {
+              "name": "XYZ TENDER YEARS",
+              "internationalNumber": "BN-2467938"
+            },
+            {
+              "name": "CORNERSTONE TIMBER SHADE GLOBAL VENTURES",
+              "internationalNumber": "BN-2456520"
+            },
+            {
+              "name": "LOYALDRIVE GLOBAL SYSTEMS",
+              "internationalNumber": "BN-2457305"
+            },
+            {
+              "name": "SAMROSE AQUATIC AND AGRO ALLIED FARMS",
+              "internationalNumber": "BN-2467039"
+            },
+            {
+              "name": "MAKEMEGLAM-GBP ENTERPRISES",
+              "internationalNumber": "BN-2520740"
+            },
+            {
+              "name": "AGNES IBIDESS ENTERPRISES",
+              "internationalNumber": "BN-2448575"
+            },
+            {
+              "name": "DERREK GLOBAL VENTURES",
+              "internationalNumber": "BN-2398108"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Rah*** Ido** Aki*******",
+          "contacts": {
+            "phone": [
+              "080********"
+            ],
+            "email": [
+              "abd*************************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 1
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

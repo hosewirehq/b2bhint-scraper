@@ -1,0 +1,478 @@
+[
+  {
+    "year": "2016",
+    "title": "REXOMORPH LIMITED - RC-1380532 - Nigeria",
+    "description": "REXOMORPH LIMITED Nigeria company, Company number: RC-1380532, Incorporation Date Dec 15, 2016;, Address: F673 ALABA INTERNATIONAL MARKET, OJO, LAGOS STATE",
+    "company": {
+      "id": 63353452,
+      "name": "REXOMORPH LIMITED",
+      "internationalNumber": "RC-1380532",
+      "localNumber": "1380532",
+      "countryId": 24,
+      "dateCreated": "2016-12-15T00:00:00.000Z",
+      "createdAt": "2021-06-03T02:29:49.243Z",
+      "updatedAt": "2024-06-15T15:32:36.310Z",
+      "alternateNames": [],
+      "address": "F673 ALABA INTERNATIONAL MARKET, OJO, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "3869185",
+      "updatedAtSitemap": "2023-06-09T17:23:34.000Z",
+      "oldInternationalNumber": "1380532",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 661,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197668,
+          "providerId": "199362",
+          "providerName": "Production and Distribution of Renewable Energy",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:18:15.83269+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100955272,
+          "address": "F673 ALABA INTERNATIONAL MARKET, OJO, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "TERSUS SOLAR COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-1404774"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 243533221,
+          "companyId": 63353452,
+          "personId": 99020546,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 99020546,
+            "name": "osondu michael dira",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1996,
+            "birthMonth": 5,
+            "birthDate": 22,
+            "address": "1 victor ogundipe street",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06200588",
+            "documentType": "International Passport",
+            "email": "Dirraj1@gmail.com",
+            "phone": "2348137468562",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "TERSUS SOLAR COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-1404774"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243533220,
+          "companyId": 63353452,
+          "personId": 99501713,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99501713,
+            "name": "osondu michael",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1996,
+            "birthMonth": 5,
+            "birthDate": 22,
+            "address": "1\r\nvictor ogundipe street",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06200588",
+            "documentType": "International Passport",
+            "email": "Dirraj1@gmail.com",
+            "phone": "2348137468562",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "HOTSPOT JEWELRY LIMITED",
+              "internationalNumber": "RC-1434687"
+            },
+            {
+              "name": "TERSUS SOLAR COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-1404774"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243533223,
+          "companyId": 63353452,
+          "personId": 99501713,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 200000,
+          "person": {
+            "id": 99501713,
+            "name": "osondu michael",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1996,
+            "birthMonth": 5,
+            "birthDate": 22,
+            "address": "1\r\nvictor ogundipe street",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06200588",
+            "documentType": "International Passport",
+            "email": "Dirraj1@gmail.com",
+            "phone": "2348137468562",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "HOTSPOT JEWELRY LIMITED",
+              "internationalNumber": "RC-1434687"
+            },
+            {
+              "name": "TERSUS SOLAR COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-1404774"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243533224,
+          "companyId": 63353452,
+          "personId": 99501714,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 200000,
+          "person": {
+            "id": 99501714,
+            "name": "abesina damilola quadri",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1992,
+            "birthMonth": 1,
+            "birthDate": 7,
+            "address": "No. 3, Independence hall close, igando-egan",
+            "countryOfResidence": "NIGERIA",
+            "number": "30630260",
+            "documentType": "Permanent Voters' Card",
+            "email": "abesindammy@gmail.com",
+            "phone": "08139555586",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243533225,
+          "companyId": 63353452,
+          "personId": 99501715,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 99501715,
+            "name": "okhide omouemen ekpen",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1982,
+            "birthMonth": 8,
+            "birthDate": 14,
+            "address": "9/11, COKER STREET, ORILE",
+            "countryOfResidence": "NIGERIA",
+            "number": "12345",
+            "documentType": "Permanent Voters' Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Mic**** Dir* Oso***",
+          "contacts": {
+            "phone": [
+              "234**********"
+            ],
+            "email": [
+              "dir**************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 3,
+        "null": 1
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

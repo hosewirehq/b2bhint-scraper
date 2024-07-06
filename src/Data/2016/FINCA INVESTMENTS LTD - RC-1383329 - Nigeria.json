@@ -1,0 +1,497 @@
+[
+  {
+    "year": "2016",
+    "title": "FINCA INVESTMENTS LTD - RC-1383329 - Nigeria",
+    "description": "FINCA INVESTMENTS LTD Nigeria company, Company number: RC-1383329, Incorporation Date Dec 30, 2016;, Address: PLOT 397, MUHAMMADU BUHARI WAY C B D, WUSE, FCT ABUJA STATE",
+    "company": {
+      "id": 63707534,
+      "name": "FINCA INVESTMENTS LTD",
+      "internationalNumber": "RC-1383329",
+      "localNumber": "1383329",
+      "countryId": 24,
+      "dateCreated": "2016-12-30T00:00:00.000Z",
+      "createdAt": "2021-06-05T22:52:20.191Z",
+      "updatedAt": "2024-06-15T16:11:05.766Z",
+      "alternateNames": [],
+      "address": "PLOT 397, MUHAMMADU BUHARI WAY C B D, WUSE, FCT ABUJA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "10000000",
+      "historicalNames": [],
+      "providerId": "3953663",
+      "updatedAtSitemap": "2023-06-09T19:30:38.000Z",
+      "oldInternationalNumber": "1383329",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 436,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [],
+      "addresses": [
+        {
+          "id": 92113284,
+          "address": "PLOT 397, MUHAMMADU BUHARI WAY C B D, WUSE, FCT ABUJA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 226569049,
+          "companyId": 63707534,
+          "personId": 66437731,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66437731,
+            "name": "indimi mohammed muhammed",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1995,
+            "birthMonth": 11,
+            "birthDate": 20,
+            "address": "22 USUMA STREET, MAITAMA",
+            "countryOfResidence": "NIGERIA",
+            "number": "A07417230",
+            "documentType": "International Passport",
+            "email": "MOHAMMEDINDIMI@GMAIL.COM",
+            "phone": "08175544030",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "OER FARMS  LTD",
+              "internationalNumber": "1613616"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 226569053,
+          "companyId": 63707534,
+          "personId": 66437731,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 2000000,
+          "person": {
+            "id": 66437731,
+            "name": "indimi mohammed muhammed",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1995,
+            "birthMonth": 11,
+            "birthDate": 20,
+            "address": "22 USUMA STREET, MAITAMA",
+            "countryOfResidence": "NIGERIA",
+            "number": "A07417230",
+            "documentType": "International Passport",
+            "email": "MOHAMMEDINDIMI@GMAIL.COM",
+            "phone": "08175544030",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "OER FARMS  LTD",
+              "internationalNumber": "1613616"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 226569046,
+          "companyId": 63707534,
+          "personId": 93055512,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 93055512,
+            "name": "kabiru i. ganaji",
+            "countryId": 24,
+            "address": "PLOT 397, MUHAMMAD BUHARI WAY, CBD",
+            "email": "ganajiibrahim@yahoo.com",
+            "phone": "08072192449",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "OER OFFSHORE GAS LTD",
+              "internationalNumber": "RC-1384072"
+            },
+            {
+              "name": "OER DUTSE SOLAR LTD",
+              "internationalNumber": "RC-1381359"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 226569051,
+          "companyId": 63707534,
+          "personId": 93055513,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 6000000,
+          "person": {
+            "id": 93055513,
+            "name": "indimi alhaji (dr) muhammadu",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1947,
+            "birthMonth": 8,
+            "birthDate": 11,
+            "address": "PLOT 397 MUHAMMADU BUHARI WAY CBD",
+            "countryOfResidence": "NIGERIA",
+            "number": "A50118307",
+            "documentType": "International Passport",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "OER OFFSHORE GAS LTD",
+              "internationalNumber": "RC-1384072"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240855904,
+          "companyId": 63707534,
+          "personId": 98334243,
+          "roleId": 60336,
+          "sourceNum": 1,
+          "person": {
+            "id": 98334243,
+            "name": "ganaji kabiru ibrahim",
+            "countryId": 24,
+            "nationality": "Nigerien",
+            "address": "PLOT 397 MUHAMMADU BUHARI WAY CBD",
+            "number": "000",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60336,
+            "name": "Affiliate",
+            "countryId": 24,
+            "translation": {
+              "en": "Affiliate"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 248282639,
+          "companyId": 63707534,
+          "personId": 101025409,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 101025409,
+            "name": "ganaji kabiru ibrahim",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1977,
+            "birthMonth": 3,
+            "birthDate": 13,
+            "address": "PLOT 397, MUHAMMADU BUHARI WAY, CBD",
+            "countryOfResidence": "NIGERIA",
+            "number": "0000",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "08072192449",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Kab***  I. Gan***",
+          "contacts": {
+            "phone": [
+              "234**********"
+            ],
+            "email": [
+              "gan********************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 3,
+        "2": 4,
+        "null": 2
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

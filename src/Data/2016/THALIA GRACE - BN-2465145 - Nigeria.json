@@ -1,0 +1,295 @@
+[
+  {
+    "year": "2016",
+    "title": "THALIA GRACE - BN-2465145 - Nigeria",
+    "description": "THALIA GRACE Nigeria company, Company number: BN-2465145, Incorporation Date 9 dec 2016;, Address: 7, HARMONY COURT, AFRIC ROAD, IPONRI, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 63640415,
+      "name": "THALIA GRACE",
+      "internationalNumber": "BN-2465145",
+      "localNumber": "2465145",
+      "countryId": 24,
+      "dateCreated": "2016-12-09T00:00:00.000Z",
+      "createdAt": "2021-06-05T12:06:22.241Z",
+      "updatedAt": "2024-06-15T16:19:38.697Z",
+      "alternateNames": [],
+      "address": "7, HARMONY COURT, AFRIC ROAD, IPONRI, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99332,
+      "historicalNames": [],
+      "providerId": "3937821",
+      "updatedAtSitemap": "2023-06-09T19:32:01.000Z",
+      "oldInternationalNumber": "2465145",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99332,
+        "type": "Business name - partnership",
+        "countryId": 24,
+        "translation": {
+          "en": "Partnership"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 759,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196996,
+          "providerId": "199234",
+          "providerName": "Fashion Designing/ Tailoring Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:01:15.243055+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92071280,
+          "address": "7, HARMONY COURT, AFRIC ROAD, IPONRI, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 227015122,
+          "companyId": 63640415,
+          "personId": 72395100,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 72395100,
+            "name": "meze karis ifunanya",
+            "countryId": 24,
+            "occupation": "Fashion designer",
+            "nationality": "Nigerian",
+            "birthYear": 1995,
+            "birthMonth": 5,
+            "birthDate": 19,
+            "address": "House 7, Harmony Court, Afric Road, Iponri, Lagos",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06872903",
+            "documentType": "International Passport",
+            "email": "karismeze@gmail.com",
+            "phone": "2347017566261",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "MICKAR HAIR",
+              "internationalNumber": "BN-2653078"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 227015121,
+          "companyId": 63640415,
+          "personId": 93254591,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 93254591,
+            "name": "meze karis",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1995,
+            "birthMonth": 5,
+            "birthDate": 19,
+            "address": "House 7, Harmony Court, Afric Road, Iponri, Lagos",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06872903",
+            "documentType": "International Passport",
+            "email": "karismeze@gmail.com",
+            "phone": "2347017566261",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Kar** Ifu***** Mez*",
+          "contacts": {
+            "phone": [
+              "234**********"
+            ],
+            "email": [
+              "kar****************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 3
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
