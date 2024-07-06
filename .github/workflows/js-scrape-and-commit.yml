@@ -33,6 +33,7 @@ jobs:
 
       - name: Run script
         run: ./src/scrape.mjs
+        continue-on-error: true
 
       - name: Configure git
         run: |
