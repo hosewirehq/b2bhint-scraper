@@ -17,11 +17,14 @@ jobs:
       - name: Install Node.js and npm
         uses: actions/setup-node@v2
         with:
-          node-version: '14'  # Specify your Node.js version
+          node-version: '20'  # Specify your Node.js version
 
       - name: Install dependencies
         run: npm install  # This will install dependencies including zx if defined in package.json
 
+      - name: Install Chrome testing browser
+        run: npx @puppeteer/browsers install chrome@stable
+        
       - name: Install ZX Globally
         run: npm install -global zx
       
