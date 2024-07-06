@@ -1,0 +1,515 @@
+[
+  {
+    "year": "2015",
+    "title": "JOASCAR AND MULTISERVICE EXPORT LTD - RC-1306891 - Nigeria",
+    "description": "JOASCAR AND MULTISERVICE EXPORT LTD Nigeria company, Company number: RC-1306891, Incorporation Date Dec 23, 2015;, Address: NO 7, POWERLINE BUS STOP NEW OYO IBADAN EXPRESS ROAD, IBADAN, OYO STATE",
+    "company": {
+      "id": 61419393,
+      "name": "JOASCAR AND MULTISERVICE EXPORT LTD",
+      "internationalNumber": "RC-1306891",
+      "localNumber": "1306891",
+      "countryId": 24,
+      "dateCreated": "2015-12-23T00:00:00.000Z",
+      "createdAt": "2021-05-24T15:40:26.609Z",
+      "updatedAt": "2024-06-15T15:19:32.252Z",
+      "alternateNames": [],
+      "address": "NO 7, POWERLINE BUS STOP NEW OYO IBADAN EXPRESS ROAD, IBADAN, OYO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "3338330",
+      "updatedAtSitemap": "2023-06-09T17:51:09.000Z",
+      "oldInternationalNumber": "1306891",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 667,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196924,
+          "providerId": "199237",
+          "providerName": "General Contracts",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:13.437675+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 99312467,
+          "address": "NO 7, POWERLINE BUS STOP NEW OYO IBADAN EXPRESS ROAD, IBADAN, OYO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 159473783,
+          "companyId": 61419393,
+          "personId": 67596340,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67596340,
+            "name": "adebayo shola sunday",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1973,
+            "birthMonth": 4,
+            "birthDate": 19,
+            "address": "NO 7, POWERLINE BUS STOP NEW OYO IBADAN EXPRESS ROAD BESIDE GOODLINK PETROL STATION",
+            "countryOfResidence": "NIGERIA",
+            "number": "12345",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ADEBAYO SHOLA AUTOMOBILES",
+              "internationalNumber": "BN-2488559"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159473786,
+          "companyId": 61419393,
+          "personId": 67596340,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 990000,
+          "person": {
+            "id": 67596340,
+            "name": "adebayo shola sunday",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1973,
+            "birthMonth": 4,
+            "birthDate": 19,
+            "address": "NO 7, POWERLINE BUS STOP NEW OYO IBADAN EXPRESS ROAD BESIDE GOODLINK PETROL STATION",
+            "countryOfResidence": "NIGERIA",
+            "number": "12345",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "ADEBAYO SHOLA AUTOMOBILES",
+              "internationalNumber": "BN-2488559"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159473787,
+          "companyId": 61419393,
+          "personId": 67596341,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 10000,
+          "person": {
+            "id": 67596341,
+            "name": "afolabi olusegun emmanuel",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1981,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "NO 10 BASHORUN EST OPP ONK IWI SCHOOL AKOBO",
+            "countryOfResidence": "NIGERIA",
+            "number": "12345",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159473784,
+          "companyId": 61419393,
+          "personId": 67596341,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67596341,
+            "name": "afolabi olusegun emmanuel",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1981,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "NO 10 BASHORUN EST OPP ONK IWI SCHOOL AKOBO",
+            "countryOfResidence": "NIGERIA",
+            "number": "12345",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159473785,
+          "companyId": 61419393,
+          "personId": 67596342,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 67596342,
+            "name": "jonathan benjamen",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1984,
+            "birthMonth": 12,
+            "birthDate": 11,
+            "address": "NO 7 POWERLINE BUS STOP NEW OYO IB ELR, BESIDE GOODLINK P STATION",
+            "countryOfResidence": "NIGERIA",
+            "number": "12345",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [
+            {
+              "name": "DREAM COME TRUE TRAVEL & TOUR LIMITED",
+              "internationalNumber": "RC-1396717"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 193877369,
+          "companyId": 61419393,
+          "personId": 73127917,
+          "roleId": 60321,
+          "percentage": 10,
+          "appointedOn": "2021-12-15",
+          "votingShares": "10%",
+          "sourceNum": 1,
+          "person": {
+            "id": 73127917,
+            "name": " afolabi olusegun  emmanuel",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "POWERLINE BUS STOP NEW OYO IBADAN EXPRESS ROAD, 7",
+            "countryOfResidence": "NIGERIA",
+            "number": "78376548582",
+            "documentType": "DEFERRED",
+            "email": "Sholasunday01@gmail.com",
+            "phone": "08034784847 ",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Ton** Pri*** Ade****",
+          "contacts": {
+            "phone": [
+              "080********"
+            ],
+            "email": [
+              "ada******************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 3,
+        "null": 3
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

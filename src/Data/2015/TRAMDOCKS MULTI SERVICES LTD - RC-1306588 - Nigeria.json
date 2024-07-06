@@ -1,0 +1,474 @@
+[
+  {
+    "year": "2015",
+    "title": "TRAMDOCKS MULTI SERVICES LTD - RC-1306588 - Nigeria",
+    "description": "TRAMDOCKS MULTI SERVICES LTD Nigeria company, Company number: RC-1306588, Incorporation Date Dec 22, 2015;, Address: NO 35, ABIDJAN STREET, WUSE ZONE 3, ABUJA, FCT ABUJA STATE",
+    "company": {
+      "id": 61460305,
+      "name": "TRAMDOCKS MULTI SERVICES LTD",
+      "internationalNumber": "RC-1306588",
+      "localNumber": "1306588",
+      "countryId": 24,
+      "dateCreated": "2015-12-22T00:00:00.000Z",
+      "createdAt": "2021-05-25T00:18:56.848Z",
+      "updatedAt": "2024-06-15T15:19:48.460Z",
+      "alternateNames": [],
+      "address": "NO 35, ABIDJAN STREET, WUSE ZONE 3, ABUJA, FCT ABUJA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "3354685",
+      "updatedAtSitemap": "2023-06-09T17:50:37.000Z",
+      "oldInternationalNumber": "1306588",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 677,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [],
+      "addresses": [
+        {
+          "id": 99495890,
+          "address": "NO 35, ABIDJAN STREET, WUSE ZONE 3, ABUJA, FCT ABUJA STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "NEVILLE MULTI SYNERGY LTD",
+              "internationalNumber": "RC-1306586"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 159370753,
+          "companyId": 61460305,
+          "personId": 67532441,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67532441,
+            "name": "okor ochuko",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1968,
+            "birthMonth": 8,
+            "birthDate": 17,
+            "address": "NO 35, ABIDJAN STREET, WUSE ZONE 3",
+            "countryOfResidence": "NIGERIA",
+            "number": "02213AA",
+            "documentType": "Driver's License",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "NEVILLE MULTI SYNERGY LTD",
+              "internationalNumber": "RC-1306586"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159370755,
+          "companyId": 61460305,
+          "personId": 67532441,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 800000,
+          "person": {
+            "id": 67532441,
+            "name": "okor ochuko",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1968,
+            "birthMonth": 8,
+            "birthDate": 17,
+            "address": "NO 35, ABIDJAN STREET, WUSE ZONE 3",
+            "countryOfResidence": "NIGERIA",
+            "number": "02213AA",
+            "documentType": "Driver's License",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "NEVILLE MULTI SYNERGY LTD",
+              "internationalNumber": "RC-1306586"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 250391213,
+          "companyId": 61460305,
+          "personId": 101125652,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 101125652,
+            "name": "llc direct registration",
+            "countryId": 24,
+            "address": "N/A",
+            "email": "N/A",
+            "phone": "N/A",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "OMAZUS JOINT TECH LTD",
+              "internationalNumber": "RC-1325250"
+            },
+            {
+              "name": "SLOGAN 4REAL INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-1320678"
+            },
+            {
+              "name": "CEV - MUSTARD GLOBAL LIMITED",
+              "internationalNumber": "RC-1317407"
+            },
+            {
+              "name": "KHRISTARS SOLUTIONS INTEGRATED SERVICES LTD",
+              "internationalNumber": "RC-1319194"
+            },
+            {
+              "name": "ABASA CONSTRUCTION COMPANY LTD",
+              "internationalNumber": "RC-1320475"
+            },
+            {
+              "name": "LIMAN ZAKI PETROLEUM RESOURCES LTD",
+              "internationalNumber": "RC-1325021"
+            },
+            {
+              "name": "KINMAT PHARMACY LTD",
+              "internationalNumber": "RC-1362269"
+            },
+            {
+              "name": "INDUCE GLOBAL SERVICES LTD",
+              "internationalNumber": "RC-1323301"
+            },
+            {
+              "name": "MEEVA GREEN CONSULTING LIMITED",
+              "internationalNumber": "RC-1320345"
+            },
+            {
+              "name": "TAJAD ROYAL HOTEL LTD",
+              "internationalNumber": "RC-1317102"
+            },
+            {
+              "name": "DIEU COMMUNICATION LTD",
+              "internationalNumber": "RC-1320644"
+            },
+            {
+              "name": "OKEOSUSU RESOURCES NIG LTD",
+              "internationalNumber": "RC-1323204"
+            },
+            {
+              "name": "FRONTLIFE XCLUSIVE MULTI CONCEPT LTD",
+              "internationalNumber": "RC-1367359"
+            },
+            {
+              "name": "HAGLOZY RESOURCES LTD",
+              "internationalNumber": "RC-1356286"
+            },
+            {
+              "name": "MYSTICAL ROSE PHARMACY LTD",
+              "internationalNumber": "RC-1478080"
+            },
+            {
+              "name": "DESYRAJ GLOBAL RESOURCES NIG. LIMITED",
+              "internationalNumber": "RC-1365316"
+            },
+            {
+              "name": "KAIMA CONSULT NIG LTD",
+              "internationalNumber": "RC-1317353"
+            },
+            {
+              "name": "RAVDON TRAVEL AGENCY LTD",
+              "internationalNumber": "RC-1323536"
+            },
+            {
+              "name": "SOLARMAN AGRICULTURAL SERVICES LTD",
+              "internationalNumber": "RC-1355358"
+            },
+            {
+              "name": "KAKA COMMUNICATION LTD",
+              "internationalNumber": "RC-1317841"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 250391215,
+          "companyId": 61460305,
+          "personId": 101525366,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 200000,
+          "person": {
+            "id": 101525366,
+            "name": "manuel barbara ufuoma",
+            "countryId": 24,
+            "address": "12 B- CLOSE FED HOUSING  ESTATE OFF ABULOMA ROAD  P/H                                                                                                   RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "DREDRICK - THORNHILL LIMITED",
+              "internationalNumber": "RC-925997"
+            },
+            {
+              "name": "NEVILLE MULTI SYNERGY LTD",
+              "internationalNumber": "RC-1306586"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Abd******** Uma*",
+          "contacts": {
+            "phone": [
+              "809*******"
+            ],
+            "email": [
+              "uab********************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 3
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
