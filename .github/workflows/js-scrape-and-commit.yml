@@ -43,7 +43,6 @@ jobs:
 
       - name: Run script
         run: ./src/scrape.mjs --year=${{ github.event.inputs.year }} --fromPage=${{ github.event.inputs.fromPage }} --toPage=${{ github.event.inputs.toPage }}
-        continue-on-error: true
 
       - name: Configure git
         run: |
@@ -55,6 +54,9 @@ jobs:
           git add .  # Replace with the path to your JSON files
           git commit -m "chore: ${{ github.event.inputs.year }}, page ${{ github.event.inputs.fromPage }} - ${{ github.event.inputs.toPage }}" || echo "No changes to commit"
 
+      - name: Pull latest changes
+        run: git pull --rebase origin main  # Pull the latest changes and rebase
+        
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
