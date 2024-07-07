@@ -1,0 +1,563 @@
+[
+  {
+    "year": "2010",
+    "title": "BREEZE PETROLEUM COMPANY LIMITED   - RC-925423 - Nigeria",
+    "description": "BREEZE PETROLEUM COMPANY LIMITED   Nigeria company, Company number: RC-925423, Incorporation Date Dec 5, 2010;, Address: SUITE A23, HAWTHORN SUITES 1, UKE STREET, OFF AHMADU BELLO WAY, GARKI II, ABUJA, FCT",
+    "company": {
+      "id": 63043402,
+      "name": "BREEZE PETROLEUM COMPANY LIMITED  ",
+      "internationalNumber": "RC-925423",
+      "localNumber": "925423",
+      "countryId": 24,
+      "dateCreated": "2010-12-05T00:00:00.000Z",
+      "createdAt": "2021-06-01T05:50:08.748Z",
+      "updatedAt": "2024-06-15T15:18:55.908Z",
+      "alternateNames": [],
+      "address": "SUITE A23, HAWTHORN SUITES 1, UKE STREET, OFF AHMADU BELLO WAY, GARKI II, ABUJA, FCT",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "25000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "25000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS OF PETROLEUM, OIL AND GAS PROSPECTING AND EXPLORATION AND TO ACQUIRE OR OWN OIL FIELDS AND OIL WELLS THROUGH LICENCE AND PAYMENT OF OIL ROYALTIES AND TO LEASE SAME WHERE NECESSARY TO MULTI-NATIONAL OIL COMPANIES AND TO INSTALL AND OPERATE MACHINERIES AND OTHER FACILITIES FOR DRILLING OIL AND PETROLEUM, GAS AND GASOLINE, KEROSENE AND ALL OTHER PETROLEUM AND ALLIED MINERALS FROM OIL WELLS.",
+      "providerId": "1183217",
+      "updatedAtSitemap": "2024-01-07T06:43:49.000Z",
+      "oldInternationalNumber": "925423",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 6,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196967,
+          "providerId": "199119",
+          "providerName": "Oil and Gas Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:47.223789+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 69567182,
+          "address": "SUITE A23, HAWTHORN SUITES 1, UKE STREET, OFF AHMADU BELLO WAY, GARKI II, ABUJA, FCT",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 245081575,
+          "companyId": 63043402,
+          "personId": 66783080,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 66783080,
+            "name": "meyachi shaibu",
+            "countryId": 24,
+            "address": "SUITE D4, BOBSAR COMPLEX, AREA 11, GARKI, ABUJA",
+            "phone": "08037878952",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [
+            {
+              "name": "VALIKE INVESTMENT LIMITED",
+              "internationalNumber": "RC-431565"
+            },
+            {
+              "name": "FTK INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-402997"
+            },
+            {
+              "name": "KITOMS NIGERIA LIMITED",
+              "internationalNumber": "RC-502025"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245081576,
+          "companyId": 63043402,
+          "personId": 66783080,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 66783080,
+            "name": "meyachi shaibu",
+            "countryId": 24,
+            "address": "SUITE D4, BOBSAR COMPLEX, AREA 11, GARKI, ABUJA",
+            "phone": "08037878952",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [
+            {
+              "name": "VALIKE INVESTMENT LIMITED",
+              "internationalNumber": "RC-431565"
+            },
+            {
+              "name": "FTK INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-402997"
+            },
+            {
+              "name": "KITOMS NIGERIA LIMITED",
+              "internationalNumber": "RC-502025"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233364040,
+          "companyId": 63043402,
+          "personId": 69538521,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 69538521,
+            "name": "mohammed danlami yusuf                                                                               n/a",
+            "countryId": 24,
+            "address": "PLOT 1329, BALANGA STREET, AREA 11, GARKI  ABUJA                                                                                                 F.C.T.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "WILDGLASS ENTERPRISES",
+              "internationalNumber": "BN-2287971"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233364037,
+          "companyId": 63043402,
+          "personId": 95527187,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 95527187,
+            "name": "haneefa mohammed                                                                                     n/a",
+            "countryId": 24,
+            "address": "PLOT 1329, BAMANGA STREET GARKI II  ABUJA                                                                                                 FCT",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233364041,
+          "companyId": 63043402,
+          "personId": 95527190,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95527190,
+            "name": "haneefa mohammed",
+            "countryId": 24,
+            "address": "PLOT 1329, BAMANGA STREET GARKI II  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233364042,
+          "companyId": 63043402,
+          "personId": 95527191,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95527191,
+            "name": "haneef mohammed yusuf",
+            "countryId": 24,
+            "address": "PLOT 1329, BAMANGA STREET GARKI II  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233364045,
+          "companyId": 63043402,
+          "personId": 95527192,
+          "roleId": 60323,
+          "appointedOn": "2019-09-23",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 800000,
+          "person": {
+            "id": 95527192,
+            "name": "mohammed  danlami yusuf",
+            "countryId": 24,
+            "address": "PLOT 1329, BAMANGA STREET GARKI II           ",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233364046,
+          "companyId": 63043402,
+          "personId": 95527193,
+          "roleId": 60323,
+          "appointedOn": "2019-09-23",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 100000,
+          "person": {
+            "id": 95527193,
+            "name": "haneef mohammed  yusuf",
+            "countryId": 24,
+            "address": "PLOT 1329, BAMANGA STREET GARKI II           ",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "16",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 6,
+        "2": 3,
+        "3": 4,
+        "null": 3
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
