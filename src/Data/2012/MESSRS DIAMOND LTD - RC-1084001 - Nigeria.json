@@ -1,0 +1,282 @@
+[
+  {
+    "year": "2012",
+    "title": "MESSRS DIAMOND LTD - RC-1084001 - Nigeria",
+    "description": "MESSRS DIAMOND LTD Nigeria company, Company number: RC-1084001, Incorporation Date Dec 11, 2012;, Address: 1ANASARASHOPPINGMALLAHMADUBELLOWAY, GOMBE, GOMBE, GOMBE, GOMBE STATE",
+    "company": {
+      "id": 61303065,
+      "name": "MESSRS DIAMOND LTD",
+      "internationalNumber": "RC-1084001",
+      "localNumber": "1084001",
+      "countryId": 24,
+      "dateCreated": "2012-12-11T00:00:00.000Z",
+      "createdAt": "2021-05-24T01:36:29.469Z",
+      "updatedAt": "2024-06-15T16:43:09.920Z",
+      "alternateNames": [],
+      "address": "1ANASARASHOPPINGMALLAHMADUBELLOWAY, GOMBE, GOMBE, GOMBE, GOMBE STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "500000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "1847357",
+      "updatedAtSitemap": "2023-06-09T16:17:23.000Z",
+      "oldInternationalNumber": "1084001",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 649,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6559955,
+          "providerId": "482441",
+          "providerName": "Gen Merchants & Traders                           ",
+          "countryId": 24,
+          "createdAt": "2022-10-13T15:48:19.806167+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 88854957,
+          "address": "1ANASARASHOPPINGMALLAHMADUBELLOWAY, GOMBE, GOMBE, GOMBE, GOMBE STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 250850967,
+          "companyId": 61303065,
+          "personId": 69361337,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 69361337,
+            "name": "ibrahim  mohammed",
+            "countryId": 24,
+            "address": "AZ 44, BAKORI ROAD KADUNA KADUNA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MAMMAN NASIR  NIGERIA  LIMITED",
+              "internationalNumber": "RC-295167"
+            },
+            {
+              "name": "SAVANNAH  HAULAGE  LIMITED",
+              "internationalNumber": "RC-278468"
+            },
+            {
+              "name": "FIRAM  INVESTMENT  LIMITED",
+              "internationalNumber": "RC-291432"
+            },
+            {
+              "name": "DARL- HAB NIG LTD",
+              "internationalNumber": "RC-243590"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 250850966,
+          "companyId": 61303065,
+          "personId": 96970615,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 96970615,
+            "name": "isah  adamu",
+            "countryId": 24,
+            "address": "7 BELLO  SABON KUDI ST  GOMBE                                                                                                 GOMBE",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "2",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

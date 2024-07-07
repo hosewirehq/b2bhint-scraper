@@ -1,0 +1,247 @@
+[
+  {
+    "year": "2012",
+    "title": "E.O. ANGA PROPERTIES - BN-2240630 - Nigeria",
+    "description": "E.O. ANGA PROPERTIES Nigeria company, Company number: BN-2240630, Incorporation Date Dec 13, 2012;, Address: PLOT59, OBABABINGTONASHAYECRESCENT, OMOLEPHASE1, IKEJAOJODU, LAGOSSTATE., IKEJA OJODU, LAGOS STATE. STATE",
+    "company": {
+      "id": 61303890,
+      "name": "E.O. ANGA PROPERTIES",
+      "internationalNumber": "BN-2240630",
+      "localNumber": "2240630",
+      "countryId": 24,
+      "dateCreated": "2012-12-13T00:00:00.000Z",
+      "createdAt": "2021-05-24T01:39:27.761Z",
+      "updatedAt": "2024-06-15T16:43:11.738Z",
+      "alternateNames": [],
+      "address": "PLOT59, OBABABINGTONASHAYECRESCENT, OMOLEPHASE1, IKEJAOJODU, LAGOSSTATE., IKEJA OJODU, LAGOS STATE. STATE",
+      "additionalData": {},
+      "typeId": 99331,
+      "historicalNames": [],
+      "providerId": "1847500",
+      "updatedAtSitemap": "2023-06-09T16:17:22.000Z",
+      "oldInternationalNumber": "2240630",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99331,
+        "type": "Business name - sole proprietor",
+        "countryId": 24,
+        "translation": {
+          "en": "Sole proprietor"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 830,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6560072,
+          "providerId": "482579",
+          "providerName": "Estate Agents and Maintenance                     ",
+          "countryId": 24,
+          "createdAt": "2022-10-13T15:49:12.837855+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 88855112,
+          "address": "PLOT59, OBABABINGTONASHAYECRESCENT, OMOLEPHASE1, IKEJAOJODU, LAGOSSTATE., IKEJA OJODU, LAGOS STATE. STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 250848407,
+          "companyId": 61303890,
+          "personId": 97174028,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97174028,
+            "name": "lawrence fubara anga",
+            "countryId": 24,
+            "address": "7TH FLOOR MARBLE HOUSE I KINGSWAY ROAD IKOYI,                                                                                                LAGOS STATE.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "BEST OF NAIJA INVESTMENT LIMITED",
+              "internationalNumber": "RC-960330"
+            },
+            {
+              "name": "EMERGING MARKETS ENERGY RESOURCES LTD",
+              "internationalNumber": "RC-1132466"
+            },
+            {
+              "name": "EL-DIN LIMITED",
+              "internationalNumber": "RC-85285"
+            },
+            {
+              "name": "AEROSERVICES & LOGISTICS LIMITED",
+              "internationalNumber": "RC-919431"
+            },
+            {
+              "name": "ARISE CIVIL CONSTRUCTION COMPANY LIMITED",
+              "internationalNumber": "RC-803665"
+            },
+            {
+              "name": "B. S. T. NOMINEES LIMITED",
+              "internationalNumber": "RC-143087"
+            },
+            {
+              "name": "AMEDEUS MARKETING NIGERIA LIMITED",
+              "internationalNumber": "411406"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "1",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
