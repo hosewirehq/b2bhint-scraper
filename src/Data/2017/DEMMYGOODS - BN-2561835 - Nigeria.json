@@ -1,0 +1,290 @@
+[
+  {
+    "year": "2017",
+    "title": "DEMMYGOODS - BN-2561835 - Nigeria",
+    "description": "DEMMYGOODS Nigeria company, Company number: BN-2561835, Incorporation Date Dec 11, 2017;, Address: 14, ARAROMI STREET, ALONG ODO ERAN, AKURE, ONDO STATE",
+    "company": {
+      "id": 62638546,
+      "name": "DEMMYGOODS",
+      "internationalNumber": "BN-2561835",
+      "localNumber": "2561835",
+      "countryId": 24,
+      "dateCreated": "2017-12-11T00:00:00.000Z",
+      "createdAt": "2021-05-30T21:40:32.634Z",
+      "updatedAt": "2024-06-15T15:47:25.406Z",
+      "alternateNames": [],
+      "address": "14, ARAROMI STREET, ALONG ODO ERAN, AKURE, ONDO STATE",
+      "additionalData": {},
+      "typeId": 99332,
+      "historicalNames": [],
+      "providerId": "4541096",
+      "updatedAtSitemap": "2023-06-09T17:01:03.000Z",
+      "oldInternationalNumber": "2561835",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99332,
+        "type": "Business name - partnership",
+        "countryId": 24,
+        "translation": {
+          "en": "Partnership"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 872,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197630,
+          "providerId": "143226",
+          "providerName": "Wholesale trade, except of motor vehicle and motorcycle.",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:17:10.226122+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101818343,
+          "address": "14, ARAROMI STREET, ALONG ODO ERAN, AKURE, ONDO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 157099942,
+          "companyId": 62638546,
+          "personId": 66312809,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 66312809,
+            "name": "fasunlade sefunmi",
+            "countryId": 24,
+            "nationality": "Nigerien",
+            "birthYear": 1982,
+            "birthMonth": 12,
+            "birthDate": 26,
+            "address": "No 9, Otenioro Layout, Oke Ijebu, Akure, Ondo State.",
+            "countryOfResidence": "NIGERIA",
+            "number": "A 06849470",
+            "documentType": "International Passport",
+            "email": "sefunmi44jesus@gmail.com",
+            "phone": "2348030993314",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 157099943,
+          "companyId": 62638546,
+          "personId": 66312810,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 66312810,
+            "name": "fasunlade kayode titus",
+            "countryId": 24,
+            "occupation": "Civil engineer",
+            "nationality": "Nigerian",
+            "birthYear": 1982,
+            "birthMonth": 7,
+            "birthDate": 9,
+            "address": "NO 9, OTENIORO LAYOUT, OKE IJEBU",
+            "countryOfResidence": "NIGERIA",
+            "number": "A0684973",
+            "documentType": "International Passport",
+            "email": "fasunkay@gmail.com",
+            "phone": "08035035141",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Sef**** Abi**** Fas******",
+          "contacts": {
+            "email": [
+              "sef*********************"
+            ],
+            "phone": [
+              "234**********"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "2",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "year": "2017",
+    "title": "CHECKMATE  AUTO TRADE - BN-2562439 - Nigeria",
+    "description": "CHECKMATE  AUTO TRADE Nigeria company, Company number: BN-2562439, Incorporation Date Dec 13, 2017;, Address: 26 OGUNLANA DRIVE, SURULERE, LAGOS STATE",
+    "company": {
+      "id": 62502904,
+      "name": "CHECKMATE  AUTO TRADE",
+      "internationalNumber": "BN-2562439",
+      "localNumber": "2562439",
+      "countryId": 24,
+      "dateCreated": "2017-12-13T00:00:00.000Z",
+      "createdAt": "2021-05-30T12:02:43.930Z",
+      "updatedAt": "2024-06-15T15:47:39.264Z",
+      "alternateNames": [],
+      "address": "26 OGUNLANA DRIVE, SURULERE, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99332,
+      "historicalNames": [],
+      "providerId": "4509185",
+      "updatedAtSitemap": "2023-06-09T17:01:26.000Z",
+      "oldInternationalNumber": "2562439",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99332,
+        "type": "Business name - partnership",
+        "countryId": 24,
+        "translation": {
+          "en": "Partnership"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 784,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197194,
+          "providerId": "199350",
+          "providerName": "Automobile/Mechanical Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:05:45.0791+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 91184555,
+          "address": "26 OGUNLANA DRIVE, SURULERE, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "DIGIT MAZE AFRICA LIMITED",
+              "internationalNumber": "RC-1819992"
+            },
+            {
+              "name": "VIKAYS COUTURE",
+              "internationalNumber": "BN-2800749"
+            },
+            {
+              "name": "TOUR AFFAIRS CONSULTING SERVICES",
+              "internationalNumber": "BN-2960723"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 158696783,
+          "companyId": 62502904,
+          "personId": 67209743,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 67209743,
+            "name": "ajiboye oluwaseun abolade",
+            "countryId": 24,
+            "occupation": "Business man",
+            "nationality": "Nigerian",
+            "birthYear": 1987,
+            "birthMonth": 4,
+            "birthDate": 30,
+            "address": "1, ADEMULEGUN STREET, IRE-AKARI ESTATE, ISOLO",
+            "countryOfResidence": "NIGERIA",
+            "number": "A07371811",
+            "documentType": "International Passport",
+            "email": "greatademola@yahoo.com",
+            "phone": "08028793989",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238049497,
+          "companyId": 62502904,
+          "personId": 97094286,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 97094286,
+            "name": "ajiboye ademola olushola",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1975,
+            "birthMonth": 3,
+            "birthDate": 15,
+            "address": "1,Ademulegun street, ireakari estate isolo,Lagos",
+            "countryOfResidence": "NIGERIA",
+            "email": "greatademola@yahoo.com",
+            "phone": "08028793989",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Ido** Ayo*** Odu*****",
+          "contacts": {
+            "email": [
+              "inf*************"
+            ],
+            "phone": [
+              "070********"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "2",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]

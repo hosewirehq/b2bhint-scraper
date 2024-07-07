@@ -1,0 +1,287 @@
+[
+  {
+    "year": "2017",
+    "title": "RICHPATH VALUE LIMITED - RC-1458960 - Nigeria",
+    "description": "RICHPATH VALUE LIMITED Nigeria company, Company number: RC-1458960, Incorporation Date Dec 14, 2017;, Address: 7, SAMSON DADA STREET, OFF LANRE BUS STOP, IGANDO, LAGOS STATE",
+    "company": {
+      "id": 62459622,
+      "name": "RICHPATH VALUE LIMITED",
+      "internationalNumber": "RC-1458960",
+      "localNumber": "1458960",
+      "countryId": 24,
+      "dateCreated": "2017-12-14T00:00:00.000Z",
+      "createdAt": "2021-05-30T08:08:12.016Z",
+      "updatedAt": "2024-06-15T15:47:51.670Z",
+      "alternateNames": [],
+      "address": "7, SAMSON DADA STREET, OFF LANRE BUS STOP, IGANDO, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [
+        "RICHPATH EDUCATIONAL SERVICES LIMITED"
+      ],
+      "providerId": "4497481",
+      "updatedAtSitemap": "2023-06-09T17:01:47.000Z",
+      "oldInternationalNumber": "1458960",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 1022,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196962,
+          "providerId": "199293",
+          "providerName": "Educational Services and Consultancy",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:45.119829+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101801595,
+          "address": "7, SAMSON DADA STREET, OFF LANRE BUS STOP, IGANDO, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 407185374,
+          "companyId": 62459622,
+          "personId": 66496348,
+          "roleId": 115700,
+          "sourceNum": 1,
+          "person": {
+            "id": 66496348,
+            "name": "ogheneovo  justice itefue",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1993,
+            "birthMonth": 8,
+            "birthDate": 8,
+            "address": "ROAD 4OGINIGBA, TRANS AMADI, PORT HARCOURT, RIVERS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1942074",
+            "documentType": "Permanent Voters' Card",
+            "documentNumber": "90F5 B133 3449 8651 482",
+            "email": "ovoitefue@gmail.com",
+            "phone": "+234 816 118 9755",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 115700,
+            "name": "Chartered Secretary And Legal Practitioner ",
+            "countryId": 24,
+            "translation": {
+              "en": ""
+            }
+          },
+          "companies": [
+            {
+              "name": "ASK INFOSYSTEM",
+              "internationalNumber": "BN-2712976"
+            },
+            {
+              "name": "NEKURI PHARMACY LTD",
+              "internationalNumber": "RC-1718773"
+            },
+            {
+              "name": "J.O. ITEFUE & CO",
+              "internationalNumber": "BN-3181260"
+            },
+            {
+              "name": "MENAH LIQUORS LTD",
+              "internationalNumber": "RC-1734175"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {
+        "email": [
+          "ric***********************"
+        ]
+      },
+      "companyContactPersons": [
+        {
+          "name": "God*** Eni*** Afo****",
+          "contacts": {
+            "email": [
+              "eni************************"
+            ],
+            "phone": [
+              "+23**************",
+              "080********"
+            ]
+          }
+        },
+        {
+          "name": "Ogh******  Jus**** Ite***",
+          "contacts": {
+            "email": [
+              "ovo****************"
+            ],
+            "phone": [
+              "+23**************"
+            ]
+          }
+        },
+        {
+          "name": " Ite*** Jus**** Ogh******",
+          "contacts": {
+            "email": [
+              "ovo****************"
+            ],
+            "phone": [
+              "+23**************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "1",
+      "companyContactsCount": 1,
+      "companyContactPersonsCount": 7,
+      "personsCountByPriority": {
+        "null": 1
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
