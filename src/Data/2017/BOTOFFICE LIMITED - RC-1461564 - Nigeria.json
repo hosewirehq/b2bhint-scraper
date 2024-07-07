@@ -1,0 +1,504 @@
+[
+  {
+    "year": "2017",
+    "title": "BOTOFFICE LIMITED - RC-1461564 - Nigeria",
+    "description": "BOTOFFICE LIMITED Nigeria company, Company number: RC-1461564, Incorporation Date Dec 28, 2017;, Address: 7, SAHEED OLA ADELEKAN CLOSE, LEKKI PHASE 1, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62471971,
+      "name": "BOTOFFICE LIMITED",
+      "internationalNumber": "RC-1461564",
+      "localNumber": "1461564",
+      "countryId": 24,
+      "dateCreated": "2017-12-28T00:00:00.000Z",
+      "createdAt": "2021-05-30T09:21:34.079Z",
+      "updatedAt": "2024-06-15T15:47:48.309Z",
+      "alternateNames": [],
+      "address": "7, SAHEED OLA ADELEKAN CLOSE, LEKKI PHASE 1, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "4501088",
+      "updatedAtSitemap": "2023-06-09T17:01:39.000Z",
+      "oldInternationalNumber": "1461564",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 585,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197044,
+          "providerId": "348594",
+          "providerName": "IT Others",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:09.448381+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101804247,
+          "address": "7, SAHEED OLA ADELEKAN CLOSE, LEKKI PHASE 1, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 231490363,
+          "companyId": 62471971,
+          "personId": 77220058,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 77220058,
+            "name": "sokeye oluwaseun",
+            "countryId": 24,
+            "address": "21 mudashina street ikotun,alimosho lagos",
+            "phone": "08033240287",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [
+            {
+              "name": "BILLATEK LIMITED",
+              "internationalNumber": "RC-1417998"
+            },
+            {
+              "name": "IVO THINKING LIMITED",
+              "internationalNumber": "RC-1459923"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231490361,
+          "companyId": 62471971,
+          "personId": 94613939,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 800000,
+          "person": {
+            "id": 94613939,
+            "name": "iwok joseph anthony",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1998,
+            "birthMonth": 5,
+            "birthDate": 28,
+            "address": "7, Saheed Ola Adelekan Close, Lekki Phase 1",
+            "countryOfResidence": "NIGERIA",
+            "number": "A08604385",
+            "documentType": "International Passport",
+            "email": "iwokjoseph@gmail.com",
+            "phone": "09054661458",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231490358,
+          "companyId": 62471971,
+          "personId": 94613939,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 94613939,
+            "name": "iwok joseph anthony",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1998,
+            "birthMonth": 5,
+            "birthDate": 28,
+            "address": "7, Saheed Ola Adelekan Close, Lekki Phase 1",
+            "countryOfResidence": "NIGERIA",
+            "number": "A08604385",
+            "documentType": "International Passport",
+            "email": "iwokjoseph@gmail.com",
+            "phone": "09054661458",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231490359,
+          "companyId": 62471971,
+          "personId": 94613940,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 94613940,
+            "name": "iwok celia anthony",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1965,
+            "birthMonth": 6,
+            "birthDate": 23,
+            "address": "15 Oghenevwere Payah Street,Ovwian Delta",
+            "countryOfResidence": "NIGERIA",
+            "number": "A07346538",
+            "documentType": "International Passport",
+            "email": "iwokcelia@yahoo.com",
+            "phone": "08036840628",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231490362,
+          "companyId": 62471971,
+          "personId": 94613940,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 100000,
+          "person": {
+            "id": 94613940,
+            "name": "iwok celia anthony",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1965,
+            "birthMonth": 6,
+            "birthDate": 23,
+            "address": "15 Oghenevwere Payah Street,Ovwian Delta",
+            "countryOfResidence": "NIGERIA",
+            "number": "A07346538",
+            "documentType": "International Passport",
+            "email": "iwokcelia@yahoo.com",
+            "phone": "08036840628",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238305111,
+          "companyId": 62471971,
+          "personId": 97161323,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 97161323,
+            "name": "sokeye oluwaseun susan",
+            "countryId": 24,
+            "address": "21 Mudashina Street Ikotun Lagos",
+            "countryOfResidence": "NIGERIA",
+            "email": "ssokeye@yahoo.com",
+            "phone": "08023274906",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [
+            {
+              "name": "IVO THINKING LIMITED",
+              "internationalNumber": "RC-1459923"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {
+        "email": [
+          "iwo*****************"
+        ]
+      },
+      "companyContactPersons": [
+        {
+          "name": "Olu****** Sus** Sok***",
+          "contacts": {
+            "phone": [
+              "080********"
+            ],
+            "email": [
+              "sso**************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 1,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 3,
+        "null": 2
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

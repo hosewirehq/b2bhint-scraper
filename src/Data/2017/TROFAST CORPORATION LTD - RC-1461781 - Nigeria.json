@@ -1,0 +1,446 @@
+[
+  {
+    "year": "2017",
+    "title": "TROFAST CORPORATION LTD - RC-1461781 - Nigeria",
+    "description": "TROFAST CORPORATION LTD Nigeria company, Company number: RC-1461781, Incorporation Date Dec 29, 2017;, Address: 1, IGBOBI COLLEGE STAFF QUARTERS, FADEYI. LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62477549,
+      "name": "TROFAST CORPORATION LTD",
+      "internationalNumber": "RC-1461781",
+      "localNumber": "1461781",
+      "countryId": 24,
+      "dateCreated": "2017-12-29T00:00:00.000Z",
+      "createdAt": "2021-05-30T09:52:47.773Z",
+      "updatedAt": "2024-06-15T15:47:48.245Z",
+      "alternateNames": [],
+      "address": "1, IGBOBI COLLEGE STAFF QUARTERS, FADEYI. LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "4502801",
+      "updatedAtSitemap": "2023-06-09T17:01:38.000Z",
+      "oldInternationalNumber": "1461781",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 470,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197198,
+          "providerId": "199149",
+          "providerName": "Import and Export of General Goods",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:05:50.796668+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101805497,
+          "address": "1, IGBOBI COLLEGE STAFF QUARTERS, FADEYI. LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 231415655,
+          "companyId": 62477549,
+          "personId": 94588447,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 94588447,
+            "name": "daphid  oluwamayowa",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1982,
+            "birthMonth": 5,
+            "birthDate": 9,
+            "address": "1, Igbobi College Staff Quarters, Fadeyi.",
+            "countryOfResidence": "NIGERIA",
+            "number": "SMK56842AA04",
+            "documentType": "Driver's License",
+            "email": "daphid.oluwamayowa@gmail.com",
+            "phone": "08033847115",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231415660,
+          "companyId": 62477549,
+          "personId": 94588447,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 990000,
+          "person": {
+            "id": 94588447,
+            "name": "daphid  oluwamayowa",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1982,
+            "birthMonth": 5,
+            "birthDate": 9,
+            "address": "1, Igbobi College Staff Quarters, Fadeyi.",
+            "countryOfResidence": "NIGERIA",
+            "number": "SMK56842AA04",
+            "documentType": "Driver's License",
+            "email": "daphid.oluwamayowa@gmail.com",
+            "phone": "08033847115",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231415656,
+          "companyId": 62477549,
+          "personId": 94588448,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 94588448,
+            "name": "daphid  oluwamayowa ezekia",
+            "countryId": 24,
+            "address": "1, Igbobi College Staff Quarters, Fadeyi, Lagos",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "daphid.oluwamayowa@gmail.com",
+            "phone": "08033847115",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231415661,
+          "companyId": 62477549,
+          "personId": 94588449,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 10000,
+          "person": {
+            "id": 94588449,
+            "name": "oluboyo bolu",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1964,
+            "birthMonth": 11,
+            "birthDate": 9,
+            "address": "1, Igbobi College Staff Quarters, Fadeyi. Lagos",
+            "countryOfResidence": "NIGERIA",
+            "number": "A24816964",
+            "documentType": "Permanent Voters' Card",
+            "email": "boluwake@yahoo.com",
+            "phone": "08038208131",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231415658,
+          "companyId": 62477549,
+          "personId": 94588450,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 94588450,
+            "name": "daphid oluwamayowa ezekia",
+            "countryId": 24,
+            "address": "1, IGBOBI COLLEGE STAFF QUARTERS, FADEYI, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "number": "SMK56842AA04",
+            "documentType": "Driver's License",
+            "email": "daphid.oluwamayowa@gmail.com",
+            "phone": "08033847115",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {
+        "email": [
+          "dap*************************"
+        ]
+      },
+      "companyContactPersons": [
+        {
+          "name": "Olu******** Eze*** Dap***",
+          "contacts": {
+            "email": [
+              "dap*************************"
+            ],
+            "phone": [
+              "080********"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 1,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 4,
+        "null": 1
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]

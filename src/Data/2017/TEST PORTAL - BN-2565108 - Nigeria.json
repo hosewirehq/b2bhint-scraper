@@ -1,0 +1,326 @@
+[
+  {
+    "year": "2017",
+    "title": "TEST PORTAL - BN-2565108 - Nigeria",
+    "description": "TEST PORTAL Nigeria company, Company number: BN-2565108, Incorporation Date Dec 22, 2017;, Address: 12, OWODUNNI STREET OFF ALLEN, IKEJA, LAGOS STATE",
+    "company": {
+      "id": 61197368,
+      "name": "TEST PORTAL",
+      "internationalNumber": "BN-2565108",
+      "localNumber": "2565108",
+      "countryId": 24,
+      "dateCreated": "2017-12-22T00:00:00.000Z",
+      "createdAt": "2021-05-23T18:27:35.637Z",
+      "updatedAt": "2024-06-15T15:47:07.510Z",
+      "alternateNames": [],
+      "address": "12, OWODUNNI STREET OFF ALLEN, IKEJA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99331,
+      "historicalNames": [],
+      "providerId": "4555654",
+      "updatedAtSitemap": "2023-06-09T17:00:35.000Z",
+      "oldInternationalNumber": "2565108",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99331,
+        "type": "Business name - sole proprietor",
+        "countryId": 24,
+        "translation": {
+          "en": "Sole proprietor"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 629,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 90704905,
+          "address": "12, OWODUNNI STREET OFF ALLEN, IKEJA, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "RESOURCE 704",
+              "internationalNumber": "BN-2871456"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 365207484,
+          "companyId": 61197368,
+          "personId": 100374909,
+          "roleId": 114332,
+          "sourceNum": 1,
+          "person": {
+            "id": 100374909,
+            "name": "oluwadamilola omolade rotimi",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1991,
+            "birthMonth": 8,
+            "birthDate": 30,
+            "address": "15Alamu Olaleye str., Ikotun, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1738650",
+            "documentType": "Driver's License",
+            "documentNumber": "D11862AA01",
+            "email": "damirotimi01@gmail.com",
+            "phone": "+234 816 763 7031",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "KURELA VENTURES",
+              "internationalNumber": "BN-2726928"
+            },
+            {
+              "name": "ALL SAINTS INTERNATIONAL VENTURE",
+              "internationalNumber": "BN-2978740"
+            },
+            {
+              "name": "BUNGREATT TREASURED SCHOOLS",
+              "internationalNumber": "BN-2979939"
+            },
+            {
+              "name": "IJUOLACHI OKWUM & CO",
+              "internationalNumber": "BN-2657027"
+            },
+            {
+              "name": "MENUS NIGERIA LIMITED",
+              "internationalNumber": "RC-1884803"
+            },
+            {
+              "name": "DON CHRIS MEDICAL DIAGNOSTIC SERVICE",
+              "internationalNumber": "BN-2977430"
+            },
+            {
+              "name": "EQUILIBRIUM POINT HAUL TRANSPORT SERVICES",
+              "internationalNumber": "BN-2800499"
+            },
+            {
+              "name": "PENTAGON DYNAMIC MULTIFACED NIG",
+              "internationalNumber": "BN-2972234"
+            },
+            {
+              "name": "TOCHI- PRAISE VENTURES",
+              "internationalNumber": "BN-2994134"
+            },
+            {
+              "name": "GRAND HUBUS FOUNDATION INT'L",
+              "internationalNumber": "IT-150903"
+            },
+            {
+              "name": "PYRAMID AUTOS ENTERPRISES",
+              "internationalNumber": "BN-3366430"
+            },
+            {
+              "name": "SEGUN CHOICE",
+              "internationalNumber": "BN-2971448"
+            },
+            {
+              "name": "GRADO GIFTS & CORPORATE SERVICES",
+              "internationalNumber": "BN-2979037"
+            },
+            {
+              "name": "SAMVIES NIGERIA ENTERPRISE",
+              "internationalNumber": "BN-2710625"
+            },
+            {
+              "name": "THE TRUTH AND LIFE GLOBAL MINISTRIES",
+              "internationalNumber": "IT-159540"
+            },
+            {
+              "name": "CK10 CONTINENTAL AND SUITES LTD",
+              "internationalNumber": "RC-1462859"
+            },
+            {
+              "name": "SONOROUSTECH",
+              "internationalNumber": "BN-3148042"
+            },
+            {
+              "name": "SHEM & SHIN NIGERIA ENTERPRISES",
+              "internationalNumber": "BN-2571231"
+            },
+            {
+              "name": "AFRI-GRUB NIGERIA LTD",
+              "internationalNumber": "RC-1885285"
+            },
+            {
+              "name": "IGWE AND SONS GLOBAL VENTURES",
+              "internationalNumber": "BN-3173357"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Olu********** Omo**** Rot***",
+          "contacts": {
+            "phone": [
+              "+23**************",
+              "234**********"
+            ],
+            "email": [
+              "dam*******************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "1",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 3,
+      "personsCountByPriority": {
+        "3": 1
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

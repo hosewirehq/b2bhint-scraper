@@ -1,0 +1,298 @@
+[
+  {
+    "year": "2017",
+    "title": "INFINITE GLORY - BN-2565771 - Nigeria",
+    "description": "INFINITE GLORY Nigeria company, Company number: BN-2565771, Incorporation Date Dec 28, 2017;, Address: 14 UMABI STREET, EMENE, ENUGU, ENUGU STATE",
+    "company": {
+      "id": 62328012,
+      "name": "INFINITE GLORY",
+      "internationalNumber": "BN-2565771",
+      "localNumber": "2565771",
+      "countryId": 24,
+      "dateCreated": "2017-12-28T00:00:00.000Z",
+      "createdAt": "2021-05-29T19:38:26.685Z",
+      "updatedAt": "2024-06-15T15:48:59.390Z",
+      "alternateNames": [],
+      "address": "14 UMABI STREET, EMENE, ENUGU, ENUGU STATE",
+      "additionalData": {},
+      "typeId": 99332,
+      "historicalNames": [],
+      "providerId": "4450851",
+      "updatedAtSitemap": "2023-06-09T17:03:48.000Z",
+      "oldInternationalNumber": "2565771",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99332,
+        "type": "Business name - partnership",
+        "countryId": 24,
+        "translation": {
+          "en": "Partnership"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 585,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888518,
+          "providerId": "11",
+          "providerName": "Manufacture of beverages",
+          "countryId": 24,
+          "createdAt": "2021-05-18T19:42:38.830096+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101745402,
+          "address": "14 UMABI STREET, EMENE, ENUGU, ENUGU STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 239043412,
+          "companyId": 62328012,
+          "personId": 71910987,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 71910987,
+            "name": "eze linus nwabueze",
+            "countryId": 24,
+            "occupation": "Farmer",
+            "nationality": "Nigerian",
+            "birthYear": 1955,
+            "birthMonth": 9,
+            "birthDate": 1,
+            "address": "NO 14 UMUABI STREET EMENE ENUGU",
+            "countryOfResidence": "NIGERIA",
+            "number": "17904903391",
+            "documentType": "National ID Card",
+            "email": "ezelinus634@gmail.com",
+            "phone": "08167006969",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "IFEANACHO ABIAGO BIZ",
+              "internationalNumber": "BN-3163365"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239043417,
+          "companyId": 62328012,
+          "personId": 96824272,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 96824272,
+            "name": "eze emmanuel chukwuebuka",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1987,
+            "birthMonth": 10,
+            "birthDate": 11,
+            "address": " NO I 10 AHMADU BELLO WAY, BY IBRAHIM TAIWO ROAD",
+            "countryOfResidence": "NIGERIA",
+            "email": "b.bukadon@gmail.com",
+            "phone": "08065256101",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "SAINT BUKADON ENTERPRISE NIG",
+              "internationalNumber": "BN-2926373"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Joh* Fri*** Eze",
+          "contacts": {
+            "phone": [
+              "234**********"
+            ],
+            "email": [
+              "jfe************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 7
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

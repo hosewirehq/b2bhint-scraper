@@ -1,0 +1,492 @@
+[
+  {
+    "year": "2017",
+    "title": "SO_SPARKLING COMPANY LIMITED - RC-1460745 - Nigeria",
+    "description": "SO_SPARKLING COMPANY LIMITED Nigeria company, Company number: RC-1460745, Incorporation Date Dec 21, 2017;, Address: NO.5 ROAD 61 CITEC VILLAS GWARINPA, ABUJA-FCT, ABUJA, FCT ABUJA STATE",
+    "company": {
+      "id": 62640383,
+      "name": "SO_SPARKLING COMPANY LIMITED",
+      "internationalNumber": "RC-1460745",
+      "localNumber": "1460745",
+      "countryId": 24,
+      "dateCreated": "2017-12-21T00:00:00.000Z",
+      "createdAt": "2021-05-30T21:46:33.302Z",
+      "updatedAt": "2024-06-15T15:47:20.872Z",
+      "alternateNames": [],
+      "address": "NO.5 ROAD 61 CITEC VILLAS GWARINPA, ABUJA-FCT, ABUJA, FCT ABUJA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "4541417",
+      "updatedAtSitemap": "2023-06-09T17:01:03.000Z",
+      "oldInternationalNumber": "1460745",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 651,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197060,
+          "providerId": "199249",
+          "providerName": "Manufacturing Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:25.21671+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101818538,
+          "address": "NO.5 ROAD 61 CITEC VILLAS GWARINPA, ABUJA-FCT, ABUJA, FCT ABUJA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 157031812,
+          "companyId": 62640383,
+          "personId": 66270219,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 800000,
+          "person": {
+            "id": 66270219,
+            "name": "yakubu sumaiya",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1989,
+            "birthMonth": 6,
+            "birthDate": 14,
+            "address": "NO.5 RAOD 61 CITEC VILLAS GWARINPA ",
+            "countryOfResidence": "NIGERIA",
+            "number": "5298205005370411",
+            "documentType": "National ID Card",
+            "email": "Shummmy@rocketmail.com",
+            "phone": "2348057914292",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 157031809,
+          "companyId": 62640383,
+          "personId": 66270219,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66270219,
+            "name": "yakubu sumaiya",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1989,
+            "birthMonth": 6,
+            "birthDate": 14,
+            "address": "NO.5 RAOD 61 CITEC VILLAS GWARINPA ",
+            "countryOfResidence": "NIGERIA",
+            "number": "5298205005370411",
+            "documentType": "National ID Card",
+            "email": "Shummmy@rocketmail.com",
+            "phone": "2348057914292",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 157031811,
+          "companyId": 62640383,
+          "personId": 66270221,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66270221,
+            "name": "gambo fatima yakubu",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1971,
+            "birthMonth": 2,
+            "birthDate": 13,
+            "address": "NO.5 ROAD 61 CITEC VILLAS GWARINPA",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06544123",
+            "documentType": "International Passport",
+            "email": "FINESTGALPL@GMAIL.COM",
+            "phone": "2347061913363",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 157031813,
+          "companyId": 62640383,
+          "personId": 66270221,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 200000,
+          "person": {
+            "id": 66270221,
+            "name": "gambo fatima yakubu",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1971,
+            "birthMonth": 2,
+            "birthDate": 13,
+            "address": "NO.5 ROAD 61 CITEC VILLAS GWARINPA",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06544123",
+            "documentType": "International Passport",
+            "email": "FINESTGALPL@GMAIL.COM",
+            "phone": "2347061913363",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 157031814,
+          "companyId": 62640383,
+          "personId": 66270222,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 66270222,
+            "name": "yakubu zaharatu gambo",
+            "countryId": 24,
+            "address": "NO.5 ROAD 61 CITEC VILLAS GWARINPA, ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06024032",
+            "documentType": "International Passport",
+            "email": "oligrims@gmail.com",
+            "phone": "07082225590",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 157031815,
+          "companyId": 62640383,
+          "personId": 66270223,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 66270223,
+            "name": "adamu-salisu .hadiza",
+            "countryId": 24,
+            "address": ".corporate affairs commission,plot 420 tigris crescent maitama abuja",
+            "phone": ".",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {
+        "email": [
+          "s_y*****************"
+        ]
+      },
+      "companyContactPersons": [
+        {
+          "name": "Sum**** Gam** Yak***",
+          "contacts": {
+            "email": [
+              "shu*******************"
+            ],
+            "phone": [
+              "080********"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 1,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 3,
+        "null": 2
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

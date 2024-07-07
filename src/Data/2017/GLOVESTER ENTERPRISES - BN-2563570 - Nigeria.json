@@ -1,0 +1,291 @@
+[
+  {
+    "year": "2017",
+    "title": "GLOVESTER ENTERPRISES - BN-2563570 - Nigeria",
+    "description": "GLOVESTER ENTERPRISES Nigeria company, Company number: BN-2563570, Incorporation Date Dec 15, 2017;, Address: 2, IZODUWA AVENUE. OKABERE, OFF SAPELE ROAD, BENIN CITY, EDO STATE",
+    "company": {
+      "id": 62078980,
+      "name": "GLOVESTER ENTERPRISES",
+      "internationalNumber": "BN-2563570",
+      "localNumber": "2563570",
+      "countryId": 24,
+      "dateCreated": "2017-12-15T00:00:00.000Z",
+      "createdAt": "2021-05-28T03:56:46.364Z",
+      "updatedAt": "2024-06-15T15:53:04.153Z",
+      "alternateNames": [],
+      "address": "2, IZODUWA AVENUE. OKABERE, OFF SAPELE ROAD, BENIN CITY, EDO STATE",
+      "additionalData": {},
+      "typeId": 99332,
+      "historicalNames": [],
+      "providerId": "4364212",
+      "updatedAtSitemap": "2023-06-09T17:12:08.000Z",
+      "oldInternationalNumber": "2563570",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99332,
+        "type": "Business name - partnership",
+        "countryId": 24,
+        "translation": {
+          "en": "Partnership"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 1031,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196957,
+          "providerId": "4",
+          "providerName": "EDUCATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:40.456898+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101552323,
+          "address": "2, IZODUWA AVENUE. OKABERE, OFF SAPELE ROAD, BENIN CITY, EDO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241393762,
+          "companyId": 62078980,
+          "personId": 97515781,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 97515781,
+            "name": "okeibunor charles",
+            "countryId": 24,
+            "address": "37b Corporation Drive, Dolphin Estate, Ikoyi, Lagos",
+            "phone": "08038268649",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "T'S FRESH AND TIDY CLEANING SERVICES",
+              "internationalNumber": "BN-2517539"
+            },
+            {
+              "name": "STEFFI-REZ LIMITED",
+              "internationalNumber": "RC-1425025"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241393763,
+          "companyId": 62078980,
+          "personId": 98571929,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 98571929,
+            "name": "okoyomon sylvester ebose",
+            "countryId": 24,
+            "occupation": "Engineer",
+            "nationality": "Nigerian",
+            "birthYear": 1979,
+            "birthMonth": 12,
+            "birthDate": 11,
+            "address": "2IZODUWA AVENUE. OKABARE, OFF SAPELE ROAD, BENIN CITY",
+            "countryOfResidence": "NIGERIA",
+            "number": "A04415756",
+            "documentType": "Permanent Voters' Card",
+            "email": "sylvester.okoyomon@yahoo.com",
+            "phone": "08098217835",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Cha**** Oke******",
+          "contacts": {
+            "phone": [
+              "234**********"
+            ],
+            "email": [
+              "cha**********************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "2",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

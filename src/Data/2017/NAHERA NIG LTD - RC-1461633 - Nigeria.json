@@ -1,0 +1,432 @@
+[
+  {
+    "year": "2017",
+    "title": "NAHERA NIG LTD - RC-1461633 - Nigeria",
+    "description": "NAHERA NIG LTD Nigeria company, Company number: RC-1461633, Incorporation Date Dec 28, 2017;, Address: NO. 24, KATSINA ROAD, FUNTUA, KATSINA STATE",
+    "company": {
+      "id": 61229439,
+      "name": "NAHERA NIG LTD",
+      "internationalNumber": "RC-1461633",
+      "localNumber": "1461633",
+      "countryId": 24,
+      "dateCreated": "2017-12-28T00:00:00.000Z",
+      "createdAt": "2021-05-23T20:30:39.631Z",
+      "updatedAt": "2024-06-15T16:44:00.196Z",
+      "alternateNames": [],
+      "address": "NO. 24, KATSINA ROAD, FUNTUA, KATSINA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "4562728",
+      "updatedAtSitemap": "2023-06-09T16:19:32.000Z",
+      "oldInternationalNumber": "1461633",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 585,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [],
+      "addresses": [
+        {
+          "id": 101832372,
+          "address": "NO. 24, KATSINA ROAD, FUNTUA, KATSINA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 178186699,
+          "companyId": 61229439,
+          "personId": 72234786,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 72234786,
+            "name": "ibrahim aminu mahammed",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1971,
+            "birthMonth": 5,
+            "birthDate": 22,
+            "address": "NO. 15, FASKARI ROAD",
+            "countryOfResidence": "NIGERIA",
+            "number": "0256371947",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "08034728888",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 178186703,
+          "companyId": 61229439,
+          "personId": 72234786,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 400000,
+          "person": {
+            "id": 72234786,
+            "name": "ibrahim aminu mahammed",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1971,
+            "birthMonth": 5,
+            "birthDate": 22,
+            "address": "NO. 15, FASKARI ROAD",
+            "countryOfResidence": "NIGERIA",
+            "number": "0256371947",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "08034728888",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 178186700,
+          "companyId": 61229439,
+          "personId": 72234787,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 72234787,
+            "name": "nuhu aminu muhammed",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1980,
+            "birthMonth": 5,
+            "birthDate": 3,
+            "address": "NO. 15, FASKARI ROAD",
+            "countryOfResidence": "NIGERIA",
+            "number": "0673835638",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "08065535533",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 178186704,
+          "companyId": 61229439,
+          "personId": 72234787,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 200000,
+          "person": {
+            "id": 72234787,
+            "name": "nuhu aminu muhammed",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1980,
+            "birthMonth": 5,
+            "birthDate": 3,
+            "address": "NO. 15, FASKARI ROAD",
+            "countryOfResidence": "NIGERIA",
+            "number": "0673835638",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "08065535533",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 237211297,
+          "companyId": 61229439,
+          "personId": 96894974,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 96894974,
+            "name": "kabir ibrahim",
+            "countryId": 24,
+            "address": "BOX 710 JIMETA YOLA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [
+            {
+              "name": "IBBI IBRAHIM (ALH) AND SONS LTD",
+              "internationalNumber": "RC-60785"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Abd********  Uma*",
+          "contacts": {
+            "email": [
+              "uma************************"
+            ],
+            "phone": [
+              "080*********"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "12",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 7,
+        "2": 4,
+        "null": 1
+      },
+      "personsWithRelatedCount": 6
+    }
+  }
+]

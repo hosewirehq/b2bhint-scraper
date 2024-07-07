@@ -1,0 +1,510 @@
+[
+  {
+    "year": "2017",
+    "title": "CHANIEL COMPANY LIMITED - RC-1461803 - Nigeria",
+    "description": "CHANIEL COMPANY LIMITED Nigeria company, Company number: RC-1461803, Incorporation Date Dec 29, 2017;, Address: 8, ANIPELE STREET, OLORUNSOGO BUS-STOP, PALM AVENUE, MUSHIN, LAGOS., LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62410655,
+      "name": "CHANIEL COMPANY LIMITED",
+      "internationalNumber": "RC-1461803",
+      "localNumber": "1461803",
+      "countryId": 24,
+      "dateCreated": "2017-12-29T00:00:00.000Z",
+      "createdAt": "2021-05-30T03:52:30.628Z",
+      "updatedAt": "2024-06-15T15:48:04.155Z",
+      "alternateNames": [],
+      "address": "8, ANIPELE STREET, OLORUNSOGO BUS-STOP, PALM AVENUE, MUSHIN, LAGOS., LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "4480081",
+      "updatedAtSitemap": "2023-06-09T17:02:09.000Z",
+      "oldInternationalNumber": "1461803",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 470,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197246,
+          "providerId": "143240",
+          "providerName": "Information service activities",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:07:02.196617+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101792725,
+          "address": "8, ANIPELE STREET, OLORUNSOGO BUS-STOP, PALM AVENUE, MUSHIN, LAGOS., LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 231951830,
+          "companyId": 62410655,
+          "personId": 94761486,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 94761486,
+            "name": "awujoola olusesan joshua",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1983,
+            "birthMonth": 5,
+            "birthDate": 24,
+            "address": "8 ANIPELE STREET, OLORUNSOGO BUS-STOP, PALM AVENUE, MUSHIN,",
+            "countryOfResidence": "NIGERIA",
+            "number": "A24238533",
+            "documentType": "Permanent Voters' Card",
+            "email": "olusesan_joshua@gmail.com",
+            "phone": "08032234748",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231951833,
+          "companyId": 62410655,
+          "personId": 94761486,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 900000,
+          "person": {
+            "id": 94761486,
+            "name": "awujoola olusesan joshua",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1983,
+            "birthMonth": 5,
+            "birthDate": 24,
+            "address": "8 ANIPELE STREET, OLORUNSOGO BUS-STOP, PALM AVENUE, MUSHIN,",
+            "countryOfResidence": "NIGERIA",
+            "number": "A24238533",
+            "documentType": "Permanent Voters' Card",
+            "email": "olusesan_joshua@gmail.com",
+            "phone": "08032234748",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231951831,
+          "companyId": 62410655,
+          "personId": 94761487,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 94761487,
+            "name": "awujoola oluyemi olakunl",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1985,
+            "birthMonth": 11,
+            "birthDate": 24,
+            "address": "6, OZIEGBE STREET, ILUPEJU, PALM GROOVE,",
+            "countryOfResidence": "NIGERIA",
+            "number": "A24537864",
+            "documentType": "Permanent Voters' Card",
+            "email": "yemiawujoola@yahoo.com",
+            "phone": "09082051700",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231951834,
+          "companyId": 62410655,
+          "personId": 94761487,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 100000,
+          "person": {
+            "id": 94761487,
+            "name": "awujoola oluyemi olakunl",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1985,
+            "birthMonth": 11,
+            "birthDate": 24,
+            "address": "6, OZIEGBE STREET, ILUPEJU, PALM GROOVE,",
+            "countryOfResidence": "NIGERIA",
+            "number": "A24537864",
+            "documentType": "Permanent Voters' Card",
+            "email": "yemiawujoola@yahoo.com",
+            "phone": "09082051700",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231951832,
+          "companyId": 62410655,
+          "personId": 94761488,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 94761488,
+            "name": "gbologe olayinka dolapo",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1987,
+            "birthMonth": 11,
+            "birthDate": 10,
+            "address": "22,Ondo street Oworonshoki Lagos.",
+            "countryOfResidence": "NIGERIA",
+            "number": "A23199958",
+            "documentType": "Permanent Voters' Card",
+            "email": "dolapophilips@gmail.com",
+            "phone": "07030597266",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [
+            {
+              "name": "YINKMARG VENTURES",
+              "internationalNumber": "BN-2877877"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238579351,
+          "companyId": 62410655,
+          "personId": 97203138,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 97203138,
+            "name": "shuaibu ishaku",
+            "countryId": 24,
+            "address": "SUITE 8 - 10, ZM PLAZA AREA 11 GARKI, ABUJA-FCT.",
+            "phone": "08062659270",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [
+            {
+              "name": "ALTITUDE CARE PHARMACY LTD",
+              "internationalNumber": "RC-1754592"
+            },
+            {
+              "name": "AL FAGAI GLOBAL CONCEPT LTD",
+              "internationalNumber": "RC-1572050"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {
+        "email": [
+          "cha*********************"
+        ]
+      },
+      "companyContactPersons": [
+        {
+          "name": "Isi*** Shu****",
+          "contacts": {
+            "email": [
+              "isi****************"
+            ],
+            "phone": [
+              "234**********"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 1,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 3,
+        "null": 2
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

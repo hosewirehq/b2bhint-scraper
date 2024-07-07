@@ -1,0 +1,328 @@
+[
+  {
+    "year": "2017",
+    "title": "DOONEV NIG LTD - RC-1459216 - Nigeria",
+    "description": "DOONEV NIG LTD Nigeria company, Company number: RC-1459216, Incorporation Date Dec 15, 2017;, Address: SUITE A19 KAYSS PLAZA PLOT 362 OBAFEMI AWOLOWO WAY JABI ABUJA., ABUJA., FCT ABUJA STATE",
+    "company": {
+      "id": 62358808,
+      "name": "DOONEV NIG LTD",
+      "internationalNumber": "RC-1459216",
+      "localNumber": "1459216",
+      "countryId": 24,
+      "dateCreated": "2017-12-15T00:00:00.000Z",
+      "createdAt": "2021-05-29T22:53:36.429Z",
+      "updatedAt": "2024-06-15T15:48:33.351Z",
+      "alternateNames": [],
+      "address": "SUITE A19 KAYSS PLAZA PLOT 362 OBAFEMI AWOLOWO WAY JABI ABUJA., ABUJA., FCT ABUJA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1",
+      "historicalNames": [],
+      "providerId": "4460524",
+      "updatedAtSitemap": "2023-06-09T17:02:57.000Z",
+      "oldInternationalNumber": "1459216",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 1031,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196924,
+          "providerId": "199237",
+          "providerName": "General Contracts",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:13.437675+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101771994,
+          "address": "SUITE A19 KAYSS PLAZA PLOT 362 OBAFEMI AWOLOWO WAY JABI ABUJA., ABUJA., FCT ABUJA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 365156553,
+          "companyId": 62358808,
+          "personId": 66156175,
+          "roleId": 114332,
+          "sourceNum": 1,
+          "person": {
+            "id": 66156175,
+            "name": "fredrick oniyesan",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1981,
+            "birthMonth": 8,
+            "birthDate": 6,
+            "address": "Plot A4Kuchiyako Layout, Abuja, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1826935",
+            "documentType": "Driver's License",
+            "documentNumber": "ABC10731AB",
+            "email": "fredrickmisan@yahoo.com",
+            "phone": "+234 817 814 4400",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "TEMIDIRE GLOBAL CONSTRUCTION LTD",
+              "internationalNumber": "RC-1678363"
+            },
+            {
+              "name": "SKYBEAM BROADBAND NETWORKS LTD",
+              "internationalNumber": "RC-1684968"
+            },
+            {
+              "name": "BFC INT'L INVESTMENT SERVICES LTD",
+              "internationalNumber": "RC-1514858"
+            },
+            {
+              "name": "VASS LOGISTICS GLOBAL SERVICES LIMITED  ",
+              "internationalNumber": "RC-1653540"
+            },
+            {
+              "name": "RHYMZ ART FASHION LTD",
+              "internationalNumber": "RC-1515009"
+            },
+            {
+              "name": "EMSEPRO GLOBAL VENTURES LTD",
+              "internationalNumber": "RC-1470614"
+            },
+            {
+              "name": "TOYALINK GLOBAL VENTURES",
+              "internationalNumber": "BN-3057450"
+            },
+            {
+              "name": "SMAT BEE24",
+              "internationalNumber": "BN-2802563"
+            },
+            {
+              "name": "PRISCY BEAUTY ESSENTIALS AND SPA",
+              "internationalNumber": "BN-3122034"
+            },
+            {
+              "name": "TGLO DESIGNS",
+              "internationalNumber": "BN-3184505"
+            },
+            {
+              "name": "TREOYL CHEMICAL LTD",
+              "internationalNumber": "RC-1511215"
+            },
+            {
+              "name": "JASON'S GLOBAL SERVICES",
+              "internationalNumber": "BN-3184535"
+            },
+            {
+              "name": "LONIZ ASSOCIATES",
+              "internationalNumber": "BN-2846952"
+            },
+            {
+              "name": "ONE PROJECTS INTEGRATED SERVICES LTD",
+              "internationalNumber": "RC-1635207"
+            },
+            {
+              "name": "IMAZ SIGNATURES",
+              "internationalNumber": "BN-2604452"
+            },
+            {
+              "name": "ESAKNN INTEGRATED SERVICES LTD",
+              "internationalNumber": "RC-1580036"
+            },
+            {
+              "name": "ISAACTECH CONSTRUCTION SERVICES LTD",
+              "internationalNumber": "RC-1842872"
+            },
+            {
+              "name": "PRETELIA  HOTEL LIMITED",
+              "internationalNumber": "RC-1653176"
+            },
+            {
+              "name": "BENMARK GLOBAL INVESTMENT AND ENGINEERING SERVICES LTD",
+              "internationalNumber": "RC-1575964"
+            },
+            {
+              "name": "KHAMZAF GLOBAL SERVICES",
+              "internationalNumber": "BN-2684691"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {
+        "email": [
+          "nev******************"
+        ]
+      },
+      "companyContactPersons": [
+        {
+          "name": "Fre***** Oni*****",
+          "contacts": {
+            "phone": [
+              "+23**************",
+              "081********"
+            ],
+            "email": [
+              "fre********************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "1",
+      "companyContactsCount": 1,
+      "companyContactPersonsCount": 3,
+      "personsCountByPriority": {
+        "3": 1
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

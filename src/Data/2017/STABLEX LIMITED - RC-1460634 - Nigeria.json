@@ -1,0 +1,513 @@
+[
+  {
+    "year": "2017",
+    "title": "STABLEX LIMITED - RC-1460634 - Nigeria",
+    "description": "STABLEX LIMITED Nigeria company, Company number: RC-1460634, Incorporation Date 21 déc. 2017;, Address: PLOT 1 CO-OPERATIVE SAVINGS AND LOAN HOUSING ESTATE, KPEGYI JIKWOYI, ABUJA FCT., FCT ABUJA, FCT ABUJA STATE",
+    "company": {
+      "id": 62325825,
+      "name": "STABLEX LIMITED",
+      "internationalNumber": "RC-1460634",
+      "localNumber": "1460634",
+      "countryId": 24,
+      "dateCreated": "2017-12-21T00:00:00.000Z",
+      "createdAt": "2021-05-29T19:25:55.315Z",
+      "updatedAt": "2024-06-15T15:49:03.798Z",
+      "alternateNames": [],
+      "address": "PLOT 1 CO-OPERATIVE SAVINGS AND LOAN HOUSING ESTATE, KPEGYI JIKWOYI, ABUJA FCT., FCT ABUJA, FCT ABUJA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "4450158",
+      "updatedAtSitemap": "2023-06-09T17:03:53.000Z",
+      "oldInternationalNumber": "1460634",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 651,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196941,
+          "providerId": "493888",
+          "providerName": "MANUFACTURERS' REPRESENTATION, IMPORT, EXPORT AND GENERAL MERCHANDISE",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:29.304135+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101743558,
+          "address": "PLOT 1 CO-OPERATIVE SAVINGS AND LOAN HOUSING ESTATE, KPEGYI JIKWOYI, ABUJA FCT., FCT ABUJA, FCT ABUJA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 239060216,
+          "companyId": 62325825,
+          "personId": 66955357,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66955357,
+            "name": "nsoedo obinna okechukwu",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1984,
+            "birthMonth": 9,
+            "birthDate": 20,
+            "address": "NO. 9 ST. FINBARR'S COLLEGE ROAD,AKOKA,YABA,LAGOS.",
+            "countryOfResidence": "NIGERIA",
+            "number": "A05638304",
+            "documentType": "International Passport",
+            "email": "okadz@hotmail.com.uk",
+            "phone": "08032658322",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239060219,
+          "companyId": 62325825,
+          "personId": 66955357,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 150000,
+          "person": {
+            "id": 66955357,
+            "name": "nsoedo obinna okechukwu",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1984,
+            "birthMonth": 9,
+            "birthDate": 20,
+            "address": "NO. 9 ST. FINBARR'S COLLEGE ROAD,AKOKA,YABA,LAGOS.",
+            "countryOfResidence": "NIGERIA",
+            "number": "A05638304",
+            "documentType": "International Passport",
+            "email": "okadz@hotmail.com.uk",
+            "phone": "08032658322",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239060218,
+          "companyId": 62325825,
+          "personId": 66955359,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 66955359,
+            "name": "okoye ikechukwu christian",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1960,
+            "birthMonth": 12,
+            "birthDate": 23,
+            "address": "SUITES 01 & 02 AOSEE PLAZA, 3RD GATE BY ALAKIJA B/STOP",
+            "countryOfResidence": "NIGERIA",
+            "number": "LSD04222AA01",
+            "documentType": "Driver's License",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [
+            {
+              "name": "M &  P COOL BEST OIL. LIMITED",
+              "internationalNumber": "RC-1412734"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239060215,
+          "companyId": 62325825,
+          "personId": 97428072,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 97428072,
+            "name": "wokoma  ellis  nyemah ",
+            "countryId": 24,
+            "address": "47, Old Ojo Road Maza Maza ,Lagos. ",
+            "countryOfResidence": "NIGERIA",
+            "email": "elliswox@yahoo.com",
+            "phone": "08023308917,0813",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SIRCHEZ NIGERIA  LIMITED",
+              "internationalNumber": "RC-1446147"
+            },
+            {
+              "name": "OYLESAN INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-1438333"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239060220,
+          "companyId": 62325825,
+          "personId": 97428073,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 150000,
+          "person": {
+            "id": 97428073,
+            "name": "nsoedo tochukwu",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1991,
+            "birthMonth": 9,
+            "birthDate": 29,
+            "address": "No. 9 ST. FINBARR'S COLLEGE  ROAD, AKOKA, YABA, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "number": "KSF 18171AA08",
+            "documentType": "Driver's License",
+            "email": "toch@yahoo.com",
+            "phone": "08036522362",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239060221,
+          "companyId": 62325825,
+          "personId": 97428074,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 97428074,
+            "name": "wokoma ellis",
+            "countryId": 24,
+            "address": "47 OLD OJO ROAD, MAZA  MAZA, LAGOS.",
+            "phone": "08023308917",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [
+            {
+              "name": "SIRCHEZ NIGERIA  LIMITED",
+              "internationalNumber": "RC-1446147"
+            },
+            {
+              "name": "OYLESAN INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-1438333"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {
+        "email": [
+          "oka****************"
+        ]
+      },
+      "companyContactPersons": [
+        {
+          "name": "Ell**  Nye***  Wok***",
+          "contacts": {
+            "phone": [
+              "080*************"
+            ],
+            "email": [
+              "ell***************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 1,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 3,
+        "null": 2
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
