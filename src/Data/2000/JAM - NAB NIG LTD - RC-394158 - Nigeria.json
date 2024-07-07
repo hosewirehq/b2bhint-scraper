@@ -1,0 +1,498 @@
+[
+  {
+    "year": "2000",
+    "title": "JAM - NAB NIG LTD - RC-394158 - Nigeria",
+    "description": "JAM - NAB NIG LTD Nigeria company, Company number: RC-394158, Incorporation Date Nov 9, 2000;, Address: SUITE 58, JAM-NAB PLAZA, NO. 1, SAPELE STREET, OFF LADOKE AKINTOLA BOULEVARD, GARKI ABUJA, WUSE II",
+    "company": {
+      "id": 63852272,
+      "name": "JAM - NAB NIG LTD",
+      "internationalNumber": "RC-394158",
+      "localNumber": "394158",
+      "countryId": 24,
+      "dateCreated": "2000-11-09T00:00:00.000Z",
+      "createdAt": "2021-06-06T19:28:25.559Z",
+      "updatedAt": "2024-06-15T16:08:31.137Z",
+      "alternateNames": [],
+      "address": "SUITE 58, JAM-NAB PLAZA, NO. 1, SAPELE STREET, OFF LADOKE AKINTOLA BOULEVARD, GARKI ABUJA, WUSE II",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "5000000",
+      "historicalNames": [],
+      "activityDescription": "- TO CARRY ON THE BUSINESS OF TRADING, MARKETING, SALES AND DISTRIBUTION OF GENERAL GOODS, COMMISSION AGENTS, MANUFACTURERS' REPRESENT, GENERAL CONTRACTORS, ETC.\n\n- TO BUY, SELL, EXPORT, IMPORT. ETC",
+      "providerId": "552800",
+      "updatedAtSitemap": "2023-06-09T19:01:22.000Z",
+      "oldInternationalNumber": "394158",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 132,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196963,
+          "providerId": "199266",
+          "providerName": "Trading",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:45.58562+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 93115301,
+          "address": "SUITE 58, JAM-NAB PLAZA, NO. 1, SAPELE STREET, OFF LADOKE AKINTOLA BOULEVARD, GARKI ABUJA, WUSE II",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 248019913,
+          "companyId": 63852272,
+          "personId": 66421795,
+          "roleId": 60323,
+          "appointedOn": "2017-02-14",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 363636,
+          "person": {
+            "id": 66421795,
+            "name": "muhammed nabila",
+            "countryId": 24,
+            "address": "PLOT 735  KADE  STREET, LIFE CAMP ABUJA,",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "SILVER SAND CONSTRUCTION LTD",
+              "internationalNumber": "RC-779430"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 248019906,
+          "companyId": 63852272,
+          "personId": 67235983,
+          "roleId": 60317,
+          "appointedOn": "2017-02-14",
+          "sourceNum": 1,
+          "person": {
+            "id": 67235983,
+            "name": "aliyu jamilu wada",
+            "countryId": 24,
+            "address": "PLOT 735  KADE  STREET, LIFE CAMP, ABUJA, ",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 248019910,
+          "companyId": 63852272,
+          "personId": 70265345,
+          "roleId": 60322,
+          "appointedOn": "2017-02-14",
+          "sourceNum": 1,
+          "person": {
+            "id": 70265345,
+            "name": "owonla olajide",
+            "countryId": 24,
+            "address": "SUITE 16 LANDMARK PLAZA, MAITAMA, ABUJA",
+            "phone": "08037444474",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60322,
+            "name": "Secretary company",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary company"
+            }
+          },
+          "companies": [
+            {
+              "name": "DIVINEGLEE MEDICS AND STORE",
+              "internationalNumber": "BN-2894932"
+            },
+            {
+              "name": "HABITATION@HOME LIMITED",
+              "internationalNumber": "RC-1507028"
+            },
+            {
+              "name": "SURRANCE COMMUNICATIONS LIMITED",
+              "internationalNumber": "RC-497129"
+            },
+            {
+              "name": "GRACE AND NEEDLES",
+              "internationalNumber": "BN-2651005"
+            },
+            {
+              "name": "RULER'S HOME ENERGY",
+              "internationalNumber": "BN-3073617"
+            },
+            {
+              "name": "CHEVINGSON UNIQUE STANDARD ACADEMY",
+              "internationalNumber": "BN-2930942"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 248019911,
+          "companyId": 63852272,
+          "personId": 71602057,
+          "roleId": 60323,
+          "appointedOn": "2017-02-14",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 363636,
+          "person": {
+            "id": 71602057,
+            "name": "mohammed inuwa aliyu",
+            "countryId": 24,
+            "address": "PLOT 735  KADE  STREET, LIFE CAMP ABUJA,",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "SALEH BADO PETROLEUM AND ALLIED PRODUCTS LTD",
+              "internationalNumber": "RC-787598"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 225706660,
+          "companyId": 63852272,
+          "personId": 71868812,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 71868812,
+            "name": "nabila mohammed",
+            "countryId": 24,
+            "address": "2, FILIN-IDI ROAD, TUDUN-WADA ARGUNGU KEBBI",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MOFASSA NIG LTD",
+              "internationalNumber": "RC-765621"
+            },
+            {
+              "name": "SARKAWA INTERNATIOANAL LIMITED",
+              "internationalNumber": "RC-407286"
+            },
+            {
+              "name": "GEO-AFRIK CONSULTANTS LIMITED",
+              "internationalNumber": "RC-468967"
+            },
+            {
+              "name": "NEW PETROLEUM NIGERIA LIMITED",
+              "internationalNumber": "RC-412833"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 225706661,
+          "companyId": 63852272,
+          "personId": 92682113,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 92682113,
+            "name": "aminu basha",
+            "countryId": 24,
+            "address": "NO. 10 AKWANGA ROAD, NASSARAWA,",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "27",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 11,
+        "2": 13,
+        "null": 3
+      },
+      "personsWithRelatedCount": 5
+    }
+  }
+]

@@ -1,0 +1,489 @@
+[
+  {
+    "year": "2000",
+    "title": "SAMLAT SHIPPING COMPANY LIMITED - RC-393076 - Nigeria",
+    "description": "SAMLAT SHIPPING COMPANY LIMITED Nigeria company, Company number: RC-393076, Incorporation Date Oct 24, 2000;, Address: 14, TELEOLA AYINDE STREET, SANGO OTA, OGUN, SANGO OTA, OGUN STATE",
+    "company": {
+      "id": 61763036,
+      "name": "SAMLAT SHIPPING COMPANY LIMITED",
+      "internationalNumber": "RC-393076",
+      "localNumber": "393076",
+      "countryId": 24,
+      "dateCreated": "2000-10-24T00:00:00.000Z",
+      "createdAt": "2021-05-26T04:47:20.034Z",
+      "updatedAt": "2024-06-15T16:40:13.851Z",
+      "alternateNames": [],
+      "address": "14, TELEOLA AYINDE STREET, SANGO OTA, OGUN, SANGO OTA, OGUN STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "551753",
+      "updatedAtSitemap": "2023-06-09T16:10:09.000Z",
+      "oldInternationalNumber": "393076",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 137,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6203180,
+          "providerId": "143229",
+          "providerName": "Water transport",
+          "countryId": 24,
+          "createdAt": "2021-11-07T17:34:34.022228+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 93105883,
+          "address": "14, TELEOLA AYINDE STREET, SANGO OTA, OGUN, SANGO OTA, OGUN STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 244061336,
+          "companyId": 61763036,
+          "personId": 99772495,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99772495,
+            "name": "akande rasaki",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "14, TELEOLA AYINDE STREET,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GBAGEDE NIG LTD",
+              "internationalNumber": "RC-267818"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244061338,
+          "companyId": 61763036,
+          "personId": 99772496,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99772496,
+            "name": "akande surajudeen",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "14, TELEOLA AYINDE STREET",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244061350,
+          "companyId": 61763036,
+          "personId": 94419377,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 150000,
+          "person": {
+            "id": 94419377,
+            "name": "olagbaju timothy",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "11, JOSEPH UCHULOR CLOSE,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "DURABLE CONNECTION INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-368140"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244061354,
+          "companyId": 61763036,
+          "personId": 94419377,
+          "roleId": 60321,
+          "appointedOn": "2022-03-22",
+          "votingShares": "null%",
+          "sourceNum": 1,
+          "person": {
+            "id": 94419377,
+            "name": "olagbaju timothy",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "11, JOSEPH UCHULOR CLOSE,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [
+            {
+              "name": "DURABLE CONNECTION INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-368140"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244061347,
+          "companyId": 61763036,
+          "personId": 99772501,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 100000,
+          "person": {
+            "id": 99772501,
+            "name": "akande surajudn",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "14, TELEOLA AYINDE STREET,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244061352,
+          "companyId": 61763036,
+          "personId": 99772501,
+          "roleId": 60321,
+          "appointedOn": "2022-03-22",
+          "votingShares": "null%",
+          "sourceNum": 1,
+          "person": {
+            "id": 99772501,
+            "name": "akande surajudn",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "14, TELEOLA AYINDE STREET,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "13",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 4,
+        "2": 5,
+        "null": 4
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
