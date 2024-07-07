@@ -1,0 +1,293 @@
+[
+  {
+    "year": "2011",
+    "title": "LIBERTY BUILDING PRODUCTS LIMITED - RC-999662 - Nigeria",
+    "description": "LIBERTY BUILDING PRODUCTS LIMITED Nigeria company, Company number: RC-999662, Incorporation Date Dec 9, 2011;, Address: NO 3 PLOT 809 PAUL UNONGO STREET OFF EBITU UKIWE STREET JABI, ABUJA, FCT",
+    "company": {
+      "id": 63766535,
+      "name": "LIBERTY BUILDING PRODUCTS LIMITED",
+      "internationalNumber": "RC-999662",
+      "localNumber": "999662",
+      "countryId": 24,
+      "dateCreated": "2011-12-09T00:00:00.000Z",
+      "createdAt": "2021-06-06T05:38:29.876Z",
+      "updatedAt": "2024-06-15T16:29:51.095Z",
+      "alternateNames": [],
+      "address": "NO 3 PLOT 809 PAUL UNONGO STREET OFF EBITU UKIWE STREET JABI, ABUJA, FCT",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "activityDescription": "To carry on business as suppliers, dealers, importers, exporters and distributors of building materials especially toiletries including but not limited to WC, and builders requisites whether described as nails, zincs, wooden products, insulation pipes, plumbing materials, PVC pipes or otherwise.",
+      "providerId": "1304428",
+      "updatedAtSitemap": "2024-04-18T20:58:45.000Z",
+      "oldInternationalNumber": "999662",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 992,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196924,
+          "providerId": "199237",
+          "providerName": "General Contracts",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:13.437675+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 154382055,
+          "address": "NO 3 PLOT 809 PAUL UNONGO STREET OFF EBITU UKIWE STREET JABI, ABUJA, FCT",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 240317579,
+          "companyId": 63766535,
+          "personId": 74917459,
+          "roleId": 60317,
+          "appointedOn": "2022-03-23",
+          "sourceNum": 1,
+          "person": {
+            "id": 74917459,
+            "name": "jibrin muhammad barde",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "birthYear": 1971,
+            "birthMonth": 4,
+            "birthDate": 15,
+            "address": "PLOT 809, PAUL UNONGO STREET, OFF EBITU UKIWE STREET, JABI",
+            "number": "B50077730",
+            "documentType": "International Passport",
+            "email": "MUHAMMADJULDE@GMAIL.COM",
+            "phone": "08033112280",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "METROCORP APARTMENTS LTD",
+              "internationalNumber": "RC-698349"
+            },
+            {
+              "name": "BRAIMUH NIGERIA LIMITED",
+              "internationalNumber": "RC-497000"
+            },
+            {
+              "name": "SUNTRUST BANK NIGERIA LIMITED       ",
+              "internationalNumber": "RC-204764"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 226207747,
+          "companyId": 63766535,
+          "personId": 92894058,
+          "roleId": 60321,
+          "percentage": 40,
+          "appointedOn": "2022-01-10",
+          "votingShares": "40%",
+          "sourceNum": 1,
+          "person": {
+            "id": 92894058,
+            "name": "muhammad abubakar as - siddiq",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "9,BERBERASTREETWUSEZONE6,ABUJA,FCT, NO 9",
+            "countryOfResidence": "NIGERIA",
+            "number": "B50077730",
+            "documentType": "PREFERENCE",
+            "email": "As-siddiq@gmail.com",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "2",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 1
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
