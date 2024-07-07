@@ -1,0 +1,476 @@
+[
+  {
+    "year": "2014",
+    "title": "MEAD JOHNSON TRADING LIMITED - RC-1233464 - Nigeria",
+    "description": "MEAD JOHNSON TRADING LIMITED Nigeria company, Company number: RC-1233464, Incorporation Date Dec 29, 2014;, Address: 4, OMOWUNMI STREET MUSHIN, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60834164,
+      "name": "MEAD JOHNSON TRADING LIMITED",
+      "internationalNumber": "RC-1233464",
+      "localNumber": "1233464",
+      "countryId": 24,
+      "dateCreated": "2014-12-29T00:00:00.000Z",
+      "createdAt": "2021-05-15T08:24:04.282Z",
+      "updatedAt": "2024-06-15T16:33:10.969Z",
+      "alternateNames": [],
+      "address": "4, OMOWUNMI STREET MUSHIN, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "activityDescription": "TO ENGAGE IN GENERAL TRADING.",
+      "providerId": "2180955",
+      "updatedAtSitemap": "2024-04-21T02:03:54.000Z",
+      "oldInternationalNumber": "1233464",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 632,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196963,
+          "providerId": "199266",
+          "providerName": "Trading",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:45.58562+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 154545318,
+          "address": "4, OMOWUNMI STREET MUSHIN, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238847457,
+          "companyId": 60834164,
+          "personId": 92836562,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 92836562,
+            "name": "oyeboade akeem adebayo",
+            "countryId": 24,
+            "address": "10, ABEBE VILLAGE ROAD, IGANMU, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "number": "FKJ27935AA02",
+            "documentType": "Driver's License",
+            "email": "oyebodake@yahoo.com",
+            "phone": "08033430087",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ARIESTAURUS LIMITED",
+              "internationalNumber": "RC-1489788"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238847460,
+          "companyId": 60834164,
+          "personId": 92836562,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 50000,
+          "person": {
+            "id": 92836562,
+            "name": "oyeboade akeem adebayo",
+            "countryId": 24,
+            "address": "10, ABEBE VILLAGE ROAD, IGANMU, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "number": "FKJ27935AA02",
+            "documentType": "Driver's License",
+            "email": "oyebodake@yahoo.com",
+            "phone": "08033430087",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "ARIESTAURUS LIMITED",
+              "internationalNumber": "RC-1489788"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238847454,
+          "companyId": 60834164,
+          "personId": 96254904,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96254904,
+            "name": "ogholoh eniye p.",
+            "countryId": 24,
+            "address": "NO 5 AGBONKPOLOR DRV, OFF ST. SAVIUOR ROAD, B/C",
+            "email": "ogholoh2003@yahoo.com",
+            "phone": "08038330347",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "BEN-CHYE CONSOLIDATED RESOURCES LIMITED",
+              "internationalNumber": "RC-1243148"
+            },
+            {
+              "name": "ESTUDIO BROADCAST TECHNOLOGIES LTD",
+              "internationalNumber": "RC-1227635"
+            },
+            {
+              "name": "ROCKLAND GOLDEN HARVEST FARMS LIMITED",
+              "internationalNumber": "RC-1330456"
+            },
+            {
+              "name": "ZEAL BEAUTY STORES LIMITED",
+              "internationalNumber": "RC-1402349"
+            },
+            {
+              "name": "TORAMA NIGERIA LIMITED",
+              "internationalNumber": "RC-1411503"
+            },
+            {
+              "name": "HALFTIMENG GAMING AND PUBLICATIONS LIMITED",
+              "internationalNumber": "RC-1247622"
+            },
+            {
+              "name": "O.E.NNAMEC CONCEPT NIGERIA LIMITED",
+              "internationalNumber": "RC-1372479"
+            },
+            {
+              "name": "TGEEMAX SERVICES LIMITED",
+              "internationalNumber": "RC-1230424"
+            },
+            {
+              "name": "MIKABEN PROPERTIES LTD",
+              "internationalNumber": "RC-1405380"
+            },
+            {
+              "name": "HODIAH LIMITED",
+              "internationalNumber": "RC-1389898"
+            },
+            {
+              "name": "CLAMIS PHARMACEUTICAL LTD",
+              "internationalNumber": "RC-1383248"
+            },
+            {
+              "name": "EAGLES PALM CONCEPT LTD",
+              "internationalNumber": "RC-1331408"
+            },
+            {
+              "name": "CHARISHARBOUR LIMITED",
+              "internationalNumber": "RC-1335139"
+            },
+            {
+              "name": "ECJ ADVENTURE NIG LTD",
+              "internationalNumber": "RC-1387296"
+            },
+            {
+              "name": "ALLERA TECHNOLOGY SOLUTIONS LTD",
+              "internationalNumber": "RC-1231098"
+            },
+            {
+              "name": "MO & LABOLA LIMITED",
+              "internationalNumber": "RC-1393799"
+            },
+            {
+              "name": "TOLU JOHN APPAREL LIMITED",
+              "internationalNumber": "RC-1228537"
+            },
+            {
+              "name": "BASELINE HOSPITALITY LTD",
+              "internationalNumber": "RC-1227612"
+            },
+            {
+              "name": "WOODMEAD TECHNOLOGIES NIGERIA LIMITED",
+              "internationalNumber": "RC-1335126"
+            },
+            {
+              "name": "MAZE ANALYTICS LIMITED",
+              "internationalNumber": "RC-1403753"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238847458,
+          "companyId": 60834164,
+          "personId": 97345157,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 870000,
+          "person": {
+            "id": 97345157,
+            "name": "tairu oladimeji daniel",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1983,
+            "birthMonth": 4,
+            "birthDate": 7,
+            "address": "4 OMOWUNMI STREET MUSHIN",
+            "countryOfResidence": "NIGERIA",
+            "number": "12345",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Hab**** Sai**",
+          "contacts": {
+            "email": [
+              "sha****************"
+            ],
+            "phone": [
+              "803*******"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 3,
+        "2": 4
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

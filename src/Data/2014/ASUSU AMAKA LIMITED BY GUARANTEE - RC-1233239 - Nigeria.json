@@ -1,0 +1,364 @@
+[
+  {
+    "year": "2014",
+    "title": "ASUSU AMAKA LIMITED BY GUARANTEE - RC-1233239 - Nigeria",
+    "description": "ASUSU AMAKA LIMITED BY GUARANTEE Nigeria company, Company number: RC-1233239, Incorporation Date Dec 24, 2014;, Address: CT LOBISH VILLA, OFF NIGERIA BOOK FOUNDATION JUNCTION IFI, AWKA, ANAMBRA STATE",
+    "company": {
+      "id": 60827957,
+      "name": "ASUSU AMAKA LIMITED BY GUARANTEE",
+      "internationalNumber": "RC-1233239",
+      "localNumber": "1233239",
+      "countryId": 24,
+      "dateCreated": "2014-12-24T00:00:00.000Z",
+      "createdAt": "2021-05-15T07:54:47.234Z",
+      "updatedAt": "2024-06-15T16:33:13.465Z",
+      "alternateNames": [],
+      "address": "CT LOBISH VILLA, OFF NIGERIA BOOK FOUNDATION JUNCTION IFI, AWKA, ANAMBRA STATE",
+      "additionalData": {},
+      "typeId": 99349,
+      "historicalNames": [],
+      "providerId": "2178656",
+      "updatedAtSitemap": "2023-06-09T15:57:34.000Z",
+      "oldInternationalNumber": "1233239",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99349,
+        "type": "Private_company_limited_by_guarantee",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by guarantee"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 381,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [],
+      "addresses": [
+        {
+          "id": 89266625,
+          "address": "CT LOBISH VILLA, OFF NIGERIA BOOK FOUNDATION JUNCTION IFI, AWKA, ANAMBRA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238890971,
+          "companyId": 60827957,
+          "personId": 66254967,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 66254967,
+            "name": "kenneth ugochukwu ajibo",
+            "countryId": 24,
+            "address": "B25,ABUJA SHOPPING MALL,",
+            "documentNumber": "A02895420",
+            "email": "ajiboken22@gmail.com",
+            "phone": "08030984893",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238890972,
+          "companyId": 60827957,
+          "personId": 97361790,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97361790,
+            "name": "chinedu uchechukwu",
+            "countryId": 24,
+            "address": "1 INNER RING ROAD  AWKA                                                                                                  ANAMBRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "COO-PLUS LIMITED",
+              "internationalNumber": "RC-787362"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238890974,
+          "companyId": 60827957,
+          "personId": 97361790,
+          "roleId": 60337,
+          "sourceNum": 1,
+          "person": {
+            "id": 97361790,
+            "name": "chinedu uchechukwu",
+            "countryId": 24,
+            "address": "1 INNER RING ROAD  AWKA                                                                                                  ANAMBRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60337,
+            "name": "Guarantor",
+            "countryId": 24,
+            "translation": {
+              "en": ""
+            }
+          },
+          "companies": [
+            {
+              "name": "COO-PLUS LIMITED",
+              "internationalNumber": "RC-787362"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238890975,
+          "companyId": 60827957,
+          "personId": 97361791,
+          "roleId": 60337,
+          "sourceNum": 1,
+          "person": {
+            "id": 97361791,
+            "name": "purity ada uchechukwu",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1971,
+            "birthMonth": 7,
+            "birthDate": 5,
+            "address": "GLOBISH VILLA, OFF NIGERIA BOOK FOUNDATION JUNCTION, IFITE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A05358070",
+            "documentType": "International Passport",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60337,
+            "name": "Guarantor",
+            "countryId": 24,
+            "translation": {
+              "en": ""
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Mon*** Odo*****",
+          "contacts": {
+            "email": [
+              "omo***************"
+            ],
+            "phone": [
+              "805*******"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "2": 3,
+        "null": 2
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
