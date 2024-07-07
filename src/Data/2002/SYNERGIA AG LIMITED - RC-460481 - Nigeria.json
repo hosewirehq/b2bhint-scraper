@@ -1,0 +1,415 @@
+[
+  {
+    "year": "2002",
+    "title": "SYNERGIA AG LIMITED - RC-460481 - Nigeria",
+    "description": "SYNERGIA AG LIMITED Nigeria company, Company number: RC-460481, Incorporation Date 29 авг. 2002 г.;, Address: NO 777, PARAKOU CRESCENT, WUSE II, ABUJA, FCT, ABUJA, FCT STATE",
+    "company": {
+      "id": 63041004,
+      "name": "SYNERGIA AG LIMITED",
+      "internationalNumber": "RC-460481",
+      "localNumber": "460481",
+      "countryId": 24,
+      "dateCreated": "2002-08-29T00:00:00.000Z",
+      "createdAt": "2021-06-01T05:39:22.747Z",
+      "updatedAt": "2024-06-15T16:04:00.901Z",
+      "alternateNames": [],
+      "address": "NO 777, PARAKOU CRESCENT, WUSE II, ABUJA, FCT, ABUJA, FCT STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "5000000",
+      "historicalNames": [],
+      "providerId": "617998",
+      "updatedAtSitemap": "2023-06-09T18:53:01.000Z",
+      "oldInternationalNumber": "460481",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 119,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196967,
+          "providerId": "199119",
+          "providerName": "Oil and Gas Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:47.223789+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 93975503,
+          "address": "NO 777, PARAKOU CRESCENT, WUSE II, ABUJA, FCT, ABUJA, FCT STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 235318112,
+          "companyId": 63041004,
+          "personId": 75369287,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 75369287,
+            "name": "chetan bhatia",
+            "countryId": 24,
+            "address": "SUITE A30 HABIBA PLAZA IBB WAY MAITAMA  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "IMMOBILIARE LTD",
+              "internationalNumber": "RC-878300"
+            },
+            {
+              "name": "SYNERGIA EXPLORATION LIMITED",
+              "internationalNumber": "RC-491317"
+            },
+            {
+              "name": "SYNERGIA IMMOBILIARE LIMITED",
+              "internationalNumber": "RC-639505"
+            },
+            {
+              "name": "SYNERGIA AIR LIMITED",
+              "internationalNumber": "RC-488770"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233396449,
+          "companyId": 63041004,
+          "personId": 95251727,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 45000,
+          "person": {
+            "id": 95251727,
+            "name": "bhatia prem",
+            "countryId": 24,
+            "nationality": "Indian",
+            "address": "BHATIA ESTATE MAGAZINE GATE,FEROZPUR CITY,PUNJAP",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "IMMOBILIARE LTD",
+              "internationalNumber": "RC-878300"
+            },
+            {
+              "name": "EUROFOLIO AG LIMITED",
+              "internationalNumber": "RC-487483"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233396446,
+          "companyId": 63041004,
+          "personId": 95543182,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95543182,
+            "name": "prem bhatia",
+            "countryId": 24,
+            "address": "BHATIA ESTATE MAGAZINE GATE, FEROZPUR-PUNJAB INDIA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "IMMOBILIARE LTD",
+              "internationalNumber": "RC-878300"
+            },
+            {
+              "name": "SYNERGIA EXPLORATION LIMITED",
+              "internationalNumber": "RC-491317"
+            },
+            {
+              "name": "VENTURES KAPITAL PRIVAT AG LIMITED",
+              "internationalNumber": "RC-460464"
+            },
+            {
+              "name": "SYNERGIA AIR LIMITED",
+              "internationalNumber": "RC-488770"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245091158,
+          "companyId": 63041004,
+          "personId": 100215907,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 4950000,
+          "person": {
+            "id": 100215907,
+            "name": "bhatia chetan",
+            "countryId": 24,
+            "address": "BHATIA EST. MAGAZINE GATE, FERO 2, PURCITY PUNJAB INDIA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "EUROFOLIO AG LIMITED",
+              "internationalNumber": "RC-487483"
+            },
+            {
+              "name": "VENTURES KAPITAL PRIVAT AG LIMITED",
+              "internationalNumber": "RC-460464"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 3,
+        "2": 4
+      },
+      "personsWithRelatedCount": 6
+    }
+  }
+]

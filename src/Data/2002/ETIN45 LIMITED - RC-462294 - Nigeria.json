@@ -1,0 +1,308 @@
+[
+  {
+    "year": "2002",
+    "title": "ETIN45 LIMITED - RC-462294 - Nigeria",
+    "description": "ETIN45 LIMITED Nigeria company, Company number: RC-462294, Incorporation Date Sep 20, 2002;, Address: 113, AWOLOWOROAD, IKOYI, LAGOS, IKOYI, LAGOS STATE",
+    "company": {
+      "id": 103579590,
+      "name": "ETIN45 LIMITED",
+      "internationalNumber": "RC-462294",
+      "localNumber": "462294",
+      "countryId": 24,
+      "dateCreated": "2002-09-20T00:00:00.000Z",
+      "createdAt": "2022-03-14T01:44:12.359Z",
+      "updatedAt": "2024-06-15T16:03:52.889Z",
+      "alternateNames": [],
+      "address": "113, AWOLOWOROAD, IKOYI, LAGOS, IKOYI, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "619795",
+      "updatedAtSitemap": "2023-06-09T18:52:47.000Z",
+      "oldInternationalNumber": "462294",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 94,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82114908,
+          "address": "113, AWOLOWOROAD, IKOYI, LAGOS, IKOYI, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "AUTO KONSULT LIMITED",
+              "internationalNumber": "RC-493090"
+            },
+            {
+              "name": "15 MINUTES LIMITED",
+              "internationalNumber": "RC-609378"
+            },
+            {
+              "name": "DANAR INVESTMENTS LTD",
+              "internationalNumber": "RC-347098"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 233116725,
+          "companyId": 103579590,
+          "personId": 69492922,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 69492922,
+            "name": "afam edozie",
+            "countryId": 24,
+            "address": "PLOT 2 OYO CLOSE PARKVIEW IKOYI  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "21ST CENTURY FARMS LIMITED",
+              "internationalNumber": "RC-824429"
+            },
+            {
+              "name": "SOUTHERN LIGHTS LIMITED",
+              "internationalNumber": "RC-677950"
+            },
+            {
+              "name": "TRADEWINDS NETWORK LIMITED",
+              "internationalNumber": "RC-422152"
+            },
+            {
+              "name": "SYNERGY CAPITAL AND ADVISORY LIMITED",
+              "internationalNumber": "RC-678007"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233116724,
+          "companyId": 103579590,
+          "personId": 74553496,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 74553496,
+            "name": "oti bazunu",
+            "countryId": 24,
+            "address": "6A, ABIMBOLA AWONIYI CLOSE V/ISLAND  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "XIOCOM WIRELESS LIMITED",
+              "internationalNumber": "RC-1019284"
+            },
+            {
+              "name": "COLTON LIMITED",
+              "internationalNumber": "RC-244600"
+            },
+            {
+              "name": "LJS LIMITED",
+              "internationalNumber": "RC-898961"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 8
+      },
+      "personsWithRelatedCount": 5
+    }
+  }
+]
