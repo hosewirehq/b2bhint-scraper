@@ -1,0 +1,499 @@
+[
+  {
+    "year": "2003",
+    "title": "KEVES GLOBAL LEASING LIMITED - RC-493333 - Nigeria",
+    "description": "KEVES GLOBAL LEASING LIMITED Nigeria company, Company number: RC-493333, Incorporation Date Sep 20, 2003;, Address: NO. 6, AROCHUKWU STREET, RUMUOMASI, PORTHARCOURT, RIVERS STATE",
+    "company": {
+      "id": 103747258,
+      "name": "KEVES GLOBAL LEASING LIMITED",
+      "internationalNumber": "RC-493333",
+      "localNumber": "493333",
+      "countryId": 24,
+      "dateCreated": "2003-09-20T00:00:00.000Z",
+      "createdAt": "2022-03-14T23:19:55.017Z",
+      "updatedAt": "2024-06-15T14:32:38.500Z",
+      "alternateNames": [],
+      "address": "NO. 6, AROCHUKWU STREET, RUMUOMASI, PORTHARCOURT, RIVERS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "100000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS OF LEASING OF HOUSE BOATS, WORKBOATS, SWAMP AND BUGGIES, PETROL BOATS, CREW BOATS BARGES, TUGS AND SEA GOING CRAFT",
+      "providerId": "650475",
+      "updatedAtSitemap": "2023-06-09T18:47:59.000Z",
+      "oldInternationalNumber": "493333",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 415,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197035,
+          "providerId": "199148",
+          "providerName": "Deal in General Goods and Manufacturers Representatives",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:01:58.403117+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 94114756,
+          "address": "NO. 6, AROCHUKWU STREET, RUMUOMASI, PORTHARCOURT, RIVERS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 232822186,
+          "companyId": 103747258,
+          "personId": 72297811,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 250000,
+          "person": {
+            "id": 72297811,
+            "name": "okafor sophie",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "1, CHIEF IKENNA CLOSE, REBISI GARDENS",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "SOPHIKE MEDICAL CENTRE LIMITED",
+              "internationalNumber": "RC-942720"
+            },
+            {
+              "name": "ARTHUR SERVICES LIMITED",
+              "internationalNumber": "RC-642710"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232822187,
+          "companyId": 103747258,
+          "personId": 72297812,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 100000,
+          "person": {
+            "id": 72297812,
+            "name": "okafor paulinus",
+            "countryId": 24,
+            "address": "UMUEZE VILLAGE, UMUNACHI AGUATA ANAMBRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "CHI PACO GLOBAL LINK LIMITED",
+              "internationalNumber": "RC-473437"
+            },
+            {
+              "name": "A. C. PUMA INVESTMENTS CO. LTD",
+              "internationalNumber": "RC-391204"
+            },
+            {
+              "name": "OGAMMA CONSTRUCTION CO. LTD",
+              "internationalNumber": "RC-1114892"
+            },
+            {
+              "name": "ARTHUR SERVICES LIMITED",
+              "internationalNumber": "RC-642710"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232822180,
+          "companyId": 103747258,
+          "personId": 95217202,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95217202,
+            "name": "okafor ikenna kelvin",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "NO. 16, TRANS AMADI STREET",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232822181,
+          "companyId": 103747258,
+          "personId": 95217203,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95217203,
+            "name": "dr. esther nkiru okafor",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "NO. 35, HOSPITAL ROAD",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232822189,
+          "companyId": 103747258,
+          "personId": 95217204,
+          "roleId": 60321,
+          "percentage": 675,
+          "appointedOn": "2021-11-29",
+          "votingShares": "675%",
+          "sourceNum": 1,
+          "person": {
+            "id": 95217204,
+            "name": "okafor esther nkeiru",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "AROCHUKWU STREET, RUMUOMASI, 6",
+            "countryOfResidence": "NIGERIA",
+            "number": "A10237247",
+            "documentType": "PREFERENCE",
+            "email": "esyokafor@yahoo.com",
+            "phone": "08038905537",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232822190,
+          "companyId": 103747258,
+          "personId": 95217205,
+          "roleId": 60321,
+          "percentage": 88,
+          "appointedOn": "2021-11-29",
+          "votingShares": "88%",
+          "sourceNum": 1,
+          "person": {
+            "id": 95217205,
+            "name": "okafor ikenna kevin",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "AROCHUKWU STREET, RUMUOMASI, 6",
+            "countryOfResidence": "NIGERIA",
+            "number": "B50001346",
+            "documentType": "PREFERENCE",
+            "email": "ikennaokafor@yahoo.com",
+            "phone": "08033419735",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "11",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 5,
+        "2": 3,
+        "null": 3
+      },
+      "personsWithRelatedCount": 5
+    }
+  }
+]

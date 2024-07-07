@@ -1,0 +1,380 @@
+[
+  {
+    "year": "2003",
+    "title": "AUSTANGEL NIGERIA LIMITED - RC-496600 - Nigeria",
+    "description": "AUSTANGEL NIGERIA LIMITED Nigeria company, Company number: RC-496600, Incorporation Date 2003 m. spalio 9 d.;, Address: 11, WESLEY STREET, ABESAN ESTATE IPAJA, LAGOS, LAGOS",
+    "company": {
+      "id": 60444882,
+      "name": "AUSTANGEL NIGERIA LIMITED",
+      "internationalNumber": "RC-496600",
+      "localNumber": "496600",
+      "countryId": 24,
+      "dateCreated": "2003-10-09T00:00:00.000Z",
+      "createdAt": "2021-05-14T04:46:11.808Z",
+      "updatedAt": "2024-06-15T14:19:50.124Z",
+      "alternateNames": [],
+      "address": "11, WESLEY STREET, ABESAN ESTATE IPAJA, LAGOS, LAGOS",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "500000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "500000",
+      "historicalNames": [],
+      "providerId": "5035778",
+      "updatedAtSitemap": "2023-06-09T18:16:17.000Z",
+      "oldInternationalNumber": "496600",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 220,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196948,
+          "providerId": "199238",
+          "providerName": "General Merchandise ",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:34.036647+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 95211279,
+          "address": "11, WESLEY STREET, ABESAN ESTATE IPAJA, LAGOS, LAGOS",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "FERRANTI COMMUNICATION SYSTEMS LIMITED",
+              "internationalNumber": "RC-497177"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 242750486,
+          "companyId": 60444882,
+          "personId": 98740452,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 250000,
+          "person": {
+            "id": 98740452,
+            "name": "atsagbede mogbitse finance",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "7, JEFF OKODUWA CLOSE, RIVERBANK ESTATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242750490,
+          "companyId": 60444882,
+          "personId": 98740452,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 98740452,
+            "name": "atsagbede mogbitse finance",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "7, JEFF OKODUWA CLOSE, RIVERBANK ESTATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242750487,
+          "companyId": 60444882,
+          "personId": 99122369,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 150000,
+          "person": {
+            "id": 99122369,
+            "name": "atsagbede joyce",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "7, JEFF OKODUWA CLOSE, RIVERBANK ESTATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242750491,
+          "companyId": 60444882,
+          "personId": 99122369,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99122369,
+            "name": "atsagbede joyce",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "7, JEFF OKODUWA CLOSE, RIVERBANK ESTATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 4,
+        "2": 4
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]
