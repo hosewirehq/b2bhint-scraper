@@ -1,0 +1,451 @@
+[
+  {
+    "year": "2009",
+    "title": "WESTCITY PROPERTIES LTD - RC-859170 - Nigeria",
+    "description": "WESTCITY PROPERTIES LTD Nigeria company, Company number: RC-859170, Incorporation Date Dec 15, 2009;, Address: NO. 4, ATBARA STREET, OFF CAIRO STREET WUSE II ABUJA, ABUJA, F C T STATE",
+    "company": {
+      "id": 60791964,
+      "name": "WESTCITY PROPERTIES LTD",
+      "internationalNumber": "RC-859170",
+      "localNumber": "859170",
+      "countryId": 24,
+      "dateCreated": "2009-12-15T00:00:00.000Z",
+      "createdAt": "2021-05-15T05:25:47.620Z",
+      "updatedAt": "2024-06-15T14:33:01.964Z",
+      "alternateNames": [],
+      "address": "NO. 4, ATBARA STREET, OFF CAIRO STREET WUSE II ABUJA, ABUJA, F C T STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "1081796",
+      "updatedAtSitemap": "2023-06-09T18:03:44.000Z",
+      "oldInternationalNumber": "859170",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 807,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197025,
+          "providerId": "199186",
+          "providerName": "Property Development Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:01:46.079005+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 97595322,
+          "address": "NO. 4, ATBARA STREET, OFF CAIRO STREET WUSE II ABUJA, ABUJA, F C T STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 239188015,
+          "companyId": 60791964,
+          "personId": 93627902,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 500000,
+          "person": {
+            "id": 93627902,
+            "name": "sani muhammad abdullahi",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1988,
+            "birthMonth": 12,
+            "birthDate": 31,
+            "address": "\t\nNO. B29 DON ETEBET HOUSING ESTATE,",
+            "countryOfResidence": "NIGERIA",
+            "email": "engrmuhammadsania@gmail.com",
+            "phone": "07065119000",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "SANI ELKASH BROTHERS COMPANY",
+              "internationalNumber": "BN-2752027"
+            },
+            {
+              "name": "WESTCITY METROPOLITAN RESOURCES LTD",
+              "internationalNumber": "RC-859026"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239188012,
+          "companyId": 60791964,
+          "personId": 97484507,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97484507,
+            "name": "mohammed usman hussaina",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "NO. 4, ATBARA STREET, OFF CAIRO STREET WUSE II,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "WESTCITY METROPOLITAN RESOURCES LTD",
+              "internationalNumber": "RC-859026"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239188014,
+          "companyId": 60791964,
+          "personId": 97484507,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 500000,
+          "person": {
+            "id": 97484507,
+            "name": "mohammed usman hussaina",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "NO. 4, ATBARA STREET, OFF CAIRO STREET WUSE II,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "WESTCITY METROPOLITAN RESOURCES LTD",
+              "internationalNumber": "RC-859026"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239188013,
+          "companyId": 60791964,
+          "personId": 97484508,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97484508,
+            "name": "sani muhammad abdullahi",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4, ATBARA STREET, OFF CAIRO STREET WUSE II",
+            "countryOfResidence": "NIGERIA",
+            "number": "null",
+            "documentType": "",
+            "email": "",
+            "phone": "null",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "WESTCITY METROPOLITAN RESOURCES LTD",
+              "internationalNumber": "RC-859026"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239188016,
+          "companyId": 60791964,
+          "personId": 97484509,
+          "roleId": 60321,
+          "percentage": 50,
+          "appointedOn": "2022-02-10",
+          "votingShares": "null%",
+          "sourceNum": 1,
+          "person": {
+            "id": 97484509,
+            "name": "sani muhammad  abdullahi",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "WUSE ZONE 6, SUITE A17",
+            "countryOfResidence": "NIGERIA",
+            "number": "A21667700",
+            "documentType": "PREFERENCE",
+            "email": "onuhtony97@gmail.com",
+            "phone": "07032636584",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 2,
+        "null": 1
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

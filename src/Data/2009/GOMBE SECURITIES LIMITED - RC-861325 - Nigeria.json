@@ -1,0 +1,276 @@
+[
+  {
+    "year": "2009",
+    "title": "GOMBE SECURITIES LIMITED - RC-861325 - Nigeria",
+    "description": "GOMBE SECURITIES LIMITED Nigeria company, Company number: RC-861325, Incorporation Date Dec 29, 2009;, Address: 5NEPADRIVEADJACENTBIMALODGEBOMBE, GOMBE, GOMBE, GOMBE",
+    "company": {
+      "id": 60820830,
+      "name": "GOMBE SECURITIES LIMITED",
+      "internationalNumber": "RC-861325",
+      "localNumber": "861325",
+      "countryId": 24,
+      "dateCreated": "2009-12-29T00:00:00.000Z",
+      "createdAt": "2021-05-15T07:22:43.700Z",
+      "updatedAt": "2024-06-15T15:34:30.290Z",
+      "alternateNames": [],
+      "address": "5NEPADRIVEADJACENTBIMALODGEBOMBE, GOMBE, GOMBE, GOMBE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "499999989.76 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "500000000",
+      "historicalNames": [],
+      "activityDescription": "",
+      "providerId": "1086109",
+      "updatedAtSitemap": "2023-07-28T00:41:03.000Z",
+      "oldInternationalNumber": "861325",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 459,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 97621719,
+          "address": "5NEPADRIVEADJACENTBIMALODGEBOMBE, GOMBE, GOMBE, GOMBE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238943786,
+          "companyId": 60820830,
+          "personId": 67273233,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67273233,
+            "name": "mohammed adamu damji",
+            "countryId": 24,
+            "address": "NO 9 GRA ROAD ADJACENT TO BIMA LODGE NEPA DRIVE  GOMBE                                                                                                 GOMBE",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "JEWEL FLOUR & OIL MILLS LTD",
+              "internationalNumber": "RC-717095"
+            },
+            {
+              "name": "JEWEL ENERGY RESOURCES LTD",
+              "internationalNumber": "RC-717057"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238943785,
+          "companyId": 60820830,
+          "personId": 97381187,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97381187,
+            "name": "mele danjuma",
+            "countryId": 24,
+            "address": "5 NEPA DRIVE ADJACENT BIMA LODGE BOMBE  GOMBE                                                                                                 GOMBE",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
