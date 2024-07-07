@@ -42,7 +42,8 @@ async function scrapeCompany(browser, link) {
         const element = document.querySelector('.CompanyHeader_breadcrumb__h9kWp > a:nth-child(2)');
         return element ? element.innerText : null;
     });
-    const { title, description, company } = JSON.parse(nextData).props.pageProps;
+    const { dirtyTitle, description, company } = JSON.parse(nextData).props.pageProps;
+    const title = dirtyTitle.replace(/\s+/g, ' ').trim();
 
     console.info(`processing: ${title}`)
     await processor.processItem({year, title, description, company });
