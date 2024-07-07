@@ -1,0 +1,292 @@
+[
+  {
+    "year": "2012",
+    "title": "MACGREGOR PHARMACEUTICAL COMPANY LIMITED - RC-1086976 - Nigeria",
+    "description": "MACGREGOR PHARMACEUTICAL COMPANY LIMITED Nigeria company, Company number: RC-1086976, Incorporation Date Dec 21, 2012;, Address: 28MACARTHYSTREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61328646,
+      "name": "MACGREGOR PHARMACEUTICAL COMPANY LIMITED",
+      "internationalNumber": "RC-1086976",
+      "localNumber": "1086976",
+      "countryId": 24,
+      "dateCreated": "2012-12-21T00:00:00.000Z",
+      "createdAt": "2021-05-24T03:23:07.966Z",
+      "updatedAt": "2024-06-15T16:42:59.071Z",
+      "alternateNames": [],
+      "address": "28MACARTHYSTREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "1852431",
+      "updatedAtSitemap": "2023-06-09T16:16:49.000Z",
+      "oldInternationalNumber": "1086976",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 747,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6564433,
+          "providerId": "487989",
+          "providerName": "Pharmaceutical Manufacture & Services             ",
+          "countryId": 24,
+          "createdAt": "2022-10-13T16:26:02.655419+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 88860591,
+          "address": "28MACARTHYSTREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "BLACKFRIARS NOMINEES LIMITED",
+              "internationalNumber": "RC-968831"
+            },
+            {
+              "name": "NETWING TECHNOLOGICAL SOLUTIONS LIMITED",
+              "internationalNumber": "RC-994119"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 213481654,
+          "companyId": 61328646,
+          "personId": 67348840,
+          "roleId": 60317,
+          "appointedOn": "2021-07-27",
+          "sourceNum": 1,
+          "person": {
+            "id": 67348840,
+            "name": "dada oluyemisi motunrayo",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "nationality": "Nigeria",
+            "birthYear": 1981,
+            "birthMonth": 9,
+            "birthDate": 26,
+            "address": "ROMANUS ORJI STREET, SOUTHERN VIEW ESTATE, 2",
+            "countryOfResidence": "NIGERIA",
+            "number": "LND02457AA93",
+            "documentType": "Driver's License",
+            "email": "oluyemisidada49@gmail.com",
+            "phone": "08023261991",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "TEES 2:30 LIMITED",
+              "internationalNumber": "RC-1901163"
+            },
+            {
+              "name": "BAMOD INVESTMENTS NIG LTD",
+              "internationalNumber": "RC-166063"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 176240832,
+          "companyId": 61328646,
+          "personId": 71606199,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 71606199,
+            "name": "toronto institute of pharmaceutical technology (rep. by alero macgregor)",
+            "countryId": 24,
+            "address": "55 TOWN CENTRE COURT,SUITE 800 TORONTO,ONTARIO M1P 4X4  CANADA                                                                                                CANADA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
