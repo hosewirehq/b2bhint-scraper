@@ -1,0 +1,272 @@
+[
+  {
+    "year": "2002",
+    "title": "INFORTEL LIMITED - RC-469207 - Nigeria",
+    "description": "INFORTEL LIMITED Nigeria company, Company number: RC-469207, Incorporation Date Dec 19, 2002;, Address: NO.269, AHMADU BELLO WAY, MUBI, MUBI, ADAMAWA STATE",
+    "company": {
+      "id": 61873403,
+      "name": "INFORTEL LIMITED",
+      "internationalNumber": "RC-469207",
+      "localNumber": "469207",
+      "countryId": 24,
+      "dateCreated": "2002-12-19T00:00:00.000Z",
+      "createdAt": "2021-05-26T19:11:46.337Z",
+      "updatedAt": "2024-06-15T16:03:21.291Z",
+      "alternateNames": [],
+      "address": "NO.269, AHMADU BELLO WAY, MUBI, MUBI, ADAMAWA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "10000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON BUSINESSAS COMMUNICATIONS, TELECOMMUNICATION COMPANY AND INFORMATION TECHNOLOGY SERVICES, GSM AGENTS AND SERVICES",
+      "providerId": "626672",
+      "updatedAtSitemap": "2024-03-02T09:05:58.000Z",
+      "oldInternationalNumber": "469207",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 124,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197140,
+          "providerId": "143238",
+          "providerName": "Telecommunications",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:04:31.161083+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 150654231,
+          "address": "NO.269, AHMADU BELLO WAY, MUBI, MUBI, ADAMAWA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 242876247,
+          "companyId": 61873403,
+          "personId": 93337199,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 93337199,
+            "name": "john elias",
+            "countryId": 24,
+            "address": "SUITE 38, GARKI VILLAGE CORNERSHOP ABUJA F.C.T",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "BEST CARE PHARMACEUTICALS LIMITED",
+              "internationalNumber": "RC-342435"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242876248,
+          "companyId": 61873403,
+          "personId": 97238453,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97238453,
+            "name": "alfred john",
+            "countryId": 24,
+            "address": "NO. 24, IBADAN STREET, P.O. BOX 883, YOLA ADAMAWA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "year": "2002",
+    "title": "LYNZEL ASSOCIATES INVESTMENT LIMITED - RC-467860 - Nigeria",
+    "description": "LYNZEL ASSOCIATES INVESTMENT LIMITED Nigeria company, Company number: RC-467860, Incorporation Date Dec 17, 2002;, Address: BLK.62, FLAT2PHASE2, SITE1, LAGOSST, KUBWAABUJA, FCT, KUBWA ABUJA, FCT STATE",
+    "company": {
+      "id": 63468557,
+      "name": "LYNZEL ASSOCIATES INVESTMENT LIMITED",
+      "internationalNumber": "RC-467860",
+      "localNumber": "467860",
+      "countryId": 24,
+      "dateCreated": "2002-12-17T00:00:00.000Z",
+      "createdAt": "2021-06-04T07:04:06.298Z",
+      "updatedAt": "2024-06-15T16:03:27.978Z",
+      "alternateNames": [],
+      "address": "BLK.62, FLAT2PHASE2, SITE1, LAGOSST, KUBWAABUJA, FCT, KUBWA ABUJA, FCT STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "625332",
+      "updatedAtSitemap": "2023-06-09T18:51:56.000Z",
+      "oldInternationalNumber": "467860",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 78,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 94010084,
+          "address": "BLK.62, FLAT2PHASE2, SITE1, LAGOSST, KUBWAABUJA, FCT, KUBWA ABUJA, FCT STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 264684580,
+          "companyId": 63468557,
+          "personId": 100099547,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 100099547,
+            "name": "uzoma nwachukwu",
+            "countryId": 24,
+            "address": "BLOCK 62, FLAT 2, PHASE 2, SITE 1, LAGOS STR.KUBWA ABUJA FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "JOECHUKS NIG LTD",
+              "internationalNumber": "RC-483954"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243034680,
+          "companyId": 63468557,
+          "personId": 70062204,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 70062204,
+            "name": "chika nwachukwu",
+            "countryId": 24,
+            "address": "BLOCK 62, FLAT 2, PHASE 2, SITE 1, LAGOS STR.KUBWA ABUJA FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ROSECHAPAS LIMITED",
+              "internationalNumber": "RC-999806"
+            },
+            {
+              "name": "CANANNI VENTURES LIMITED",
+              "internationalNumber": "RC-230976"
+            },
+            {
+              "name": "FIRST OMACO NIGERIA LIMITED",
+              "internationalNumber": "RC-415720"
+            },
+            {
+              "name": "STANEX KANCH INVESTMENTS NIGERIA LIMITED",
+              "internationalNumber": "RC-793095"
+            },
+            {
+              "name": "GREAT DAY GENERAL INTERIOR DECORATIONS LIMITED",
+              "internationalNumber": "RC-881681"
+            },
+            {
+              "name": "TOMEC CHIKAS GLOBAL VENTURES LTD",
+              "internationalNumber": "RC-1080638"
+            },
+            {
+              "name": "TEMPLE ACADEMY NIGERIA LIMITED",
+              "internationalNumber": "RC-849305"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

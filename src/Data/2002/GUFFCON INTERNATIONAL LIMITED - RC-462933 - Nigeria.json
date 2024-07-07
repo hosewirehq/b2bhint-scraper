@@ -1,0 +1,280 @@
+[
+  {
+    "year": "2002",
+    "title": "GUFFCON INTERNATIONAL LIMITED - RC-462933 - Nigeria",
+    "description": "GUFFCON INTERNATIONAL LIMITED Nigeria company, Company number: RC-462933, Incorporation Date Oct 14, 2002;, Address: NO90, LADIPOSTR., MUSHIN, LAGOS, MUSHIN",
+    "company": {
+      "id": 62688125,
+      "name": "GUFFCON INTERNATIONAL LIMITED",
+      "internationalNumber": "RC-462933",
+      "localNumber": "462933",
+      "countryId": 24,
+      "dateCreated": "2002-10-14T00:00:00.000Z",
+      "createdAt": "2021-05-31T00:17:27.623Z",
+      "updatedAt": "2024-06-15T16:03:49.207Z",
+      "alternateNames": [],
+      "address": "NO90, LADIPOSTR., MUSHIN, LAGOS, MUSHIN",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON BUSINESS OF IMPORTERS,EXPORTERS, GENERAL MERCHANTS,INDUSTRIALISTS,DISTRIBUTORS AND SUPPLIERS OF GENERAL GOODS,COMMMISSION AGENTS, MANUFACTURERS REPRESENTATIVES AND GENERAL CONTRACTORS.",
+      "providerId": "620432",
+      "updatedAtSitemap": "2023-07-18T06:49:48.000Z",
+      "oldInternationalNumber": "462933",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 216,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196924,
+          "providerId": "199237",
+          "providerName": "General Contracts",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:13.437675+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 128711751,
+          "address": "NO90, LADIPOSTR., MUSHIN, LAGOS, MUSHIN",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 236745296,
+          "companyId": 62688125,
+          "personId": 66201275,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66201275,
+            "name": "samuel ogundare",
+            "countryId": 24,
+            "address": "23RD RD, 3 AVE, F/TOWN LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SOLID BROTHERS FRIENDS CLUB, LAGOS",
+              "internationalNumber": "RC-49049"
+            },
+            {
+              "name": "EDDISON PRODUCTS LTD",
+              "internationalNumber": "RC-55093"
+            },
+            {
+              "name": "INSTITUTE OF CHARTERED SECTRS. & ADMIN.",
+              "internationalNumber": "RC-119041"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 236745297,
+          "companyId": 62688125,
+          "personId": 96756547,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 96756547,
+            "name": "felicia  ogundare",
+            "countryId": 24,
+            "address": "NO 10 LADIPO STR., MUSHIN MUSHIN LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
