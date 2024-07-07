@@ -1,0 +1,432 @@
+[
+  {
+    "year": "2013",
+    "title": "SAFCO BUREAU DE CHANGE LIMITED - RC-1157927 - Nigeria",
+    "description": "SAFCO BUREAU DE CHANGE LIMITED Nigeria company, Company number: RC-1157927, Incorporation Date 6 déc. 2013;, Address: SUITE11&12, MANGALPLAZAAREA11GARKI, ABUJA, FCT, ABUJA, FCT STATE",
+    "company": {
+      "id": 62692442,
+      "name": "SAFCO BUREAU DE CHANGE LIMITED",
+      "internationalNumber": "RC-1157927",
+      "localNumber": "1157927",
+      "countryId": 24,
+      "dateCreated": "2013-12-06T00:00:00.000Z",
+      "createdAt": "2021-05-31T00:35:31.437Z",
+      "updatedAt": "2024-06-15T16:35:31.353Z",
+      "alternateNames": [],
+      "address": "SUITE11&12, MANGALPLAZAAREA11GARKI, ABUJA, FCT, ABUJA, FCT STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "35000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "35000000",
+      "historicalNames": [],
+      "providerId": "1972529",
+      "updatedAtSitemap": "2024-04-22T13:33:19.000Z",
+      "oldInternationalNumber": "1157927",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 598,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6671704,
+          "providerId": "473122",
+          "providerName": "Bureau de Change                                  ",
+          "countryId": 24,
+          "createdAt": "2022-10-16T17:24:04.791583+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82427814,
+          "address": "SUITE11&12, MANGALPLAZAAREA11GARKI, ABUJA, FCT, ABUJA, FCT STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "MILESTONE FOREX BUREAU DE CHANGE LIMITED",
+              "internationalNumber": "RC-1183623"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 158159239,
+          "companyId": 62692442,
+          "personId": 66844203,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66844203,
+            "name": "aisha nura saidu",
+            "countryId": 24,
+            "address": "NO.38, HONSON WRIGHT STREET,KADO ESTATE  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "AL-ULUUM INVESTMENT & BUSINESS SERVICES LTD",
+              "internationalNumber": "RC-1152206"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158159245,
+          "companyId": 62692442,
+          "personId": 66844203,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 4000000,
+          "person": {
+            "id": 66844203,
+            "name": "aisha nura saidu",
+            "countryId": 24,
+            "address": "NO.38, HONSON WRIGHT STREET,KADO ESTATE  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "AL-ULUUM INVESTMENT & BUSINESS SERVICES LTD",
+              "internationalNumber": "RC-1152206"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158159240,
+          "companyId": 62692442,
+          "personId": 66844204,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66844204,
+            "name": "deeni saidu",
+            "countryId": 24,
+            "address": "C 5, HASSAN SULE STREET, FARIN RUWA SULEJA  MINNA                                                                                                 NIGER",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "YAN UWA PROPERTIES AND INVESTMENT LIMITED",
+              "internationalNumber": "RC-915429"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158159244,
+          "companyId": 62692442,
+          "personId": 66844204,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 6000000,
+          "person": {
+            "id": 66844204,
+            "name": "deeni saidu",
+            "countryId": 24,
+            "address": "C 5, HASSAN SULE STREET, FARIN RUWA SULEJA  MINNA                                                                                                 NIGER",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "YAN UWA PROPERTIES AND INVESTMENT LIMITED",
+              "internationalNumber": "RC-915429"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158159242,
+          "companyId": 62692442,
+          "personId": 66844206,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 66844206,
+            "name": "saidu deeni",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "NO 38, HOWSON WRIGHT STREET KADO ESTATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 3,
+        "2": 3,
+        "null": 1
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

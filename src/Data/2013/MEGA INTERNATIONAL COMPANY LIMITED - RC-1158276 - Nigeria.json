@@ -1,0 +1,287 @@
+[
+  {
+    "year": "2013",
+    "title": "MEGA INTERNATIONAL COMPANY LIMITED - RC-1158276 - Nigeria",
+    "description": "MEGA INTERNATIONAL COMPANY LIMITED Nigeria company, Company number: RC-1158276, Incorporation Date Dec 9, 2013;, Address: PLOT2AMAKWUMGBAGAOSSAHROADUMUAHIA, UMUAHIA, ABIA, UMUAHIA, ABIA STATE",
+    "company": {
+      "id": 62695185,
+      "name": "MEGA INTERNATIONAL COMPANY LIMITED",
+      "internationalNumber": "RC-1158276",
+      "localNumber": "1158276",
+      "countryId": 24,
+      "dateCreated": "2013-12-09T00:00:00.000Z",
+      "createdAt": "2021-05-31T00:52:30.932Z",
+      "updatedAt": "2024-06-15T14:00:32.335Z",
+      "alternateNames": [],
+      "address": "PLOT2AMAKWUMGBAGAOSSAHROADUMUAHIA, UMUAHIA, ABIA, UMUAHIA, ABIA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "1973039",
+      "updatedAtSitemap": "2024-05-15T05:31:18.000Z",
+      "oldInternationalNumber": "1158276",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [
+        {
+          "id": 830231,
+          "companyId": 62695185,
+          "cageNumber": "SBFK0",
+          "established": "2016-06-14",
+          "updateDate": "2018-04-18",
+          "caoPAY": "SGR18A-HQ0339",
+          "providerId": "7039661",
+          "typeId": 4,
+          "statusId": 2,
+          "status": {
+            "id": 2,
+            "name": "Active",
+            "translation": {}
+          },
+          "type": {
+            "id": 4,
+            "name": "Service Providers",
+            "translation": {}
+          }
+        }
+      ],
+      "companiesRegisteredSameDate": 686,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6672159,
+          "providerId": "470849",
+          "providerName": "Gen Merchants & Traders                           ",
+          "countryId": 24,
+          "createdAt": "2022-10-16T17:26:37.664971+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 89184674,
+          "address": "PLOT2AMAKWUMGBAGAOSSAHROADUMUAHIA, UMUAHIA, ABIA, UMUAHIA, ABIA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 158151186,
+          "companyId": 62695185,
+          "personId": 66838389,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66838389,
+            "name": "mmeje ekemma oyidiya",
+            "countryId": 24,
+            "address": "NO 102C ABA OWERRI ROAD UMUNGASI ABA  ABA                                                                                                   ABIA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158151187,
+          "companyId": 62695185,
+          "personId": 66838390,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66838390,
+            "name": "nsi martha uwa",
+            "countryId": 24,
+            "address": "NO 9 EZERA ROAD ASAGA OHAFIA ABIA  OHAFIA                                                                                                ABIA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "2",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]

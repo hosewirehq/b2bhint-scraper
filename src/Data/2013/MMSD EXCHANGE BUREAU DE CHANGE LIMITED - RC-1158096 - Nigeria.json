@@ -1,0 +1,286 @@
+[
+  {
+    "year": "2013",
+    "title": "MMSD EXCHANGE BUREAU DE CHANGE LIMITED - RC-1158096 - Nigeria",
+    "description": "MMSD EXCHANGE BUREAU DE CHANGE LIMITED Nigeria company, Company number: RC-1158096, Incorporation Date 6. pro 2013;, Address: NO.160MURTALAMOHAMMEDWAY, KANO, KANO, KANO, KANO STATE",
+    "company": {
+      "id": 62693701,
+      "name": "MMSD EXCHANGE BUREAU DE CHANGE LIMITED",
+      "internationalNumber": "RC-1158096",
+      "localNumber": "1158096",
+      "countryId": 24,
+      "dateCreated": "2013-12-06T00:00:00.000Z",
+      "createdAt": "2021-05-31T00:46:58.948Z",
+      "updatedAt": "2024-06-15T16:35:30.878Z",
+      "alternateNames": [],
+      "address": "NO.160MURTALAMOHAMMEDWAY, KANO, KANO, KANO, KANO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "1972789",
+      "updatedAtSitemap": "2023-12-14T17:22:06.000Z",
+      "oldInternationalNumber": "1158096",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 598,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6671947,
+          "providerId": "473378",
+          "providerName": "Bureau de Change                                  ",
+          "countryId": 24,
+          "createdAt": "2022-10-16T17:25:28.15611+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 89184360,
+          "address": "NO.160MURTALAMOHAMMEDWAY, KANO, KANO, KANO, KANO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 158155165,
+          "companyId": 62693701,
+          "personId": 66841242,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66841242,
+            "name": "bashir mdi adamu",
+            "countryId": 24,
+            "address": "NO. 49, GWAMMAJA ROAD  KANO                                                                                                  KANO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158155166,
+          "companyId": 62693701,
+          "personId": 66841243,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66841243,
+            "name": "fatima mohammed bashir",
+            "countryId": 24,
+            "address": "D. 49,ZONTO STREET,UNGWAN KANAWA  KADUNA                                                                                                KADUNA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "BENIGN PROJECTS LIMITED",
+              "internationalNumber": "RC-1100376"
+            },
+            {
+              "name": "ANTALIYA GLOBAL SERVICES LIMITED",
+              "internationalNumber": "RC-1172681"
+            },
+            {
+              "name": "GHIMORE INTEGRATED SERVICES LTD",
+              "internationalNumber": "RC-895062"
+            },
+            {
+              "name": "ABB DIGITAL PRINTING & CO. NIG LTD",
+              "internationalNumber": "RC-987800"
+            },
+            {
+              "name": "LANTANA GLOBAL RESOURCES LTD",
+              "internationalNumber": "RC-792564"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

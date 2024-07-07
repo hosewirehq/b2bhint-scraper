@@ -1,0 +1,561 @@
+[
+  {
+    "year": "2013",
+    "title": "FILEX. O. INTER BIZ NIG LTD - RC-1158786 - Nigeria",
+    "description": "FILEX. O. INTER BIZ NIG LTD Nigeria company, Company number: RC-1158786, Incorporation Date Dec 10, 2013;, Address: NO.17, IGBARIAMSTR., ACHARALAYOUT., ENUGU, ENUGU, ENUGU, ENUGU STATE",
+    "company": {
+      "id": 62698232,
+      "name": "FILEX. O. INTER BIZ NIG LTD",
+      "internationalNumber": "RC-1158786",
+      "localNumber": "1158786",
+      "countryId": 24,
+      "dateCreated": "2013-12-10T00:00:00.000Z",
+      "createdAt": "2021-05-31T01:04:55.002Z",
+      "updatedAt": "2024-06-15T16:35:28.357Z",
+      "alternateNames": [],
+      "address": "NO.17, IGBARIAMSTR., ACHARALAYOUT., ENUGU, ENUGU, ENUGU, ENUGU STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "1973557",
+      "updatedAtSitemap": "2023-06-09T16:01:53.000Z",
+      "oldInternationalNumber": "1158786",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 503,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196941,
+          "providerId": "493888",
+          "providerName": "MANUFACTURERS' REPRESENTATION, IMPORT, EXPORT AND GENERAL MERCHANDISE",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:29.304135+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 89185357,
+          "address": "NO.17, IGBARIAMSTR., ACHARALAYOUT., ENUGU, ENUGU, ENUGU, ENUGU STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 158141681,
+          "companyId": 62698232,
+          "personId": 66831640,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66831640,
+            "name": "egodi okafor",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "NO. 17, IGBARIAM STR., ACHARA LAYOUT.",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158141684,
+          "companyId": 62698232,
+          "personId": 66831640,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 200000,
+          "person": {
+            "id": 66831640,
+            "name": "egodi okafor",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "NO. 17, IGBARIAM STR., ACHARA LAYOUT.",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158141685,
+          "companyId": 62698232,
+          "personId": 66831640,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 66831640,
+            "name": "egodi okafor",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "NO. 17, IGBARIAM STR., ACHARA LAYOUT.",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 246093334,
+          "companyId": 62698232,
+          "personId": 98039349,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 98039349,
+            "name": "ifeanyi okafor",
+            "countryId": 24,
+            "address": "BLK 12, SHOP 543, A.P.J SUPER PLAZA I.M.J TRADE FAIR COMPLEX  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "TROPICAL ENGINEERING COMPANY LIMITED",
+              "internationalNumber": "RC-16804"
+            },
+            {
+              "name": "AKINO VENTURES LIMITED",
+              "internationalNumber": "RC-325553"
+            },
+            {
+              "name": "JERYFLO VENTURES",
+              "internationalNumber": "BN-2785629"
+            },
+            {
+              "name": "BABY - PRIDE (NIGERIA) LTD",
+              "internationalNumber": "RC-925805"
+            },
+            {
+              "name": "RUBBER CARPET AND LEDAR GLOBAL VENTURES",
+              "internationalNumber": "BN-2323336"
+            },
+            {
+              "name": "ELO STAR INVESTMENT COMPANY LTD",
+              "internationalNumber": "RC-662087"
+            },
+            {
+              "name": "LATTER JOYS NIGERIA LIMITED",
+              "internationalNumber": "RC-408419"
+            },
+            {
+              "name": "CHRIS PET NIGERIA LIMITED",
+              "internationalNumber": "RC-401269"
+            },
+            {
+              "name": "A. C. OKAFOR NIGERIA LIMITED",
+              "internationalNumber": "RC-431534"
+            },
+            {
+              "name": "DEN-ANYI VENTURES WEST AFRICA LIMITED",
+              "internationalNumber": "RC-434266"
+            },
+            {
+              "name": "EDU-SCANTINO VENTURES LIMITED",
+              "internationalNumber": "RC-344524"
+            },
+            {
+              "name": "LITTLEWOODTECH GLOBAL COMPANY LIMITED",
+              "internationalNumber": "RC-930881"
+            },
+            {
+              "name": "CARVINO TELECOMS ELECTRONICS SERVICES NIGERIA LTD",
+              "internationalNumber": "RC-424520"
+            },
+            {
+              "name": "XQUIZITE BEAUTY & PHARMACEUTICALS LTD",
+              "internationalNumber": "RC-807188"
+            },
+            {
+              "name": "AUTHENTIC FURNITURE COMPANY LIMITED",
+              "internationalNumber": "RC-501732"
+            },
+            {
+              "name": "CONVENANT PRODUCTION LIMITED",
+              "internationalNumber": "RC-464744"
+            },
+            {
+              "name": "NUMBKA CONSTRUCTION LIMITED",
+              "internationalNumber": "RC-610146"
+            },
+            {
+              "name": "TRAVELLOUS LTD",
+              "internationalNumber": "RC-1042278"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 246093335,
+          "companyId": 62698232,
+          "personId": 98039349,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 800000,
+          "person": {
+            "id": 98039349,
+            "name": "ifeanyi okafor",
+            "countryId": 24,
+            "address": "BLK 12, SHOP 543, A.P.J SUPER PLAZA I.M.J TRADE FAIR COMPLEX  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "TROPICAL ENGINEERING COMPANY LIMITED",
+              "internationalNumber": "RC-16804"
+            },
+            {
+              "name": "AKINO VENTURES LIMITED",
+              "internationalNumber": "RC-325553"
+            },
+            {
+              "name": "JERYFLO VENTURES",
+              "internationalNumber": "BN-2785629"
+            },
+            {
+              "name": "BABY - PRIDE (NIGERIA) LTD",
+              "internationalNumber": "RC-925805"
+            },
+            {
+              "name": "RUBBER CARPET AND LEDAR GLOBAL VENTURES",
+              "internationalNumber": "BN-2323336"
+            },
+            {
+              "name": "ELO STAR INVESTMENT COMPANY LTD",
+              "internationalNumber": "RC-662087"
+            },
+            {
+              "name": "LATTER JOYS NIGERIA LIMITED",
+              "internationalNumber": "RC-408419"
+            },
+            {
+              "name": "CHRIS PET NIGERIA LIMITED",
+              "internationalNumber": "RC-401269"
+            },
+            {
+              "name": "A. C. OKAFOR NIGERIA LIMITED",
+              "internationalNumber": "RC-431534"
+            },
+            {
+              "name": "DEN-ANYI VENTURES WEST AFRICA LIMITED",
+              "internationalNumber": "RC-434266"
+            },
+            {
+              "name": "EDU-SCANTINO VENTURES LIMITED",
+              "internationalNumber": "RC-344524"
+            },
+            {
+              "name": "LITTLEWOODTECH GLOBAL COMPANY LIMITED",
+              "internationalNumber": "RC-930881"
+            },
+            {
+              "name": "CARVINO TELECOMS ELECTRONICS SERVICES NIGERIA LTD",
+              "internationalNumber": "RC-424520"
+            },
+            {
+              "name": "XQUIZITE BEAUTY & PHARMACEUTICALS LTD",
+              "internationalNumber": "RC-807188"
+            },
+            {
+              "name": "AUTHENTIC FURNITURE COMPANY LIMITED",
+              "internationalNumber": "RC-501732"
+            },
+            {
+              "name": "CONVENANT PRODUCTION LIMITED",
+              "internationalNumber": "RC-464744"
+            },
+            {
+              "name": "NUMBKA CONSTRUCTION LIMITED",
+              "internationalNumber": "RC-610146"
+            },
+            {
+              "name": "TRAVELLOUS LTD",
+              "internationalNumber": "RC-1042278"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 2,
+        "null": 1
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
