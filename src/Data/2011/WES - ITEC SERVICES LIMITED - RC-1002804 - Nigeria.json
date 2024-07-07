@@ -1,0 +1,455 @@
+[
+  {
+    "year": "2011",
+    "title": "WES - ITEC SERVICES LIMITED - RC-1002804 - Nigeria",
+    "description": "WES - ITEC SERVICES LIMITED Nigeria company, Company number: RC-1002804, Incorporation Date Dec 25, 2011;, Address: PLOT 234, LOBETO CRESCENT, WUSE 11, ABUJA, FCT",
+    "company": {
+      "id": 61511212,
+      "name": "WES - ITEC SERVICES LIMITED",
+      "internationalNumber": "RC-1002804",
+      "localNumber": "1002804",
+      "countryId": 24,
+      "dateCreated": "2011-12-25T00:00:00.000Z",
+      "createdAt": "2021-05-25T04:57:32.828Z",
+      "updatedAt": "2024-06-15T16:29:01.359Z",
+      "alternateNames": [],
+      "address": "PLOT 234, LOBETO CRESCENT, WUSE 11, ABUJA, FCT",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS OF TRADING, MARKETING, SUPPLIERS OF GENERAL GOODS, SALES AND DISTRIBUTION OF GENERAL GOODS, BE THEY MANUFACTURED OR NOT, COMMISSION AGENTS, ESTATE AGENTS, MANUFACTURERS REPRESENTATIVES, IMPORTERS, EXPORTERS, COMPUTER CONSUMABLE, STATIONERIES, OFFICE EQUIPMENTS, DEALERS IN ALL KINDS OF GOODS, SUPPLY OF ALL KINDS OF GENERAL GOODS AND SERVICES, GENERAL CONTRACTORS, AND GENERAL MERCHANTS.",
+      "providerId": "1711287",
+      "updatedAtSitemap": "2024-05-01T14:25:10.000Z",
+      "oldInternationalNumber": "1002804",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 2,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197981,
+          "providerId": "143209",
+          "providerName": "Manufacture of computer, electronic and optical products",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:27:19.138862+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 89728131,
+          "address": "PLOT 234, LOBETO CRESCENT, WUSE 11, ABUJA, FCT",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 157352661,
+          "companyId": 61511212,
+          "personId": 66455994,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66455994,
+            "name": "mr. sam neekpoa deekue",
+            "countryId": 24,
+            "address": "17, OKILTON LAYOUT, KALA ROAD, RUMUOKUTA  PORT HARCOURT                                                                                         RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 157352662,
+          "companyId": 61511212,
+          "personId": 66455995,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66455995,
+            "name": "barr. mrs. beauty sam-deekue",
+            "countryId": 24,
+            "address": "17, OKILTON LAYOUT, KALA ROAD, RUMUOKUTA  PORT HARCOURT                                                                                         RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 157352664,
+          "companyId": 61511212,
+          "personId": 66455997,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 66455997,
+            "name": "moshood  shehu esq",
+            "countryId": 24,
+            "occupation": "Solicitor",
+            "address": "26, LEWIS STREET ISLAND,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 157352667,
+          "companyId": 61511212,
+          "personId": 66456000,
+          "roleId": 60322,
+          "sourceNum": 1,
+          "person": {
+            "id": 66456000,
+            "name": "barr mrs sam-deekwue beauty",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "17,OKILTON LAYOUT, KALA ROAD, RUMUOKUTA,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60322,
+            "name": "Secretary company",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary company"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 157352668,
+          "companyId": 61511212,
+          "personId": 66456001,
+          "roleId": 60323,
+          "appointedOn": "2011-12-09",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 600000,
+          "person": {
+            "id": 66456001,
+            "name": "sam neekpoa deekue",
+            "countryId": 24,
+            "address": "17, OKILTON LAYOUT, KALA ROAD, RUMUOKUTA,",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 157352669,
+          "companyId": 61511212,
+          "personId": 66456002,
+          "roleId": 60323,
+          "appointedOn": "2011-12-09",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 200000,
+          "person": {
+            "id": 66456002,
+            "name": "barr mrs sam-deekue beauty",
+            "countryId": 24,
+            "address": "17, OKILTON LAYOUT, KALA ROAD, RUMUOKUTA,",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "11",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 3,
+        "2": 5,
+        "null": 3
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
