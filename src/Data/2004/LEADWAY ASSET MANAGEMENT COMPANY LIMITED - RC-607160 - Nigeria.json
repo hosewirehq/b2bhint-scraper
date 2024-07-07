@@ -1,0 +1,388 @@
+[
+  {
+    "year": "2004",
+    "title": "LEADWAY ASSET MANAGEMENT COMPANY LIMITED - RC-607160 - Nigeria",
+    "description": "LEADWAY ASSET MANAGEMENT COMPANY LIMITED Nigeria company, Company number: RC-607160, Incorporation Date Sep 14, 2004;, Address: 121/123 WESTERN AVENUE IPONRI, SURULERE, IPONRI, LAGOS STATE",
+    "company": {
+      "id": 103990605,
+      "name": "LEADWAY ASSET MANAGEMENT COMPANY LIMITED",
+      "internationalNumber": "RC-607160",
+      "localNumber": "607160",
+      "countryId": 24,
+      "dateCreated": "2004-09-14T00:00:00.000Z",
+      "createdAt": "2022-03-15T23:22:26.650Z",
+      "updatedAt": "2024-06-15T15:57:54.275Z",
+      "alternateNames": [],
+      "address": "121/123 WESTERN AVENUE IPONRI, SURULERE, IPONRI, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "999999979.52 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "1000000000",
+      "historicalNames": [],
+      "activityDescription": "To carry on business as assets management company for all purpose.",
+      "providerId": "690186",
+      "updatedAtSitemap": "2024-01-16T03:38:05.000Z",
+      "oldInternationalNumber": "607160",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 95,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197051,
+          "providerId": "143241",
+          "providerName": "Financial services activities, except insurance and pension funding",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:15.008256+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101111620,
+          "address": "121/123 WESTERN AVENUE IPONRI, SURULERE, IPONRI, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 232641523,
+          "companyId": 103990605,
+          "personId": 69400501,
+          "roleId": 60317,
+          "appointedOn": "2017-07-14",
+          "sourceNum": 1,
+          "person": {
+            "id": 69400501,
+            "name": "hassan-odukale tunde",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "birthYear": 1965,
+            "birthMonth": 1,
+            "birthDate": 11,
+            "address": "FUNSO WILLIAMS AVENUE, IPONRI SURULERE, 121/123",
+            "countryOfResidence": "NIGERIA",
+            "email": "t-hassan-odukale@leadway.com",
+            "phone": " 012700700",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "LEADWAY LITE",
+              "internationalNumber": "BN-3602365"
+            },
+            {
+              "name": "POWER ENERGY DISTRIBUTION AND TRADING CO. LTD",
+              "internationalNumber": "RC-686616"
+            },
+            {
+              "name": "ALITHEIA CAPITAL LIMITED",
+              "internationalNumber": "RC-683206"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232641524,
+          "companyId": 103990605,
+          "personId": 94559994,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 94559994,
+            "name": "oroleke sunday",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "121/123, FUNSO WESTERN AVENUE, IPONRI",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [
+            {
+              "name": "T'ILERI UNLIMITED",
+              "internationalNumber": "RC-864138"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232641525,
+          "companyId": 103990605,
+          "personId": 95117593,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 95117593,
+            "name": "ibrahim j.a",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "address": "32 ALI AKILU ROAD KADUNA, 32",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [
+            {
+              "name": "LEADWAY CAPITAL AND TRUSTS LIMITED",
+              "internationalNumber": "RC-268275"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232641526,
+          "companyId": 103990605,
+          "personId": 95117594,
+          "roleId": 60317,
+          "appointedOn": "2021-01-29",
+          "sourceNum": 1,
+          "person": {
+            "id": 95117594,
+            "name": "bell david",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "FORRLIBUCKSTRASSE 225, 8005 ZURICH, ",
+            "countryOfResidence": "SWITZERLAND",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5,
+        "null": 4
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

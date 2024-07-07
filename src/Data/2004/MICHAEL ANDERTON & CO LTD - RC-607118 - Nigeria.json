@@ -1,0 +1,429 @@
+[
+  {
+    "year": "2004",
+    "title": "MICHAEL ANDERTON & CO LTD - RC-607118 - Nigeria",
+    "description": "MICHAEL ANDERTON & CO LTD Nigeria company, Company number: RC-607118, Incorporation Date Sep 14, 2004;, Address: NO.8A, ONWUCHEKWE STREET RUMUMAOMASI, PORTHARCOURT, RIVERS STATE",
+    "company": {
+      "id": 61331404,
+      "name": "MICHAEL ANDERTON & CO LTD",
+      "internationalNumber": "RC-607118",
+      "localNumber": "607118",
+      "countryId": 24,
+      "dateCreated": "2004-09-14T00:00:00.000Z",
+      "createdAt": "2021-05-24T03:37:59.187Z",
+      "updatedAt": "2024-06-15T15:57:58.655Z",
+      "alternateNames": [],
+      "address": "NO.8A, ONWUCHEKWE STREET RUMUMAOMASI, PORTHARCOURT, RIVERS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "5000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS OF TRADING,MARKETING,SALES AND DISTRIBUTION OF GENERAL GOODS,BE THEY MANUFACTURED OR NOT,COMMISSION AGENTS,MANUFACTURED OR NOT .",
+      "providerId": "688864",
+      "updatedAtSitemap": "2023-09-29T16:27:25.000Z",
+      "oldInternationalNumber": "607118",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 95,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197144,
+          "providerId": "199250",
+          "providerName": "Marketing Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:04:39.939458+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101099974,
+          "address": "NO.8A, ONWUCHEKWE STREET RUMUMAOMASI, PORTHARCOURT, RIVERS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 236682566,
+          "companyId": 61331404,
+          "personId": 68256173,
+          "roleId": 60317,
+          "appointedOn": "2021-03-08",
+          "sourceNum": 1,
+          "person": {
+            "id": 68256173,
+            "name": "nwankwo micheal ikenna",
+            "countryId": 24,
+            "occupation": "Business man",
+            "nationality": "Nigeria",
+            "address": "OHIAMINI STREET,OFF STADIUM ROAD, 15",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "A.C.I. GLOBAL INTEGRATED SERVICES LTD",
+              "internationalNumber": "RC-645033"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 236682568,
+          "companyId": 61331404,
+          "personId": 93823922,
+          "roleId": 60323,
+          "appointedOn": "2021-03-08",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 2400000,
+          "person": {
+            "id": 93823922,
+            "name": "ikpoki omara",
+            "countryId": 24,
+            "occupation": "Business man",
+            "nationality": "Nigeria",
+            "address": "BISHOP DIMIERI STREET, 6",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 236682565,
+          "companyId": 61331404,
+          "personId": 96738299,
+          "roleId": 60317,
+          "appointedOn": "2021-03-08",
+          "sourceNum": 1,
+          "person": {
+            "id": 96738299,
+            "name": "omara ikpoki",
+            "countryId": 24,
+            "occupation": "Business man",
+            "nationality": "Nigeria",
+            "address": "BISHOP DIMIERI STREET, 6",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SMITLAND SERVICES NIGERIA LIMITED",
+              "internationalNumber": "RC-414076"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 236682567,
+          "companyId": 61331404,
+          "personId": 96738300,
+          "roleId": 60323,
+          "appointedOn": "2021-03-08",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 2400000,
+          "person": {
+            "id": 96738300,
+            "name": "nwnkwo micheal ikenna",
+            "countryId": 24,
+            "occupation": "Business man",
+            "nationality": "Nigeria",
+            "address": "OHIAMINI LANE,RUMUOMASI, 15",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 250780148,
+          "companyId": 61331404,
+          "personId": 101195274,
+          "roleId": 60328,
+          "appointedOn": "2021-03-08",
+          "sourceNum": 1,
+          "person": {
+            "id": 101195274,
+            "name": "onwuka nkechi",
+            "countryId": 24,
+            "address": "SUITE IT IKANDE BUILDING WUSE ZONE 1",
+            "countryOfResidence": "NIGERIA",
+            "email": "nkechionwuka64@gmail.com",
+            "phone": "2348078843464",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [
+            {
+              "name": "GREKO OIL AND GAS LTD",
+              "internationalNumber": "RC-765750"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 4,
+        "2": 3,
+        "null": 1
+      },
+      "personsWithRelatedCount": 5
+    }
+  }
+]
