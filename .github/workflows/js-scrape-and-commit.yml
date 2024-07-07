@@ -50,14 +50,35 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-      - name: Commit scraped data
+      - name: Stage changes
+        run: git add .  # Replace with the path to your JSON files
+
+      - name: Create unique branch
+        id: create_branch
         run: |
-          git add .  # Replace with the path to your JSON files
-          git commit -m "chore: ${{ github.event.inputs.year }}, page ${{ github.event.inputs.fromPage }} - ${{ github.event.inputs.toPage }}" || echo "No changes to commit"
+          BRANCH_NAME=scrape-${{ github.event.inputs.year }}-${{ github.event.inputs.fromPage }}-${{ github.event.inputs.toPage }}-${{ github.run_id }}
+          echo "BRANCH_NAME=${BRANCH_NAME}" >> $GITHUB_ENV
+
+      - name: Checkout to the new branch
+        run: |
+          git checkout -b ${{ env.BRANCH_NAME }}
+
+      - name: Commit staged changes
+        run: git commit -m "chore: ${{ github.event.inputs.year }}, page ${{ github.event.inputs.fromPage }} - ${{ github.event.inputs.toPage }}" || echo "No changes to commit"
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GH_TOKEN }}
-          branch: 'main'
+          branch: ${{ env.BRANCH_NAME }}
           force: true
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          commit-message: "chore: ${{ github.event.inputs.year }}, page ${{ github.event.inputs.fromPage }} - ${{ github.event.inputs.toPage }}"
+          branch: ${{ env.BRANCH_NAME }}
+          base: main
+          title: "Scrape Data: ${{ github.event.inputs.year }}, page ${{ github.event.inputs.fromPage }} - ${{ github.event.inputs.toPage }}"
+          body: "This PR contains scraped data for year ${{ github.event.inputs.year }}, from page ${{ github.event.inputs.fromPage }} to ${{ github.event.inputs.toPage }}."
