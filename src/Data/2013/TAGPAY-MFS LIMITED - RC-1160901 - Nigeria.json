@@ -1,0 +1,299 @@
+[
+  {
+    "year": "2013",
+    "title": "TAGPAY-MFS LIMITED - RC-1160901 - Nigeria",
+    "description": "TAGPAY-MFS LIMITED Nigeria company, Company number: RC-1160901, Incorporation Date Dec 19, 2013;, Address: NO.4, TAMALESTREET, WUSEZONE3, ABUJA, FCT, ABUJA, F C T STATE",
+    "company": {
+      "id": 62718201,
+      "name": "TAGPAY-MFS LIMITED",
+      "internationalNumber": "RC-1160901",
+      "localNumber": "1160901",
+      "countryId": 24,
+      "dateCreated": "2013-12-19T00:00:00.000Z",
+      "createdAt": "2021-05-31T02:25:50.285Z",
+      "updatedAt": "2024-06-15T16:35:20.685Z",
+      "alternateNames": [],
+      "address": "NO.4, TAMALESTREET, WUSEZONE3, ABUJA, FCT, ABUJA, F C T STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "1976963",
+      "updatedAtSitemap": "2023-06-09T16:01:39.000Z",
+      "oldInternationalNumber": "1160901",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 568,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6675608,
+          "providerId": "489782",
+          "providerName": "Telecom Operators & Equipm't suppliers            ",
+          "countryId": 24,
+          "createdAt": "2022-10-16T17:46:02.183309+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 89189621,
+          "address": "NO.4, TAMALESTREET, WUSEZONE3, ABUJA, FCT, ABUJA, F C T STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 158082162,
+          "companyId": 62718201,
+          "personId": 66152166,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66152166,
+            "name": "mojekwu ejike",
+            "countryId": 24,
+            "address": "10, MOSES SOMEFUN STREET  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "AIROTEL NIGERIA LIMITED",
+              "internationalNumber": "RC-285922"
+            },
+            {
+              "name": "VISUAL ICT LIMITED",
+              "internationalNumber": "918881"
+            },
+            {
+              "name": "MENUDROME LIMITED",
+              "internationalNumber": "RC-953534"
+            },
+            {
+              "name": "SULPHURTEL NIGERIA LIMITED",
+              "internationalNumber": "RC-720542"
+            },
+            {
+              "name": "TELEMIX COMPANY LIMITED",
+              "internationalNumber": "RC-924187"
+            },
+            {
+              "name": "KOSOMUGO VENTURES NIG LTD",
+              "internationalNumber": "RC-920357"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 236645156,
+          "companyId": 62718201,
+          "personId": 78728522,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 78728522,
+            "name": "chizea paul",
+            "countryId": 24,
+            "address": "66, AWOLOWO ROAD,  IKOYI                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MANCHESTER TRADING CO. LTD",
+              "internationalNumber": "RC-404918"
+            },
+            {
+              "name": "LIGHTS & BATHROOMS PLUS LTD",
+              "internationalNumber": "RC-652500"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "2",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

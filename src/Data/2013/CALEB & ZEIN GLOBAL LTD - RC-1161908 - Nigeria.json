@@ -1,0 +1,436 @@
+[
+  {
+    "year": "2013",
+    "title": "CALEB & ZEIN GLOBAL LTD - RC-1161908 - Nigeria",
+    "description": "CALEB & ZEIN GLOBAL LTD Nigeria company, Company number: RC-1161908, Incorporation Date Dec 27, 2013;, Address: PLOT13-F110, OSUN CRESCENT MAITAMA ABUJA, ABUJA, F C T STATE",
+    "company": {
+      "id": 62716123,
+      "name": "CALEB & ZEIN GLOBAL LTD",
+      "internationalNumber": "RC-1161908",
+      "localNumber": "1161908",
+      "countryId": 24,
+      "dateCreated": "2013-12-27T00:00:00.000Z",
+      "createdAt": "2021-05-31T02:17:51.363Z",
+      "updatedAt": "2024-06-15T16:35:21.153Z",
+      "alternateNames": [],
+      "address": "PLOT13-F110, OSUN CRESCENT MAITAMA ABUJA, ABUJA, F C T STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "1976615",
+      "updatedAtSitemap": "2023-06-09T16:01:41.000Z",
+      "oldInternationalNumber": "1161908",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 394,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197122,
+          "providerId": "143224",
+          "providerName": "Specialized construction activities",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:04:05.515315+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 89189246,
+          "address": "PLOT13-F110, OSUN CRESCENT MAITAMA ABUJA, ABUJA, F C T STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 158089260,
+          "companyId": 62716123,
+          "personId": 66512692,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 500000,
+          "person": {
+            "id": 66512692,
+            "name": "zein ahmad",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "PLOT 13-F110, OSUN CRESCENT, MAITAMA,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158089259,
+          "companyId": 62716123,
+          "personId": 66794091,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 500000,
+          "person": {
+            "id": 66794091,
+            "name": "gazawa caleb jakaya",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "PLOT 13-F110, OSUN CRESCENT, MAITAMA,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158089258,
+          "companyId": 62716123,
+          "personId": 66794092,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66794092,
+            "name": "zein ahmad",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "PLOT 13-F110, OSUN CRESCENT, MAITAMA",
+            "countryOfResidence": "NIGERIA",
+            "number": "null",
+            "documentType": "",
+            "email": "",
+            "phone": "null",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 161356975,
+          "companyId": 62716123,
+          "personId": 68447423,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68447423,
+            "name": "gazawa caleb jakaya",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "PLOT 13-F110, OSUN CRESCENT, MAITAMA",
+            "countryOfResidence": "NIGERIA",
+            "number": "null",
+            "documentType": "",
+            "email": "",
+            "phone": "null",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 246009915,
+          "companyId": 62716123,
+          "personId": 94288167,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 94288167,
+            "name": "jaf associates",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "SUITE 228, ANBEEZ PLAZA, WUSE ZONE 5",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [
+            {
+              "name": "RICHGOLD CONSTRUCTION COMPANY LIMITED",
+              "internationalNumber": "RC-813865"
+            },
+            {
+              "name": "EJIMS DIVINE LINK LIMITED",
+              "internationalNumber": "RC-967482"
+            },
+            {
+              "name": "I4E FOUNDATION LTD/GTE",
+              "internationalNumber": "RC-1508519"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 2,
+        "null": 1
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

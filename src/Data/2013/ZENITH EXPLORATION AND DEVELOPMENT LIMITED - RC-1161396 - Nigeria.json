@@ -1,0 +1,418 @@
+[
+  {
+    "year": "2013",
+    "title": "ZENITH EXPLORATION AND DEVELOPMENT LIMITED - RC-1161396 - Nigeria",
+    "description": "ZENITH EXPLORATION AND DEVELOPMENT LIMITED Nigeria company, Company number: RC-1161396, Incorporation Date Dec 22, 2013;, Address: 10, SHINKAFI ROAD, SOKOTO STATE",
+    "company": {
+      "id": 62704932,
+      "name": "ZENITH EXPLORATION AND DEVELOPMENT LIMITED",
+      "internationalNumber": "RC-1161396",
+      "localNumber": "1161396",
+      "countryId": 24,
+      "dateCreated": "2013-12-22T00:00:00.000Z",
+      "createdAt": "2021-05-31T01:33:16.735Z",
+      "updatedAt": "2024-06-15T16:35:23.083Z",
+      "alternateNames": [],
+      "address": "10, SHINKAFI ROAD, SOKOTO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "5000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY THE BUSINESS OF MINING IN ALL ITS RAMIFICATIONS; TO ENGAGE IN SOLID MINERAL PROSPECTING, EXPLORATION, EXPLOITATION AND EXPORTATION",
+      "providerId": "1974749",
+      "updatedAtSitemap": "2023-06-09T16:01:50.000Z",
+      "oldInternationalNumber": "1161396",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 18,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6201732,
+          "providerId": "143192",
+          "providerName": "Mining Support Services Activities",
+          "countryId": 24,
+          "createdAt": "2021-11-07T16:33:51.817515+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 89186909,
+          "address": "10, SHINKAFI ROAD, SOKOTO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 161507341,
+          "companyId": 62704932,
+          "personId": 66817489,
+          "roleId": 60323,
+          "appointedOn": "2021-09-12",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 200000,
+          "person": {
+            "id": 66817489,
+            "name": "mustapha jafar shinkafi",
+            "countryId": 24,
+            "address": "10, SHINKAFI ROAD, OFF LODGE ROAD",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "CROWNMEX EXPLORATION & DEVELOPMENT LIMITED",
+              "internationalNumber": "RC-1155401"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 161507338,
+          "companyId": 62704932,
+          "personId": 68518052,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 68518052,
+            "name": "nkiruka wali",
+            "countryId": 24,
+            "occupation": "Litigation officer",
+            "address": "BPS 5, OLD BANEX PLAZA, 2ND FLOOR, WUSE II, ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 161507343,
+          "companyId": 62704932,
+          "personId": 68518054,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 68518054,
+            "name": "b. o omale esq",
+            "countryId": 24,
+            "address": "BPS 5, OLD BANEX PLAZA, WUSE 2, ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "phone": "08033155081",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 246060274,
+          "companyId": 62704932,
+          "personId": 100248234,
+          "roleId": 60323,
+          "appointedOn": "2021-09-12",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 750000,
+          "person": {
+            "id": 100248234,
+            "name": "ifechukwu anthony chukwubuikem",
+            "countryId": 24,
+            "address": "HOUSE 27, GREEN PLOT 2311, FESTRUT ESTATE, KATAMPE, ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 246060271,
+          "companyId": 62704932,
+          "personId": 100428464,
+          "roleId": 60317,
+          "appointedOn": "2021-03-30",
+          "sourceNum": 1,
+          "person": {
+            "id": 100428464,
+            "name": "muktar aliyu shinkafi",
+            "countryId": 24,
+            "address": "NO 10 SHINKAFI ROAD OFF LODGE ROAD  SOKOTO                                                                                                SOKOTO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "LORATT CAPITAL LIMITED",
+              "internationalNumber": "RC-677520"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 3,
+        "2": 1,
+        "null": 3
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
