@@ -1,0 +1,290 @@
+[
+  {
+    "year": "2007",
+    "title": "CRETEPLUS PROJEKTS LIMITED - RC-721994 - Nigeria",
+    "description": "CRETEPLUS PROJEKTS LIMITED Nigeria company, Company number: RC-721994, Incorporation Date 10 дек. 2007 г.;, Address: NO.10B, EMMANUELHIGHSTREET, OJOTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61528061,
+      "name": "CRETEPLUS PROJEKTS LIMITED",
+      "internationalNumber": "RC-721994",
+      "localNumber": "721994",
+      "countryId": 24,
+      "dateCreated": "2007-12-10T00:00:00.000Z",
+      "createdAt": "2021-05-25T06:08:40.630Z",
+      "updatedAt": "2024-06-15T14:28:04.781Z",
+      "alternateNames": [],
+      "address": "NO.10B, EMMANUELHIGHSTREET, OJOTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "865882",
+      "updatedAtSitemap": "2023-06-09T18:36:28.000Z",
+      "oldInternationalNumber": "721994",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 418,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 94483985,
+          "address": "NO.10B, EMMANUELHIGHSTREET, OJOTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 252721049,
+          "companyId": 61528061,
+          "personId": 66386831,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66386831,
+            "name": "ajayi olukayode",
+            "countryId": 24,
+            "occupation": "Civil servant",
+            "nationality": "Nigeria",
+            "birthYear": 1985,
+            "birthMonth": 7,
+            "birthDate": 29,
+            "address": "KAURAN JULI, ANGWAN FULANI NEW EXTENSION WUSASA, 5",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "aderonke.olukayode1@gmail.com",
+            "phone": "08039286598",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "HUMAN MANAGEMENT AND RESOURCES DEVELOPMENT",
+              "internationalNumber": "IT-410827"
+            },
+            {
+              "name": "CHRIS-VIC PROJECTS LIMITED",
+              "internationalNumber": "RC-1129005"
+            },
+            {
+              "name": "PRE-AB GLOBAL RESOURCES LIMITED    ",
+              "internationalNumber": "730653"
+            },
+            {
+              "name": "DEKRA INTERNATIONAL SERVICES LIMITED",
+              "internationalNumber": "RC-1138027"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 252721048,
+          "companyId": 61528061,
+          "personId": 102037855,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 102037855,
+            "name": "odukoya abiodun olugbenga",
+            "countryId": 24,
+            "address": "NO. 10B, EMMANUEL HIGH STREET, OJOTA  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "2",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
