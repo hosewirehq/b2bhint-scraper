@@ -36,7 +36,7 @@ class CompanyItemProcessor {
         const pattern = /[<>:"\/\\|\?\*\x00-\x1F]/g;
 
         // Replace all invalid characters with an empty string
-        const sanitizedFileName = title.replace(pattern, '');
+        const sanitizedFileName = title.replace(pattern, '').replace(/\s+/g, ' ').trim();
 
         return path.join(__dirname, 'Data', year.toString(), `${sanitizedFileName}.json`);
     }
