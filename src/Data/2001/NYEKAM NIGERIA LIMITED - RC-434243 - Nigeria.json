@@ -1,0 +1,477 @@
+[
+  {
+    "year": "2001",
+    "title": "NYEKAM NIGERIA LIMITED - RC-434243 - Nigeria",
+    "description": "NYEKAM NIGERIA LIMITED Nigeria company, Company number: RC-434243, Incorporation Date 2001年11月8日;, Address: PLOT 500, WUSE II, KUMASI CRESCENT, ABUJA, FCT",
+    "company": {
+      "id": 63633243,
+      "name": "NYEKAM NIGERIA LIMITED",
+      "internationalNumber": "RC-434243",
+      "localNumber": "434243",
+      "countryId": 24,
+      "dateCreated": "2001-11-08T00:00:00.000Z",
+      "createdAt": "2021-06-05T11:10:53.598Z",
+      "updatedAt": "2024-06-15T16:20:55.731Z",
+      "alternateNames": [],
+      "address": "PLOT 500, WUSE II, KUMASI CRESCENT, ABUJA, FCT",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "activityDescription": "TO INVEST AND TO PURCHASE, ACQUIRE, HOLD, DEVELOP, WORK AND TURN TO ACCOUNT ANY LANDS, BUILDINGS, LANDED PROPERTY OR REAL ESTATE OF ANY KIND WHATSOEVER (INCLUDING PROPRIETARY RIGHTS).\n\nTO INVEST IN, SUBSCRIBE FOR, PURCHASE, ACQUIRE AND HOLD THE SHARES, STOCKS, DEBENTURES, DEBENTURE STOCKS, BONDS, NOTES, OBLIGATIONS AND SECURITIES OF ANY COMPANY, CORPORATION, AUTHORITY OR BODY, ETC.",
+      "providerId": "591915",
+      "updatedAtSitemap": "2023-06-09T19:34:41.000Z",
+      "oldInternationalNumber": "434243",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 164,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6198768,
+          "providerId": "199181",
+          "providerName": "Private Equity Fund",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:52:57.115053+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 91999080,
+          "address": "PLOT 500, WUSE II, KUMASI CRESCENT, ABUJA, FCT",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241570735,
+          "companyId": 63633243,
+          "personId": 67091211,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 600000,
+          "person": {
+            "id": 67091211,
+            "name": "alhaji garba umar",
+            "countryId": 24,
+            "address": "PLOT 500, KUMASI CRESCENT, WUSE II, ABUJA.",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "I. B SYNERGY CONCEPT LIMITED",
+              "internationalNumber": "RC-1146263"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241570741,
+          "companyId": 63633243,
+          "personId": 67091211,
+          "roleId": 60321,
+          "percentage": 60,
+          "appointedOn": "2022-02-28",
+          "votingShares": "60%",
+          "sourceNum": 1,
+          "person": {
+            "id": 67091211,
+            "name": "alhaji garba umar",
+            "countryId": 24,
+            "address": "PLOT 500, KUMASI CRESCENT, WUSE II, ABUJA.",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [
+            {
+              "name": "I. B SYNERGY CONCEPT LIMITED",
+              "internationalNumber": "RC-1146263"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241570728,
+          "companyId": 63633243,
+          "personId": 98638455,
+          "roleId": 60322,
+          "appointedOn": "2021-10-24",
+          "sourceNum": 1,
+          "person": {
+            "id": 98638455,
+            "name": "lawan mamman alhaji",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "NOUAKCHOTT STREET, WUSE ZONE 1",
+            "countryOfResidence": "NIGERIA",
+            "number": "A50445217",
+            "documentType": "International Passport",
+            "email": "yusufaari@gmail.com",
+            "phone": "08036111164",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60322,
+            "name": "Secretary company",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary company"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241570729,
+          "companyId": 63633243,
+          "personId": 98638456,
+          "roleId": 60317,
+          "appointedOn": "2021-12-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 98638456,
+            "name": "umar jamila abubakar",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "birthYear": 1989,
+            "birthMonth": 1,
+            "birthDate": 26,
+            "address": "MOFOTI STREET, OFF AMINU KANO CRESCENT, WUSE 2",
+            "number": "B50163622",
+            "documentType": "International Passport",
+            "email": "NIL",
+            "phone": "08054094309",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241570730,
+          "companyId": 63633243,
+          "personId": 98638457,
+          "roleId": 60317,
+          "appointedOn": "2021-12-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 98638457,
+            "name": "umar abubakar  abubakar",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "birthYear": 1991,
+            "birthMonth": 5,
+            "birthDate": 27,
+            "address": "MOFOTI STREET, OFF AMINU KANO CRESCENT, WUSE 2",
+            "number": "A10853851",
+            "documentType": "International Passport",
+            "email": "NIL",
+            "phone": "08080143480",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241570736,
+          "companyId": 63633243,
+          "personId": 98638461,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 100000,
+          "person": {
+            "id": 98638461,
+            "name": "umar  hajiya b. a.",
+            "countryId": 24,
+            "occupation": "Director",
+            "address": "PLOT 500, KUMASI CRESCENT, WUSE II, ABUJA.",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "15",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 6,
+        "2": 5,
+        "null": 4
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

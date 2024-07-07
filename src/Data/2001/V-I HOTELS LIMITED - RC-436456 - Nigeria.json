@@ -1,0 +1,297 @@
+[
+  {
+    "year": "2001",
+    "title": "V-I HOTELS LIMITED - RC-436456 - Nigeria",
+    "description": "V-I HOTELS LIMITED Nigeria company, Company number: RC-436456, Incorporation Date Dec 3, 2001;, Address: 6, LOUIS SOLOMON CLOSE, VICTORIA ISLAND, LAGOS STATE",
+    "company": {
+      "id": 63523902,
+      "name": "V-I HOTELS LIMITED",
+      "internationalNumber": "RC-436456",
+      "localNumber": "436456",
+      "countryId": 24,
+      "dateCreated": "2001-12-03T00:00:00.000Z",
+      "createdAt": "2021-06-04T18:54:27.660Z",
+      "updatedAt": "2024-06-15T16:05:37.345Z",
+      "alternateNames": [],
+      "address": "6, LOUIS SOLOMON CLOSE, VICTORIA ISLAND, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS OF HOTELS, RESTAURANT, CAFE, TAVERN, BEER HOUSE, REFRESHMENT ROOM AND LODGING",
+      "providerId": "594096",
+      "updatedAtSitemap": "2024-03-03T18:34:22.000Z",
+      "oldInternationalNumber": "436456",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 133,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197091,
+          "providerId": "143273",
+          "providerName": "Hotel and Hospitality",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:03:09.030665+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 91124734,
+          "address": "6, LOUIS SOLOMON CLOSE, VICTORIA ISLAND, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "1 IS OK VENTURES",
+              "internationalNumber": "BN-2368193"
+            },
+            {
+              "name": "GLUTATHIONE BELLE NUBIAN LIMITED",
+              "internationalNumber": "RC-1587947"
+            },
+            {
+              "name": "VICTOR AGALI RACINES ACADEMY",
+              "internationalNumber": "BN-2876525"
+            },
+            {
+              "name": "XAMANI LOGISTICS",
+              "internationalNumber": "BN-2524696"
+            },
+            {
+              "name": "OLA UP FOUNDATION FOR AFRICAN DEVELOPMENT",
+              "internationalNumber": "IT-129923"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 242671696,
+          "companyId": 63523902,
+          "personId": 67954139,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67954139,
+            "name": "peter t. a. ibru",
+            "countryId": 24,
+            "address": "6, LOUIS SOLOMON CLOSE, VICTORIA ISLAND LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "T & S DATA SERVICES LIMITED",
+              "internationalNumber": "RC-683806"
+            },
+            {
+              "name": "SONY BMG AFRICA INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-701514"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242671697,
+          "companyId": 63523902,
+          "personId": 99088188,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99088188,
+            "name": "oubagbedia i. adams",
+            "countryId": 24,
+            "address": "6, LOUIS SOLOMON CLOSE, VICTORIA ISLAND LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
