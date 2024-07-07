@@ -1,0 +1,458 @@
+[
+  {
+    "year": "2009",
+    "title": "SAM BASSONS ENTERPRISES LTD - RC-858098 - Nigeria",
+    "description": "SAM BASSONS ENTERPRISES LTD Nigeria company, Company number: RC-858098, Incorporation Date Dec 8, 2009;, Address: 10 IWOWARI AVENUE OFF ODILI RD, PHC, RIVERS, PHC",
+    "company": {
+      "id": 60765002,
+      "name": "SAM BASSONS ENTERPRISES LTD",
+      "internationalNumber": "RC-858098",
+      "localNumber": "858098",
+      "countryId": 24,
+      "dateCreated": "2009-12-08T00:00:00.000Z",
+      "createdAt": "2021-05-15T03:33:22.417Z",
+      "updatedAt": "2024-06-15T14:15:16.483Z",
+      "alternateNames": [],
+      "address": "10 IWOWARI AVENUE OFF ODILI RD, PHC, RIVERS, PHC",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "activityDescription": "To carry on business of instrumentation, electrical engineering, mechanical and civil engineering, road, rehabilitation works, drainage, bridges, supply of high quality mechanical spare parts/materials, to carry on business of oil services, oil tools, and works thereof.",
+      "providerId": "1077653",
+      "updatedAtSitemap": "2023-06-09T18:04:12.000Z",
+      "oldInternationalNumber": "858098",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 277,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197063,
+          "providerId": "199212",
+          "providerName": "Engineering Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:30.74539+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 97548010,
+          "address": "10 IWOWARI AVENUE OFF ODILI RD, PHC, RIVERS, PHC",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 239444659,
+          "companyId": 60765002,
+          "personId": 68795165,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68795165,
+            "name": "adoyi stephen shaibu",
+            "countryId": 24,
+            "address": "NTED ESTATE OFF ODILI ROAD, 10 IWOWARI AVENUE OFF ODILI ROAD,  PORT HARCOURT                                                                                         RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "STAADS SOLID (NIG) LIMITED",
+              "internationalNumber": "RC-853873"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239444662,
+          "companyId": 60765002,
+          "personId": 68795165,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 550000,
+          "person": {
+            "id": 68795165,
+            "name": "adoyi stephen shaibu",
+            "countryId": 24,
+            "address": "NTED ESTATE OFF ODILI ROAD, 10 IWOWARI AVENUE OFF ODILI ROAD,  PORT HARCOURT                                                                                         RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "STAADS SOLID (NIG) LIMITED",
+              "internationalNumber": "RC-853873"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239444658,
+          "companyId": 60765002,
+          "personId": 73822552,
+          "roleId": 60322,
+          "sourceNum": 1,
+          "person": {
+            "id": 73822552,
+            "name": "udomessien  favour",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "PLOT 80 AMINU KANO CRESCENT, WUSE II",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60322,
+            "name": "Secretary company",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary company"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239444657,
+          "companyId": 60765002,
+          "personId": 97582663,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 97582663,
+            "name": "ogbu paul",
+            "countryId": 24,
+            "address": "81D, SUCCESS ROAD, APSHS, KURUDU, ABUJA F.C.T.",
+            "phone": "08063962448",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239444665,
+          "companyId": 60765002,
+          "personId": 97604688,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 200000,
+          "person": {
+            "id": 97604688,
+            "name": "adoyi austine adoyi",
+            "countryId": 24,
+            "address": "1 ONITSHA STREET",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239444654,
+          "companyId": 60765002,
+          "personId": 97604688,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97604688,
+            "name": "adoyi austine adoyi",
+            "countryId": 24,
+            "address": "1 ONITSHA STREET",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "11",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 3,
+        "2": 5,
+        "null": 3
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
