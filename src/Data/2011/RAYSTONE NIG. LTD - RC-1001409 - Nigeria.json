@@ -1,0 +1,426 @@
+[
+  {
+    "year": "2011",
+    "title": "RAYSTONE NIG. LTD - RC-1001409 - Nigeria",
+    "description": "RAYSTONE NIG. LTD Nigeria company, Company number: RC-1001409, Incorporation Date Dec 19, 2011;, Address: 2, DAVID OYEDEPO STREET, OFF 22 ROAD 2ND AVENUE, GWARIMPA, ABUJA, FCT, ABUJA, FCT STATE",
+    "company": {
+      "id": 63779091,
+      "name": "RAYSTONE NIG. LTD",
+      "internationalNumber": "RC-1001409",
+      "localNumber": "1001409",
+      "countryId": 24,
+      "dateCreated": "2011-12-19T00:00:00.000Z",
+      "createdAt": "2021-06-06T07:36:04.161Z",
+      "updatedAt": "2024-06-15T16:29:49.435Z",
+      "alternateNames": [],
+      "address": "2, DAVID OYEDEPO STREET, OFF 22 ROAD 2ND AVENUE, GWARIMPA, ABUJA, FCT, ABUJA, FCT STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "1307120",
+      "updatedAtSitemap": "2023-06-09T15:51:00.000Z",
+      "oldInternationalNumber": "1001409",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 795,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196924,
+          "providerId": "199237",
+          "providerName": "General Contracts",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:13.437675+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 89502796,
+          "address": "2, DAVID OYEDEPO STREET, OFF 22 ROAD 2ND AVENUE, GWARIMPA, ABUJA, FCT, ABUJA, FCT STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 226124812,
+          "companyId": 63779091,
+          "personId": 92851610,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 92851610,
+            "name": "zainab usman mohammed",
+            "countryId": 24,
+            "address": "NO 4, HADEIJA ROAD  KANO                                                                                                  KANO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CASTLEGATE REALTORS NIG. LTD",
+              "internationalNumber": "RC-1001788"
+            },
+            {
+              "name": "CRYSTALITE HEIGHTS NIG. LTD",
+              "internationalNumber": "RC-990779"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 226124814,
+          "companyId": 63779091,
+          "personId": 92851610,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 200000,
+          "person": {
+            "id": 92851610,
+            "name": "zainab usman mohammed",
+            "countryId": 24,
+            "address": "NO 4, HADEIJA ROAD  KANO                                                                                                  KANO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "CASTLEGATE REALTORS NIG. LTD",
+              "internationalNumber": "RC-1001788"
+            },
+            {
+              "name": "CRYSTALITE HEIGHTS NIG. LTD",
+              "internationalNumber": "RC-990779"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 226124811,
+          "companyId": 63779091,
+          "personId": 92851611,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 92851611,
+            "name": "gazzali salisu buhari",
+            "countryId": 24,
+            "address": "NO 4 HADEIJA RD  KANO                                                                                                  KANO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "STRATA-TECH ENERGY SOLUTION LIMITED",
+              "internationalNumber": "RC-853803"
+            },
+            {
+              "name": "CUBES & PYRAMIDS NIG LTD",
+              "internationalNumber": "RC-957465"
+            },
+            {
+              "name": "GOLDEN CHARIOT NIG. LTD",
+              "internationalNumber": "RC-950344"
+            },
+            {
+              "name": "CASTLEGATE REALTORS NIG. LTD",
+              "internationalNumber": "RC-1001788"
+            },
+            {
+              "name": "GEMS & RUBIES NIG. LTD",
+              "internationalNumber": "RC-953660"
+            },
+            {
+              "name": "CRYSTALITE HEIGHTS NIG. LTD",
+              "internationalNumber": "RC-990779"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 226124813,
+          "companyId": 63779091,
+          "personId": 92851611,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 800000,
+          "person": {
+            "id": 92851611,
+            "name": "gazzali salisu buhari",
+            "countryId": 24,
+            "address": "NO 4 HADEIJA RD  KANO                                                                                                  KANO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "STRATA-TECH ENERGY SOLUTION LIMITED",
+              "internationalNumber": "RC-853803"
+            },
+            {
+              "name": "CUBES & PYRAMIDS NIG LTD",
+              "internationalNumber": "RC-957465"
+            },
+            {
+              "name": "GOLDEN CHARIOT NIG. LTD",
+              "internationalNumber": "RC-950344"
+            },
+            {
+              "name": "CASTLEGATE REALTORS NIG. LTD",
+              "internationalNumber": "RC-1001788"
+            },
+            {
+              "name": "GEMS & RUBIES NIG. LTD",
+              "internationalNumber": "RC-953660"
+            },
+            {
+              "name": "CRYSTALITE HEIGHTS NIG. LTD",
+              "internationalNumber": "RC-990779"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 2
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
