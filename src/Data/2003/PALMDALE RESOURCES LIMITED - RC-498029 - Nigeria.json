@@ -1,0 +1,315 @@
+[
+  {
+    "year": "2003",
+    "title": "PALMDALE RESOURCES LIMITED - RC-498029 - Nigeria",
+    "description": "PALMDALE RESOURCES LIMITED Nigeria company, Company number: RC-498029, Incorporation Date Oct 31, 2003;, Address: 12, MODUPEJOHNSON, STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 63733357,
+      "name": "PALMDALE RESOURCES LIMITED",
+      "internationalNumber": "RC-498029",
+      "localNumber": "498029",
+      "countryId": 24,
+      "dateCreated": "2003-10-31T00:00:00.000Z",
+      "createdAt": "2021-06-06T01:47:38.656Z",
+      "updatedAt": "2024-06-15T14:32:24.872Z",
+      "alternateNames": [],
+      "address": "12, MODUPEJOHNSON, STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "655048",
+      "updatedAtSitemap": "2023-06-09T18:47:31.000Z",
+      "oldInternationalNumber": "498029",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 93,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 94128379,
+          "address": "12, MODUPEJOHNSON, STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 240619585,
+          "companyId": 63733357,
+          "personId": 94985909,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 94985909,
+            "name": "chinedu okocha",
+            "countryId": 24,
+            "address": "NO-6 OKUNLEYE STREET IKOTUN EGBE LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "WATERLOO CONSULTS LIMITED",
+              "internationalNumber": "RC-497055"
+            },
+            {
+              "name": "EKEA ADVANCE LINK LTD",
+              "internationalNumber": "RC-623201"
+            },
+            {
+              "name": "BRIDGEGATE PROPERTIES LIMITED",
+              "internationalNumber": "RC-501413"
+            },
+            {
+              "name": "DEBBIE GOLD LIMITED",
+              "internationalNumber": "RC-496722"
+            },
+            {
+              "name": "BRIDGEGATE  CONSULTS LIMITED",
+              "internationalNumber": "RC-496724"
+            },
+            {
+              "name": "INFINITY HOTEL AND RESORT LTD",
+              "internationalNumber": "RC-625655"
+            },
+            {
+              "name": "BATON ROUGE RESOURCES LIMITED",
+              "internationalNumber": "RC-498032"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240619586,
+          "companyId": 63733357,
+          "personId": 95189160,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95189160,
+            "name": "justina ifeoma okocha",
+            "countryId": 24,
+            "address": "NO-6 OKUNLEYE STREET IKOTUN EGBE LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "WATERLOO CONSULTS LIMITED",
+              "internationalNumber": "RC-497055"
+            },
+            {
+              "name": "BRIDGEGATE PROPERTIES LIMITED",
+              "internationalNumber": "RC-501413"
+            },
+            {
+              "name": "DEBBIE GOLD LIMITED",
+              "internationalNumber": "RC-496722"
+            },
+            {
+              "name": "BRIDGEGATE  CONSULTS LIMITED",
+              "internationalNumber": "RC-496724"
+            },
+            {
+              "name": "BATON ROUGE RESOURCES LIMITED",
+              "internationalNumber": "RC-498032"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

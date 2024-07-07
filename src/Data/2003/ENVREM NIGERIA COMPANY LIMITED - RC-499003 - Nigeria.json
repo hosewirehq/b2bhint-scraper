@@ -1,0 +1,295 @@
+[
+  {
+    "year": "2003",
+    "title": "ENVREM NIGERIA COMPANY LIMITED - RC-499003 - Nigeria",
+    "description": "ENVREM NIGERIA COMPANY LIMITED Nigeria company, Company number: RC-499003, Incorporation Date 13 нояб. 2003 г.;, Address: 33, BALOGUNSTREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62650138,
+      "name": "ENVREM NIGERIA COMPANY LIMITED",
+      "internationalNumber": "RC-499003",
+      "localNumber": "499003",
+      "countryId": 24,
+      "dateCreated": "2003-11-13T00:00:00.000Z",
+      "createdAt": "2021-05-30T22:15:08.945Z",
+      "updatedAt": "2024-06-15T14:32:22.564Z",
+      "alternateNames": [],
+      "address": "33, BALOGUNSTREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "655988",
+      "updatedAtSitemap": "2023-06-09T18:47:26.000Z",
+      "oldInternationalNumber": "499003",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 118,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 93661907,
+          "address": "33, BALOGUNSTREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "TREASURE SOURCE LIMITED",
+              "internationalNumber": "RC-439665"
+            },
+            {
+              "name": "VICAUSTINE GLOBAL VENTURES LIMITED",
+              "internationalNumber": "RC-497719"
+            },
+            {
+              "name": "SEA RIDERS NIGERIA LIMITED",
+              "internationalNumber": "RC-684783"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 236984930,
+          "companyId": 62650138,
+          "personId": 69280858,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 69280858,
+            "name": "chidi okechukwu",
+            "countryId": 24,
+            "address": "NO 74 ODUDUWA  WAY  IKEJAL                                                                                                LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "OPENQUARTER LIMITED",
+              "internationalNumber": "RC-715374"
+            },
+            {
+              "name": "HAABA COMMUNICATIONS LIMITED",
+              "internationalNumber": "RC-719605"
+            },
+            {
+              "name": "NNATEX BEEF ENTER. CO.(NIG) LIMITED",
+              "internationalNumber": "RC-948770"
+            },
+            {
+              "name": "INDEPENDENT GLOBAL TRAVEL & TOUR LTD",
+              "internationalNumber": "RC-853782"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 236984928,
+          "companyId": 62650138,
+          "personId": 96831403,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 96831403,
+            "name": "emmanuel muogbo",
+            "countryId": 24,
+            "address": "7, OLIYIDE STREET, MUSHIN LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "year": "2003",
+    "title": "OKEY-CHARLES INTERNATIONAL COMPANY LIMITED - RC-501407 - Nigeria",
+    "description": "OKEY-CHARLES INTERNATIONAL COMPANY LIMITED Nigeria company, Company number: RC-501407, Incorporation Date Dec 23, 2003;, Address: 9, AGBOMAINMKT., NNEWI, ANAMBRA, NNEWI, ANAMBRA STATE",
+    "company": {
+      "id": 103782180,
+      "name": "OKEY-CHARLES INTERNATIONAL COMPANY LIMITED",
+      "internationalNumber": "RC-501407",
+      "localNumber": "501407",
+      "countryId": 24,
+      "dateCreated": "2003-12-23T00:00:00.000Z",
+      "createdAt": "2022-03-15T02:49:12.105Z",
+      "updatedAt": "2024-06-15T14:32:16.961Z",
+      "alternateNames": [],
+      "address": "9, AGBOMAINMKT., NNEWI, ANAMBRA, NNEWI, ANAMBRA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "658266",
+      "updatedAtSitemap": "2024-06-01T16:16:12.000Z",
+      "oldInternationalNumber": "501407",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 105,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 94138801,
+          "address": "9, AGBOMAINMKT., NNEWI, ANAMBRA, NNEWI, ANAMBRA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 232769735,
+          "companyId": 103782180,
+          "personId": 66852269,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66852269,
+            "name": "christian nwafor",
+            "countryId": 24,
+            "address": "2OO URATTA RD. ABBA ABIA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SAINT MICHEAL XPREX SERVICES LTD",
+              "internationalNumber": "RC-757544"
+            },
+            {
+              "name": "JUKASON INDUSTRIES LIMITED",
+              "internationalNumber": "RC-450451"
+            },
+            {
+              "name": "CURRENT VENTURES LTD",
+              "internationalNumber": "RC-192501"
+            },
+            {
+              "name": "JENIC ENGINEERING (NIG) LTD",
+              "internationalNumber": "RC-75587"
+            },
+            {
+              "name": "N. ECIMON GLOBAL LIMITED",
+              "internationalNumber": "RC-442399"
+            },
+            {
+              "name": "CHOMECH NIG LTD",
+              "internationalNumber": "RC-285063"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244945838,
+          "companyId": 103782180,
+          "personId": 98460207,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 98460207,
+            "name": "okechukwu nwafor",
+            "countryId": 24,
+            "address": "22/5 NAMBRA RD., HOUSING ESTATE ONITSHA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GREAT FIELD GLOBAL SOLUTIONS LIMITED",
+              "internationalNumber": "RC-635152"
+            },
+            {
+              "name": "I. P. K. INDUSTRIAL CO. LIMITED",
+              "internationalNumber": "RC-245384"
+            },
+            {
+              "name": "SAMPEX NIG LIMITED",
+              "internationalNumber": "RC-218564"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "2",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
