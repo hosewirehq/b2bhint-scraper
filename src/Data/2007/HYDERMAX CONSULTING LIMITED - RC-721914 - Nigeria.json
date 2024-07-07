@@ -1,0 +1,455 @@
+[
+  {
+    "year": "2007",
+    "title": "HYDERMAX CONSULTING LIMITED - RC-721914 - Nigeria",
+    "description": "HYDERMAX CONSULTING LIMITED Nigeria company, Company number: RC-721914, Incorporation Date Dec 6, 2007;, Address: HOUSE 3, NO 4 QUITO CLOSE, OFF QUITO STREET, OFF YEDSERAM STREET, MAITAMA, ABUJA, FCT",
+    "company": {
+      "id": 61528494,
+      "name": "HYDERMAX CONSULTING LIMITED",
+      "internationalNumber": "RC-721914",
+      "localNumber": "721914",
+      "countryId": 24,
+      "dateCreated": "2007-12-06T00:00:00.000Z",
+      "createdAt": "2021-05-25T06:10:33.529Z",
+      "updatedAt": "2024-06-15T14:28:07.122Z",
+      "alternateNames": [],
+      "address": "HOUSE 3, NO 4 QUITO CLOSE, OFF QUITO STREET, OFF YEDSERAM STREET, MAITAMA, ABUJA, FCT",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "24400000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "24400000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY OUT THE BUSINESS OF CARGO HANDLING AND SURVEYING SERVICES IN PORTS, SHIP CARGO TRANSFER (STS) OPERATION SUPERVISION AND TO BE AGENTS FOR SHIP OWNERS. SHIPPING LINES, CLEARING AND FORWARDING AGENTS, COMMISSION AGENTS ETC",
+      "providerId": "865974",
+      "updatedAtSitemap": "2023-06-09T18:36:30.000Z",
+      "oldInternationalNumber": "721914",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 536,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6202321,
+          "providerId": "143230",
+          "providerName": "Air transport",
+          "countryId": 24,
+          "createdAt": "2021-11-07T16:58:06.2288+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 103901540,
+          "address": "HOUSE 3, NO 4 QUITO CLOSE, OFF QUITO STREET, OFF YEDSERAM STREET, MAITAMA, ABUJA, FCT",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 163336790,
+          "companyId": 61528494,
+          "personId": 67647205,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 67647205,
+            "name": "kabiru mohammed mahmud",
+            "countryId": 24,
+            "address": "D.D. DODO & CO, NO. 10 ATBARA STREET, OFF CAIRO STREET, WUSE II",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [
+            {
+              "name": "MANGAS GLOBAL RESOURCES LTD",
+              "internationalNumber": "RC-778250"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 252719536,
+          "companyId": 61528494,
+          "personId": 67710436,
+          "roleId": 60322,
+          "appointedOn": "2017-03-20",
+          "sourceNum": 1,
+          "person": {
+            "id": 67710436,
+            "name": "jibrin abdullahi sani",
+            "countryId": 24,
+            "address": "NO 5,RUDOLF CLOSE MAITAMA",
+            "email": "jsabdoul@gmail.com",
+            "phone": "08035097705",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60322,
+            "name": "Secretary company",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary company"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 163336782,
+          "companyId": 61528494,
+          "personId": 69178127,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 69178127,
+            "name": "mahmoud aliyu abubakar",
+            "countryId": 24,
+            "address": "NO 4 ABBATOIR ROAD ZARIA  ZARIA                                                                                                 KADUNA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 163336788,
+          "companyId": 61528494,
+          "personId": 69178129,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 400000,
+          "person": {
+            "id": 69178129,
+            "name": "mohammed  raji mahmoud",
+            "countryId": 24,
+            "address": "NO. 4 NEW ESTATE KI DOKA",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 252719538,
+          "companyId": 61528494,
+          "personId": 87414479,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 1000000,
+          "person": {
+            "id": 87414479,
+            "name": "mahmud aliyu abubakar",
+            "countryId": 24,
+            "address": "HOUSE 3, ABBATOIR ROAD, ZANGO. SAMARU",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 252719534,
+          "companyId": 61528494,
+          "personId": 99196199,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99196199,
+            "name": "mahmud muhammad raji",
+            "countryId": 24,
+            "address": "NO 4 NEW ESTATE BEHIND FIRE BREGADE KOFAN DOKA  ZARIA                                                                                                 KADUNA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ULTRAMED SPECIALIST HOSPITALS LTD",
+              "internationalNumber": "RC-1329211"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 3,
+        "2": 3,
+        "null": 3
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
