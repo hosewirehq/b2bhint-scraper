@@ -1,0 +1,307 @@
+[
+  {
+    "year": "2001",
+    "title": "PROJECTS ROYALE LIMITED - RC-429894 - Nigeria",
+    "description": "PROJECTS ROYALE LIMITED Nigeria company, Company number: RC-429894, Incorporation Date 9 Oct. 2001;, Address: 48, ADDISABABACRESCENT, WUSEII, ABUJA, FCT, ABUJA, FCT STATE",
+    "company": {
+      "id": 103430693,
+      "name": "PROJECTS ROYALE LIMITED",
+      "internationalNumber": "RC-429894",
+      "localNumber": "429894",
+      "countryId": 24,
+      "dateCreated": "2001-10-09T00:00:00.000Z",
+      "createdAt": "2022-03-13T07:47:21.237Z",
+      "updatedAt": "2024-06-15T16:06:03.923Z",
+      "alternateNames": [],
+      "address": "48, ADDISABABACRESCENT, WUSEII, ABUJA, FCT, ABUJA, FCT STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "587630",
+      "updatedAtSitemap": "2023-06-09T18:56:52.000Z",
+      "oldInternationalNumber": "429894",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 195,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 93573051,
+          "address": "48, ADDISABABACRESCENT, WUSEII, ABUJA, FCT, ABUJA, FCT STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 233535720,
+          "companyId": 103430693,
+          "personId": 66231890,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66231890,
+            "name": "mashood mustapha",
+            "countryId": 24,
+            "address": "5TH, FLOOR KAJOLA HOUSE ANNEX 62/64 CAMPBELL STR., LAGOS LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "PROTIUM EXPLORATION W/A LIMITED",
+              "internationalNumber": "RC-402206"
+            },
+            {
+              "name": "ENERGY SOLUTIONS NIGERIA LIMITED",
+              "internationalNumber": "RC-391238"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233535722,
+          "companyId": 103430693,
+          "personId": 66339862,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66339862,
+            "name": "mohammed edewor",
+            "countryId": 24,
+            "address": "ALLIED HOUSE 155/164 BROAD STREET  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "EMERGING MARKETS TELECOMMUNICATION SERVICES LTD   ",
+              "internationalNumber": "RC-685139"
+            },
+            {
+              "name": "JAMES OIL LTD",
+              "internationalNumber": "RC-1007697"
+            },
+            {
+              "name": "EXX OIL AND GAS WEST AFRICA LTD",
+              "internationalNumber": "RC-1020803"
+            },
+            {
+              "name": "TROJAN OFFSHORE LIMITED",
+              "internationalNumber": "RC-820988"
+            },
+            {
+              "name": "QUATER HOUSE OIL AND GAS COMPANY LTD",
+              "internationalNumber": "RC-1009984"
+            },
+            {
+              "name": "KOKORI GAS PROCESSING LIMITED",
+              "internationalNumber": "RC-647704"
+            },
+            {
+              "name": "EARTHLINK COMMUNICATION LIMITED",
+              "internationalNumber": "RC-497556"
+            },
+            {
+              "name": "TRANS DELTA EXPLORATION AND PRODUCTION COMPANY LTD",
+              "internationalNumber": "RC-1163810"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 7
+      },
+      "personsWithRelatedCount": 6
+    }
+  }
+]
