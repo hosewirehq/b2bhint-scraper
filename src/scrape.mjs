@@ -28,28 +28,33 @@ async function generateUrls() {
 
 async function scrapeCompany(browser, link) {
     const page = await browser.newPage();
-    console.info(`scraping: ${link}`)
-    await page.setDefaultNavigationTimeout(60000);
-    await page.goto(link, { waitUntil: 'load', timeout: 0 });
-
-    // Extract the content of the element with the ID #__NEXT_DATA__
-    const nextData = await page.evaluate(() => {
-        const element = document.querySelector('#__NEXT_DATA__');
-        return element ? element.innerText : null;
-    });
-
-    const year = await page.evaluate(() => {
-        const element = document.querySelector('.CompanyHeader_breadcrumb__h9kWp > a:nth-child(2)');
-        return element ? element.innerText : null;
-    });
-    let { title, description, company } = JSON.parse(nextData)?.props?.pageProps ?? { title: '', description: '', company: '' };
     
-    title = title?.replace(/\s+/g, ' ').trim() || `${Date.now().toString()}-${title}`;
-
-    console.info(`processing: ${title}`)
-    await processor.processItem({year, title, description, company });
+    try {
+        console.info(`scraping: ${link}`)
+        await page.setDefaultNavigationTimeout(60000);
+        await page.goto(link, { waitUntil: 'load', timeout: 0 });
     
-    await page.close();
+        // Extract the content of the element with the ID #__NEXT_DATA__
+        const nextData = await page.evaluate(() => {
+            const element = document.querySelector('#__NEXT_DATA__');
+            return element ? element.innerText : null;
+        });
+    
+        const year = await page.evaluate(() => {
+            const element = document.querySelector('.CompanyHeader_breadcrumb__h9kWp > a:nth-child(2)');
+            return element ? element.innerText : null;
+        });
+        let { title, description, company } = JSON.parse(nextData)?.props?.pageProps ?? { title: '', description: '', company: '' };
+        
+        title = title?.replace(/\s+/g, ' ').trim() || `${Date.now().toString()}-${title}`;
+    
+        console.info(`processing: ${title}`)
+        await processor.processItem({year, title, description, company });
+    } catch (error) {
+        console.error('Error during the scraping process:', error);
+    } finally {
+        await page.close();
+    }
 }
 
 async function crawlURL(browser, url) {
