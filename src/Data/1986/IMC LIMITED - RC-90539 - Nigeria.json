@@ -1,0 +1,520 @@
+[
+  {
+    "year": "1986",
+    "title": "IMC LIMITED - RC-90539 - Nigeria",
+    "description": "IMC LIMITED Nigeria company, Company number: RC-90539, Incorporation Date Oct 28, 1986;, Address: PLT 8, AINA GEORGE STREET, ILUPEJU, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61013989,
+      "name": "IMC LIMITED",
+      "internationalNumber": "RC-90539",
+      "localNumber": "90539",
+      "countryId": 24,
+      "dateCreated": "1986-10-28T00:00:00.000Z",
+      "createdAt": "2021-05-20T16:41:51.998Z",
+      "updatedAt": "2024-06-15T15:37:27.831Z",
+      "alternateNames": [],
+      "address": "PLT 8, AINA GEORGE STREET, ILUPEJU, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "249999994.88 NGN",
+      "sharesValue": "0.005 NGN",
+      "sharesIssued": "500000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS OF SHIPPERS, SHIPPING AGENTS, CHARTERERS, HIRERS AND LESSORS OF ALL TYPES OF SHIPS, BOATS, TANKERS AND MARINE VESSELS, AND GENERALLY TO ENGAGE IN THE BUSINESS OF MARINE TRANSPORTATION",
+      "providerId": "255484",
+      "updatedAtSitemap": "2024-01-30T23:02:46.000Z",
+      "oldInternationalNumber": "90539",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 199,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197189,
+          "providerId": "199157",
+          "providerName": "Sea Transport",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:05:38.623691+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82061261,
+          "address": "PLT 8, AINA GEORGE STREET, ILUPEJU, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238334207,
+          "companyId": 61013989,
+          "personId": 66140011,
+          "roleId": 114332,
+          "person": {
+            "id": 66140011,
+            "name": "abdulkadir rilwan gidado",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "nationality": "NIGERIAN",
+            "birthYear": 1971,
+            "birthMonth": 4,
+            "birthDate": 14,
+            "address": "SUITE 111-113, THEODAK PLAZA, CBD",
+            "countryOfResidence": "NIGERIA",
+            "documentNumber": "ABC86922AC16",
+            "email": "ragdamallam@gmail.com",
+            "phone": "08038498744",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "NEXUS VASCULAR SOLUTIONS LTD",
+              "internationalNumber": "RC-1899271"
+            },
+            {
+              "name": "MULTI MOMENT CONSTRUCTION & ENGINEERING SOLUTIONS LTD",
+              "internationalNumber": "RC-1903550"
+            },
+            {
+              "name": "HEALIUM SURGICALS LTD",
+              "internationalNumber": "RC-1907732"
+            },
+            {
+              "name": "SERENE VILLE NIGERIA LTD",
+              "internationalNumber": "RC-1909489"
+            },
+            {
+              "name": "MUJIBAUNA ROYAL INVESTMENT LTD",
+              "internationalNumber": "RC-1917631"
+            },
+            {
+              "name": "RIH INTERNATIONAL ASSOCIATES LTD",
+              "internationalNumber": "RC-114993"
+            },
+            {
+              "name": "TREASURE IN THE BUSH AGRO INT'L LTD",
+              "internationalNumber": "RC-1905572"
+            },
+            {
+              "name": "FURSA GLOBAL INVESTMENT LTD",
+              "internationalNumber": "RC-1898761"
+            },
+            {
+              "name": "BASMALA UNIQUE INVESTMENTS & MORE LTD",
+              "internationalNumber": "RC-1910028"
+            },
+            {
+              "name": "SILVER THREAD MULTI COLLECTIONS LTD",
+              "internationalNumber": "RC-1900211"
+            },
+            {
+              "name": "URBAN SHORTLET APARTMENTS LTD",
+              "internationalNumber": "RC-1907990"
+            },
+            {
+              "name": "MULTI MOMENT EXPLORATION LTD",
+              "internationalNumber": "RC-1899825"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160545748,
+          "companyId": 61013989,
+          "personId": 67977322,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 67977322,
+            "name": "mrs. hyeladzira balami",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigerian",
+            "birthYear": 1980,
+            "birthMonth": 9,
+            "birthDate": 7,
+            "address": "NO. 6, NOAD ROAD",
+            "countryOfResidence": "NIGERIA",
+            "number": "001",
+            "documentType": "International Passport",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160545749,
+          "companyId": 61013989,
+          "personId": 67977323,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 67977323,
+            "name": "dr yakubu joseph",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigerian",
+            "birthYear": 1980,
+            "birthMonth": 9,
+            "birthDate": 7,
+            "address": "12, CBN ROAD BOULDER HILL",
+            "countryOfResidence": "NIGERIA",
+            "number": "001",
+            "documentType": "International Passport",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238312087,
+          "companyId": 61013989,
+          "personId": 96259433,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96259433,
+            "name": "incorporated trustees - individual",
+            "countryId": 24,
+            "address": "N/A",
+            "countryOfResidence": "NIGERIA",
+            "email": "N/A",
+            "phone": "N/A",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SUMTEC NIGERIA LIMITED",
+              "internationalNumber": "RC-97525"
+            },
+            {
+              "name": "SULACHEM NIGERIA LIMITED",
+              "internationalNumber": "RC-97767"
+            },
+            {
+              "name": "FIRST CITY FISHING COMPANY LIMITED",
+              "internationalNumber": "RC-96553"
+            },
+            {
+              "name": "AMUCHE FARMING AND TRACTOR SERVICES LTD",
+              "internationalNumber": "RC-97342"
+            },
+            {
+              "name": "MANAN INTEK NIG LTD",
+              "internationalNumber": "RC-112246"
+            },
+            {
+              "name": "BUSINESS REPORTS LTD",
+              "internationalNumber": "RC-97922"
+            },
+            {
+              "name": "KADESMAT INVESTMENTS LIMITED (W.A.)",
+              "internationalNumber": "RC-95978"
+            },
+            {
+              "name": "FRAMAN ENTERPRISES NIGERIA LTD",
+              "internationalNumber": "RC-98222"
+            },
+            {
+              "name": "AGRIC BUSINESS & RESOURCES LTD",
+              "internationalNumber": "RC-97222"
+            },
+            {
+              "name": "SPAWS SYSTEMS LTD",
+              "internationalNumber": "RC-98776"
+            },
+            {
+              "name": "LEIGHTON ELECTRONIC & COMPUTER SERVICES LTD",
+              "internationalNumber": "RC-101039"
+            },
+            {
+              "name": "CLEARING & MOVEMENT COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-96556"
+            },
+            {
+              "name": "KARRIS NIGERIA LIMITED",
+              "internationalNumber": "RC-96045"
+            },
+            {
+              "name": "ADTRUST INSURANCE CONSULTANTS LIMITED",
+              "internationalNumber": "RC-96038"
+            },
+            {
+              "name": "OBANTA PRESS LTD",
+              "internationalNumber": "RC-96137"
+            },
+            {
+              "name": "J. TRADE LIMITED",
+              "internationalNumber": "RC-95366"
+            },
+            {
+              "name": "SOCIOECONOMIC DEVELOPMENT INITIATIVE",
+              "internationalNumber": "IT-86978"
+            },
+            {
+              "name": "AVIDAN NIGERIA COMPANY LIMITED",
+              "internationalNumber": "RC-95779"
+            },
+            {
+              "name": "KINGSTIME INTERNATIONAL LTD",
+              "internationalNumber": "RC-96298"
+            },
+            {
+              "name": "BUGI NIG LTD",
+              "internationalNumber": "RC-97810"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Abd******* Ril*** Gid***",
+          "contacts": {
+            "email": [
+              "rag************************"
+            ],
+            "phone": [
+              "080********"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
