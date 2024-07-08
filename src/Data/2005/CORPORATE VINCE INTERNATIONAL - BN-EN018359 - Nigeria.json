@@ -1,0 +1,252 @@
+[
+  {
+    "year": "2005",
+    "title": "CORPORATE VINCE INTERNATIONAL - BN-EN018359 - Nigeria",
+    "description": "CORPORATE VINCE INTERNATIONAL Nigeria company, Company number: BN-EN018359, Incorporation Date Oct 11, 2005;, Address: 89, OGUI ROAD, ENUGU, ENUGU STATE",
+    "company": {
+      "id": 108725769,
+      "name": "CORPORATE VINCE INTERNATIONAL",
+      "internationalNumber": "BN-EN018359",
+      "localNumber": "EN018359",
+      "countryId": 24,
+      "dateCreated": "2005-10-11T00:00:00.000Z",
+      "createdAt": "2022-04-12T03:11:25.969Z",
+      "updatedAt": "2024-06-15T14:16:53.237Z",
+      "alternateNames": [],
+      "address": "89, OGUI ROAD, ENUGU, ENUGU STATE",
+      "additionalData": {},
+      "typeId": 99332,
+      "historicalNames": [],
+      "providerId": "7790639",
+      "updatedAtSitemap": "2023-06-09T18:07:21.000Z",
+      "oldInternationalNumber": "EN018359",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99332,
+        "type": "Business name - partnership",
+        "countryId": 24,
+        "translation": {
+          "en": "Partnership"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 127,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [],
+      "addresses": [
+        {
+          "id": 97386957,
+          "address": "89, OGUI ROAD, ENUGU, ENUGU STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "RANGERS INTERNATIONAL FOOTBALL CLUB (1990) LTD",
+              "internationalNumber": "RC-153685"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 251488553,
+          "companyId": 108725769,
+          "personId": 101828890,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 101828890,
+            "name": "ezeofor afam vincent",
+            "countryId": 24,
+            "occupation": "Businessman",
+            "address": "TRANS EKULU, RD 17,  HOUSE 2",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 251488554,
+          "companyId": 108725769,
+          "personId": 101828891,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 101828891,
+            "name": "ezeofor ijeoma rita lizybethy",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "address": "TRANS EKULU, RD 17,  HOUSE 2",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "2",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 2
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]
