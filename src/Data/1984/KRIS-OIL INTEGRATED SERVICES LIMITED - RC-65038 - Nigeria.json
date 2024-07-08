@@ -1,0 +1,557 @@
+[
+  {
+    "year": "1984",
+    "title": "KRIS-OIL INTEGRATED SERVICES LIMITED - RC-65038 - Nigeria",
+    "description": "KRIS-OIL INTEGRATED SERVICES LIMITED Nigeria company, Company number: RC-65038, Incorporation Date Aug 30, 1984;, Address: DADDO TERMINAL, BEACH LAND ESTATE KIRIKIRI PHASE 1, APAPA, APAPA, LAGOS STATE",
+    "company": {
+      "id": 60906698,
+      "name": "KRIS-OIL INTEGRATED SERVICES LIMITED",
+      "internationalNumber": "RC-65038",
+      "localNumber": "65038",
+      "countryId": 24,
+      "dateCreated": "1984-08-30T00:00:00.000Z",
+      "createdAt": "2021-05-19T03:45:56.601Z",
+      "updatedAt": "2024-06-15T15:59:23.327Z",
+      "alternateNames": [],
+      "address": "DADDO TERMINAL, BEACH LAND ESTATE KIRIKIRI PHASE 1, APAPA, APAPA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "325000000",
+      "historicalNames": [],
+      "activityDescription": "TO RENDER SERVICES TO THE OIL AND GAS INDUSTRIES.",
+      "providerId": "230138",
+      "updatedAtSitemap": "2023-12-11T22:01:14.000Z",
+      "oldInternationalNumber": "65038",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 125,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196967,
+          "providerId": "199119",
+          "providerName": "Oil and Gas Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:47.223789+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83348849,
+          "address": "DADDO TERMINAL, BEACH LAND ESTATE KIRIKIRI PHASE 1, APAPA, APAPA, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "KRIS-OIL INTEGRATED SERVICES",
+              "internationalNumber": "BN-65038"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 238428184,
+          "companyId": 60906698,
+          "personId": 67025959,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 67025959,
+            "name": "richard giwa osagie",
+            "countryId": 24,
+            "address": "J-9, HOSPITAL RD. JIMETA, YOLA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [
+            {
+              "name": "BI-KAVA LIMITED",
+              "internationalNumber": "RC-43639"
+            },
+            {
+              "name": "LINKS VENTURES LIMITED",
+              "internationalNumber": "RC-178518"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238428186,
+          "companyId": 60906698,
+          "personId": 67025959,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 67025959,
+            "name": "richard giwa osagie",
+            "countryId": 24,
+            "address": "J-9, HOSPITAL RD. JIMETA, YOLA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [
+            {
+              "name": "BI-KAVA LIMITED",
+              "internationalNumber": "RC-43639"
+            },
+            {
+              "name": "LINKS VENTURES LIMITED",
+              "internationalNumber": "RC-178518"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160660099,
+          "companyId": 60906698,
+          "personId": 68048000,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68048000,
+            "name": "ibrahim charanchi (alhaj)                                                                            n/a",
+            "countryId": 24,
+            "address": "13, WAZIRI IBRAHIM STREET V/ISLAND LAGOS STATE.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "DAKACHE PHARMACEUTICAL COMPANY LIMITED",
+              "internationalNumber": "RC-72997"
+            },
+            {
+              "name": "KULAK TRADES & INDUSTRIES PLC",
+              "internationalNumber": "RC-70113"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160660098,
+          "companyId": 60906698,
+          "personId": 68048002,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68048002,
+            "name": "krishna c. lakhotia                                                                                  n/a",
+            "countryId": 24,
+            "address": "29, KOFO ABAYOMI STR. V/ISLAND LAGOS LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SPIC PETROCHEMICAL INDUSTRIES LIMITED",
+              "internationalNumber": "RC-65029"
+            },
+            {
+              "name": "KULAK TRADES & INDUSTRIES PLC",
+              "internationalNumber": "RC-70113"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160660102,
+          "companyId": 60906698,
+          "personId": 68048021,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68048021,
+            "name": "ibrahim charanchi (alhaj)",
+            "countryId": 24,
+            "address": "13, WAZIRI IBRAHIM STREET V/ISLAND LAGOS STATE.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "DAKACHE PHARMACEUTICAL COMPANY LIMITED",
+              "internationalNumber": "RC-72997"
+            },
+            {
+              "name": "KULAK TRADES & INDUSTRIES PLC",
+              "internationalNumber": "RC-70113"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238428185,
+          "companyId": 60906698,
+          "personId": 68048023,
+          "roleId": 60323,
+          "appointedOn": "2016-11-03",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 150000,
+          "person": {
+            "id": 68048023,
+            "name": "krishna c. lakhotia",
+            "countryId": 24,
+            "address": "29, KOFO ABAYOMI STR. V/ISLAND LAGOS LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "SPIC PETROCHEMICAL INDUSTRIES LIMITED",
+              "internationalNumber": "RC-65029"
+            },
+            {
+              "name": "KULAK TRADES & INDUSTRIES PLC",
+              "internationalNumber": "RC-70113"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160660101,
+          "companyId": 60906698,
+          "personId": 68048023,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68048023,
+            "name": "krishna c. lakhotia",
+            "countryId": 24,
+            "address": "29, KOFO ABAYOMI STR. V/ISLAND LAGOS LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SPIC PETROCHEMICAL INDUSTRIES LIMITED",
+              "internationalNumber": "RC-65029"
+            },
+            {
+              "name": "KULAK TRADES & INDUSTRIES PLC",
+              "internationalNumber": "RC-70113"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "13",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 1,
+        "2": 5,
+        "3": 5,
+        "null": 2
+      },
+      "personsWithRelatedCount": 7
+    }
+  }
+]
