@@ -1,0 +1,424 @@
+[
+  {
+    "year": "1991",
+    "title": "ABEL INDUSTRIES LTD - RC-180677 - Nigeria",
+    "description": "ABEL INDUSTRIES LTD Nigeria company, Company number: RC-180677, Incorporation Date 20 de nov de 1991;, Address: 12, DARANIJO STR, OGBA-IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62605423,
+      "name": "ABEL INDUSTRIES LTD",
+      "internationalNumber": "RC-180677",
+      "localNumber": "180677",
+      "countryId": 24,
+      "dateCreated": "1991-11-20T00:00:00.000Z",
+      "createdAt": "2021-05-30T19:56:37.529Z",
+      "updatedAt": "2024-06-15T15:31:50.991Z",
+      "alternateNames": [],
+      "address": "12, DARANIJO STR, OGBA-IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "344752",
+      "updatedAtSitemap": "2023-06-09T17:24:51.000Z",
+      "oldInternationalNumber": "180677",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 324,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100939468,
+          "address": "12, DARANIJO STR, OGBA-IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 158396713,
+          "companyId": 62605423,
+          "personId": 66843906,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66843906,
+            "name": "collins obi                                                                                          n/a",
+            "countryId": 24,
+            "address": "NO 7, IDUMUGO QTRS OSUBI TOWN  OSUBI                                                                                                 DELTA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "JACMACO ENTERPRISES NIGERIA LTD",
+              "internationalNumber": "RC-1097180"
+            },
+            {
+              "name": "E. O. COLINS INVESTMENT NIG LTD",
+              "internationalNumber": "RC-193131"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158396715,
+          "companyId": 62605423,
+          "personId": 66843909,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66843909,
+            "name": "collins obi",
+            "countryId": 24,
+            "address": "NO 7, IDUMUGO QTRS OSUBI TOWN  OSUBI                                                                                                 DELTA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "JACMACO ENTERPRISES NIGERIA LTD",
+              "internationalNumber": "RC-1097180"
+            },
+            {
+              "name": "ROYAL FESCA NIGERIA LIMITED",
+              "internationalNumber": "RC-842619"
+            },
+            {
+              "name": "E. O. COLINS INVESTMENT NIG LTD",
+              "internationalNumber": "RC-193131"
+            },
+            {
+              "name": "CP FIBERGLASS LTD",
+              "internationalNumber": "RC-871314"
+            },
+            {
+              "name": "CRESTVIEW AND PRICE NIGERIA LIMITED",
+              "internationalNumber": "RC-452793"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158396712,
+          "companyId": 62605423,
+          "personId": 67000243,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67000243,
+            "name": "ben obi                                                                                              n/a",
+            "countryId": 24,
+            "address": "PLOT 112, HT SANI STREET, CBN COOPERATIVE ESTATE, WUMBA APO  ABUJA                                                                                                 FCT",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "BENMOBI ENT. NIG LTD",
+              "internationalNumber": "RC-38731"
+            },
+            {
+              "name": "AFRICONOMIE RESOURCE & CONSULTING LTD",
+              "internationalNumber": "RC-1164242"
+            },
+            {
+              "name": "TABIAT INTERNATIONAL LTD",
+              "internationalNumber": "RC-39405"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158396714,
+          "companyId": 62605423,
+          "personId": 67000244,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67000244,
+            "name": "ben obi",
+            "countryId": 24,
+            "address": "142, BORNU WAY EBUTE-METTA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MAMEX OIL SERVICES LIMITED",
+              "internationalNumber": "RC-464806"
+            },
+            {
+              "name": "BENMOBI ENT. NIG LTD",
+              "internationalNumber": "RC-38731"
+            },
+            {
+              "name": "NIGERIA-ISRAEL CHAMBER OF COMMERCE (LTD BY GTE)",
+              "internationalNumber": "RC-373806"
+            },
+            {
+              "name": "B.C CRYSTAL GLOBAL LINKS LIMITED",
+              "internationalNumber": "RC-978564"
+            },
+            {
+              "name": "AFRICONOMIE RESOURCE & CONSULTING LTD",
+              "internationalNumber": "RC-1164242"
+            },
+            {
+              "name": "MEDON RESOURCES LIMITED",
+              "internationalNumber": "RC-404735"
+            },
+            {
+              "name": "TABIAT INTERNATIONAL LTD",
+              "internationalNumber": "RC-39405"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 2
+      },
+      "personsWithRelatedCount": 5
+    }
+  }
+]

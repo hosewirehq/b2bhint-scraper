@@ -1,0 +1,396 @@
+[
+  {
+    "year": "1991",
+    "title": "PAPER & ALLIED PRODUCIS LIMITED - RC-179892 - Nigeria",
+    "description": "PAPER & ALLIED PRODUCIS LIMITED Nigeria company, Company number: RC-179892, Incorporation Date Nov 11, 1991;, Address: 7 OLUMO STREET, ONIKE, YABA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62601032,
+      "name": "PAPER & ALLIED PRODUCIS LIMITED",
+      "internationalNumber": "RC-179892",
+      "localNumber": "179892",
+      "countryId": 24,
+      "dateCreated": "1991-11-11T00:00:00.000Z",
+      "createdAt": "2021-05-30T19:39:21.713Z",
+      "updatedAt": "2024-06-15T15:31:51.580Z",
+      "alternateNames": [],
+      "address": "7 OLUMO STREET, ONIKE, YABA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "343983",
+      "updatedAtSitemap": "2023-06-09T17:24:56.000Z",
+      "oldInternationalNumber": "179892",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 260,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100936806,
+          "address": "7 OLUMO STREET, ONIKE, YABA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 158411770,
+          "companyId": 62601032,
+          "personId": 67010596,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67010596,
+            "name": "modupe y.olorunnide                                                                                  n/a",
+            "countryId": 24,
+            "address": "7,OLUMO STREET, ONIKE,YABA, LAGOS.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158411771,
+          "companyId": 62601032,
+          "personId": 67010597,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67010597,
+            "name": "modupe y.olorunnide",
+            "countryId": 24,
+            "address": "7,OLUMO STREET, ONIKE,YABA, LAGOS.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 237206113,
+          "companyId": 62601032,
+          "personId": 96893673,
+          "roleId": 60320,
+          "appointedOn": "2021-11-27",
+          "sourceNum": 1,
+          "person": {
+            "id": 96893673,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MIDFIELD (W.A.) LIMITED",
+              "internationalNumber": "RC-179907"
+            },
+            {
+              "name": "TICHE INDUSTRIAL COMPANY LIMITED",
+              "internationalNumber": "RC-179905"
+            },
+            {
+              "name": "GRANDIO PROPERTIES LIMITED",
+              "internationalNumber": "RC-179881"
+            },
+            {
+              "name": "PRUDENT OIL & CHEMICAL MARKETING CO. LTD",
+              "internationalNumber": "RC-200625"
+            },
+            {
+              "name": "PETROBANC FINANCE & INVS LTD",
+              "internationalNumber": "RC-200626"
+            },
+            {
+              "name": "MANGATE HOLDINGS LIMITED",
+              "internationalNumber": "RC-201855"
+            },
+            {
+              "name": "TUKO LIMITED",
+              "internationalNumber": "RC-202005"
+            },
+            {
+              "name": "TACE CORPORATES NIG LTD",
+              "internationalNumber": "RC-200304"
+            },
+            {
+              "name": "MC. KAY INDUSTRIAL SERVICES NIGERIAN LIMITED",
+              "internationalNumber": "RC-201901"
+            },
+            {
+              "name": "SONDEZ LIMITED",
+              "internationalNumber": "RC-202003"
+            },
+            {
+              "name": "SHEER NATURE INDUSTRIES LTD",
+              "internationalNumber": "RC-179903"
+            },
+            {
+              "name": "GOODHEALTH INV. CO. LTD",
+              "internationalNumber": "RC-200690"
+            },
+            {
+              "name": "GREEN DIAMONDS LIMITED",
+              "internationalNumber": "RC-179883"
+            },
+            {
+              "name": "MICOYE NIGERIA LIMITED",
+              "internationalNumber": "RC-201872"
+            },
+            {
+              "name": "BADE PHARNMACY & STORES LTD",
+              "internationalNumber": "RC-202002"
+            },
+            {
+              "name": "SUNAFAM SERVIES CO. LTD",
+              "internationalNumber": "RC-201948"
+            },
+            {
+              "name": "DLONYI VENTURE LTD",
+              "internationalNumber": "RC-200483"
+            },
+            {
+              "name": "EMOZ VENTURES NIGERIA LIMITED",
+              "internationalNumber": "RC-179904"
+            },
+            {
+              "name": "PRESCIRC NOMINEES LTD",
+              "internationalNumber": "RC-179895"
+            },
+            {
+              "name": "INKAJECH-LINKS NIGERIA COMPANY LIMITED",
+              "internationalNumber": "RC-179906"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 1
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
