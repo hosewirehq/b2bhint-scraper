@@ -1,0 +1,311 @@
+[
+  {
+    "year": "2001",
+    "title": "AMA KINGS VENTURES LIMITED - RC-432185 - Nigeria",
+    "description": "AMA KINGS VENTURES LIMITED Nigeria company, Company number: RC-432185, Incorporation Date Oct 23, 2001;, Address: 240, BORNOWAY, EBUTE-METTA, LAGOS, EBUTE-METTA, LAGOS STATE",
+    "company": {
+      "id": 63634938,
+      "name": "AMA KINGS VENTURES LIMITED",
+      "internationalNumber": "RC-432185",
+      "localNumber": "432185",
+      "countryId": 24,
+      "dateCreated": "2001-10-23T00:00:00.000Z",
+      "createdAt": "2021-06-05T11:23:30.540Z",
+      "updatedAt": "2024-06-15T16:05:55.700Z",
+      "alternateNames": [],
+      "address": "240, BORNOWAY, EBUTE-METTA, LAGOS, EBUTE-METTA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "589876",
+      "updatedAtSitemap": "2023-06-09T18:56:36.000Z",
+      "oldInternationalNumber": "432185",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 160,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 93581529,
+          "address": "240, BORNOWAY, EBUTE-METTA, LAGOS, EBUTE-METTA, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241550110,
+          "companyId": 63634938,
+          "personId": 66170514,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66170514,
+            "name": "ugochukwu amadi",
+            "countryId": 24,
+            "address": "3, RAILWAY CLOSE,/AFAM RD., KOMKOM, OYIGBO RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "POWERIKAR NIG LTD",
+              "internationalNumber": "RC-365661"
+            },
+            {
+              "name": "WEAM AND COMPANY LIMITED",
+              "internationalNumber": "RC-70080"
+            },
+            {
+              "name": "BOUNDARY RADIONIC SYSTEM LTD",
+              "internationalNumber": "RC-784233"
+            },
+            {
+              "name": "SHYKES FRETHEIT LTD",
+              "internationalNumber": "RC-237036"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241550111,
+          "companyId": 63634938,
+          "personId": 66544704,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66544704,
+            "name": "obinna amadi",
+            "countryId": 24,
+            "address": "4, SIJUWOLA STR. AGO-OKOTA  ISOLO LAGOS LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "POWERIKAR NIG LTD",
+              "internationalNumber": "RC-365661"
+            },
+            {
+              "name": "RICH AMADI NIGERIAN LIMITED",
+              "internationalNumber": "RC-113972"
+            },
+            {
+              "name": "FIRST CONTAINER NIG LTD",
+              "internationalNumber": "RC-260088"
+            },
+            {
+              "name": "LOGOPLUS INVESTMENTS LIMITED",
+              "internationalNumber": "RC-818534"
+            },
+            {
+              "name": "AMRICH PHARMS. LTD",
+              "internationalNumber": "RC-302295"
+            },
+            {
+              "name": "DE - SIMEON NIGERIA LIMITED",
+              "internationalNumber": "RC-373041"
+            },
+            {
+              "name": "AMRICH LTD",
+              "internationalNumber": "RC-137954"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

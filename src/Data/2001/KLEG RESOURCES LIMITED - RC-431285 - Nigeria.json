@@ -1,0 +1,328 @@
+[
+  {
+    "year": "2001",
+    "title": "KLEG RESOURCES LIMITED - RC-431285 - Nigeria",
+    "description": "KLEG RESOURCES LIMITED Nigeria company, Company number: RC-431285, Incorporation Date Oct 18, 2001;, Address: . NO. 2B, MEKONG CRESCENT, MAITAMA, ABUJA, FCT",
+    "company": {
+      "id": 103438502,
+      "name": "KLEG RESOURCES LIMITED",
+      "internationalNumber": "RC-431285",
+      "localNumber": "431285",
+      "countryId": 24,
+      "dateCreated": "2001-10-18T00:00:00.000Z",
+      "createdAt": "2022-03-13T08:33:57.496Z",
+      "updatedAt": "2024-06-15T16:06:01.910Z",
+      "alternateNames": [],
+      "address": ". NO. 2B, MEKONG CRESCENT, MAITAMA, ABUJA, FCT",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "100000",
+      "historicalNames": [],
+      "providerId": "588986",
+      "updatedAtSitemap": "2023-06-09T18:56:42.000Z",
+      "oldInternationalNumber": "431285",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 132,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 107694609,
+          "address": ". NO. 2B, MEKONG CRESCENT, MAITAMA, ABUJA, FCT",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 233500158,
+          "companyId": 103438502,
+          "personId": 95209848,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95209848,
+            "name": "abu danjuma",
+            "countryId": 24,
+            "address": "NO. 8, AJEHEGO STREET, MILE 12, LAGOS LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SUNRISE RESOURCES LIMITED",
+              "internationalNumber": "RC-431697"
+            },
+            {
+              "name": "RASMATCH NIGERIA LIMITED",
+              "internationalNumber": "RC-495005"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245132346,
+          "companyId": 103438502,
+          "personId": 98100375,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 98100375,
+            "name": "mohammed suleiman",
+            "countryId": 24,
+            "address": "NO.17 DAKALA STREET, WUSE  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "INDEPENDENCE WAY MOTORS NIG LTD",
+              "internationalNumber": "RC-253454"
+            },
+            {
+              "name": "SUNRISE RESOURCES LIMITED",
+              "internationalNumber": "RC-431697"
+            },
+            {
+              "name": "DON-LAUREL INVESTMENT COMPANY LIMITED",
+              "internationalNumber": "RC-295864"
+            },
+            {
+              "name": "GRANDEO INTERCONTINENTAL RESOURCES LTD",
+              "internationalNumber": "RC-972647"
+            },
+            {
+              "name": "SOKONKPETSO VENTURES",
+              "internationalNumber": "BN-2405511"
+            },
+            {
+              "name": "SANDTON PRIME VENTURES LIMITED",
+              "internationalNumber": "RC-457600"
+            },
+            {
+              "name": "HIGHLAND TRADING COMPANY LIMITED",
+              "internationalNumber": "RC-442689"
+            },
+            {
+              "name": "SODELAT LIMITED",
+              "internationalNumber": "RC-425679"
+            },
+            {
+              "name": "IDRIS SULEIMAN NIGERIA LIMITED",
+              "internationalNumber": "RC-248934"
+            },
+            {
+              "name": "AL- IMRAN MULTI-BUSINESS SERVICES",
+              "internationalNumber": "BN-3199309"
+            },
+            {
+              "name": "HODERE NIG LTD",
+              "internationalNumber": "RC-434055"
+            },
+            {
+              "name": "GAMZAKI INVESTMENT LIMITED",
+              "internationalNumber": "RC-439264"
+            },
+            {
+              "name": "GURAMA INVESTMENTS LIMITED",
+              "internationalNumber": "RC-482079"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
