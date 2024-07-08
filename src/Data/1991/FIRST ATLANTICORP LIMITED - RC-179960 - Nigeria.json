@@ -1,0 +1,394 @@
+[
+  {
+    "year": "1991",
+    "title": "FIRST ATLANTICORP LIMITED - RC-179960 - Nigeria",
+    "description": "FIRST ATLANTICORP LIMITED Nigeria company, Company number: RC-179960, Incorporation Date Nov 13, 1991;, Address: 30, NORMAN WILLIAMS TR., S.W., IKOYI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62601435,
+      "name": "FIRST ATLANTICORP LIMITED",
+      "internationalNumber": "RC-179960",
+      "localNumber": "179960",
+      "countryId": 24,
+      "dateCreated": "1991-11-13T00:00:00.000Z",
+      "createdAt": "2021-05-30T19:40:48.461Z",
+      "updatedAt": "2024-06-15T15:31:50.851Z",
+      "alternateNames": [],
+      "address": "30, NORMAN WILLIAMS TR., S.W., IKOYI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "2000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "344051",
+      "updatedAtSitemap": "2023-06-09T17:24:56.000Z",
+      "oldInternationalNumber": "179960",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 269,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100937019,
+          "address": "30, NORMAN WILLIAMS TR., S.W., IKOYI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 158410454,
+          "companyId": 62601435,
+          "personId": 66863137,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66863137,
+            "name": "dapo odesanya                                                                                        n/a",
+            "countryId": 24,
+            "address": "9, MILITARY STR, ONIKAN, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "BODIEEZ HOLDING LIMITED",
+              "internationalNumber": "RC-174710"
+            },
+            {
+              "name": "NORTH STAR INVESTMENT LIMITED",
+              "internationalNumber": "RC-191677"
+            },
+            {
+              "name": "UNITED BROKING INSURANCE CO. LTD",
+              "internationalNumber": "RC-123143"
+            },
+            {
+              "name": "FIRST DOMINION BANCSHARES LTD",
+              "internationalNumber": "RC-184179"
+            },
+            {
+              "name": "FINANCE AND LEASING LTD",
+              "internationalNumber": "RC-137762"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158410456,
+          "companyId": 62601435,
+          "personId": 66863139,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66863139,
+            "name": "dapo odesanya",
+            "countryId": 24,
+            "address": "9, MILITARY STR, ONIKAN, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "BODIEEZ HOLDING LIMITED",
+              "internationalNumber": "RC-174710"
+            },
+            {
+              "name": "NORTH STAR INVESTMENT LIMITED",
+              "internationalNumber": "RC-191677"
+            },
+            {
+              "name": "UNITED BROKING INSURANCE CO. LTD",
+              "internationalNumber": "RC-123143"
+            },
+            {
+              "name": "FIRST DOMINION BANCSHARES LTD",
+              "internationalNumber": "RC-184179"
+            },
+            {
+              "name": "FINANCE AND LEASING LTD",
+              "internationalNumber": "RC-137762"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158410453,
+          "companyId": 62601435,
+          "personId": 67009682,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67009682,
+            "name": "mofe doyle                                                                                           n/a",
+            "countryId": 24,
+            "address": "30, NORMAN WILLIAMS STR., S.W., IKOYI, LAGOS.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158410455,
+          "companyId": 62601435,
+          "personId": 67009683,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67009683,
+            "name": "mofe doyle",
+            "countryId": 24,
+            "address": "30, NORMAN WILLIAMS STR., S.W., IKOYI, LAGOS.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 2
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

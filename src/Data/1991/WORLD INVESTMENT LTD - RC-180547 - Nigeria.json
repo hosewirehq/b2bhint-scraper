@@ -1,0 +1,398 @@
+[
+  {
+    "year": "1991",
+    "title": "WORLD INVESTMENT LTD - RC-180547 - Nigeria",
+    "description": "WORLD INVESTMENT LTD Nigeria company, Company number: RC-180547, Incorporation Date Nov 15, 1991;, Address: 6, DAVIES ST., MARINA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62604701,
+      "name": "WORLD INVESTMENT LTD",
+      "internationalNumber": "RC-180547",
+      "localNumber": "180547",
+      "countryId": 24,
+      "dateCreated": "1991-11-15T00:00:00.000Z",
+      "createdAt": "2021-05-30T19:53:57.336Z",
+      "updatedAt": "2024-06-15T15:31:53.356Z",
+      "alternateNames": [],
+      "address": "6, DAVIES ST., MARINA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "500000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "344632",
+      "updatedAtSitemap": "2023-06-09T17:24:52.000Z",
+      "oldInternationalNumber": "180547",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 207,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100939044,
+          "address": "6, DAVIES ST., MARINA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 158399270,
+          "companyId": 62604701,
+          "personId": 67001939,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67001939,
+            "name": "oni alabi                                                                                            n/a",
+            "countryId": 24,
+            "address": "BLK 16. FLT4. LSDPC HOUSING EST. EBUTE-METTA LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "BENCHMARK VENTURES LTD",
+              "internationalNumber": "RC-178820"
+            },
+            {
+              "name": "MONEYTRACK INVESTMENT LTD",
+              "internationalNumber": "RC-210571"
+            },
+            {
+              "name": "MASONIA  VENTURES  LTD",
+              "internationalNumber": "RC-230267"
+            },
+            {
+              "name": "SOFFI REAL ESTATE LTD",
+              "internationalNumber": "RC-179380"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158399271,
+          "companyId": 62604701,
+          "personId": 67001940,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67001940,
+            "name": "dayo owonbi                                                                                          n/a",
+            "countryId": 24,
+            "address": "6 DAVIES STREET, MARINA LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158399274,
+          "companyId": 62604701,
+          "personId": 67001943,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67001943,
+            "name": "oni alabi",
+            "countryId": 24,
+            "address": "31, ADETAYO STREET, OFF FOLA AGORO STREET SHOMOLU LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "BENCHMARK VENTURES LTD",
+              "internationalNumber": "RC-178820"
+            },
+            {
+              "name": "MONEYTRACK INVESTMENT LTD",
+              "internationalNumber": "RC-210571"
+            },
+            {
+              "name": "STONE BRIDGE OIL LIMITED",
+              "internationalNumber": "RC-627763"
+            },
+            {
+              "name": "MASONIA  VENTURES  LTD",
+              "internationalNumber": "RC-230267"
+            },
+            {
+              "name": "ATLANTIC ACQUISITIONS LIMITED",
+              "internationalNumber": "RC-507838"
+            },
+            {
+              "name": "SOFFI REAL ESTATE LTD",
+              "internationalNumber": "RC-179380"
+            },
+            {
+              "name": "STONE BRIDGE MEDIC LIMITED",
+              "internationalNumber": "RC-676549"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158399275,
+          "companyId": 62604701,
+          "personId": 67001944,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67001944,
+            "name": "dayo owonbi",
+            "countryId": 24,
+            "address": "6 DAVIES STREET, MARINA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5,
+        "3": 4
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

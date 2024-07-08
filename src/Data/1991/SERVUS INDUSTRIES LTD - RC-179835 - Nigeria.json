@@ -1,0 +1,440 @@
+[
+  {
+    "year": "1991",
+    "title": "SERVUS INDUSTRIES LTD - RC-179835 - Nigeria",
+    "description": "SERVUS INDUSTRIES LTD Nigeria company, Company number: RC-179835, Incorporation Date 8 de nov de 1991;, Address: PLT 14/15, SANDA AMOO, OSHUNKAIYE EST., IBADAN, OYO, IBADAN, OYO STATE",
+    "company": {
+      "id": 62600683,
+      "name": "SERVUS INDUSTRIES LTD",
+      "internationalNumber": "RC-179835",
+      "localNumber": "179835",
+      "countryId": 24,
+      "dateCreated": "1991-11-08T00:00:00.000Z",
+      "createdAt": "2021-05-30T19:38:11.291Z",
+      "updatedAt": "2024-06-15T15:31:49.600Z",
+      "alternateNames": [],
+      "address": "PLT 14/15, SANDA AMOO, OSHUNKAIYE EST., IBADAN, OYO, IBADAN, OYO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "20000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "343926",
+      "updatedAtSitemap": "2023-06-09T17:24:59.000Z",
+      "oldInternationalNumber": "179835",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 253,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100936617,
+          "address": "PLT 14/15, SANDA AMOO, OSHUNKAIYE EST., IBADAN, OYO, IBADAN, OYO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 158412851,
+          "companyId": 62600683,
+          "personId": 66346408,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66346408,
+            "name": "olusegun jekami",
+            "countryId": 24,
+            "address": "15/16 AMOO SANDA LAYOUT ASHI BODIJA  IBADAN                                                                                                OYO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SOLLEK GLOBAL SERVICES LIMITED",
+              "internationalNumber": "RC-723179"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158412849,
+          "companyId": 62600683,
+          "personId": 67011381,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67011381,
+            "name": "olusegun jekami                                                                                      n/a",
+            "countryId": 24,
+            "address": "PLT 14/15, SANDA AMOO, OSHUNKAIYE EST., IBADAN.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158412850,
+          "companyId": 62600683,
+          "personId": 67011382,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67011382,
+            "name": "akintunde jekami                                                                                     n/a",
+            "countryId": 24,
+            "address": "PLT 14/15, SANDA AMOO, OSHUNKAIYE EST., IBADAN.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 237207416,
+          "companyId": 62600683,
+          "personId": 96893992,
+          "roleId": 60320,
+          "appointedOn": "2021-11-27",
+          "sourceNum": 1,
+          "person": {
+            "id": 96893992,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SARAH LIS LTD",
+              "internationalNumber": "RC-179845"
+            },
+            {
+              "name": "GALCOAST NIG LIMITED",
+              "internationalNumber": "RC-200262"
+            },
+            {
+              "name": "WARRIOT BUREAU-DE-CHANGE LIMITED",
+              "internationalNumber": "RC-200268"
+            },
+            {
+              "name": "GADO INTERNATIONAL LTD",
+              "internationalNumber": "RC-179848"
+            },
+            {
+              "name": "NATION BEST INTERN. LTD",
+              "internationalNumber": "RC-179836"
+            },
+            {
+              "name": "NELOLA LTD",
+              "internationalNumber": "RC-179847"
+            },
+            {
+              "name": "MAJOR TECHNICALS   LIMITED",
+              "internationalNumber": "RC-200266"
+            },
+            {
+              "name": "OGUNKAYOLOLA EXP. LTD",
+              "internationalNumber": "RC-179844"
+            },
+            {
+              "name": "GANGWA  VENTURES LIMITED",
+              "internationalNumber": "RC-200263"
+            },
+            {
+              "name": "KJB CONSORTIUM LTD",
+              "internationalNumber": "RC-179849"
+            },
+            {
+              "name": "KHAYYAR INTERNATIONAL LTD",
+              "internationalNumber": "RC-179842"
+            },
+            {
+              "name": "PILLAR VENTURES LTD",
+              "internationalNumber": "RC-179846"
+            },
+            {
+              "name": "FRIENDSHIP INSURANCE BROKERS",
+              "internationalNumber": "RC-200269"
+            },
+            {
+              "name": "TOPFAD VENT. LTD",
+              "internationalNumber": "RC-179829"
+            },
+            {
+              "name": "SAKI VENTURES LIMITED",
+              "internationalNumber": "RC-200270"
+            },
+            {
+              "name": "TAOFIK MECHANICAL & TECHNICAL WORKS LTD",
+              "internationalNumber": "RC-179841"
+            },
+            {
+              "name": "YOMILAD (ALH) NIG LTD",
+              "internationalNumber": "RC-179838"
+            },
+            {
+              "name": "NEMMAFLEX  INDUSTRIAL PLASTICS  NIG LIMITED",
+              "internationalNumber": "RC-200265"
+            },
+            {
+              "name": "SWEET DREAMS CO. LTD",
+              "internationalNumber": "RC-179843"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 2
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
