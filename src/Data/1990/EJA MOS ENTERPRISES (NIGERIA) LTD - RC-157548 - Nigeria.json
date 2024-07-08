@@ -1,0 +1,455 @@
+[
+  {
+    "year": "1990",
+    "title": "EJA MOS ENTERPRISES (NIGERIA) LTD - RC-157548 - Nigeria",
+    "description": "EJA MOS ENTERPRISES (NIGERIA) LTD Nigeria company, Company number: RC-157548, Incorporation Date Nov 7, 1990;, Address: 14, AIRPORT RD., BENIN, EDO, BENIN, EDO STATE",
+    "company": {
+      "id": 60853234,
+      "name": "EJA MOS ENTERPRISES (NIGERIA) LTD",
+      "internationalNumber": "RC-157548",
+      "localNumber": "157548",
+      "countryId": 24,
+      "dateCreated": "1990-11-07T00:00:00.000Z",
+      "createdAt": "2021-05-15T09:48:32.452Z",
+      "updatedAt": "2024-06-15T15:30:15.530Z",
+      "alternateNames": [],
+      "address": "14, AIRPORT RD., BENIN, EDO, BENIN, EDO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "321962",
+      "updatedAtSitemap": "2024-02-01T19:16:25.000Z",
+      "oldInternationalNumber": "157548",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 227,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100804043,
+          "address": "14, AIRPORT RD., BENIN, EDO, BENIN, EDO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 156971330,
+          "companyId": 60853234,
+          "personId": 66230632,
+          "roleId": 60331,
+          "appointedOn": "2021-04-13",
+          "sourceNum": 1,
+          "person": {
+            "id": 66230632,
+            "name": "ojukwu linus",
+            "countryId": 24,
+            "occupation": "Pharmacicst",
+            "nationality": "Nigeria",
+            "birthYear": 1956,
+            "birthMonth": 1,
+            "birthDate": 16,
+            "address": "No.36  OGBOLI ROAD",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06419722",
+            "documentType": "International Passport",
+            "email": "MAULINHC@GMAIL.COM",
+            "phone": "08187938398",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 156971331,
+          "companyId": 60853234,
+          "personId": 66230633,
+          "roleId": 60331,
+          "appointedOn": "2021-04-13",
+          "sourceNum": 1,
+          "person": {
+            "id": 66230633,
+            "name": "ojukwu maureen ozo",
+            "countryId": 24,
+            "occupation": "Nurse",
+            "nationality": "Nigeria",
+            "birthYear": 1959,
+            "birthMonth": 10,
+            "birthDate": 25,
+            "address": "No.36  OGBOLI ROAD",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06188988",
+            "documentType": "International Passport",
+            "email": "MAUOJUKWU@GMAIL.COM",
+            "phone": "08160090726",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238720013,
+          "companyId": 60853234,
+          "personId": 97297360,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 97297360,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "address": "NO 4 HARLEY STREET OLD GRA PORT HARCOURT ",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "uia aluminium fabricator",
+              "internationalNumber": "BN-4053101"
+            },
+            {
+              "name": "mus'ab communication",
+              "internationalNumber": "BN-4049524"
+            },
+            {
+              "name": "MOHTAMM GLOBAL ENTERPRISE NIGERIA",
+              "internationalNumber": "BN-4063516"
+            },
+            {
+              "name": "GYATUNI_TECHNICAL_SERVICES",
+              "internationalNumber": "BN-4061060"
+            },
+            {
+              "name": "AKPAI-OGOHI POULTRY SERVICES NIGERIA ENTERPRISES",
+              "internationalNumber": "BN-4063515"
+            },
+            {
+              "name": "HAPPY-VEE ENTERPRISES",
+              "internationalNumber": "BN-4063513"
+            },
+            {
+              "name": "alumud and associates",
+              "internationalNumber": "BN-4063519"
+            },
+            {
+              "name": "IYAAGANI NIG ENTERPRISE",
+              "internationalNumber": "BN-4063518"
+            },
+            {
+              "name": "APESHI FARM VENTURE",
+              "internationalNumber": "BN-4015690"
+            },
+            {
+              "name": "Z.i printing PRESS and communication center",
+              "internationalNumber": "BN-4015644"
+            },
+            {
+              "name": "CINDY BEAUTY PARLOUR",
+              "internationalNumber": "BN-4050110"
+            },
+            {
+              "name": "ROSELINE-OMO PATENT MEDICINE STORE NIGERIA ENTERPRISES",
+              "internationalNumber": "BN-4063508"
+            },
+            {
+              "name": "ASSIDIQ MUSTAPHA PHONES AND ACCESSORIES ENTERPRISE",
+              "internationalNumber": "BN-4048026"
+            },
+            {
+              "name": "ANEX  GLOBAL",
+              "internationalNumber": "BN-4063517"
+            },
+            {
+              "name": "OPOKE FRANCIS AGRO FARMS",
+              "internationalNumber": "BN-4050131"
+            },
+            {
+              "name": "VAL-T FASHION DESIGNS AND COUTURE",
+              "internationalNumber": "BN-4047876"
+            },
+            {
+              "name": "ONUMEC_INTEGRATED_services",
+              "internationalNumber": "BN-4060971"
+            },
+            {
+              "name": "A.Y GAFAI GLOBAL COMMUNICATION KT",
+              "internationalNumber": "BN-4047884"
+            },
+            {
+              "name": "IMASUO  GLOBAL  SERVICES",
+              "internationalNumber": "BN-4063512"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238720012,
+          "companyId": 60853234,
+          "personId": 97299070,
+          "roleId": 60320,
+          "appointedOn": "2021-04-13",
+          "sourceNum": 1,
+          "person": {
+            "id": 97299070,
+            "name": "ononye tochukwu gloria ",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1993,
+            "birthMonth": 1,
+            "birthDate": 26,
+            "address": "E5-6 phase 2 second gate Brickcity estate \n",
+            "countryOfResidence": "NIGERIA",
+            "email": "tgononye@gmail.com",
+            "phone": "08146216151",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "null": 7
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

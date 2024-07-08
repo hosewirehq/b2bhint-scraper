@@ -1,0 +1,588 @@
+[
+  {
+    "year": "1990",
+    "title": "OFFSHORE DROCARSON NIG LTD - RC-157964 - Nigeria",
+    "description": "OFFSHORE DROCARSON NIG LTD Nigeria company, Company number: RC-157964, Incorporation Date Nov 8, 1990;, Address: 21, WHARF RD, APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60800645,
+      "name": "OFFSHORE DROCARSON NIG LTD",
+      "internationalNumber": "RC-157964",
+      "localNumber": "157964",
+      "countryId": 24,
+      "dateCreated": "1990-11-08T00:00:00.000Z",
+      "createdAt": "2021-05-15T06:00:26.544Z",
+      "updatedAt": "2024-06-15T15:30:12.961Z",
+      "alternateNames": [],
+      "address": "21, WHARF RD, APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "322374",
+      "updatedAtSitemap": "2024-02-01T19:15:50.000Z",
+      "oldInternationalNumber": "157964",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 348,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82045336,
+          "address": "21, WHARF RD, APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "K. C. OPTION AGS LTD",
+              "internationalNumber": "RC-185262"
+            },
+            {
+              "name": "KATLAW FARMS LTD",
+              "internationalNumber": "RC-66627"
+            },
+            {
+              "name": "NATS FOODS INDUSTRIES LIMITED",
+              "internationalNumber": "RC-22131"
+            },
+            {
+              "name": "SERETE NIG LTD",
+              "internationalNumber": "RC-19576"
+            },
+            {
+              "name": "PHILLAD (NIG) LTD",
+              "internationalNumber": "RC-111128"
+            },
+            {
+              "name": "BANTATA ENTERPRISES LTD",
+              "internationalNumber": "RC-152857"
+            },
+            {
+              "name": "MAY COMMUNICATIONS NIG LTD",
+              "internationalNumber": "RC-52290"
+            },
+            {
+              "name": "AERO  EQUIP. (NIG) LTD",
+              "internationalNumber": "RC-23414"
+            },
+            {
+              "name": "CHIAM INDUSTRIES   LTD",
+              "internationalNumber": "RC-200210"
+            },
+            {
+              "name": "ABNAINEY NIG LTD",
+              "internationalNumber": "RC-191172"
+            },
+            {
+              "name": "FOCHU INVESTMENT LTD",
+              "internationalNumber": "RC-205319"
+            },
+            {
+              "name": "OLABOLU LIMITED",
+              "internationalNumber": "RC-53674"
+            },
+            {
+              "name": "AFRICAN TRADI CULTURE NIGERIA LIMITED",
+              "internationalNumber": "RC-122667"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 242330076,
+          "companyId": 60800645,
+          "personId": 66137118,
+          "roleId": 114349,
+          "person": {
+            "id": 66137118,
+            "name": "jerome sunday saiki",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1975,
+            "birthMonth": 9,
+            "birthDate": 29,
+            "address": "NO 6SAPELE STREET, GARKI 2, ABUJA, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1684860",
+            "documentType": "Driver's License",
+            "documentNumber": "ABC76506AA84",
+            "email": "saikiozav@gmail.com",
+            "phone": "+234 803 435 8651",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114349,
+            "name": "Legal Practice",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practice"
+            }
+          },
+          "companies": [
+            {
+              "name": "AMOQUINE HANDS",
+              "internationalNumber": "BN-3559562"
+            },
+            {
+              "name": "VILACROFT TECHNOLOGIES LIMITED",
+              "internationalNumber": "RC-1437687"
+            },
+            {
+              "name": "CHRISCHOMMY GLOBAL RESOURCES",
+              "internationalNumber": "BN-2598090"
+            },
+            {
+              "name": "CLINR NIGERIA LTD",
+              "internationalNumber": "RC-1897707"
+            },
+            {
+              "name": "DOUBLE A DYNAMIC IMPACT BUREAU DE CHANGE LTD",
+              "internationalNumber": "RC-1630190"
+            },
+            {
+              "name": "ZETILE OIL AND GAS LIMITED",
+              "internationalNumber": "RC-1626898"
+            },
+            {
+              "name": "FRESH CUTS NIGERIA LIMITED",
+              "internationalNumber": "RC-1426615"
+            },
+            {
+              "name": "ORLANDO FOREX BUREAU DE CHANGE LTD",
+              "internationalNumber": "RC-1420325"
+            },
+            {
+              "name": "ARTHAND MEDIA VENTURES",
+              "internationalNumber": "BN-3001099"
+            },
+            {
+              "name": "SAHAZA BUREAU DE CHANGE LTD",
+              "internationalNumber": "RC-1631895"
+            },
+            {
+              "name": "ICEVIEW GLOBAL FX BUREAU DE CHANGE LTD",
+              "internationalNumber": "RC-1625777"
+            },
+            {
+              "name": "TERRA SPECIALITIES LIMITED",
+              "internationalNumber": "RC-1827900"
+            },
+            {
+              "name": "GRADUAL PROCESS MULTI SERVICES ENTERPRISES",
+              "internationalNumber": "BN-2537506"
+            },
+            {
+              "name": "HAJMULAH FARMS LTD",
+              "internationalNumber": "RC-1624844"
+            },
+            {
+              "name": "ALABAMA FASHION CONCEPT",
+              "internationalNumber": "BN-2820032"
+            },
+            {
+              "name": "PANACEA GREEN MANAGEMENT LIMITED",
+              "internationalNumber": "RC-1636982"
+            },
+            {
+              "name": "HOT TICKET PRODUCTIONS LIMITED",
+              "internationalNumber": "RC-1433812"
+            },
+            {
+              "name": "LONGVIEW PROJECT DEVELOPMENT & MANAGEMENT SERVICES LTD",
+              "internationalNumber": "RC-1636934"
+            },
+            {
+              "name": "THE AUTHORISED DEPOT ENTERPRISES",
+              "internationalNumber": "BN-2597964"
+            },
+            {
+              "name": "POOFEE FOODS",
+              "internationalNumber": "BN-2820265"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239107867,
+          "companyId": 60800645,
+          "personId": 66312518,
+          "roleId": 60320,
+          "appointedOn": "2021-04-23",
+          "sourceNum": 1,
+          "person": {
+            "id": 66312518,
+            "name": "saiki jerome sunday",
+            "countryId": 24,
+            "address": "NO. 6 SAPELE STREET, GARKI 2",
+            "countryOfResidence": "NIGERIA",
+            "email": "saikiozav@yahoo.com",
+            "phone": "2348034358651",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239107874,
+          "companyId": 60800645,
+          "personId": 97444800,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 97444800,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ALGAZRAWEE ENTERPRISE",
+              "internationalNumber": "BN-4062423"
+            },
+            {
+              "name": "MABC WEST AFRICA",
+              "internationalNumber": "BN-4044562"
+            },
+            {
+              "name": "OSCADO ORSEER UNIVERSAL SERVICES",
+              "internationalNumber": "BN-4046340"
+            },
+            {
+              "name": "EDDY EZEH VENTURES",
+              "internationalNumber": "BN-4045340"
+            },
+            {
+              "name": "H.H.H.N FASHION & DESIGN",
+              "internationalNumber": "BN-4062427"
+            },
+            {
+              "name": "ANNAGSON SAMUEL FARMS",
+              "internationalNumber": "BN-4046188"
+            },
+            {
+              "name": "JABBAMA BUILDING & CONSTRUCTION ENTERPRISE",
+              "internationalNumber": "BN-4062419"
+            },
+            {
+              "name": "Abelat mattress company",
+              "internationalNumber": "BN-4012113"
+            },
+            {
+              "name": "IBRAHIM TORO ELECTRICAL/ELECTRONICS",
+              "internationalNumber": "BN-4062422"
+            },
+            {
+              "name": "TIDALNET PLUS",
+              "internationalNumber": "BN-4045311"
+            },
+            {
+              "name": "SANI MANAGER & SONS",
+              "internationalNumber": "BN-4012127"
+            },
+            {
+              "name": "DEEJAH SHOES AND BAGS NIG ENTERPRISE",
+              "internationalNumber": "BN-4062421"
+            },
+            {
+              "name": "SHUAIBU MUSA GENERAL FARM",
+              "internationalNumber": "BN-4012119"
+            },
+            {
+              "name": "MAMEE GENERAL ENTERPRISE",
+              "internationalNumber": "BN-4062378"
+            },
+            {
+              "name": "SMERTKERT NIG ENTERPRISE",
+              "internationalNumber": "BN-4062426"
+            },
+            {
+              "name": "F GARKUWA KNITTING AND SEWING MATERIAL ENTERPRISE",
+              "internationalNumber": "BN-4062420"
+            },
+            {
+              "name": "Chys Organic Foods",
+              "internationalNumber": "BN-4045338"
+            },
+            {
+              "name": "BIJIRRAT ENTERPRISE",
+              "internationalNumber": "BN-4062424"
+            },
+            {
+              "name": "NASARA FARM AND AGRO PROCESSING",
+              "internationalNumber": "BN-4062425"
+            },
+            {
+              "name": "FAKWA BAKERY AND CONFECTIONARY",
+              "internationalNumber": "BN-4062428"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239107868,
+          "companyId": 60800645,
+          "personId": 97448924,
+          "roleId": 60331,
+          "appointedOn": "2021-04-23",
+          "sourceNum": 1,
+          "person": {
+            "id": 97448924,
+            "name": "abubakar abdullahi marafa",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "birthYear": 1979,
+            "birthMonth": 1,
+            "birthDate": 10,
+            "address": "3, FILINSAMJI",
+            "countryOfResidence": "NIGERIA",
+            "number": "005",
+            "documentType": "National ID Card",
+            "email": "marafajn@yahoo.com",
+            "phone": "08035879138",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "null": 7
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

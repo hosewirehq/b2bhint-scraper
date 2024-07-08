@@ -1,0 +1,594 @@
+[
+  {
+    "year": "1990",
+    "title": "GRINAT NIG LTD - RC-157731 - Nigeria",
+    "description": "GRINAT NIG LTD Nigeria company, Company number: RC-157731, Incorporation Date Nov 1, 1990;, Address: 15, ADEKUNLE KUYE STR., AGUDA S/LERE, S/LERE, LAGOS, S/LERE, LAGOS STATE",
+    "company": {
+      "id": 62480336,
+      "name": "GRINAT NIG LTD",
+      "internationalNumber": "RC-157731",
+      "localNumber": "157731",
+      "countryId": 24,
+      "dateCreated": "1990-11-01T00:00:00.000Z",
+      "createdAt": "2021-05-30T10:08:51.819Z",
+      "updatedAt": "2024-06-15T15:30:15.266Z",
+      "alternateNames": [],
+      "address": "15, ADEKUNLE KUYE STR., AGUDA S/LERE, S/LERE, LAGOS, S/LERE, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "20000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "322145",
+      "updatedAtSitemap": "2024-02-01T19:16:25.000Z",
+      "oldInternationalNumber": "157731",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 206,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100805133,
+          "address": "15, ADEKUNLE KUYE STR., AGUDA S/LERE, S/LERE, LAGOS, S/LERE, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 243538904,
+          "companyId": 62480336,
+          "personId": 66134078,
+          "roleId": 114332,
+          "person": {
+            "id": 66134078,
+            "name": "muyiwa sikiru olaoye",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1961,
+            "birthMonth": 5,
+            "birthDate": 4,
+            "address": "NO. 1TAIWO HOUSE, YEMETU ROAD, BESIDE CORP, AFFAIRS COMM., TOTAL GARDEN, IBADAN, IBADAN, OYO STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1943631",
+            "documentType": "Driver's License",
+            "documentNumber": "NRK57295AA94",
+            "email": "omolaraadebayo242@gmail.com",
+            "phone": "+234 803 311 3366",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "TEELINE COUTURE",
+              "internationalNumber": "BN-2754252"
+            },
+            {
+              "name": "ABAKE HERITAGE FOUNDATION",
+              "internationalNumber": "IT-153186"
+            },
+            {
+              "name": "DANOLADIPS INT'L ENTERPRISES",
+              "internationalNumber": "BN-2771897"
+            },
+            {
+              "name": "TITAN IMAGE & MULTIPURPOSE VENTURES",
+              "internationalNumber": "BN-2972409"
+            },
+            {
+              "name": "CHOBIS BEAUTY COLLEGE",
+              "internationalNumber": "BN-3172598"
+            },
+            {
+              "name": "LEMISOL ENTERPRISES",
+              "internationalNumber": "BN-3283576"
+            },
+            {
+              "name": "VIRTUOUS VINE EDUCATIONAL SERVICES LTD",
+              "internationalNumber": "RC-1631216"
+            },
+            {
+              "name": "A TASTE OF WATER GLOBAL HERITAGE",
+              "internationalNumber": "BN-3015468"
+            },
+            {
+              "name": "ORNATE GLOBAL RESOURCES LIMITED",
+              "internationalNumber": "RC-1868868"
+            },
+            {
+              "name": "ENEME INTEGRATED SERVICES LIMITED",
+              "internationalNumber": "RC-1762016"
+            },
+            {
+              "name": "OLUWALONI GLOBAL RESOURCES",
+              "internationalNumber": "BN-3275487"
+            },
+            {
+              "name": "AKINFEM LOGISTIC VENTURE",
+              "internationalNumber": "BN-2991326"
+            },
+            {
+              "name": "FABRINET GREENLIGHT MULTI GLOBAL NIGERIA LIMITED",
+              "internationalNumber": "RC-1794495"
+            },
+            {
+              "name": "WILLFEM INVESTMENT & COMPANY NIG LIMITED",
+              "internationalNumber": "RC-1623088"
+            },
+            {
+              "name": "MS. AMA BUSINESS ENTERPRISE",
+              "internationalNumber": "BN-2738554"
+            },
+            {
+              "name": "MANI GLOBAL BOUTIQUE",
+              "internationalNumber": "BN-2803027"
+            },
+            {
+              "name": "ADE S AGRO SERVICES",
+              "internationalNumber": "BN-2993548"
+            },
+            {
+              "name": "CASAMA AGRO ALLIED LIMITED",
+              "internationalNumber": "RC-1619138"
+            },
+            {
+              "name": "HASFATSAQ INTERNATIONAL NIG. LTD",
+              "internationalNumber": "RC-1641925"
+            },
+            {
+              "name": "MELECH'S EDUCATIONAL FOUNDATION",
+              "internationalNumber": "IT-150591"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231390439,
+          "companyId": 62480336,
+          "personId": 94575257,
+          "roleId": 60331,
+          "appointedOn": "2021-04-19",
+          "sourceNum": 1,
+          "person": {
+            "id": 94575257,
+            "name": "salami waheed biodun",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "birthYear": 1970,
+            "birthMonth": 1,
+            "birthDate": 12,
+            "address": "NO. 8 ALAKA 1, OGBERE IDI OSAN, EGBEDA TUBA ROAD",
+            "countryOfResidence": "NIGERIA",
+            "number": "0911555859",
+            "documentType": "National ID Card",
+            "email": "waheedsalami48@gmail.com",
+            "phone": "08034264485",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231390441,
+          "companyId": 62480336,
+          "personId": 94575258,
+          "roleId": 60330,
+          "appointedOn": "2021-04-19",
+          "sourceNum": 1,
+          "person": {
+            "id": 94575258,
+            "name": "mudasiru adenrele bello",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "birthYear": 1964,
+            "birthMonth": 1,
+            "birthDate": 13,
+            "address": "SURULERE ESTATE, IYANA SHEU, OLOMI OLOJUORO ROAD, 5",
+            "countryOfResidence": "NIGERIA",
+            "number": "A31308401",
+            "documentType": "Permanent Voters' Card",
+            "email": "mudasiruadenrele@gmail.com",
+            "phone": "08030755536",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238256026,
+          "companyId": 62480336,
+          "personId": 97140537,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 97140537,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "TOSCANINI CASH & CARRY LTD",
+              "internationalNumber": "RC-157720"
+            },
+            {
+              "name": "EJECHA MULTIPURPOSE ENTERPRISE",
+              "internationalNumber": "BN-4019488"
+            },
+            {
+              "name": "M. ALI RICE PROCESSING VENTURE",
+              "internationalNumber": "BN-4019537"
+            },
+            {
+              "name": "GENESIS CONSOLIDATED LIMITED",
+              "internationalNumber": "RC-158045"
+            },
+            {
+              "name": "DAY - MAG INVESTMENTS LTD",
+              "internationalNumber": "RC-157730"
+            },
+            {
+              "name": "EALLES CREDIT & SECURITIES LTD",
+              "internationalNumber": "RC-157884"
+            },
+            {
+              "name": "NZESON FURNITURE NIG.ENTERPRISE",
+              "internationalNumber": "BN-4019564"
+            },
+            {
+              "name": "DJUYIN  BUSINESS CENTRE LTD",
+              "internationalNumber": "RC-157818"
+            },
+            {
+              "name": "OUTRIGHT WEST AFRICA LIMITED",
+              "internationalNumber": "RC-158050"
+            },
+            {
+              "name": "J.V.I. INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-158049"
+            },
+            {
+              "name": "SANVIC NIG LTD",
+              "internationalNumber": "RC-157982"
+            },
+            {
+              "name": "SHERIFF ELEGANCE CONSTRUCTION VENTURE",
+              "internationalNumber": "BN-4019565"
+            },
+            {
+              "name": "CHUWANG VICTORIA DUNG ENTERPRISE",
+              "internationalNumber": "BN-4019533"
+            },
+            {
+              "name": "MAMBILLA HONEY",
+              "internationalNumber": "BN-4019517"
+            },
+            {
+              "name": "el-ahmed fada global ventures",
+              "internationalNumber": "BN-4019483"
+            },
+            {
+              "name": "MUYIWA OLAKWJE LTD",
+              "internationalNumber": "RC-157974"
+            },
+            {
+              "name": "ARCLOB CONSTRUCTION COMPANY LIMITED",
+              "internationalNumber": "RC-157482"
+            },
+            {
+              "name": "BAR-TON NIG LTD",
+              "internationalNumber": "RC-157765"
+            },
+            {
+              "name": "PHOEMANN INDUSTRIES LIMITED",
+              "internationalNumber": "RC-158053"
+            },
+            {
+              "name": "EUNIVINCE NIG LTD",
+              "internationalNumber": "RC-157777"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238256025,
+          "companyId": 62480336,
+          "personId": 97143161,
+          "roleId": 60320,
+          "appointedOn": "2021-04-19",
+          "sourceNum": 1,
+          "person": {
+            "id": 97143161,
+            "name": "olaoye muyiwa sikiru",
+            "countryId": 24,
+            "address": "TAIWO HOUSE, YEMETU ROAD, BESIDE CORP, AFFAIRS COMM., TOTAL GARDEN, IBADAN",
+            "countryOfResidence": "NIGERIA",
+            "email": "msolaoye@yahoo.co.uk",
+            "phone": "2348033113366",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ONEST LIMITED",
+              "internationalNumber": "RC-157483"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "10",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 1,
+        "null": 7
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "year": "1990",
+    "title": "TOYIN DAVIES INVESTMENT COMPANY LIMITED - RC-157648 - Nigeria",
+    "description": "TOYIN DAVIES INVESTMENT COMPANY LIMITED Nigeria company, Company number: RC-157648, Incorporation Date Nov 12, 1990;, Address: 43A, DUMARE SQUARE, LAGOS ISLAND, LAGOS, LAGOS ISLAND, LAGOS STATE",
+    "company": {
+      "id": 60387701,
+      "name": "TOYIN DAVIES INVESTMENT COMPANY LIMITED",
+      "internationalNumber": "RC-157648",
+      "localNumber": "157648",
+      "countryId": 24,
+      "dateCreated": "1990-11-12T00:00:00.000Z",
+      "createdAt": "2021-05-13T23:19:32.157Z",
+      "updatedAt": "2024-06-15T16:40:02.270Z",
+      "alternateNames": [],
+      "address": "43A, DUMARE SQUARE, LAGOS ISLAND, LAGOS, LAGOS ISLAND, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "322062",
+      "updatedAtSitemap": "2024-02-01T18:07:32.000Z",
+      "oldInternationalNumber": "157648",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 219,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100804672,
+          "address": "43A, DUMARE SQUARE, LAGOS ISLAND, LAGOS, LAGOS ISLAND, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 243372918,
+          "companyId": 60387701,
+          "personId": 67507638,
+          "roleId": 60331,
+          "appointedOn": "2021-04-15",
+          "sourceNum": 1,
+          "person": {
+            "id": 67507638,
+            "name": "isoni nse",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigerian",
+            "birthYear": 1980,
+            "birthMonth": 4,
+            "birthDate": 7,
+            "address": "FLAT C6 GLORY COURT ESTATE DAN SULEIMAN STREET UTAKO\n",
+            "countryOfResidence": "NIGERIA",
+            "number": "ABC60584AB16",
+            "documentType": "Driver's License",
+            "email": "nseisoni@yahoo.com",
+            "phone": "07062116056",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243372919,
+          "companyId": 60387701,
+          "personId": 72075994,
+          "roleId": 60330,
+          "appointedOn": "2021-04-15",
+          "sourceNum": 1,
+          "person": {
+            "id": 72075994,
+            "name": "martins nkereuwem",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "birthYear": 1983,
+            "birthMonth": 1,
+            "birthDate": 30,
+            "address": "OSHIKOMAYA, 18-20",
+            "countryOfResidence": "NIGERIA",
+            "number": "B00181596",
+            "documentType": "International Passport",
+            "email": "wemmy123@gmail.com",
+            "phone": "08023797481",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243372914,
+          "companyId": 60387701,
+          "personId": 98791912,
+          "roleId": 60320,
+          "appointedOn": "2021-04-15",
+          "sourceNum": 1,
+          "person": {
+            "id": 98791912,
+            "name": "umana emanamfon  edet",
+            "countryId": 24,
+            "address": "13 kadiri street off Ajayi rd Ogba Lagos",
+            "countryOfResidence": "NIGERIA",
+            "email": "aspiresolicitors@gmail.com",
+            "phone": "07037824299",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243372921,
+          "companyId": 60387701,
+          "personId": 99409828,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 99409828,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "TRIPLE ACTION PATENT MEDICINE STORE",
+              "internationalNumber": "BN-4028417"
+            },
+            {
+              "name": "omar Iron Bending",
+              "internationalNumber": "BN-4028450"
+            },
+            {
+              "name": "ZAKARI DAUDA VENTURES",
+              "internationalNumber": "BN-4028440"
+            },
+            {
+              "name": "DANCO CONSTRUCTION WELDING",
+              "internationalNumber": "BN-4045927"
+            },
+            {
+              "name": "AMAZING GREEN -DAL COUTURE  VENTURES",
+              "internationalNumber": "BN-4041093"
+            },
+            {
+              "name": "CAPITAL EXPRESS SECURITIES LIMITED",
+              "internationalNumber": "RC-158080"
+            },
+            {
+              "name": "ABDUL M.K DESIGNER",
+              "internationalNumber": "BN-4028411"
+            },
+            {
+              "name": "DANJAURO FARMS",
+              "internationalNumber": "BN-4028447"
+            },
+            {
+              "name": "ABASH Farms",
+              "internationalNumber": "BN-4028442"
+            },
+            {
+              "name": "Idris S.S. Ventures",
+              "internationalNumber": "BN-4028449"
+            },
+            {
+              "name": "KHALID BUSINESS CENTER GLOBAL VENTURES",
+              "internationalNumber": "BN-4028413"
+            },
+            {
+              "name": "ZNS company",
+              "internationalNumber": "BN-4028428"
+            },
+            {
+              "name": "DORANT INTER-LINKS",
+              "internationalNumber": "BN-4028441"
+            },
+            {
+              "name": "A. MAIMADU PROVISION STORE",
+              "internationalNumber": "BN-4028412"
+            },
+            {
+              "name": "M.B.A FASHION DESIGN & TAILORING GLOBAL ENTERPRISES",
+              "internationalNumber": "BN-4028448"
+            },
+            {
+              "name": "MARVI'S BEAUTY SALON",
+              "internationalNumber": "BN-4041684"
+            },
+            {
+              "name": "K.I. Jalo Farms",
+              "internationalNumber": "BN-4045837"
+            },
+            {
+              "name": "HILLTOP GRAPHIX & PRINT HOUSE",
+              "internationalNumber": "BN-4028427"
+            },
+            {
+              "name": "HAPPY POWE BOUTIQUE",
+              "internationalNumber": "BN-4028419"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "null": 6
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

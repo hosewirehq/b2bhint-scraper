@@ -1,0 +1,434 @@
+[
+  {
+    "year": "1990",
+    "title": "TACRIS LTD - RC-157752 - Nigeria",
+    "description": "TACRIS LTD Nigeria company, Company number: RC-157752, Incorporation Date Nov 1, 1990;, Address: 43, 1ST AVE, RD., 114 IPAJA LAGOS, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62011720,
+      "name": "TACRIS LTD",
+      "internationalNumber": "RC-157752",
+      "localNumber": "157752",
+      "countryId": 24,
+      "dateCreated": "1990-11-01T00:00:00.000Z",
+      "createdAt": "2021-05-27T16:40:05.314Z",
+      "updatedAt": "2024-06-15T15:30:16.321Z",
+      "alternateNames": [],
+      "address": "43, 1ST AVE, RD., 114 IPAJA LAGOS, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "500000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "322166",
+      "updatedAtSitemap": "2024-02-01T19:16:25.000Z",
+      "oldInternationalNumber": "157752",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 206,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100805293,
+          "address": "43, 1ST AVE, RD., 114 IPAJA LAGOS, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 252901568,
+          "companyId": 62011720,
+          "personId": 66136031,
+          "roleId": 114332,
+          "person": {
+            "id": 66136031,
+            "name": "ukelere udenze",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "nationality": "NIGERIAN",
+            "birthYear": 1975,
+            "birthMonth": 10,
+            "birthDate": 4,
+            "address": "MARINA ROAD, 47",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "documentNumber": "91208884641",
+            "email": "chizzy201042@yahoo.com",
+            "phone": "08037142148",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "APONKOJIYA FARMS LTD",
+              "internationalNumber": "RC-89781"
+            },
+            {
+              "name": "AYOTUNDE CITRUS FARMS LTD",
+              "internationalNumber": "RC-89412"
+            },
+            {
+              "name": "ESTEEBEE NIG LIMITED",
+              "internationalNumber": "RC-109935"
+            },
+            {
+              "name": "ADUNOLA AGRO. COMMERCIAL VENTURES LIMITED",
+              "internationalNumber": "RC-102427"
+            },
+            {
+              "name": "TAWA BROS NIG LTD",
+              "internationalNumber": "RC-110767"
+            },
+            {
+              "name": "TARBEK AND CO. LTD",
+              "internationalNumber": "RC-89026"
+            },
+            {
+              "name": "NICE TOP PAPER INDUSTRIES LTD",
+              "internationalNumber": "RC-101739"
+            },
+            {
+              "name": "ALLWELL ALUMINIUM & STEEL INDUSTRY LTD",
+              "internationalNumber": "RC-107164"
+            },
+            {
+              "name": "STROM  LTD",
+              "internationalNumber": "RC-1891371"
+            },
+            {
+              "name": "GISHWARD NIGERIA LTD",
+              "internationalNumber": "RC-109158"
+            },
+            {
+              "name": "PEARL VENTURES LTD",
+              "internationalNumber": "RC-101851"
+            },
+            {
+              "name": "PHINEZ INDUSTRIES (NIG) LTD",
+              "internationalNumber": "RC-102806"
+            },
+            {
+              "name": "LABAMA INDUSTRIES LIMITED",
+              "internationalNumber": "RC-93116"
+            },
+            {
+              "name": "LONGBRIDGE COMMUNICATIONS LTD",
+              "internationalNumber": "RC-107357"
+            },
+            {
+              "name": "MOSABEY COMMERCIAL CO. NIG LTD",
+              "internationalNumber": "RC-103615"
+            },
+            {
+              "name": "DOMACEL INVESTMENTS AND COMPANY LTD",
+              "internationalNumber": "RC-99665"
+            },
+            {
+              "name": "SHOLA OLABODE NIG LTD",
+              "internationalNumber": "RC-106822"
+            },
+            {
+              "name": "LIMA INVESTMENT & DEVELOPMENT CO. LTD",
+              "internationalNumber": "RC-101048"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241910440,
+          "companyId": 62011720,
+          "personId": 98778575,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 98778575,
+            "name": "christian anumudu                                                                                    n/a",
+            "countryId": 24,
+            "address": "43, 1ST AVE., RD 114, IPAJA LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241910442,
+          "companyId": 62011720,
+          "personId": 98778577,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 98778577,
+            "name": "christian anumudu",
+            "countryId": 24,
+            "address": "43, 1ST AVE., RD 114, IPAJA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241910443,
+          "companyId": 62011720,
+          "personId": 98778578,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 98778578,
+            "name": "tochukwu obinna anumudu",
+            "countryId": 24,
+            "address": "43, 1ST AVE, RD., 114, IPAJA, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 3
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
