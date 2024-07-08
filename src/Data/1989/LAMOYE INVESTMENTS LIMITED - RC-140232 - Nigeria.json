@@ -1,0 +1,448 @@
+[
+  {
+    "year": "1989",
+    "title": "LAMOYE INVESTMENTS LIMITED - RC-140232 - Nigeria",
+    "description": "LAMOYE INVESTMENTS LIMITED Nigeria company, Company number: RC-140232, Incorporation Date Nov 6, 1989;, Address: 2ND AVE. 22 RD. 'A'CLOSE BLK 5 F/TOWN, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60504085,
+      "name": "LAMOYE INVESTMENTS LIMITED",
+      "internationalNumber": "RC-140232",
+      "localNumber": "140232",
+      "countryId": 24,
+      "dateCreated": "1989-11-06T00:00:00.000Z",
+      "createdAt": "2021-05-14T09:29:50.547Z",
+      "updatedAt": "2024-06-15T15:36:06.417Z",
+      "alternateNames": [],
+      "address": "2ND AVE. 22 RD. 'A'CLOSE BLK 5 F/TOWN, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "304945",
+      "updatedAtSitemap": "2024-02-01T14:03:07.000Z",
+      "oldInternationalNumber": "140232",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 180,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196948,
+          "providerId": "199238",
+          "providerName": "General Merchandise ",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:34.036647+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82104057,
+          "address": "2ND AVE. 22 RD. 'A'CLOSE BLK 5 F/TOWN, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 242089086,
+          "companyId": 60504085,
+          "personId": 70898297,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 70898297,
+            "name": "okeke ikenna valentine",
+            "countryId": 24,
+            "address": "SUITE 069, PLOT 943 TRINITY HOUSE, MABUSHI, ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "email": "iykeamanda@hotmail.com",
+            "phone": "08036849296",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242089091,
+          "companyId": 60504085,
+          "personId": 98846205,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 98846205,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "address": "4 HARLEY STREET OLD GRA, PORT HARCOURT",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "Y . A  FARM ENTERPRISES",
+              "internationalNumber": "BN-4032786"
+            },
+            {
+              "name": "A . M . G  ENTERPRISES",
+              "internationalNumber": "BN-4032780"
+            },
+            {
+              "name": "RABI ISA RESTAURANT & CUISINE",
+              "internationalNumber": "BN-4043168"
+            },
+            {
+              "name": "J&B BUSINESS SERVICES",
+              "internationalNumber": "BN-4041185"
+            },
+            {
+              "name": "BIGDREAM NIGERIA VENTURES",
+              "internationalNumber": "BN-4032788"
+            },
+            {
+              "name": "Joyful Hopes",
+              "internationalNumber": "BN-4041223"
+            },
+            {
+              "name": "PREFER GLOBAL CONCEPTS",
+              "internationalNumber": "BN-4045948"
+            },
+            {
+              "name": "GREATER VISION CATERING  SERVICES",
+              "internationalNumber": "BN-4045959"
+            },
+            {
+              "name": "IYKE & CHILD VENTURE",
+              "internationalNumber": "BN-4045772"
+            },
+            {
+              "name": "Almansoor  Enterprises",
+              "internationalNumber": "BN-4032785"
+            },
+            {
+              "name": "L.K ENTERGREATED SERVICES",
+              "internationalNumber": "BN-4032781"
+            },
+            {
+              "name": "DANPAULLY TRADING INVESTMENT",
+              "internationalNumber": "BN-4045828"
+            },
+            {
+              "name": "OLSIM CAKES AND EVENT CENTER",
+              "internationalNumber": "BN-4032787"
+            },
+            {
+              "name": "CLASSIC FINGERS CATERING & DECORATION",
+              "internationalNumber": "BN-4045854"
+            },
+            {
+              "name": "UMI OGUI NEW LAYOUT BUSINESS NETWORKS",
+              "internationalNumber": "BN-4048290"
+            },
+            {
+              "name": "FRESHWATER SUPER STAR INTERNATIONAL COMPANY",
+              "internationalNumber": "BN-4032779"
+            },
+            {
+              "name": "anNUR GENERAL ENTERPRISE",
+              "internationalNumber": "BN-4032783"
+            },
+            {
+              "name": "FALEGBE OYINLOLA BUSINESS WORLD",
+              "internationalNumber": "BN-4045810"
+            },
+            {
+              "name": "REAL BENAID SOLUTION",
+              "internationalNumber": "BN-4041183"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242089087,
+          "companyId": 60504085,
+          "personId": 98851330,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 98851330,
+            "name": "amadi chibuzor kingsley",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigerian",
+            "birthYear": 1989,
+            "birthMonth": 10,
+            "birthDate": 26,
+            "address": "NO 7 KOSIKAMEME AVENUE NODU OKPUNO",
+            "countryOfResidence": "NIGERIA",
+            "number": "A12345678",
+            "documentType": "Driver's License",
+            "email": "greatelitefriendsclub@gmail.com",
+            "phone": "08063760275",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242089088,
+          "companyId": 60504085,
+          "personId": 98851331,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 98851331,
+            "name": "okolo  ebelechukwu nnanyelu",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigerian",
+            "birthYear": 1990,
+            "birthMonth": 5,
+            "birthDate": 25,
+            "address": "CHIAGOZIE'S COMPOUND OPPOSITE IZUNNA HOSPITAL, IFITE.",
+            "countryOfResidence": "NIGERIA",
+            "number": "1123456789",
+            "documentType": "National ID Card",
+            "email": "greatelitefriendsclub@gmail.com",
+            "phone": "08036299720",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "null": 4
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "year": "1989",
+    "title": "INNERJOY LTD - RC-140864 - Nigeria",
+    "description": "INNERJOY LTD Nigeria company, Company number: RC-140864, Incorporation Date Nov 20, 1989;, Address: S7/588, CHALLENGE AREA, IBADAN, OYO, IBADAN, OYO STATE",
+    "company": {
+      "id": 60638967,
+      "name": "INNERJOY LTD",
+      "internationalNumber": "RC-140864",
+      "localNumber": "140864",
+      "countryId": 24,
+      "dateCreated": "1989-11-20T00:00:00.000Z",
+      "createdAt": "2021-05-14T18:36:09.524Z",
+      "updatedAt": "2024-06-15T15:27:38.104Z",
+      "alternateNames": [],
+      "address": "S7/588, CHALLENGE AREA, IBADAN, OYO, IBADAN, OYO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "305577",
+      "updatedAtSitemap": "2024-02-01T19:12:14.000Z",
+      "oldInternationalNumber": "140864",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 284,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100638785,
+          "address": "S7/588, CHALLENGE AREA, IBADAN, OYO, IBADAN, OYO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 240807407,
+          "companyId": 60638967,
+          "personId": 67845046,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67845046,
+            "name": "bukola afolabi                                                                                       n/a",
+            "countryId": 24,
+            "address": "NO. 15B, IDEJO STREET,  VICTORIA ISLAND LAGOS                                                                                 LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "LAFOL LIMITED",
+              "internationalNumber": "RC-124014"
+            },
+            {
+              "name": "FORELAND LIMITED",
+              "internationalNumber": "RC-141990"
+            },
+            {
+              "name": "HAG GLOBAL RESOURCES LIMITED",
+              "internationalNumber": "RC-889738"
+            },
+            {
+              "name": "ENTERSPACE LIMITED",
+              "internationalNumber": "RC-141998"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240807411,
+          "companyId": 60638967,
+          "personId": 98194169,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 98194169,
+            "name": "bukola afolabi",
+            "countryId": 24,
+            "address": "BLOCK 3, PLOT 24, G.R.A. OLD IFE ROAD  IBADAN                                                                                                OYO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "HAG GLOBAL RESOURCES LIMITED",
+              "internationalNumber": "RC-889738"
+            },
+            {
+              "name": "MIGHTY GOD CATERING SERVICES",
+              "internationalNumber": "BN-2544956"
+            },
+            {
+              "name": "NIBTON FARMS LIMITED",
+              "internationalNumber": "RC-987465"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240807414,
+          "companyId": 60638967,
+          "personId": 98309802,
+          "roleId": 60320,
+          "appointedOn": "2021-11-25",
+          "sourceNum": 1,
+          "person": {
+            "id": 98309802,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CLEON NIG LTD",
+              "internationalNumber": "RC-156046"
+            },
+            {
+              "name": " AMINU MAI DINKI GLOBAL VENTURES",
+              "internationalNumber": "BN-3938909"
+            },
+            {
+              "name": "TEAMUP INVESTMENTS LIMITED",
+              "internationalNumber": "RC-308430"
+            },
+            {
+              "name": "SAPHEX PROPERTIES LTD",
+              "internationalNumber": "RC-308422"
+            },
+            {
+              "name": "AREWA PROTOCOLS [NIG] LTD",
+              "internationalNumber": "RC-308428"
+            },
+            {
+              "name": "AGRO MARKETING CO. LTD",
+              "internationalNumber": "RC-308427"
+            },
+            {
+              "name": "FELIXCO INTERNATIONA CONTINENTAL LTD",
+              "internationalNumber": "RC-308431"
+            },
+            {
+              "name": "MARLIMA INVESTMENTS NIGERIA LIMITED",
+              "internationalNumber": "RC-308438"
+            },
+            {
+              "name": "HIBEN NIG LTD",
+              "internationalNumber": "RC-308424"
+            },
+            {
+              "name": "TWENTY FIRST CENTURY COMMUNICAITIONS LIMITED",
+              "internationalNumber": "RC-308433"
+            },
+            {
+              "name": "ABIYA  NIG LTD",
+              "internationalNumber": "RC-308432"
+            },
+            {
+              "name": "CHUTIN NIGERIA LIMITED",
+              "internationalNumber": "RC-308437"
+            },
+            {
+              "name": "SAMFODEK AND CO. NIG LTD",
+              "internationalNumber": "RC-308426"
+            },
+            {
+              "name": "J. N. NWOSE AND SONS INDUSTRIES LIMITED",
+              "internationalNumber": "RC-308436"
+            },
+            {
+              "name": "LAINDE NIGERIA LIMITED",
+              "internationalNumber": "RC-308434"
+            },
+            {
+              "name": "PROTIF VENTURES LIMITED",
+              "internationalNumber": "RC-308435"
+            },
+            {
+              "name": "EBENGRACE VENTURES LTD",
+              "internationalNumber": "RC-308429"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240807404,
+          "companyId": 60638967,
+          "personId": 98309840,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 98309840,
+            "name": "segun kola                                                                                           n/a",
+            "countryId": 24,
+            "address": "BLOCK 33 FLAT 1 AMUWO LAGOS STATE",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "11",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 6,
+        "3": 5
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
