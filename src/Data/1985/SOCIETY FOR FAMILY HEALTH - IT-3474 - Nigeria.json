@@ -1,0 +1,246 @@
+[
+  {
+    "year": "1985",
+    "title": "SOCIETY FOR FAMILY HEALTH - IT-3474 - Nigeria",
+    "description": "SOCIETY FOR FAMILY HEALTH Nigeria company, Company number: IT-3474, Incorporation Date Dec 15, 1985;, Address: 8 OFF GIMBIYA STREET, AREA 11, GARKI, ABUJA, FCT",
+    "company": {
+      "id": 131549369,
+      "name": "SOCIETY FOR FAMILY HEALTH",
+      "internationalNumber": "IT-3474",
+      "localNumber": "3474",
+      "countryId": 24,
+      "dateCreated": "1985-12-15T00:00:00.000Z",
+      "createdAt": "2022-10-16T16:57:21.140Z",
+      "updatedAt": "2024-06-15T16:22:37.564Z",
+      "alternateNames": [],
+      "address": "8 OFF GIMBIYA STREET, AREA 11, GARKI, ABUJA, FCT",
+      "additionalData": {},
+      "typeId": 99333,
+      "historicalNames": [],
+      "activityDescription": "THE SOCIETY I ESTABLISHED FOR CHARITABLE PURPOSES ONLY.",
+      "providerId": "739433",
+      "updatedAtSitemap": "2023-06-09T18:05:47.000Z",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99333,
+        "type": "Incorporated trustee",
+        "countryId": 24,
+        "translation": {
+          "en": "Incorporated trustee"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [
+        {
+          "id": 399385,
+          "companyId": 131549369,
+          "cageNumber": "SHW24",
+          "ueiNumber": "JFJ1VL7V5KF9",
+          "established": "2010-05-12",
+          "updateDate": "2024-01-22",
+          "samExpirationDate": "2025-01-20",
+          "caoPAY": "SGR18A-HQ0339",
+          "providerId": "1755309",
+          "typeId": 1,
+          "statusId": 2,
+          "status": {
+            "id": 2,
+            "name": "Active",
+            "translation": {}
+          },
+          "type": {
+            "id": 1,
+            "name": "Non-Manufacturer",
+            "translation": {}
+          }
+        }
+      ],
+      "companiesRegisteredSameDate": 5,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196942,
+          "providerId": "199095",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:29.578323+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82160693,
+          "address": "8 OFF GIMBIYA STREET, AREA 11, GARKI, ABUJA, FCT",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 413101385,
+          "companyId": 131549369,
+          "personId": 98509717,
+          "roleId": 261742,
+          "person": {
+            "id": 98509717,
+            "name": "omokhudu idogho",
+            "countryId": 24,
+            "address": "HOUSE 12 C CLOSE KADO ESTATE  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 261742,
+            "name": "POC",
+            "countryId": 24,
+            "translation": {
+              "en": ""
+            }
+          },
+          "companies": [
+            {
+              "name": "GRAND SILVERGATE LIMITED",
+              "internationalNumber": "RC-841938"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "1",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "null": 1
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
