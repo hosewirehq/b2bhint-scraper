@@ -1,0 +1,393 @@
+[
+  {
+    "year": "1992",
+    "title": "TUNJI ELECTRICAL WORKS LTD - RC-210592 - Nigeria",
+    "description": "TUNJI ELECTRICAL WORKS LTD Nigeria company, Company number: RC-210592, Incorporation Date Dec 1, 1992;, Address: 6, BUDLAND ST. ISHERI ROD IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61239185,
+      "name": "TUNJI ELECTRICAL WORKS LTD",
+      "internationalNumber": "RC-210592",
+      "localNumber": "210592",
+      "countryId": 24,
+      "dateCreated": "1992-12-01T00:00:00.000Z",
+      "createdAt": "2021-05-23T21:06:01.228Z",
+      "updatedAt": "2024-06-15T16:19:37.449Z",
+      "alternateNames": [],
+      "address": "6, BUDLAND ST. ISHERI ROD IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "15000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "374508",
+      "updatedAtSitemap": "2023-06-09T19:32:04.000Z",
+      "oldInternationalNumber": "210592",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 205,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92070089,
+          "address": "6, BUDLAND ST. ISHERI ROD IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 178017947,
+          "companyId": 61239185,
+          "personId": 72181987,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 72181987,
+            "name": "olatunji b. aregbesola                                                                               n/a",
+            "countryId": 24,
+            "address": "BLK 22, FLT 4, OMOLE ESTATE ISHERI ROAD LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 178017948,
+          "companyId": 61239185,
+          "personId": 72181988,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 72181988,
+            "name": "olatunji b. aregbesola",
+            "countryId": 24,
+            "address": "BLK 22, FLT 4, OMOLE ESTATE ISHERI ROAD LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 237172230,
+          "companyId": 61239185,
+          "personId": 96885221,
+          "roleId": 60320,
+          "appointedOn": "2021-11-28",
+          "sourceNum": 1,
+          "person": {
+            "id": 96885221,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "OSCAREST CO. NIG LTD",
+              "internationalNumber": "RC-207406"
+            },
+            {
+              "name": "CORPORATE CARS LIMITED",
+              "internationalNumber": "RC-209326"
+            },
+            {
+              "name": "O & D ASSOCIATES LIMITED",
+              "internationalNumber": "RC-209156"
+            },
+            {
+              "name": "SPECTRUM ENERGY AND INFORMATION TECHNOLOGY (W.A.)",
+              "internationalNumber": "RC-207216"
+            },
+            {
+              "name": "MAJIB MOTORS LTD",
+              "internationalNumber": "RC-206777"
+            },
+            {
+              "name": "PARADE ASSOCIATE LTD",
+              "internationalNumber": "RC-206764"
+            },
+            {
+              "name": "ACCASCO INVESTMENTS LTD",
+              "internationalNumber": "RC-205756"
+            },
+            {
+              "name": "ALCAR VENTURES LTD",
+              "internationalNumber": "RC-206765"
+            },
+            {
+              "name": "UMAJAM MOTORS LTD",
+              "internationalNumber": "RC-205755"
+            },
+            {
+              "name": "BETATEX NIG LTD",
+              "internationalNumber": "RC-207217"
+            },
+            {
+              "name": "CIANO ENTERPRISES LTD",
+              "internationalNumber": "RC-207244"
+            },
+            {
+              "name": "QUADRANT ASSOCIATES LTD",
+              "internationalNumber": "RC-206760"
+            },
+            {
+              "name": "FOREMOST CARGO AIRLINES LTD",
+              "internationalNumber": "RC-206778"
+            },
+            {
+              "name": "FASTEST AGENCIES LIMITED",
+              "internationalNumber": "RC-209327"
+            },
+            {
+              "name": "HIKMAS INTERNATIONAL NIG LTD",
+              "internationalNumber": "RC-206781"
+            },
+            {
+              "name": "PAULYBRANS INVESTMENT LTD",
+              "internationalNumber": "RC-207809"
+            },
+            {
+              "name": "OKENT NIG LTD",
+              "internationalNumber": "RC-205749"
+            },
+            {
+              "name": "PETROSERVE KONSULT LTD",
+              "internationalNumber": "RC-209352"
+            },
+            {
+              "name": "ARCHI-TALK ASSOCIATES LTD",
+              "internationalNumber": "RC-206738"
+            },
+            {
+              "name": "BETHAYO NIG LTD",
+              "internationalNumber": "RC-207218"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 1
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

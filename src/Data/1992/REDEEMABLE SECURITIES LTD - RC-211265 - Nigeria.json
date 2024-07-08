@@ -1,0 +1,436 @@
+[
+  {
+    "year": "1992",
+    "title": "REDEEMABLE SECURITIES LTD - RC-211265 - Nigeria",
+    "description": "REDEEMABLE SECURITIES  LTD Nigeria company, Company number: RC-211265, Incorporation Date Dec 10, 1992;, Address: 44, OBA OAKAN AVE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62805760,
+      "name": "REDEEMABLE SECURITIES  LTD",
+      "internationalNumber": "RC-211265",
+      "localNumber": "211265",
+      "countryId": 24,
+      "dateCreated": "1992-12-10T00:00:00.000Z",
+      "createdAt": "2021-05-31T07:14:47.154Z",
+      "updatedAt": "2024-06-15T16:19:37.384Z",
+      "alternateNames": [],
+      "address": "44, OBA OAKAN AVE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "375179",
+      "updatedAtSitemap": "2023-06-09T19:31:59.000Z",
+      "oldInternationalNumber": "211265",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 231,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92072683,
+          "address": "44, OBA OAKAN AVE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 163315940,
+          "companyId": 62805760,
+          "personId": 66373243,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66373243,
+            "name": "arobo egirani",
+            "countryId": 24,
+            "address": "2, CUBANGO CLOSE, OFF KATSINA ALA STREET, MAITAMA  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "AFTERSIX LIMITED",
+              "internationalNumber": "RC-679015"
+            },
+            {
+              "name": "INTEGRATED RAIL COMPANY LIMITED",
+              "internationalNumber": "RC-1005823"
+            },
+            {
+              "name": "AZIDAPU NIGERIA LIMITED",
+              "internationalNumber": "RC-422768"
+            },
+            {
+              "name": "INFONET COMMUNICATION SYSTEMS LIMITED",
+              "internationalNumber": "RC-351970"
+            },
+            {
+              "name": "RONMIRA SERVICES LIMITED",
+              "internationalNumber": "RC-421382"
+            },
+            {
+              "name": "WALTERS LTD",
+              "internationalNumber": "RC-219536"
+            },
+            {
+              "name": "ROBOCORP LTD",
+              "internationalNumber": "RC-172817"
+            },
+            {
+              "name": "AROHIL TECHNOLOGIES LIMITED",
+              "internationalNumber": "RC-351969"
+            },
+            {
+              "name": "BINEY IMPEX SERVICES LIMITED",
+              "internationalNumber": "RC-710651"
+            },
+            {
+              "name": "PRIVINVEST PRIME RESOURCES LIMITED",
+              "internationalNumber": "RC-1068543"
+            },
+            {
+              "name": "FIRST CREDIT REPORTING SYSTEM LIMITED",
+              "internationalNumber": "RC-613040"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 163315939,
+          "companyId": 62805760,
+          "personId": 66422169,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66422169,
+            "name": "adebayo olowu",
+            "countryId": 24,
+            "address": "ALONG 49, CORPORATION DRIVE, DOLPHIN ESTATE, IKOYI  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "A. B. & A. NIG LTD",
+              "internationalNumber": "RC-219202"
+            },
+            {
+              "name": "MAKLOW MOTORS INVESTMENTS COMPANY LIMITED",
+              "internationalNumber": "RC-124964"
+            },
+            {
+              "name": "THREE STARS CAR HIRE SERVICES LTD",
+              "internationalNumber": "RC-786264"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 163315936,
+          "companyId": 62805760,
+          "personId": 66723907,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66723907,
+            "name": "ademola laniyan                                                                                      n/a",
+            "countryId": 24,
+            "address": "203, HERBERT MACAULAY STREET, YABA LAGOS STATE.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "ASSET TRUST ASSURANCE COMPANY LIMITED",
+              "internationalNumber": "RC-201706"
+            },
+            {
+              "name": "LAIB COURIER SERVICES LIMITED",
+              "internationalNumber": "RC-907078"
+            },
+            {
+              "name": "CREDIT UNION INVESNTMENTS LTD",
+              "internationalNumber": "RC-198488"
+            },
+            {
+              "name": "FTN COCOA PROCESSORS PLC",
+              "internationalNumber": "RC-172292"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 163315933,
+          "companyId": 62805760,
+          "personId": 67091988,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67091988,
+            "name": "arobo egirani                                                                                        n/a",
+            "countryId": 24,
+            "address": "44, OBA AKIRAN AVENUE IKEJA LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "WALTERS LTD",
+              "internationalNumber": "RC-219536"
+            },
+            {
+              "name": "ROBOCORP LTD",
+              "internationalNumber": "RC-172817"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "15",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 8,
+        "3": 7
+      },
+      "personsWithRelatedCount": 11
+    }
+  }
+]

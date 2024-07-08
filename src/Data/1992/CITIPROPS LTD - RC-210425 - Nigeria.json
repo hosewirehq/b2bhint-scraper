@@ -1,0 +1,552 @@
+[
+  {
+    "year": "1992",
+    "title": "CITIPROPS LTD - RC-210425 - Nigeria",
+    "description": "CITIPROPS LTD Nigeria company, Company number: RC-210425, Incorporation Date Nov 29, 1992;, Address: 44, OLU AKERELE STREET IKEJA, LAGOS, LAGOS, LAGOS",
+    "company": {
+      "id": 62800880,
+      "name": "CITIPROPS LTD",
+      "internationalNumber": "RC-210425",
+      "localNumber": "210425",
+      "countryId": 24,
+      "dateCreated": "1992-11-29T00:00:00.000Z",
+      "createdAt": "2021-05-31T06:56:58.671Z",
+      "updatedAt": "2024-06-15T16:19:33.219Z",
+      "alternateNames": [],
+      "address": "44, OLU AKERELE STREET IKEJA, LAGOS, LAGOS, LAGOS",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "50000000",
+      "historicalNames": [],
+      "activityDescription": "TO ACQUIRE BY PURCHASE, LEASE, EXCHANGE OR OTHERWISE ANY LANDS, BUILDINGS, AND HEREDITAMENT OF ANY TENURE OR DESCRIPTION WHERESOEVER SITUATE AND ANY ESTATE OR TURN THE SAME INTO ACCOUNT AS MAY SEEM EXPEDIENT, AND IN PARTICULAR BY LAYING OUT, PREPARING THE SAME FOR BUILDING PURPOSES, CONSTRUCTING, ALTERING, PULLING DOWN, DECORATING, MAINTAINING, FITTING UP AND IMPROVING BUILDINGS, FACTORIES, WAREHOUSES, SHOPS, WHARVES, OFFICES, WORKS AND CONVENIENCES OF ALL KINDS AND BY PLANTING, PAVING, DRAINING, FARMING, CULTIVATING, LETTING ON BUILDING, LEASE OR BUILDING AGREEMENT OR OTHERWISE LEASING AND DISPOSING OF THE SAME, AND TO DEAL WITH OR OTHERWISE TURN TO ACCOUNT ANY FARM OR OTHER PRODUCTS OF ANY SUCH LAND.",
+      "providerId": "374341",
+      "updatedAtSitemap": "2023-06-09T19:32:06.000Z",
+      "oldInternationalNumber": "210425",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 4,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196978,
+          "providerId": "143222",
+          "providerName": "Construction of buildings",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:58.105044+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92069472,
+          "address": "44, OLU AKERELE STREET IKEJA, LAGOS, LAGOS, LAGOS",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 163367562,
+          "companyId": 62800880,
+          "personId": 67113320,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67113320,
+            "name": "douglas iyoha                                                                                        n/a",
+            "countryId": 24,
+            "address": "44, OLU AKERELE STR., IKEJA-LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "GOLD LINK MERCHANT FINANCE LTD",
+              "internationalNumber": "RC-171491"
+            },
+            {
+              "name": "EXECUTIVE CARS & TRAVELS LTD",
+              "internationalNumber": "RC-210422"
+            },
+            {
+              "name": "IMPERIAL GAS LTD",
+              "internationalNumber": "RC-210424"
+            },
+            {
+              "name": "IMPERIAL OIL LTD",
+              "internationalNumber": "RC-208045"
+            },
+            {
+              "name": "KUDOS ROYAL LIMITED",
+              "internationalNumber": "RC-60240"
+            },
+            {
+              "name": "GOLDLINK VENTURES LIMITED",
+              "internationalNumber": "RC-222250"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 204580100,
+          "companyId": 62800880,
+          "personId": 67122662,
+          "roleId": 60317,
+          "appointedOn": "1998-01-21",
+          "sourceNum": 1,
+          "person": {
+            "id": 67122662,
+            "name": "kennedy pela",
+            "countryId": 24,
+            "occupation": "Financial consultant",
+            "nationality": "Nigeria",
+            "address": "LEWIS STREET, LAGOS., 130,",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ANDRUCHE ADVISORS LIMITED",
+              "internationalNumber": "RC-234567"
+            },
+            {
+              "name": "AI ASSETS MANAGERS LIMITED",
+              "internationalNumber": "RC-223184"
+            },
+            {
+              "name": "CAPITAL RESOURCES CONSORTIUM LTD",
+              "internationalNumber": "RC-170606"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 204580107,
+          "companyId": 62800880,
+          "personId": 68934270,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68934270,
+            "name": "ghomorai chris",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "address": "130 LEWIS STREET LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "BASNER CONSULT.",
+              "internationalNumber": "RC-223114"
+            },
+            {
+              "name": "DAFE OTOBO AND ASSOCIATES LTD",
+              "internationalNumber": "RC-369556"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 163367563,
+          "companyId": 62800880,
+          "personId": 69185537,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 69185537,
+            "name": "isedua iyoha                                                                                         n/a",
+            "countryId": 24,
+            "address": "44, OLU AKERELE STREET IKEJA LAGOS STATE.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 204580102,
+          "companyId": 62800880,
+          "personId": 71780468,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 71780468,
+            "name": "pela ken",
+            "countryId": 24,
+            "address": "9B, MID-WEST STREET BENIN CITY EDO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [
+            {
+              "name": "UGHELLI SOUTH INVESTMENT COMPANY LTD",
+              "internationalNumber": "RC-771037"
+            },
+            {
+              "name": "ENGISERVE LIMITED",
+              "internationalNumber": "RC-353925"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 204580099,
+          "companyId": 62800880,
+          "personId": 82725862,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 82725862,
+            "name": "toyin uponi & co.",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "address": "LEWIS STREET, LAGOS., 91A,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 204580101,
+          "companyId": 62800880,
+          "personId": 82725863,
+          "roleId": 60323,
+          "appointedOn": "1998-01-25",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 9750,
+          "person": {
+            "id": 82725863,
+            "name": "bassey queensday",
+            "countryId": 24,
+            "occupation": "Businesswoman",
+            "address": "LEWIS STREET, LAGOS., 130,",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "13",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 1,
+        "2": 8,
+        "3": 2,
+        "null": 2
+      },
+      "personsWithRelatedCount": 8
+    }
+  }
+]
