@@ -1,0 +1,381 @@
+[
+  {
+    "year": "1988",
+    "title": "CORISON HOLDINGS LIMITED - RC-122838 - Nigeria",
+    "description": "CORISON HOLDINGS LIMITED Nigeria company, Company number: RC-122838, Incorporation Date Dec 19, 1988;, Address: NO. 3A, MACGREGOR STREET, IKOYI, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61135224,
+      "name": "CORISON HOLDINGS LIMITED",
+      "internationalNumber": "RC-122838",
+      "localNumber": "122838",
+      "countryId": 24,
+      "dateCreated": "1988-12-19T00:00:00.000Z",
+      "createdAt": "2021-05-23T00:47:11.953Z",
+      "updatedAt": "2024-06-15T15:26:20.773Z",
+      "alternateNames": [],
+      "address": "NO. 3A, MACGREGOR STREET, IKOYI, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "100000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS OF AN INVESTMENT COMPANY IN NIGERIA AND FOR THAT PURPOSE TO ACQUIRE AND HOLD EITHER IN THE NAME OF THE COMPANY OR IN THAT OF ANY NOMINEE, SHARES, STOCK, BONDS, NOTES, OBLIGATIONS AND SECURITIES ISSUED OR GUARANTEED BY ANY COMPANY WHEREVER INCORPORATD OR CARRYING ON BUSINESS AND DEBENTURES, DEBENTURE- STOCK, BONDS, NOTES, OBLIGATIONS AND SECURITIES ISSUED OR GUARANTEED BY ANY GOVERNMENT, PUBLIC BODY OR AUTHORITY MUNICIPAL, LOCAL OR OTHERWISE IN ANY PART OF THE WORLD.",
+      "providerId": "287644",
+      "updatedAtSitemap": "2024-01-15T16:06:27.000Z",
+      "oldInternationalNumber": "122838",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 209,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196924,
+          "providerId": "199237",
+          "providerName": "General Contracts",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:13.437675+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100395510,
+          "address": "NO. 3A, MACGREGOR STREET, IKOYI, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "MEGAPACK INDUSTRIES LIMITED",
+              "internationalNumber": "RC-1177630"
+            },
+            {
+              "name": "CHONOBEG OIL AND GAS LIMITED",
+              "internationalNumber": "RC-445379"
+            },
+            {
+              "name": "CHIKKI FOODS INDUSTRIES LIMITED",
+              "internationalNumber": "RC-614777"
+            },
+            {
+              "name": "HOLDENT INTERNATIONAL LTD",
+              "internationalNumber": "RC-365772"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 160362795,
+          "companyId": 61135224,
+          "personId": 66737366,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66737366,
+            "name": "emma c. orizu                                                                                        n/a",
+            "countryId": 24,
+            "address": "7, ASHOGBO N STR, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "FINE GLASS LTD",
+              "internationalNumber": "RC-200889"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160362803,
+          "companyId": 61135224,
+          "personId": 66737375,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66737375,
+            "name": "emma c. orizu",
+            "countryId": 24,
+            "address": "7, ASHOGBO N STR, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "FINE GLASS LTD",
+              "internationalNumber": "RC-200889"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160362790,
+          "companyId": 61135224,
+          "personId": 67847556,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67847556,
+            "name": "charmanuel ind. ltd                                                                                  n/a",
+            "countryId": 24,
+            "address": "88A, OJO LANE DOLPHIN IKOYI LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160362798,
+          "companyId": 61135224,
+          "personId": 67847563,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67847563,
+            "name": "charmanuel ind. ltd",
+            "countryId": 24,
+            "address": "88A, OJO LANE DOLPHIN IKOYI LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "17",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 9,
+        "3": 8
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

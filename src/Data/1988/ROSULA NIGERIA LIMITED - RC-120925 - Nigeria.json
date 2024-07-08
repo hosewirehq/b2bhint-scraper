@@ -1,0 +1,519 @@
+[
+  {
+    "year": "1988",
+    "title": "ROSULA NIGERIA LIMITED - RC-120925 - Nigeria",
+    "description": "ROSULA NIGERIA LIMITED  Nigeria company, Company number: RC-120925, Incorporation Date Nov 11, 1988;, Address: NO. 17, 2ND FREEDOM LANE, OFF OGBE STADIUM RD, BENIN CITY, EDO STATE",
+    "company": {
+      "id": 60368158,
+      "name": "ROSULA NIGERIA LIMITED ",
+      "internationalNumber": "RC-120925",
+      "localNumber": "120925",
+      "countryId": 24,
+      "dateCreated": "1988-11-11T00:00:00.000Z",
+      "createdAt": "2021-05-13T21:24:29.999Z",
+      "updatedAt": "2024-06-15T14:00:34.229Z",
+      "alternateNames": [],
+      "address": "NO. 17, 2ND FREEDOM LANE, OFF OGBE STADIUM RD, BENIN CITY, EDO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1500000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "1500000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS AS MANUFACTURERS, IMPORTERS, EXPORTERS, DEALERS AND TRADERS IN ALL KINDS OF ITEMS, EQUIPMENT, MATERIALS AND PRODUCE WHETHER ANCILLARY TO THE FOREGOING OBJECTS OR OTHERWISE.",
+      "providerId": "285735",
+      "updatedAtSitemap": "2024-05-07T20:33:14.000Z",
+      "oldInternationalNumber": "120925",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 185,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197060,
+          "providerId": "199249",
+          "providerName": "Manufacturing Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:25.21671+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 155626311,
+          "address": "NO. 17, 2ND FREEDOM LANE, OFF OGBE STADIUM RD, BENIN CITY, EDO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 249052583,
+          "companyId": 60368158,
+          "personId": 66145785,
+          "roleId": 114332,
+          "person": {
+            "id": 66145785,
+            "name": "omofuma sandra eghonghon",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "nationality": "NIGERIAN",
+            "birthYear": 1993,
+            "birthMonth": 4,
+            "birthDate": 26,
+            "address": ", , 7, RUKUBA COSE, OFF NKWERE STREET, GARKI",
+            "countryOfResidence": "NIGERIA",
+            "documentNumber": "AO9375727",
+            "email": "sandrafuma21@gmail.com",
+            "phone": "07018443246",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "KEMTECH INDUSTRIAL (NIG) LTD",
+              "internationalNumber": "RC-120963"
+            },
+            {
+              "name": "OSONTEX (WEST AFRICA) COMPANY LTD",
+              "internationalNumber": "RC-158151"
+            },
+            {
+              "name": "BOWLAD LOGISTICS LIMITED",
+              "internationalNumber": "RC-163900"
+            },
+            {
+              "name": "AVYANIC NIG LTD",
+              "internationalNumber": "RC-1897863"
+            },
+            {
+              "name": "SAMUELSON E&B LIMITED",
+              "internationalNumber": "RC-177494"
+            },
+            {
+              "name": "OFURE MEDIA AND ADVERTISING LTD",
+              "internationalNumber": "RC-1910015"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243673671,
+          "companyId": 60368158,
+          "personId": 66903305,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66903305,
+            "name": "rosemary osula                                                                                       n/a",
+            "countryId": 24,
+            "address": "53, ERIC MANUEL STREET S/LERE LGOS STATE",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "OUR CONSORTIUM LIMITED",
+              "internationalNumber": "RC-188368"
+            },
+            {
+              "name": "SONJAI NIG LIMITED",
+              "internationalNumber": "RC-188369"
+            },
+            {
+              "name": "AHAVA FACILITIES MANAGEMENT LTD",
+              "internationalNumber": "RC-241560"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243673689,
+          "companyId": 60368158,
+          "personId": 99567932,
+          "roleId": 60320,
+          "appointedOn": "2021-11-23",
+          "sourceNum": 1,
+          "person": {
+            "id": 99567932,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GRACE LAND CONSULTANTS NIGERIA LIMITED",
+              "internationalNumber": "RC-351915"
+            },
+            {
+              "name": "AKATA NIG LTD",
+              "internationalNumber": "RC-351917"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243673676,
+          "companyId": 60368158,
+          "personId": 99567953,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99567953,
+            "name": "osula rosemary",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "17, 2ND FREEDOM LANE, OFF OGBE STADIUM ROAD,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243673682,
+          "companyId": 60368158,
+          "personId": 99567953,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 1,
+          "person": {
+            "id": 99567953,
+            "name": "osula rosemary",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "17, 2ND FREEDOM LANE, OFF OGBE STADIUM ROAD,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243673687,
+          "companyId": 60368158,
+          "personId": 99567957,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 1,
+          "person": {
+            "id": 99567957,
+            "name": "(miss) omosigho helen",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "17, 2ND FREEDOM LANE, OFF OGBE STADIUM ROAD,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "11",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 3,
+        "2": 4,
+        "3": 4
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

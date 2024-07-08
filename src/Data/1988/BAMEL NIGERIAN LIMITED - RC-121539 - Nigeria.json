@@ -1,0 +1,467 @@
+[
+  {
+    "year": "1988",
+    "title": "BAMEL NIGERIAN LIMITED - RC-121539 - Nigeria",
+    "description": "BAMEL NIGERIAN LIMITED Nigeria company, Company number: RC-121539, Incorporation Date Nov 29, 1988;, Address: 5, TUTUOLA STR., AGEGE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61134664,
+      "name": "BAMEL NIGERIAN LIMITED",
+      "internationalNumber": "RC-121539",
+      "localNumber": "121539",
+      "countryId": 24,
+      "dateCreated": "1988-11-29T00:00:00.000Z",
+      "createdAt": "2021-05-23T00:43:56.919Z",
+      "updatedAt": "2024-06-15T15:36:14.569Z",
+      "alternateNames": [],
+      "address": "5, TUTUOLA STR., AGEGE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "286348",
+      "updatedAtSitemap": "2024-01-15T18:36:50.000Z",
+      "oldInternationalNumber": "121539",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 351,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196942,
+          "providerId": "199095",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:29.578323+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82100124,
+          "address": "5, TUTUOLA STR., AGEGE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238024778,
+          "companyId": 61134664,
+          "personId": 66179508,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 66179508,
+            "name": "offor  iberedem ",
+            "countryId": 24,
+            "nationality": "Nigerien",
+            "birthYear": 1980,
+            "birthMonth": 8,
+            "birthDate": 30,
+            "address": "10 GODSWILL ROAD BY AFAHA IKOT OBIO NKAN. IBESIKPO ASUTAN",
+            "countryOfResidence": "NIGERIA",
+            "number": "A50068679",
+            "documentType": "International Passport",
+            "email": "iberedemoffor@gmail.com",
+            "phone": "07030838191",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [
+            {
+              "name": "BIJAMOR SERVICES",
+              "internationalNumber": "BN-2660170"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238024780,
+          "companyId": 61134664,
+          "personId": 66179509,
+          "roleId": 60330,
+          "sourceNum": 1,
+          "person": {
+            "id": 66179509,
+            "name": "offor blessing iberedem",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigerian",
+            "birthYear": 1985,
+            "birthMonth": 10,
+            "birthDate": 4,
+            "address": "10 GODSWILL ROAD, AFAHA  IBESIKPO, AKWA IBOM",
+            "countryOfResidence": "NIGERIA",
+            "number": "A05994961",
+            "documentType": "International Passport",
+            "email": "blessedgift2010@yahoo.com",
+            "phone": "08068356107",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [
+            {
+              "name": "BIJAMOR SERVICES",
+              "internationalNumber": "BN-2660170"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238024779,
+          "companyId": 61134664,
+          "personId": 78730754,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 78730754,
+            "name": "offor  iberedem  james",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1980,
+            "birthMonth": 8,
+            "birthDate": 30,
+            "address": "10 GODSWILL ROAD, AFAHA IBESIKPO, IBESIKPO ASUTAN",
+            "countryOfResidence": "NIGERIA",
+            "email": "iberedemoffor@gmail.com",
+            "phone": "07030838191",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238024783,
+          "companyId": 61134664,
+          "personId": 97043623,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 97043623,
+            "name": "olapo folorunso samuel",
+            "countryId": 24,
+            "address": "No. 3, Layi Oyekanmi Street, Mushin, Lagos",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "National Identification Number",
+            "email": "folusolapo@yahoo.com",
+            "phone": "2348055219813",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "NUSAMCO GENERAL ENTERPRISES",
+              "internationalNumber": "BN-2394659"
+            },
+            {
+              "name": "BREEZETECH RESOURCES",
+              "internationalNumber": "BN-2394509"
+            },
+            {
+              "name": "DOORMADE FURNITURE WOODWORK",
+              "internationalNumber": "BN-2393183"
+            },
+            {
+              "name": "UKA-OKEH EMMANUEL BUSINESS VENTURES",
+              "internationalNumber": "BN-2393716"
+            },
+            {
+              "name": "DIBA KADI BUSINESS RESOURCES",
+              "internationalNumber": "BN-2393722"
+            },
+            {
+              "name": "CHOPS EMPIRE AND CATERING SCHOOL",
+              "internationalNumber": "BN-2391368"
+            },
+            {
+              "name": "ETH- NOS CONSULTING SERVICES",
+              "internationalNumber": "BN-2392881"
+            },
+            {
+              "name": "DANGI NATURAL DRINK",
+              "internationalNumber": "BN-4071089"
+            },
+            {
+              "name": "ZOE COMMUNICATIONS SERVICES",
+              "internationalNumber": "BN-2395146"
+            },
+            {
+              "name": "HORLAM PAINTS & CHEMICALS",
+              "internationalNumber": "BN-2395503"
+            },
+            {
+              "name": "ISLAR BELLO ROYAL VENTURES",
+              "internationalNumber": "BN-2394042"
+            },
+            {
+              "name": "FASHION VAULT",
+              "internationalNumber": "BN-2394601"
+            },
+            {
+              "name": "ATM LOUNGE & BAR",
+              "internationalNumber": "BN-2395355"
+            },
+            {
+              "name": "HIKMA MULTI CONCEPT",
+              "internationalNumber": "BN-2393438"
+            },
+            {
+              "name": "SIKINEERING SERVICES",
+              "internationalNumber": "BN-2394823"
+            },
+            {
+              "name": "BEST SOLUTION BASIC NEEDS",
+              "internationalNumber": "BN-2394644"
+            },
+            {
+              "name": "NWAJAMES MERCHANTS",
+              "internationalNumber": "BN-2394256"
+            },
+            {
+              "name": "BEACONSFIELD AGRIC INTERNATIONAL",
+              "internationalNumber": "BN-2394713"
+            },
+            {
+              "name": "DIVINESUCCESS INT'L SCHOOLS",
+              "internationalNumber": "BN-2394569"
+            },
+            {
+              "name": "PERCEPTION CHRISTY GENERAL ENTERPRISES",
+              "internationalNumber": "BN-2395761"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "null": 4
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

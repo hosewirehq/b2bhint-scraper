@@ -1,0 +1,387 @@
+[
+  {
+    "year": "1988",
+    "title": "KEN-VON ASSOCIATES LTD - RC-122019 - Nigeria",
+    "description": "KEN-VON ASSOCIATES LTD Nigeria company, Company number: RC-122019, Incorporation Date Dec 2, 1988;, Address: 45, SALAMI SAIBU ST, P/GROVE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60539222,
+      "name": "KEN-VON ASSOCIATES LTD",
+      "internationalNumber": "RC-122019",
+      "localNumber": "122019",
+      "countryId": 24,
+      "dateCreated": "1988-12-02T00:00:00.000Z",
+      "createdAt": "2021-05-14T12:13:04.514Z",
+      "updatedAt": "2024-06-15T15:26:14.056Z",
+      "alternateNames": [],
+      "address": "45, SALAMI SAIBU ST, P/GROVE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "286827",
+      "updatedAtSitemap": "2024-01-15T16:06:56.000Z",
+      "oldInternationalNumber": "122019",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 244,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100392936,
+          "address": "45, SALAMI SAIBU ST, P/GROVE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241726244,
+          "companyId": 60539222,
+          "personId": 67573369,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67573369,
+            "name": "onwumere kenneth                                                                                     n/a",
+            "countryId": 24,
+            "address": "7TH AVENUE, M CLOSE, HOUSE 22, FESTAC LAGOS LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "WELLINTEX INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-910528"
+            },
+            {
+              "name": "KMP TRADE- LINK LIMITED",
+              "internationalNumber": "RC-288511"
+            },
+            {
+              "name": "NOAXSON INVESTMENT LIMITED",
+              "internationalNumber": "RC-291698"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241726246,
+          "companyId": 60539222,
+          "personId": 67573372,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67573372,
+            "name": "onwumere kenneth",
+            "countryId": 24,
+            "address": "7TH AVENUE, M CLOSE, HOUSE 22, FESTAC LAGOS LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "WELLINTEX INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-910528"
+            },
+            {
+              "name": "KMP TRADE- LINK LIMITED",
+              "internationalNumber": "RC-288511"
+            },
+            {
+              "name": "NOAXSON INVESTMENT LIMITED",
+              "internationalNumber": "RC-291698"
+            },
+            {
+              "name": "KENZY INTERNATIONAL MERCHANT LTD",
+              "internationalNumber": "RC-493451"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241726245,
+          "companyId": 60539222,
+          "personId": 94192071,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 94192071,
+            "name": "onwumere chigozie",
+            "countryId": 24,
+            "address": "2, OLARENWAJU STREET, OFF KUDIRAT ABIOLA WAY OREGUN - IKEJA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GOZJINI DEVELOPMENT CONCEPT LIMITED",
+              "internationalNumber": "RC-459938"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241726243,
+          "companyId": 60539222,
+          "personId": 98700574,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 98700574,
+            "name": "onwumere chigozie                                                                                    n/a",
+            "countryId": 24,
+            "address": "45 SALAMI SAIBI ST PALM GROOVE LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 2
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

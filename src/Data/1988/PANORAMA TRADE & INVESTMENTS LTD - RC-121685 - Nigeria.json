@@ -1,0 +1,666 @@
+[
+  {
+    "year": "1988",
+    "title": "PANORAMA TRADE & INVESTMENTS LTD - RC-121685 - Nigeria",
+    "description": "PANORAMA TRADE & INVESTMENTS LTD Nigeria company, Company number: RC-121685, Incorporation Date Nov 30, 1988;, Address: 16, ALHAJI KANIKE CLOSE, IKOYI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61134747,
+      "name": "PANORAMA TRADE & INVESTMENTS LTD",
+      "internationalNumber": "RC-121685",
+      "localNumber": "121685",
+      "countryId": 24,
+      "dateCreated": "1988-11-30T00:00:00.000Z",
+      "createdAt": "2021-05-23T00:44:15.965Z",
+      "updatedAt": "2024-06-15T15:36:14.944Z",
+      "alternateNames": [],
+      "address": "16, ALHAJI KANIKE CLOSE, IKOYI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "286493",
+      "updatedAtSitemap": "2024-01-15T18:36:49.000Z",
+      "oldInternationalNumber": "121685",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 274,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197311,
+          "providerId": "349626",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:08:37.748956+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82076060,
+          "address": "16, ALHAJI KANIKE CLOSE, IKOYI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "DOCKLAND INVESTMENTS LIMITED",
+              "internationalNumber": "RC-158769"
+            },
+            {
+              "name": "ECSTATIC EARNINGS AND PROMOTIONS LIMITED",
+              "internationalNumber": "RC-160262"
+            },
+            {
+              "name": "ABUJA ESTATES LTD",
+              "internationalNumber": "RC-106396"
+            },
+            {
+              "name": "ANDCHRISTIE COMPANY LIMITED",
+              "internationalNumber": "RC-74085"
+            },
+            {
+              "name": "BAKER MARINE NIG LTD",
+              "internationalNumber": "RC-168567"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 231510548,
+          "companyId": 61134747,
+          "personId": 66637586,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66637586,
+            "name": "abiola morgan                                                                                        n/a",
+            "countryId": 24,
+            "address": "10, PRINCE'S COURT 37 AHMED ONIBUDO ST. V/I LGS.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "A.C.P. CHEMICALS LTD",
+              "internationalNumber": "RC-183251"
+            },
+            {
+              "name": "NICAGEM INVESTMENTS LTD",
+              "internationalNumber": "RC-83909"
+            },
+            {
+              "name": "J. MARSTON NIG LTD",
+              "internationalNumber": "RC-202513"
+            },
+            {
+              "name": "APEX REALTORS LIMITED",
+              "internationalNumber": "RC-163708"
+            },
+            {
+              "name": "QUILIS AND SCROLLS LTD",
+              "internationalNumber": "RC-166101"
+            },
+            {
+              "name": "DETTA WOOD ALLIED PRODUCTS LIMITED",
+              "internationalNumber": "RC-79454"
+            },
+            {
+              "name": "ONNE PETROCHEMICALS LTD",
+              "internationalNumber": "RC-144248"
+            },
+            {
+              "name": "YODEL MEDICAL SERVICES (NIGERIA) LIMITED",
+              "internationalNumber": "RC-122392"
+            },
+            {
+              "name": "SILVERSIDE BUTCHERS LTD",
+              "internationalNumber": "RC-83064"
+            },
+            {
+              "name": "ODIME LIMITED",
+              "internationalNumber": "RC-86558"
+            },
+            {
+              "name": "DELANEY PETROLEUM (NIG) LTD",
+              "internationalNumber": "RC-198696"
+            },
+            {
+              "name": "ZODIAL VENTURES LTD",
+              "internationalNumber": "RC-133415"
+            },
+            {
+              "name": "AN-DE RAMSON LTD",
+              "internationalNumber": "RC-79517"
+            },
+            {
+              "name": "MULTIMA VENTURES LTD",
+              "internationalNumber": "RC-203153"
+            },
+            {
+              "name": "PROSOLVE ASSOCIATE NIG LTD",
+              "internationalNumber": "RC-163542"
+            },
+            {
+              "name": "REGAL PROPERTY TRUST PLC",
+              "internationalNumber": "RC-169169"
+            },
+            {
+              "name": "RAGAZZA CO. LTD",
+              "internationalNumber": "RC-86251"
+            },
+            {
+              "name": "ANNUITY LTD",
+              "internationalNumber": "RC-169197"
+            },
+            {
+              "name": "BOMARTINS INDUSTRIES LTD",
+              "internationalNumber": "RC-83583"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231510550,
+          "companyId": 61134747,
+          "personId": 66637588,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66637588,
+            "name": "abiola morgan",
+            "countryId": 24,
+            "address": "10, PRINCE'S COURT 37 AHMED ONIBUDO ST. V/I LGS.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "A.C.P. CHEMICALS LTD",
+              "internationalNumber": "RC-183251"
+            },
+            {
+              "name": "NICAGEM INVESTMENTS LTD",
+              "internationalNumber": "RC-83909"
+            },
+            {
+              "name": "J. MARSTON NIG LTD",
+              "internationalNumber": "RC-202513"
+            },
+            {
+              "name": "APEX REALTORS LIMITED",
+              "internationalNumber": "RC-163708"
+            },
+            {
+              "name": "QUILIS AND SCROLLS LTD",
+              "internationalNumber": "RC-166101"
+            },
+            {
+              "name": "DETTA WOOD ALLIED PRODUCTS LIMITED",
+              "internationalNumber": "RC-79454"
+            },
+            {
+              "name": "ONNE PETROCHEMICALS LTD",
+              "internationalNumber": "RC-144248"
+            },
+            {
+              "name": "YODEL MEDICAL SERVICES (NIGERIA) LIMITED",
+              "internationalNumber": "RC-122392"
+            },
+            {
+              "name": "SILVERSIDE BUTCHERS LTD",
+              "internationalNumber": "RC-83064"
+            },
+            {
+              "name": "ODIME LIMITED",
+              "internationalNumber": "RC-86558"
+            },
+            {
+              "name": "DELANEY PETROLEUM (NIG) LTD",
+              "internationalNumber": "RC-198696"
+            },
+            {
+              "name": "ZODIAL VENTURES LTD",
+              "internationalNumber": "RC-133415"
+            },
+            {
+              "name": "AN-DE RAMSON LTD",
+              "internationalNumber": "RC-79517"
+            },
+            {
+              "name": "MULTIMA VENTURES LTD",
+              "internationalNumber": "RC-203153"
+            },
+            {
+              "name": "PROSOLVE ASSOCIATE NIG LTD",
+              "internationalNumber": "RC-163542"
+            },
+            {
+              "name": "RAGAZZA CO. LTD",
+              "internationalNumber": "RC-86251"
+            },
+            {
+              "name": "PAM PROMOTIONS NIG LTD",
+              "internationalNumber": "RC-86749"
+            },
+            {
+              "name": "ANNUITY LTD",
+              "internationalNumber": "RC-169197"
+            },
+            {
+              "name": "BOMARTINS INDUSTRIES LTD",
+              "internationalNumber": "RC-83583"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 248973157,
+          "companyId": 61134747,
+          "personId": 66802741,
+          "roleId": 114349,
+          "person": {
+            "id": 66802741,
+            "name": "magnus osita onwukwe",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1970,
+            "birthMonth": 1,
+            "birthDate": 20,
+            "address": "SUITE 002TRINITY HOUSE, MABUSHI, ABUJA, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1850950",
+            "documentType": "Permanent Voters' Card",
+            "documentNumber": "A23475439",
+            "email": "magnus4lawsan@yahoo.com",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114349,
+            "name": "Legal Practice",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practice"
+            }
+          },
+          "companies": [
+            {
+              "name": "TOP CLASS ACADEMY & STUDIES",
+              "internationalNumber": "BN-2763473"
+            },
+            {
+              "name": "PAVELION BUILDING MATERIALS DEALERS ASSOCIATION OF NIGERIA",
+              "internationalNumber": "IT-120961"
+            },
+            {
+              "name": "GOMOS NOMINEES & SECURITIES LTD",
+              "internationalNumber": "RC-120914"
+            },
+            {
+              "name": "JJD LINES, STITCHES & DESIGN LTD",
+              "internationalNumber": "RC-1767737"
+            },
+            {
+              "name": "MEGAMOVE DYNAMIC CONCEPTS LTD",
+              "internationalNumber": "RC-1812761"
+            },
+            {
+              "name": "SMINL  AGRO  -ALLIED CO. LTD",
+              "internationalNumber": "RC-154405"
+            },
+            {
+              "name": "EMP EXPLORATION AND MINING NIGEIRA LIMITED",
+              "internationalNumber": "RC-1758679"
+            },
+            {
+              "name": "TELL ME SISTER WITH GODIA INITIATIVE",
+              "internationalNumber": "IT-154528"
+            },
+            {
+              "name": "MOTHER OF ALL AND ALBARRANE FOUNDATION",
+              "internationalNumber": "IT-120914"
+            },
+            {
+              "name": "JOCEE INTEGRATED CONCEPTS LIMITED",
+              "internationalNumber": "RC-1492603"
+            },
+            {
+              "name": "CHAAZ INVESTMENT LTD",
+              "internationalNumber": "RC-120961"
+            },
+            {
+              "name": "EMAGACHRIS INDUSTRIES AND SERVICES LTD",
+              "internationalNumber": "RC-1770082"
+            },
+            {
+              "name": "SUNNY JAPAN AUTOMOBILE CLINIC",
+              "internationalNumber": "BN-3603268"
+            },
+            {
+              "name": "VICADOT LTD",
+              "internationalNumber": "RC-120960"
+            },
+            {
+              "name": "ALH. ABDULLAHI MAG- NOMA & CO",
+              "internationalNumber": "BN-3286850"
+            },
+            {
+              "name": "UMUOBUNA PROGRESS AND TRANSPARENCY INITIATIVE",
+              "internationalNumber": "IT-120960"
+            },
+            {
+              "name": "VESSELS OF GRACE AND MERCY FOUNDATION",
+              "internationalNumber": "IT-121685"
+            },
+            {
+              "name": "SINA-GOD GLOBAL LIMITED",
+              "internationalNumber": "RC-1436931"
+            },
+            {
+              "name": "PROGRESSIVE BAM DESTINY FOUNDATION",
+              "internationalNumber": "IT-154405"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231510549,
+          "companyId": 61134747,
+          "personId": 67850085,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67850085,
+            "name": "olayemi morgan                                                                                       n/a",
+            "countryId": 24,
+            "address": "10, SHOLEYE CRES., S/LERE, LAGOS.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231510551,
+          "companyId": 61134747,
+          "personId": 67850086,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67850086,
+            "name": "olayemi morgan",
+            "countryId": 24,
+            "address": "10, SHOLEYE CRES., S/LERE, LAGOS.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Mag*** Osi** Onw****",
+          "contacts": {
+            "phone": [
+              "234**********"
+            ],
+            "email": [
+              "mag********************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 2,
+        "null": 1
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]
