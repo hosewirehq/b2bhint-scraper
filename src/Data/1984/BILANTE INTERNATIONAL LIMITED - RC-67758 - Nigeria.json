@@ -1,0 +1,380 @@
+[
+  {
+    "year": "1984",
+    "title": "BILANTE INTERNATIONAL LIMITED - RC-67758 - Nigeria",
+    "description": "BILANTE INTERNATIONAL LIMITED Nigeria company, Company number: RC-67758, Incorporation Date Dec 20, 1984;, Address: 224 AWOLOWO ROAD, IKOYI LAGOS, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60315187,
+      "name": "BILANTE INTERNATIONAL LIMITED",
+      "internationalNumber": "RC-67758",
+      "localNumber": "67758",
+      "countryId": 24,
+      "dateCreated": "1984-12-20T00:00:00.000Z",
+      "createdAt": "2021-05-13T16:42:45.755Z",
+      "updatedAt": "2024-06-15T16:43:54.603Z",
+      "alternateNames": [],
+      "address": "224 AWOLOWO ROAD, IKOYI LAGOS, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "400000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "232852",
+      "updatedAtSitemap": "2023-06-09T16:19:15.000Z",
+      "oldInternationalNumber": "67758",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 83,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6417595,
+          "providerId": "257388",
+          "providerName": "Church                                            ",
+          "countryId": 24,
+          "createdAt": "2022-08-21T02:05:52.765757+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83358154,
+          "address": "224 AWOLOWO ROAD, IKOYI LAGOS, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 244328673,
+          "companyId": 60315187,
+          "personId": 68080985,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68080985,
+            "name": "uzoamaka okoli                                                                                       n/a",
+            "countryId": 24,
+            "address": "2, OMOIBITAYO STR., IKEJA, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "KILIMAJARO RESTAURANT & ENTERTAINMENT CO LTD",
+              "internationalNumber": "RC-61530"
+            },
+            {
+              "name": "OCTOPUS FIANANCE AND TRUST LTD",
+              "internationalNumber": "RC-153365"
+            },
+            {
+              "name": "LEISURE PROJECTS INTERNATIONAL LTD",
+              "internationalNumber": "RC-67759"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244328675,
+          "companyId": 60315187,
+          "personId": 97870231,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97870231,
+            "name": "uzoamaka okoli",
+            "countryId": 24,
+            "address": "224, AWULOWO WAY IKOYI LAGOS.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MAPLELEAF SERVICES LTD",
+              "internationalNumber": "RC-1231565"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244328672,
+          "companyId": 60315187,
+          "personId": 99917818,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 99917818,
+            "name": "anslem o. okoli                                                                                      n/a",
+            "countryId": 24,
+            "address": "2, OMOIBITAYO STR., IKEJA, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "LEISURE PROJECTS INTERNATIONAL LTD",
+              "internationalNumber": "RC-67759"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244328674,
+          "companyId": 60315187,
+          "personId": 99917819,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99917819,
+            "name": "anslem o. okoli",
+            "countryId": 24,
+            "address": "2, OMOIBITAYO STR., IKEJA, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "LEISURE PROJECTS INTERNATIONAL LTD",
+              "internationalNumber": "RC-67759"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

@@ -1,0 +1,393 @@
+[
+  {
+    "year": "1984",
+    "title": "LASCO MERCHANDISE CO. LTD - RC-66754 - Nigeria",
+    "description": "LASCO MERCHANDISE CO. LTD Nigeria company, Company number: RC-66754, Incorporation Date 12 нояб. 1984 г.;, Address: 96, DOCEMO STR., IDUMOTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60908376,
+      "name": "LASCO MERCHANDISE CO. LTD",
+      "internationalNumber": "RC-66754",
+      "localNumber": "66754",
+      "countryId": 24,
+      "dateCreated": "1984-11-12T00:00:00.000Z",
+      "createdAt": "2021-05-19T03:50:09.619Z",
+      "updatedAt": "2024-06-15T16:44:12.914Z",
+      "alternateNames": [],
+      "address": "96, DOCEMO STR., IDUMOTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "231850",
+      "updatedAtSitemap": "2023-06-09T16:19:59.000Z",
+      "oldInternationalNumber": "66754",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 169,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6416812,
+          "providerId": "177468",
+          "providerName": "Association                                       ",
+          "countryId": 24,
+          "createdAt": "2022-08-21T01:37:35.410223+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83354601,
+          "address": "96, DOCEMO STR., IDUMOTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "CEE-IYKE ENTS. (NIG.)",
+              "internationalNumber": "BN-731121"
+            },
+            {
+              "name": "GILOKI MOTORS LTD",
+              "internationalNumber": "RC-223379"
+            },
+            {
+              "name": "J. O. ILOKA & BROS. COMM. STORES",
+              "internationalNumber": "BN-510974"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 160650941,
+          "companyId": 60908376,
+          "personId": 67924864,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67924864,
+            "name": "linus n. okoli                                                                                       n/a",
+            "countryId": 24,
+            "address": "96, DOCEMO STR., IDUMOTA, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "INDUSTRIAL CHEMICAL GENERAL LTD",
+              "internationalNumber": "RC-105752"
+            },
+            {
+              "name": "LASCO AUTO COMPONENT NIG LTD",
+              "internationalNumber": "RC-76603"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160650944,
+          "companyId": 60908376,
+          "personId": 67924867,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67924867,
+            "name": "linus n. okoli",
+            "countryId": 24,
+            "address": "96, DOCEMO STR., IDUMOTA, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "INDUSTRIAL CHEMICAL GENERAL LTD",
+              "internationalNumber": "RC-105752"
+            },
+            {
+              "name": "LASCO AUTO COMPONENT NIG LTD",
+              "internationalNumber": "RC-76603"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160650943,
+          "companyId": 60908376,
+          "personId": 68032052,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68032052,
+            "name": "anthonia c. okoli                                                                                    n/a",
+            "countryId": 24,
+            "address": "96, DOCEMO STR., IDUMOTA, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "LASCO AUTO COMPONENT NIG LTD",
+              "internationalNumber": "RC-76603"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160650945,
+          "companyId": 60908376,
+          "personId": 68032053,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68032053,
+            "name": "anthonia c. okoli",
+            "countryId": 24,
+            "address": "96, DOCEMO STR., IDUMOTA, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "LASCO AUTO COMPONENT NIG LTD",
+              "internationalNumber": "RC-76603"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 3
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

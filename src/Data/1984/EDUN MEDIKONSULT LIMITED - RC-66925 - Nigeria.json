@@ -1,0 +1,395 @@
+[
+  {
+    "year": "1984",
+    "title": "EDUN MEDIKONSULT LIMITED - RC-66925 - Nigeria",
+    "description": "EDUN MEDIKONSULT LIMITED Nigeria company, Company number: RC-66925, Incorporation Date Nov 19, 1984;, Address: 11B, LADIPO STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60908549,
+      "name": "EDUN MEDIKONSULT LIMITED",
+      "internationalNumber": "RC-66925",
+      "localNumber": "66925",
+      "countryId": 24,
+      "dateCreated": "1984-11-19T00:00:00.000Z",
+      "createdAt": "2021-05-19T03:50:32.643Z",
+      "updatedAt": "2024-06-15T16:44:10.280Z",
+      "alternateNames": [],
+      "address": "11B, LADIPO STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "232021",
+      "updatedAtSitemap": "2023-06-09T16:19:58.000Z",
+      "oldInternationalNumber": "66925",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 86,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197893,
+          "providerId": "199092",
+          "providerName": "SOCIAL CLUBS BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:24:21.914181+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83355150,
+          "address": "11B, LADIPO STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 160650081,
+          "companyId": 60908549,
+          "personId": 67887039,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67887039,
+            "name": "kolawole edun                                                                                        n/a",
+            "countryId": 24,
+            "address": "11, ABEOKUTA STREET,  IDIMU                                                                                                 LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "KAMAF LTD",
+              "internationalNumber": "RC-133640"
+            },
+            {
+              "name": "ROBINSON VENTURES NIGERIA LIMITED",
+              "internationalNumber": "RC-113640"
+            },
+            {
+              "name": "OLAMUDA TRIPPLE M NIG LTD",
+              "internationalNumber": "RC-931167"
+            },
+            {
+              "name": "FOUR PILLERS NIGERIA LIMITED",
+              "internationalNumber": "RC-74982"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160650084,
+          "companyId": 60908549,
+          "personId": 67887045,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67887045,
+            "name": "kolawole edun",
+            "countryId": 24,
+            "address": "11, ABEOKUTA STREET,  IDIMU                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "KAMAF LTD",
+              "internationalNumber": "RC-133640"
+            },
+            {
+              "name": "ROBINSON VENTURES NIGERIA LIMITED",
+              "internationalNumber": "RC-113640"
+            },
+            {
+              "name": "OLAMUDA TRIPPLE M NIG LTD",
+              "internationalNumber": "RC-931167"
+            },
+            {
+              "name": "PODVOD TRUBO PROVODSTROY LIMITED",
+              "internationalNumber": "RC-381872"
+            },
+            {
+              "name": "FOUR PILLERS NIGERIA LIMITED",
+              "internationalNumber": "RC-74982"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160650079,
+          "companyId": 60908549,
+          "personId": 68057019,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68057019,
+            "name": "mojisola edun                                                                                        n/a",
+            "countryId": 24,
+            "address": "97, OYADIRAN ESTATE LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160650082,
+          "companyId": 60908549,
+          "personId": 68057021,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68057021,
+            "name": "mojisola edun",
+            "countryId": 24,
+            "address": "97, OYADIRAN ESTATE SAO YABA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "FFMB RESOURCES LTD",
+              "internationalNumber": "RC-484805"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 3
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
