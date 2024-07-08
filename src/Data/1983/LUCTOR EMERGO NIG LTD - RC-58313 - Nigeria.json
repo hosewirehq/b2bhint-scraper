@@ -1,0 +1,375 @@
+[
+  {
+    "year": "1983",
+    "title": "LUCTOR EMERGO NIG LTD - RC-58313 - Nigeria",
+    "description": "LUCTOR EMERGO NIG LTD Nigeria company, Company number: RC-58313, Incorporation Date Nov 2, 1983;, Address: 43, ONIFADE STR. MUSHIN, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60899985,
+      "name": "LUCTOR EMERGO NIG LTD",
+      "internationalNumber": "RC-58313",
+      "localNumber": "58313",
+      "countryId": 24,
+      "dateCreated": "1983-11-02T00:00:00.000Z",
+      "createdAt": "2021-05-18T20:36:27.003Z",
+      "updatedAt": "2024-06-15T16:44:27.095Z",
+      "alternateNames": [],
+      "address": "43, ONIFADE STR. MUSHIN, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "223443",
+      "updatedAtSitemap": "2023-06-09T16:20:29.000Z",
+      "oldInternationalNumber": "58313",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 186,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6409015,
+          "providerId": "484551",
+          "providerName": "Association                                       ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T22:16:00.420288+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83328776,
+          "address": "43, ONIFADE STR. MUSHIN, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "FOURTY FIVE (45) PROFESSIONAL ASSOCIATES LTD",
+              "internationalNumber": "RC-58302"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 160698096,
+          "companyId": 60899985,
+          "personId": 67123299,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67123299,
+            "name": "samuel o. olufade                                                                                    n/a",
+            "countryId": 24,
+            "address": "41, IYALLA STR. MUSHIN LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "FOURTY FIVE (45) PROFESSIONAL ASSOCIATES LTD",
+              "internationalNumber": "RC-58302"
+            },
+            {
+              "name": "INTER BRAIN KONSULT NIGERIA LTD",
+              "internationalNumber": "RC-170540"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160698098,
+          "companyId": 60899985,
+          "personId": 67123301,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67123301,
+            "name": "samuel o. olufade",
+            "countryId": 24,
+            "address": "41, IYALLA STR. MUSHIN LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "FOURTY FIVE (45) PROFESSIONAL ASSOCIATES LTD",
+              "internationalNumber": "RC-58302"
+            },
+            {
+              "name": "INTER BRAIN KONSULT NIGERIA LTD",
+              "internationalNumber": "RC-170540"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160698097,
+          "companyId": 60899985,
+          "personId": 68094395,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68094395,
+            "name": "john a. olujade                                                                                      n/a",
+            "countryId": 24,
+            "address": "42, IYALLA STR. MUSHIN LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160698099,
+          "companyId": 60899985,
+          "personId": 68094396,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68094396,
+            "name": "john a. olujade",
+            "countryId": 24,
+            "address": "42, IYALLA STR. MUSHIN LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
