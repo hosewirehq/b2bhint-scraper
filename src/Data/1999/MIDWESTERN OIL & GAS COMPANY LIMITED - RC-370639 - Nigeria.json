@@ -1,0 +1,443 @@
+[
+  {
+    "year": "1999",
+    "title": "MIDWESTERN OIL & GAS COMPANY LIMITED - RC-370639 - Nigeria",
+    "description": "MIDWESTERN OIL & GAS COMPANY LIMITED Nigeria company, Company number: RC-370639, Incorporation Date Dec 15, 1999;, Address: PLOT 10, BLOCK 12, OTUNBA ADEDOYIN OGUNGBE CRESCENT, LEKKI, LAGOS STATE",
+    "company": {
+      "id": 63745974,
+      "name": "MIDWESTERN OIL & GAS COMPANY LIMITED",
+      "internationalNumber": "RC-370639",
+      "localNumber": "370639",
+      "countryId": 24,
+      "dateCreated": "1999-12-15T00:00:00.000Z",
+      "createdAt": "2021-06-06T03:07:39.368Z",
+      "updatedAt": "2024-06-15T15:12:06.714Z",
+      "alternateNames": [],
+      "address": "PLOT 10, BLOCK 12, OTUNBA ADEDOYIN OGUNGBE CRESCENT, LEKKI, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "150000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "150000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS OF EXPLORATION AND PRODUCTION OF HYDROCARBON (OIL, GAS AND CONDENSATES).                                   ",
+      "providerId": "530054",
+      "updatedAtSitemap": "2023-06-09T19:04:18.000Z",
+      "oldInternationalNumber": "370639",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 147,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196967,
+          "providerId": "199119",
+          "providerName": "Oil and Gas Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:47.223789+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 89123927,
+          "address": "PLOT 10, BLOCK 12, OTUNBA ADEDOYIN OGUNGBE CRESCENT, LEKKI, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "MART UMUSADEGE RESOURCES NIGERIA LIMITED",
+              "internationalNumber": "RC-639685"
+            },
+            {
+              "name": "MARTWESTERN ENERGY LIMITED",
+              "internationalNumber": "RC-1135364"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 240508194,
+          "companyId": 63745974,
+          "personId": 66163166,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66163166,
+            "name": "onajite okoloko",
+            "countryId": 24,
+            "address": "PLOT 899 BALARABE MUSA CRESCENT VICTORIAL ISLND  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "NOTORE SEEDS LIMITED",
+              "internationalNumber": "RC-825036"
+            },
+            {
+              "name": "EROTON ENERGY LIMITED",
+              "internationalNumber": "RC-910234"
+            },
+            {
+              "name": "NOTORE FOODS LIMITED",
+              "internationalNumber": "RC-825037"
+            },
+            {
+              "name": "CJT PROPERTIES LIMITED",
+              "internationalNumber": "RC-446808"
+            },
+            {
+              "name": "CENTAURCORP LIMITED",
+              "internationalNumber": "RC-884133"
+            },
+            {
+              "name": "BASCORP NIGERIA LIMITED",
+              "internationalNumber": "RC-895685"
+            },
+            {
+              "name": "BILTON ENERGY LIMITED",
+              "internationalNumber": "RC-1135274"
+            },
+            {
+              "name": "WALSTRAND LIMITED",
+              "internationalNumber": "RC-883545"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 226344561,
+          "companyId": 63745974,
+          "personId": 66521599,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66521599,
+            "name": "delta state government",
+            "countryId": 24,
+            "address": "7/9 NWNZE OZIE STREET  ASABA                                                                                                 DELTA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GRAND HOTELS LIMITED",
+              "internationalNumber": "RC-287518"
+            },
+            {
+              "name": "ASABA MALL DEVELOPMENT COMPANY LIMITED",
+              "internationalNumber": "RC-1146422"
+            },
+            {
+              "name": "FLE-DELTA OIL REFINERY OBODO LIMITED",
+              "internationalNumber": "RC-893757"
+            },
+            {
+              "name": "OANDO PRODUCTION AND DEVELOPMENT COMPANY LIMITED",
+              "internationalNumber": "RC-409030"
+            },
+            {
+              "name": "FLE-DELTA PETROLEUM RESOURCES LTD",
+              "internationalNumber": "RC-893208"
+            },
+            {
+              "name": "FLE-DELTA BIOFUELS LIMITED",
+              "internationalNumber": "RC-893215"
+            },
+            {
+              "name": "OFN-DELTA FARMS LIMITED",
+              "internationalNumber": "RC-918180"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240508193,
+          "companyId": 63745974,
+          "personId": 67058569,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 67058569,
+            "name": "joseph mekwunye",
+            "countryId": 24,
+            "address": "PLOT 312, DANTATA ESTATE WUSE II, ABUJA FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [
+            {
+              "name": "MARGBUCCARLY INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-356367"
+            },
+            {
+              "name": "MEKTERRY INTERNATINAL LIMITED",
+              "internationalNumber": "RC-992197"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240508202,
+          "companyId": 63745974,
+          "personId": 67058569,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 67058569,
+            "name": "joseph mekwunye",
+            "countryId": 24,
+            "address": "PLOT 312, DANTATA ESTATE WUSE II, ABUJA FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [
+            {
+              "name": "MARGBUCCARLY INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-356367"
+            },
+            {
+              "name": "MEKTERRY INTERNATINAL LIMITED",
+              "internationalNumber": "RC-992197"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "35",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 32,
+        "null": 3
+      },
+      "personsWithRelatedCount": 16
+    }
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "year": "1999",
+    "title": "NANDOS CHICKEN LIMITED - RC-369799 - Nigeria",
+    "description": "NANDOS CHICKEN LIMITED Nigeria company, Company number: RC-369799, Incorporation Date Nov 29, 1999;, Address: 11, SUMBOJIBOWUSTR., IKOYI, LAGOS, IKOYI, LAGOS STATE",
+    "company": {
+      "id": 61322314,
+      "name": "NANDOS CHICKEN LIMITED",
+      "internationalNumber": "RC-369799",
+      "localNumber": "369799",
+      "countryId": 24,
+      "dateCreated": "1999-11-29T00:00:00.000Z",
+      "createdAt": "2021-05-24T02:57:15.077Z",
+      "updatedAt": "2024-06-15T15:12:00.255Z",
+      "alternateNames": [],
+      "address": "11, SUMBOJIBOWUSTR., IKOYI, LAGOS, IKOYI, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "529301",
+      "updatedAtSitemap": "2023-06-09T19:04:26.000Z",
+      "oldInternationalNumber": "369799",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 72,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92931572,
+          "address": "11, SUMBOJIBOWUSTR., IKOYI, LAGOS, IKOYI, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "EUNIPHIL VENTURES LTD",
+              "internationalNumber": "RC-356658"
+            },
+            {
+              "name": "ENCO COMMUNICATIONS NIG LTD",
+              "internationalNumber": "RC-437918"
+            },
+            {
+              "name": "AVIONICS LIMITED",
+              "internationalNumber": "RC-450857"
+            },
+            {
+              "name": "THORNH ENG. AND ENERGY LTD",
+              "internationalNumber": "RC-368437"
+            },
+            {
+              "name": "VODAFONR LTD",
+              "internationalNumber": "RC-371002"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 176369735,
+          "companyId": 61322314,
+          "personId": 68235082,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68235082,
+            "name": "onyeka anyene",
+            "countryId": 24,
+            "address": "11, SUMBO JIBOWO STREET IKOYI LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "FONY RESOURCES LIMITED",
+              "internationalNumber": "RC-640996"
+            },
+            {
+              "name": "GLOBAL BRAND MANAGERS LIMITED",
+              "internationalNumber": "RC-488801"
+            },
+            {
+              "name": "CRESCENT ASSET MANAGEMENT LIMITED",
+              "internationalNumber": "RC-659997"
+            },
+            {
+              "name": "WHITEFIELD & OAK TRUST LIMITED",
+              "internationalNumber": "RC-652182"
+            },
+            {
+              "name": "AVIONICS LIMITED",
+              "internationalNumber": "RC-450857"
+            },
+            {
+              "name": "WESTPOINT PROPERTY DEVELOPMENT COMPANY LIMITED",
+              "internationalNumber": "RC-660064"
+            },
+            {
+              "name": "J.P. PHARMACEUTICALS AND LABORATORIES LTD",
+              "internationalNumber": "RC-367668"
+            },
+            {
+              "name": "AFRICA BUSINESS LIMITED",
+              "internationalNumber": "RC-492812"
+            },
+            {
+              "name": "MINUTEMAN PRESS INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-388287"
+            },
+            {
+              "name": "AFFILIATES PARTNER FUNDS LIMITED",
+              "internationalNumber": "RC-661456"
+            },
+            {
+              "name": "EQUIPMENT MANAGEMENT COMPANY LIMITED",
+              "internationalNumber": "RC-646833"
+            },
+            {
+              "name": "BENJAMIN BUSINESS INTELLIGENCE LIMITED",
+              "internationalNumber": "RC-651664"
+            },
+            {
+              "name": "54 AWOLOWO ROAD MANAGEMENT COMPANY LIMITED",
+              "internationalNumber": "RC-640796"
+            },
+            {
+              "name": "STERLING PROJECTS LIMITED",
+              "internationalNumber": "RC-505975"
+            },
+            {
+              "name": "NOAH ADVANTIUM LIMITED",
+              "internationalNumber": "RC-998000"
+            },
+            {
+              "name": "BROKER ASSOCIATES LIMITED",
+              "internationalNumber": "RC-646572"
+            },
+            {
+              "name": "TELECOMS RESEARCH AND INFORMATION COMPANY LIMITED",
+              "internationalNumber": "RC-505524"
+            },
+            {
+              "name": "REALITY INTEGRATED DEVELOPMENT SERVICES LIMITED",
+              "internationalNumber": "RC-499089"
+            },
+            {
+              "name": "TALK-TECH INTER. LTD",
+              "internationalNumber": "RC-380231"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 176369736,
+          "companyId": 61322314,
+          "personId": 71645435,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 71645435,
+            "name": "ikechukwu anyene",
+            "countryId": 24,
+            "address": "11, SUMBO JIBOWU STR.,OFF RIBADU RD., S.W. IKOYI LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "INCREDIBLE CONNECTIONS LIMITED",
+              "internationalNumber": "RC-416868"
+            },
+            {
+              "name": "TRUWORTH REAL ESTATE LTD",
+              "internationalNumber": "RC-370880"
+            },
+            {
+              "name": "AIRWAVES RESOURCES LIMITED",
+              "internationalNumber": "RC-404527"
+            },
+            {
+              "name": "BENJAMIN FERGUSON ASSETS LIMITED",
+              "internationalNumber": "RC-662335"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
