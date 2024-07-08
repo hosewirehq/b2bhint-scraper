@@ -1,0 +1,448 @@
+[
+  {
+    "year": "1994",
+    "title": "JHOMBB'S LTD - RC-257829 - Nigeria",
+    "description": "JHOMBB'S LTD Nigeria company, Company number: RC-257829, Incorporation Date 18 lis 1994;, Address: 2, MURITALA MOHD INTER. AIRPORT ROAD, LAGOS",
+    "company": {
+      "id": 63101485,
+      "name": "JHOMBB'S LTD",
+      "internationalNumber": "RC-257829",
+      "localNumber": "257829",
+      "countryId": 24,
+      "dateCreated": "1994-11-18T00:00:00.000Z",
+      "createdAt": "2021-06-01T19:34:23.635Z",
+      "updatedAt": "2024-06-15T14:16:01.356Z",
+      "alternateNames": [],
+      "address": "2, MURITALA MOHD INTER. AIRPORT ROAD, LAGOS",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "2000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "2000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON BUSINES AS DRESSMAKER, TAILORS AND COUNTURIERS AND TO ENGAGE IN THE MAKING, REPAIR, ALTERATION AND SALE OF CLOTHES AND WEARING APPAREL OF ALL DESCRIPTIONS, WHETHER CLASSIFIED AS FORMAL DRESS, CASUAL WEAR, NIGHTWEAR ATTIRE, BABY CLOTHES OR OTHERWISE.",
+      "providerId": "421488",
+      "updatedAtSitemap": "2023-06-09T18:05:44.000Z",
+      "oldInternationalNumber": "257829",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 261,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6198429,
+          "providerId": "199361",
+          "providerName": "Sale of SIM Cards, Credit/Recharge Cards",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:42:41.363361+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92327324,
+          "address": "2, MURITALA MOHD INTER. AIRPORT ROAD, LAGOS",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 244934773,
+          "companyId": 63101485,
+          "personId": 78748097,
+          "roleId": 60323,
+          "appointedOn": "2019-05-12",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 200000,
+          "person": {
+            "id": 78748097,
+            "name": "babasola omotola tochukwu",
+            "countryId": 24,
+            "address": "ROAD C10, HOUSE 163, NICON TOWN ESTATE. AJAH, LEKKI",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244934779,
+          "companyId": 63101485,
+          "personId": 78748097,
+          "roleId": 60321,
+          "appointedOn": "2022-03-29",
+          "votingShares": "null%",
+          "sourceNum": 1,
+          "person": {
+            "id": 78748097,
+            "name": "babasola omotola tochukwu",
+            "countryId": 24,
+            "address": "ROAD C10, HOUSE 163, NICON TOWN ESTATE. AJAH, LEKKI",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244934766,
+          "companyId": 63101485,
+          "personId": 78748098,
+          "roleId": 60317,
+          "appointedOn": "2019-05-11",
+          "sourceNum": 1,
+          "person": {
+            "id": 78748098,
+            "name": "babasola mabel ekeoma",
+            "countryId": 24,
+            "address": "ROAD C10, HOUSE 163, NICON TOWN ESTATE. AJAH, LEKKI",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244934770,
+          "companyId": 63101485,
+          "personId": 78748098,
+          "roleId": 60322,
+          "appointedOn": "2019-05-12",
+          "sourceNum": 1,
+          "person": {
+            "id": 78748098,
+            "name": "babasola mabel ekeoma",
+            "countryId": 24,
+            "address": "ROAD C10, HOUSE 163, NICON TOWN ESTATE. AJAH, LEKKI",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60322,
+            "name": "Secretary company",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary company"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244934772,
+          "companyId": 63101485,
+          "personId": 78748098,
+          "roleId": 60323,
+          "appointedOn": "2019-05-12",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 300000,
+          "person": {
+            "id": 78748098,
+            "name": "babasola mabel ekeoma",
+            "countryId": 24,
+            "address": "ROAD C10, HOUSE 163, NICON TOWN ESTATE. AJAH, LEKKI",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244934769,
+          "companyId": 63101485,
+          "personId": 78748100,
+          "roleId": 60317,
+          "appointedOn": "2019-05-12",
+          "sourceNum": 1,
+          "person": {
+            "id": 78748100,
+            "name": "babasola emmanuella abisolaoluwa",
+            "countryId": 24,
+            "address": "ROAD C10, HOUSE 163, NICON TOWN ESTATE. AJAH, LEKKI",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "19",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 5,
+        "2": 6,
+        "null": 8
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
