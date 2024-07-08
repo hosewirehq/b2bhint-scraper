@@ -1,0 +1,395 @@
+[
+  {
+    "year": "1995",
+    "title": "CHIKASON IND. LIMITED - RC-279321 - Nigeria",
+    "description": "CHIKASON IND. LIMITED Nigeria company, Company number: RC-279321, Incorporation Date Aug 29, 1995;, Address: NO. 4, UFFA STREET, ABA, IMO, ABA, IMO STATE",
+    "company": {
+      "id": 63195635,
+      "name": "CHIKASON IND. LIMITED",
+      "internationalNumber": "RC-279321",
+      "localNumber": "279321",
+      "countryId": 24,
+      "dateCreated": "1995-08-29T00:00:00.000Z",
+      "createdAt": "2021-06-02T06:28:45.270Z",
+      "updatedAt": "2024-06-15T16:19:03.515Z",
+      "alternateNames": [],
+      "address": "NO. 4, UFFA STREET, ABA, IMO, ABA, IMO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "442230",
+      "updatedAtSitemap": "2023-06-09T19:20:55.000Z",
+      "oldInternationalNumber": "279321",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 219,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92454744,
+          "address": "NO. 4, UFFA STREET, ABA, IMO, ABA, IMO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 244010847,
+          "companyId": 63195635,
+          "personId": 69027975,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 69027975,
+            "name": "okoye innocent                                                                                       n/a",
+            "countryId": 24,
+            "address": "4, UFFA STR., ABA ABIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "O.&F. ENTS LTD",
+              "internationalNumber": "RC-219365"
+            },
+            {
+              "name": "PINNATUM GLOBAL LINKS LIMITED",
+              "internationalNumber": "RC-897468"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244010851,
+          "companyId": 63195635,
+          "personId": 69372746,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 69372746,
+            "name": "okoye innocent",
+            "countryId": 24,
+            "address": "4, UFFA STR., ABA ABIA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "O.&F. ENTS LTD",
+              "internationalNumber": "RC-219365"
+            },
+            {
+              "name": "AMSLINK NIGERIA LIMITED",
+              "internationalNumber": "RC-370234"
+            },
+            {
+              "name": "INNOLAC NIGERIA LIMITED",
+              "internationalNumber": "RC-334677"
+            },
+            {
+              "name": "PINNATUM GLOBAL LINKS LIMITED",
+              "internationalNumber": "RC-897468"
+            },
+            {
+              "name": "ELITE INTERIOR LIMITED",
+              "internationalNumber": "RC-993407"
+            },
+            {
+              "name": "OKOBEST INTER TRADING CO NIG LTD",
+              "internationalNumber": "RC-964464"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244010849,
+          "companyId": 63195635,
+          "personId": 75384522,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 75384522,
+            "name": "okoye chinelo                                                                                        n/a",
+            "countryId": 24,
+            "address": "20, IHIALA CITY LAYOUT, UPPER CHIME AVENUE, NEW HAVEN  ENUGU                                                                                                 ENUGU",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "LILAC MERZ LIMITED",
+              "internationalNumber": "RC-237720"
+            },
+            {
+              "name": "BELLA & UTCHY LTD",
+              "internationalNumber": "RC-933356"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244010852,
+          "companyId": 63195635,
+          "personId": 99744810,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99744810,
+            "name": "okoye justina c.",
+            "countryId": 24,
+            "address": "4, UFFA STR., ABA ABIA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5,
+        "3": 4
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

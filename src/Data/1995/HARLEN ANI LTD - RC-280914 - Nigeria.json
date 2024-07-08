@@ -1,0 +1,421 @@
+[
+  {
+    "year": "1995",
+    "title": "HARLEN ANI LTD - RC-280914 - Nigeria",
+    "description": "HARLEN ANI LTD Nigeria company, Company number: RC-280914, Incorporation Date 10 окт. 1995 г.;, Address: 1, OBA BIOKU CLOSE, AGODI GRA., IBADAN, OYO, IBADAN, OYO STATE",
+    "company": {
+      "id": 63202536,
+      "name": "HARLEN ANI LTD",
+      "internationalNumber": "RC-280914",
+      "localNumber": "280914",
+      "countryId": 24,
+      "dateCreated": "1995-10-10T00:00:00.000Z",
+      "createdAt": "2021-06-02T07:21:33.301Z",
+      "updatedAt": "2024-06-15T16:18:39.895Z",
+      "alternateNames": [],
+      "address": "1, OBA BIOKU CLOSE, AGODI GRA., IBADAN, OYO, IBADAN, OYO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "35000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "443780",
+      "updatedAtSitemap": "2023-06-09T19:20:37.000Z",
+      "oldInternationalNumber": "280914",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 84,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92464934,
+          "address": "1, OBA BIOKU CLOSE, AGODI GRA., IBADAN, OYO, IBADAN, OYO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 243918590,
+          "companyId": 63202536,
+          "personId": 99454340,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 99454340,
+            "name": "ejueyitchie j. ayeoritse                                                                             n/a",
+            "countryId": 24,
+            "address": "NO.4, OLUKOLE CLOSE SURULERE LAGOS LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "DANELAND VENTURES LIMITED",
+              "internationalNumber": "RC-291881"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243918596,
+          "companyId": 63202536,
+          "personId": 99454342,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99454342,
+            "name": "ejueyitchie j. ayeoritse",
+            "countryId": 24,
+            "address": "NO.4, OLUKOLE CLOSE SURULERE LAGOS LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "DANELAND VENTURES LIMITED",
+              "internationalNumber": "RC-291881"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243918598,
+          "companyId": 63202536,
+          "personId": 99695682,
+          "roleId": 60320,
+          "appointedOn": "2021-12-01",
+          "sourceNum": 1,
+          "person": {
+            "id": 99695682,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GEORGE INIH (NIGERIA) TECHNOLOGIES & SERVICES LTD",
+              "internationalNumber": "RC-280913"
+            },
+            {
+              "name": "ASNO INDUSTRIES LTD",
+              "internationalNumber": "RC-304396"
+            },
+            {
+              "name": "MONEY ENTERPRISES LIMITED",
+              "internationalNumber": "RC-280917"
+            },
+            {
+              "name": "CALIBRA VENTURES  LTD",
+              "internationalNumber": "RC-280911"
+            },
+            {
+              "name": "MCOBSONS NIGERIA LIMITED",
+              "internationalNumber": "RC-304393"
+            },
+            {
+              "name": "ADO FARMS AND GENERAL MERCHANT",
+              "internationalNumber": "BN-3944259"
+            },
+            {
+              "name": "VICOS  VENTURES  LTD",
+              "internationalNumber": "RC-280916"
+            },
+            {
+              "name": "SAMSONITE  INTERNATIONAL  LTD",
+              "internationalNumber": "RC-280915"
+            },
+            {
+              "name": "A AND M GENERATIONS LTD",
+              "internationalNumber": "RC-307553"
+            },
+            {
+              "name": "MAROP NIGERIA LIMITED",
+              "internationalNumber": "RC-304394"
+            },
+            {
+              "name": "OZULUMBA INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-304397"
+            },
+            {
+              "name": "DEODOT VENTURES  LIMITED",
+              "internationalNumber": "RC-280912"
+            },
+            {
+              "name": "OLY-MAAT VENTURES LTD",
+              "internationalNumber": "RC-304392"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243918586,
+          "companyId": 63202536,
+          "personId": 99695764,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 99695764,
+            "name": "ejueyitchie t. oluremi                                                                               n/a",
+            "countryId": 24,
+            "address": "1, OBA BIOKU CLOSE, AGODI, IBADAN OYO",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "13",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 7,
+        "3": 6
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
