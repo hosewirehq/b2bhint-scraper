@@ -1,0 +1,390 @@
+[
+  {
+    "year": "1982",
+    "title": "RENSA ALUMINIUM CO. LIMITED - RC-50106 - Nigeria",
+    "description": "RENSA ALUMINIUM CO. LIMITED Nigeria company, Company number: RC-50106, Incorporation Date Oct 8, 1982;, Address: 19, CALCUTTA CRESCENT, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60861593,
+      "name": "RENSA ALUMINIUM CO. LIMITED",
+      "internationalNumber": "RC-50106",
+      "localNumber": "50106",
+      "countryId": 24,
+      "dateCreated": "1982-10-08T00:00:00.000Z",
+      "createdAt": "2021-05-15T10:21:54.181Z",
+      "updatedAt": "2024-06-15T16:44:45.193Z",
+      "alternateNames": [],
+      "address": "19, CALCUTTA CRESCENT, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "215313",
+      "updatedAtSitemap": "2023-06-09T16:21:02.000Z",
+      "oldInternationalNumber": "50106",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 195,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6401678,
+          "providerId": "275850",
+          "providerName": "Association                                       ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T18:51:44.140886+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83313722,
+          "address": "19, CALCUTTA CRESCENT, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238665145,
+          "companyId": 60861593,
+          "personId": 66280227,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66280227,
+            "name": "samuel emeka",
+            "countryId": 24,
+            "address": "NO. 1, PALACE ROAD, OGINIBA, TRANS-AMADI  PORT HARCOURT                                                                                         RIVERS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SPARKS SUPERSTORES",
+              "internationalNumber": "BN-2225745"
+            },
+            {
+              "name": "LANDSAND ENGINEERING LIMITED",
+              "internationalNumber": "RC-874289"
+            },
+            {
+              "name": "JACBU INTEGRATED PROJECTS LIMITED",
+              "internationalNumber": "RC-791094"
+            },
+            {
+              "name": "EMSYN NIGERIA LIMITED",
+              "internationalNumber": "RC-385641"
+            },
+            {
+              "name": "YOMAN INTEGRATED SERVICES",
+              "internationalNumber": "BN-2212365"
+            },
+            {
+              "name": "SEA-GAN MERCHANTILES LTD",
+              "internationalNumber": "RC-181807"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238665142,
+          "companyId": 60861593,
+          "personId": 66985035,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66985035,
+            "name": "samuel emeka                                                                                         n/a",
+            "countryId": 24,
+            "address": "37, PALACE RD. LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SEA-GAN MERCHANTILES LTD",
+              "internationalNumber": "RC-181807"
+            },
+            {
+              "name": "BURTZ INDUSTRIES LTD",
+              "internationalNumber": "RC-33249"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238665143,
+          "companyId": 60861593,
+          "personId": 67152331,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67152331,
+            "name": "raphael ugochukwu                                                                                    n/a",
+            "countryId": 24,
+            "address": "19, CALCUTA CRESCENT APAPA LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238665146,
+          "companyId": 60861593,
+          "personId": 67152334,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67152334,
+            "name": "raphael ugochukwu",
+            "countryId": 24,
+            "address": "19, CALCUTA CRESCENT APAPA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GLOBAL PLUSH PUBLISHING NIGERIA LIMITED",
+              "internationalNumber": "RC-1069377"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 3
+      },
+      "personsWithRelatedCount": 5
+    }
+  }
+]
