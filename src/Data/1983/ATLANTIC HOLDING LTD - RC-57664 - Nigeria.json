@@ -1,0 +1,402 @@
+[
+  {
+    "year": "1983",
+    "title": "ATLANTIC HOLDING LTD - RC-57664 - Nigeria",
+    "description": "ATLANTIC HOLDING LTD Nigeria company, Company number: RC-57664, Incorporation Date Oct 5, 1983;, Address: PLOT B12, SAPELE RD., BENIN CITY, EDO, BENIN CITY, EDO STATE",
+    "company": {
+      "id": 60899340,
+      "name": "ATLANTIC HOLDING LTD",
+      "internationalNumber": "RC-57664",
+      "localNumber": "57664",
+      "countryId": 24,
+      "dateCreated": "1983-10-05T00:00:00.000Z",
+      "createdAt": "2021-05-18T20:34:51.995Z",
+      "updatedAt": "2024-06-15T16:44:29.534Z",
+      "alternateNames": [],
+      "address": "PLOT B12, SAPELE RD., BENIN CITY, EDO, BENIN CITY, EDO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "222800",
+      "updatedAtSitemap": "2023-06-09T16:20:33.000Z",
+      "oldInternationalNumber": "57664",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 85,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6408385,
+          "providerId": "469350",
+          "providerName": "Foundation                                        ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T21:56:27.662992+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83327466,
+          "address": "PLOT B12, SAPELE RD., BENIN CITY, EDO, BENIN CITY, EDO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 160701625,
+          "companyId": 60899340,
+          "personId": 68053428,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68053428,
+            "name": "solomon a. asemota                                                                                   n/a",
+            "countryId": 24,
+            "address": "15, OGBENEDE STR. BENIN CITY",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SATTEC NIGERIA LIMITED",
+              "internationalNumber": "RC-148693"
+            },
+            {
+              "name": "INSTANT DRINKS & FOOD NIG LTD",
+              "internationalNumber": "RC-14980"
+            },
+            {
+              "name": "SCHAER INDUSTRIES LTD",
+              "internationalNumber": "RC-26917"
+            },
+            {
+              "name": "HOUSEHOLD OF FAITH MINISTRY INTERNATIONAL",
+              "internationalNumber": "RC-43160"
+            },
+            {
+              "name": "SIIOA LTD",
+              "internationalNumber": "RC-40371"
+            },
+            {
+              "name": "KEYPOINTS NIG LTD",
+              "internationalNumber": "RC-47323"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160701628,
+          "companyId": 60899340,
+          "personId": 68053429,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68053429,
+            "name": "solomon a. asemota",
+            "countryId": 24,
+            "address": "15, OGBENEDE STR. BENIN CITY",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SATTEC NIGERIA LIMITED",
+              "internationalNumber": "RC-148693"
+            },
+            {
+              "name": "INSTANT DRINKS & FOOD NIG LTD",
+              "internationalNumber": "RC-14980"
+            },
+            {
+              "name": "SCHAER INDUSTRIES LTD",
+              "internationalNumber": "RC-26917"
+            },
+            {
+              "name": "HOUSEHOLD OF FAITH MINISTRY INTERNATIONAL",
+              "internationalNumber": "RC-43160"
+            },
+            {
+              "name": "SIIOA LTD",
+              "internationalNumber": "RC-40371"
+            },
+            {
+              "name": "KEYPOINTS NIG LTD",
+              "internationalNumber": "RC-47323"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160701624,
+          "companyId": 60899340,
+          "personId": 68097139,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68097139,
+            "name": "solomon o. olotu (mr.)                                                                               n/a",
+            "countryId": 24,
+            "address": "7, OGHENEVINETA STR., P.M.B. 77, UGHELI - DELTA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160701627,
+          "companyId": 60899340,
+          "personId": 68097141,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68097141,
+            "name": "solomon o. olotu (mr.)",
+            "countryId": 24,
+            "address": "7, OGHENEVINETA STR., P.M.B. 77, UGHELI - DELTA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 3
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

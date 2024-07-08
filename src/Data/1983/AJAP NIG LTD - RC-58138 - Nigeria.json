@@ -1,0 +1,389 @@
+[
+  {
+    "year": "1983",
+    "title": "AJAP NIG LTD - RC-58138 - Nigeria",
+    "description": "AJAP NIG LTD Nigeria company, Company number: RC-58138, Incorporation Date Oct 26, 1983;, Address: 19, MARTINS STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60899798,
+      "name": "AJAP NIG LTD",
+      "internationalNumber": "RC-58138",
+      "localNumber": "58138",
+      "countryId": 24,
+      "dateCreated": "1983-10-26T00:00:00.000Z",
+      "createdAt": "2021-05-18T20:36:00.076Z",
+      "updatedAt": "2024-06-15T16:44:28.598Z",
+      "alternateNames": [],
+      "address": "19, MARTINS STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "223269",
+      "updatedAtSitemap": "2023-06-09T16:20:30.000Z",
+      "oldInternationalNumber": "58138",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 140,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6408838,
+          "providerId": "478665",
+          "providerName": "Association                                       ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T22:10:08.029905+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82044788,
+          "address": "19, MARTINS STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "COKER  & CO. NIG LTD",
+              "internationalNumber": "RC-19289"
+            },
+            {
+              "name": "LEA FARMS LIMITED",
+              "internationalNumber": "RC-56699"
+            },
+            {
+              "name": "NDI  INTERNATIONAL  LTD",
+              "internationalNumber": "RC-270559"
+            },
+            {
+              "name": "ESVEE IMPEX LTD",
+              "internationalNumber": "RC-257700"
+            },
+            {
+              "name": "ENVIRONS  BUILDING  SERVICES LTD",
+              "internationalNumber": "RC-52291"
+            },
+            {
+              "name": "EXPERTAIR LIMITED",
+              "internationalNumber": "RC-90601"
+            },
+            {
+              "name": "BOMAC INTERNATIONAL LTD",
+              "internationalNumber": "RC-63493"
+            },
+            {
+              "name": "ALLWELL COMMERCE LTD",
+              "internationalNumber": "RC-257702"
+            },
+            {
+              "name": "ALPHAVISION MULTIMEDIA LTD",
+              "internationalNumber": "RC-265754"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 160699047,
+          "companyId": 60899798,
+          "personId": 68095130,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68095130,
+            "name": "adewole igefe                                                                                        n/a",
+            "countryId": 24,
+            "address": "19, MARTINS STR. IST FLOOR, LAGOS.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160699048,
+          "companyId": 60899798,
+          "personId": 68095131,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68095131,
+            "name": "john a. igbafe                                                                                       n/a",
+            "countryId": 24,
+            "address": "L.S.D.P.C. LOW COST HOUSE BLK.1, 224 FLT. 3 LAGOS.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160699049,
+          "companyId": 60899798,
+          "personId": 68095132,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68095132,
+            "name": "adewole igefe",
+            "countryId": 24,
+            "address": "19, MARTINS STR. IST FLOOR, LAGOS.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160699050,
+          "companyId": 60899798,
+          "personId": 68095133,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68095133,
+            "name": "john a. igbafe",
+            "countryId": 24,
+            "address": "L.S.D.P.C. LOW COST HOUSE BLK.1, 224 FLT. 3 LAGOS.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]

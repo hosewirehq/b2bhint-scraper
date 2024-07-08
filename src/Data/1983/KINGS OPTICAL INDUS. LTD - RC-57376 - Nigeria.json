@@ -1,0 +1,388 @@
+[
+  {
+    "year": "1983",
+    "title": "KINGS OPTICAL INDUS. LTD - RC-57376 - Nigeria",
+    "description": "KINGS OPTICAL INDUS. LTD Nigeria company, Company number: RC-57376, Incorporation Date 22 de sep de 1983;, Address: 10, CAPTAIN AMANGALA STR. BOROKIRI, PORT HARCOURT, RIVERS, PORT HARCOURT, RIVERS STATE",
+    "company": {
+      "id": 60899051,
+      "name": "KINGS OPTICAL INDUS. LTD",
+      "internationalNumber": "RC-57376",
+      "localNumber": "57376",
+      "countryId": 24,
+      "dateCreated": "1983-09-22T00:00:00.000Z",
+      "createdAt": "2021-05-18T20:34:10.519Z",
+      "updatedAt": "2024-06-15T16:44:29.513Z",
+      "alternateNames": [],
+      "address": "10, CAPTAIN AMANGALA STR. BOROKIRI, PORT HARCOURT, RIVERS, PORT HARCOURT, RIVERS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "222513",
+      "updatedAtSitemap": "2023-06-09T16:20:33.000Z",
+      "oldInternationalNumber": "57376",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 190,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6408131,
+          "providerId": "461793",
+          "providerName": "Organization                                      ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T21:49:40.560494+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83327000,
+          "address": "10, CAPTAIN AMANGALA STR. BOROKIRI, PORT HARCOURT, RIVERS, PORT HARCOURT, RIVERS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 160703198,
+          "companyId": 60899051,
+          "personId": 68089788,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68089788,
+            "name": "claude igbani                                                                                        n/a",
+            "countryId": 24,
+            "address": "10, CAPTAIN AMANGALA STR., PORT HARCOURT",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "KENT SUPPLY SERVICES LTD",
+              "internationalNumber": "RC-59517"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160703200,
+          "companyId": 60899051,
+          "personId": 68089796,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68089796,
+            "name": "claude igbani",
+            "countryId": 24,
+            "address": "10, CAPTAIN AMANGALA STR., PORT HARCOURT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "KENT SUPPLY SERVICES LTD",
+              "internationalNumber": "RC-59517"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160703197,
+          "companyId": 60899051,
+          "personId": 68098329,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68098329,
+            "name": "abigail king                                                                                         n/a",
+            "countryId": 24,
+            "address": "C/O NKOFOH TOWN,BONNY LOCAL GOVT. AREA, RIVERS RIVERS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "CONFORTI CALVIN (NIG) LTD",
+              "internationalNumber": "RC-43981"
+            },
+            {
+              "name": "FRIENDS CLUB ABUJA",
+              "internationalNumber": "RC-45243"
+            },
+            {
+              "name": "DAIRY PRODUCTS NIGERIA LIMITED",
+              "internationalNumber": "RC-42542"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160703199,
+          "companyId": 60899051,
+          "personId": 68098330,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68098330,
+            "name": "abigail king",
+            "countryId": 24,
+            "address": "C/O NKOFOH TOWN,BONNY LOCAL GOVT. AREA, RIVERS RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CONFORTI CALVIN (NIG) LTD",
+              "internationalNumber": "RC-43981"
+            },
+            {
+              "name": "FRIENDS CLUB ABUJA",
+              "internationalNumber": "RC-45243"
+            },
+            {
+              "name": "DAIRY PRODUCTS NIGERIA LIMITED",
+              "internationalNumber": "RC-42542"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

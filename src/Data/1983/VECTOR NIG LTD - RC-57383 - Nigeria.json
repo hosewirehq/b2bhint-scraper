@@ -1,0 +1,414 @@
+[
+  {
+    "year": "1983",
+    "title": "VECTOR NIG LTD - RC-57383 - Nigeria",
+    "description": "VECTOR NIG LTD Nigeria company, Company number: RC-57383, Incorporation Date Sep 22, 1983;, Address: 10, OBANYA STR. AROKA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60899060,
+      "name": "VECTOR NIG LTD",
+      "internationalNumber": "RC-57383",
+      "localNumber": "57383",
+      "countryId": 24,
+      "dateCreated": "1983-09-22T00:00:00.000Z",
+      "createdAt": "2021-05-18T20:34:10.972Z",
+      "updatedAt": "2024-06-15T16:44:28.442Z",
+      "alternateNames": [],
+      "address": "10, OBANYA STR. AROKA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "222520",
+      "updatedAtSitemap": "2023-06-09T16:20:34.000Z",
+      "oldInternationalNumber": "57383",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 190,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6408134,
+          "providerId": "461811",
+          "providerName": "Organization                                      ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T21:49:44.830178+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83327010,
+          "address": "10, OBANYA STR. AROKA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 160703155,
+          "companyId": 60899060,
+          "personId": 66820636,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66820636,
+            "name": "adebayo salami                                                                                       n/a",
+            "countryId": 24,
+            "address": "1, AYITEBI ST, APAPA RD, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "ADEBOW NIG LTD",
+              "internationalNumber": "RC-195058"
+            },
+            {
+              "name": "AOLAT (NIG) LTD",
+              "internationalNumber": "RC-55966"
+            },
+            {
+              "name": "PREMIUM SQUARE LIMITED",
+              "internationalNumber": "RC-1103710"
+            },
+            {
+              "name": "BIZ-FOUNTAIN NIGERIA LIMITED",
+              "internationalNumber": "RC-192291"
+            },
+            {
+              "name": "S. SULEIMAN (ALHAJI) NIGERIA LTD",
+              "internationalNumber": "RC-113522"
+            },
+            {
+              "name": "SPLASH DRINKING WATER LIMITED",
+              "internationalNumber": "RC-246706"
+            },
+            {
+              "name": "FRIENDSCOPE FILM PRODUCTION LTD",
+              "internationalNumber": "RC-81859"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160703157,
+          "companyId": 60899060,
+          "personId": 66820639,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66820639,
+            "name": "adebayo salami",
+            "countryId": 24,
+            "address": "NO. 11, MOBOREDE ODOFIN STREET, ABIGI OGUN",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "AOLAT (NIG) LTD",
+              "internationalNumber": "RC-55966"
+            },
+            {
+              "name": "PREMIUM SQUARE LIMITED",
+              "internationalNumber": "RC-1103710"
+            },
+            {
+              "name": "ROYAL ATLANTIC VENTURES NIGERIA LIMITED",
+              "internationalNumber": "RC-472822"
+            },
+            {
+              "name": "S. SULEIMAN (ALHAJI) NIGERIA LTD",
+              "internationalNumber": "RC-113522"
+            },
+            {
+              "name": "BIZ-FOUNTAIN NIGERIA LIMITED",
+              "internationalNumber": "RC-192291"
+            },
+            {
+              "name": "GLOBAL IMPIANTI NIGERIA LIMITED",
+              "internationalNumber": "RC-1161767"
+            },
+            {
+              "name": "DOVE & BROOKS CAPITAL LTD",
+              "internationalNumber": "RC-835533"
+            },
+            {
+              "name": "FRIENDSCOPE FILM PRODUCTION LTD",
+              "internationalNumber": "RC-81859"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160703156,
+          "companyId": 60899060,
+          "personId": 68098299,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68098299,
+            "name": "newton olapade                                                                                       n/a",
+            "countryId": 24,
+            "address": "10, OBAMJA STR. LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160703158,
+          "companyId": 60899060,
+          "personId": 68098300,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68098300,
+            "name": "newton olapade",
+            "countryId": 24,
+            "address": "10, OBAMJA STR. LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
