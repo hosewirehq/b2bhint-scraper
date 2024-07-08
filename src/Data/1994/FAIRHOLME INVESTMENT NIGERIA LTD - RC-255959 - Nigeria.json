@@ -1,0 +1,394 @@
+[
+  {
+    "year": "1994",
+    "title": "FAIRHOLME INVESTMENT NIGERIA LTD - RC-255959 - Nigeria",
+    "description": "FAIRHOLME INVESTMENT NIGERIA LTD Nigeria company, Company number: RC-255959, Incorporation Date Oct 25, 1994;, Address: NO. 14B, KEFFI STREET, SOUTH -WEST, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 63089900,
+      "name": "FAIRHOLME INVESTMENT NIGERIA LTD",
+      "internationalNumber": "RC-255959",
+      "localNumber": "255959",
+      "countryId": 24,
+      "dateCreated": "1994-10-25T00:00:00.000Z",
+      "createdAt": "2021-06-01T18:25:51.766Z",
+      "updatedAt": "2024-06-15T15:59:59.233Z",
+      "alternateNames": [],
+      "address": "NO. 14B, KEFFI STREET, SOUTH -WEST, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "500000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "419633",
+      "updatedAtSitemap": "2023-06-09T19:24:53.000Z",
+      "oldInternationalNumber": "255959",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 156,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92315343,
+          "address": "NO. 14B, KEFFI STREET, SOUTH -WEST, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 232914358,
+          "companyId": 63089900,
+          "personId": 68100244,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68100244,
+            "name": "lukman rilwanu                                                                                       n/a",
+            "countryId": 24,
+            "address": "FLAT 1 DCATERERS COURT IKOYI LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "RSL HOLDINGS LIMITED",
+              "internationalNumber": "RC-56991"
+            },
+            {
+              "name": "ALLSEAS MARINE SERVICES LTD",
+              "internationalNumber": "RC-211461"
+            },
+            {
+              "name": "RAMI DRILLERS LTD",
+              "internationalNumber": "RC-211467"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232914362,
+          "companyId": 63089900,
+          "personId": 68100245,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68100245,
+            "name": "lukman rilwanu",
+            "countryId": 24,
+            "address": "NO2, JAGAL CLOSE  OREGUN                                                                                                LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "NIGERIAN MINING AND GEOSCIENCES SOCIETY",
+              "internationalNumber": "IT-2424"
+            },
+            {
+              "name": "RSL HOLDINGS LIMITED",
+              "internationalNumber": "RC-56991"
+            },
+            {
+              "name": "ALLSEAS MARINE SERVICES LTD",
+              "internationalNumber": "RC-211461"
+            },
+            {
+              "name": "CONSOLIDATED MINING COMPANY LIMITED",
+              "internationalNumber": "RC-299916"
+            },
+            {
+              "name": "LERUWIE LTD",
+              "internationalNumber": "RC-784"
+            },
+            {
+              "name": "RAMI DRILLERS LTD",
+              "internationalNumber": "RC-211467"
+            },
+            {
+              "name": "AIICO GENERAL INSURANCE COMPANY LIMITED",
+              "internationalNumber": "RC-679771"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232914355,
+          "companyId": 63089900,
+          "personId": 95272644,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 95272644,
+            "name": "barkindo m. sanusi                                                                                   n/a",
+            "countryId": 24,
+            "address": "NO. 14B, KEFFI STREET, S/W, IKOYI LAGOS LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232914359,
+          "companyId": 63089900,
+          "personId": 95272647,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95272647,
+            "name": "barkindo m. sanusi",
+            "countryId": 24,
+            "address": "NO. 14B, KEFFI STREET, S/W, IKOYI LAGOS LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5,
+        "3": 4
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]
