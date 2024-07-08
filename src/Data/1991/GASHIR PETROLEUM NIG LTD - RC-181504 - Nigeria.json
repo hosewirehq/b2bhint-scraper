@@ -1,0 +1,401 @@
+[
+  {
+    "year": "1991",
+    "title": "GASHIR PETROLEUM NIG LTD - RC-181504 - Nigeria",
+    "description": "GASHIR PETROLEUM NIG LTD Nigeria company, Company number: RC-181504, Incorporation Date Nov 21, 1991;, Address: 75, KASHIM IBRAHIM RD., MAIDUGURI, BORNO, MAIDUGURI, BORNO STATE",
+    "company": {
+      "id": 62610419,
+      "name": "GASHIR PETROLEUM NIG LTD",
+      "internationalNumber": "RC-181504",
+      "localNumber": "181504",
+      "countryId": 24,
+      "dateCreated": "1991-11-21T00:00:00.000Z",
+      "createdAt": "2021-05-30T20:14:46.310Z",
+      "updatedAt": "2024-06-15T15:31:53.170Z",
+      "alternateNames": [],
+      "address": "75, KASHIM IBRAHIM RD., MAIDUGURI, BORNO, MAIDUGURI, BORNO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "250000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "345572",
+      "updatedAtSitemap": "2023-06-09T17:24:42.000Z",
+      "oldInternationalNumber": "181504",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 249,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100611775,
+          "address": "75, KASHIM IBRAHIM RD., MAIDUGURI, BORNO, MAIDUGURI, BORNO STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "MOHAMMED TIJANI (ALH) & SONS PETROLEUM LTD",
+              "internationalNumber": "RC-181884"
+            },
+            {
+              "name": "AL-NURI NIGERIA LTD",
+              "internationalNumber": "RC-183163"
+            },
+            {
+              "name": "JARFUNY ENTERPRISES LTD",
+              "internationalNumber": "RC-183235"
+            },
+            {
+              "name": "KABORAK NIGERIA LIMITED",
+              "internationalNumber": "RC-138829"
+            },
+            {
+              "name": "SHIGAR PETROLEUM NIG LTD",
+              "internationalNumber": "RC-183233"
+            },
+            {
+              "name": "MAGUMERI INTERNATIONAL LTD",
+              "internationalNumber": "RC-160894"
+            },
+            {
+              "name": "MONGUNO VENTURES LTD",
+              "internationalNumber": "RC-183238"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 158380029,
+          "companyId": 62610419,
+          "personId": 66969913,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66969913,
+            "name": "dahiru musa                                                                                          n/a",
+            "countryId": 24,
+            "address": "75, KASHIM IBRAHIM RD., MAIDUGURI.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SHIGAR PETROLEUM NIG LTD",
+              "internationalNumber": "RC-183233"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158380030,
+          "companyId": 62610419,
+          "personId": 66969914,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66969914,
+            "name": "garba d. musa                                                                                        n/a",
+            "countryId": 24,
+            "address": "75, KASHIM IBRAHIM RD., MAIDUGURI.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SHIGAR PETROLEUM NIG LTD",
+              "internationalNumber": "RC-183233"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158380032,
+          "companyId": 62610419,
+          "personId": 66969915,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66969915,
+            "name": "garba d. musa",
+            "countryId": 24,
+            "address": "75, KASHIM IBRAHIM RD., MAIDUGURI.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SHIGAR PETROLEUM NIG LTD",
+              "internationalNumber": "RC-183233"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 237166866,
+          "companyId": 62610419,
+          "personId": 70474426,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 70474426,
+            "name": "dahiru musa",
+            "countryId": 24,
+            "address": "NO 25 KATSINA ROAD  FUNTUA                                                                                                KATSINA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "DAHIRU MUSA INTEGRATED SERVICES LTD",
+              "internationalNumber": "RC-1136005"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 2
+      },
+      "personsWithRelatedCount": 5
+    }
+  }
+]

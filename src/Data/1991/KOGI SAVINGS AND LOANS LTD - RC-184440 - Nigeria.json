@@ -1,0 +1,410 @@
+[
+  {
+    "year": "1991",
+    "title": "KOGI SAVINGS AND LOANS LTD - RC-184440 - Nigeria",
+    "description": "KOGI SAVINGS AND LOANS LTD Nigeria company, Company number: RC-184440, Incorporation Date Dec 31, 1991;, Address: NO 4 OLD JOHN HOLT ROAD, LOKOJA, KOGI, LOKOJA, KOGI STATE",
+    "company": {
+      "id": 62631777,
+      "name": "KOGI SAVINGS AND LOANS LTD",
+      "internationalNumber": "RC-184440",
+      "localNumber": "184440",
+      "countryId": 24,
+      "dateCreated": "1991-12-31T00:00:00.000Z",
+      "createdAt": "2021-05-30T21:18:58.469Z",
+      "updatedAt": "2024-06-15T15:32:07.657Z",
+      "alternateNames": [],
+      "address": "NO 4 OLD JOHN HOLT ROAD, LOKOJA, KOGI, LOKOJA, KOGI STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "2699999969.28 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "348493",
+      "updatedAtSitemap": "2024-01-14T18:16:04.000Z",
+      "oldInternationalNumber": "184440",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 212,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100956888,
+          "address": "NO 4 OLD JOHN HOLT ROAD, LOKOJA, KOGI, LOKOJA, KOGI STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 158322974,
+          "companyId": 62631777,
+          "personId": 66365367,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66365367,
+            "name": "shuaibu yunusa",
+            "countryId": 24,
+            "address": "NO 33 BELLO ROAD BY BATA ROUNDABOUT  KANO                                                                                                  KANO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "AL-MASH`HUR INTERNATIONAL SERVICES LTD",
+              "internationalNumber": "RC-769569"
+            },
+            {
+              "name": "IDRISYYA COMMUNICATIONS LTD",
+              "internationalNumber": "RC-1005817"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158322924,
+          "companyId": 62631777,
+          "personId": 66834824,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66834824,
+            "name": "usman bello                                                                                          n/a",
+            "countryId": 24,
+            "address": "UNGWAR DOKA LAFIA PLATEAU",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "KANKARA COMM. BANK NIGERIA LIMITED",
+              "internationalNumber": "RC-204929"
+            },
+            {
+              "name": "CRAFTS LTD",
+              "internationalNumber": "RC-127365"
+            },
+            {
+              "name": "AVABE COMMUNITY NIG LTD",
+              "internationalNumber": "RC-166157"
+            },
+            {
+              "name": "CAPITAL  ALLIED INDUSTRIES LIMITED",
+              "internationalNumber": "RC-286540"
+            },
+            {
+              "name": "NATIONWIDE POULTRY & ALLIED PRODUCT LTD",
+              "internationalNumber": "RC-142508"
+            },
+            {
+              "name": "HIS GLORY RESIDENTS ESTATES ASSOCIATION IKORODU LAGOS",
+              "internationalNumber": "RC-32544"
+            },
+            {
+              "name": "TOURISM UNITED GLOBAL LIMITED",
+              "internationalNumber": "RC-910099"
+            },
+            {
+              "name": "BLUEVALE WATERS LIMITED",
+              "internationalNumber": "RC-929823"
+            },
+            {
+              "name": "MUBEX INTER. LTD",
+              "internationalNumber": "RC-238601"
+            },
+            {
+              "name": "HARMONY SECURITIES LIMITED",
+              "internationalNumber": "RC-70470"
+            },
+            {
+              "name": "GAGARIMI BUREAU DE CHANGE LIMITED",
+              "internationalNumber": "RC-888365"
+            },
+            {
+              "name": "PAUWA GLOBAL INVESTMENT NIG LTD",
+              "internationalNumber": "RC-921426"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158322922,
+          "companyId": 62631777,
+          "personId": 66953481,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66953481,
+            "name": "ugbane nicholas                                                                                      n/a",
+            "countryId": 24,
+            "address": "NO. 4, OLD JOHN-HOLT ROAD,  LOKOJA                                                                                                KOGI",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 158322954,
+          "companyId": 62631777,
+          "personId": 66953512,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66953512,
+            "name": "ogori magongo",
+            "countryId": 24,
+            "address": "AKPAFA KOGI KOGI",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "65",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 33,
+        "3": 32
+      },
+      "personsWithRelatedCount": 12
+    }
+  }
+]
