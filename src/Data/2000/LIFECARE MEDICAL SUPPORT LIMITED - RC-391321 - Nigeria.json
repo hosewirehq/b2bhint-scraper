@@ -1,0 +1,296 @@
+[
+  {
+    "year": "2000",
+    "title": "LIFECARE MEDICAL SUPPORT LIMITED - RC-391321 - Nigeria",
+    "description": "LIFECARE MEDICAL SUPPORT LIMITED Nigeria company, Company number: RC-391321, Incorporation Date Sep 28, 2000;, Address: 38, ORITSHESTREET, OFFO/AWOLOWO, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+    "company": {
+      "id": 61200971,
+      "name": "LIFECARE MEDICAL SUPPORT LIMITED",
+      "internationalNumber": "RC-391321",
+      "localNumber": "391321",
+      "countryId": 24,
+      "dateCreated": "2000-09-28T00:00:00.000Z",
+      "createdAt": "2021-05-23T18:39:22.561Z",
+      "updatedAt": "2024-06-15T16:08:44.043Z",
+      "alternateNames": [],
+      "address": "38, ORITSHESTREET, OFFO/AWOLOWO, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "550054",
+      "updatedAtSitemap": "2023-06-09T19:01:44.000Z",
+      "oldInternationalNumber": "391321",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 107,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 93083920,
+          "address": "38, ORITSHESTREET, OFFO/AWOLOWO, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 237347636,
+          "companyId": 61200971,
+          "personId": 67010909,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67010909,
+            "name": "adesina kolawole",
+            "countryId": 24,
+            "address": "3, SUNDAY STREET, PALM GROOVE SHOMOLU ;AGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "PETROCHEMICAL PRODUCTS COMPANY LIMITED",
+              "internationalNumber": "RC-341098"
+            },
+            {
+              "name": "SOLID SPRING ENGINEERING LIMITED",
+              "internationalNumber": "RC-616836"
+            },
+            {
+              "name": "CREST ENERGY RESOURCES LIMITED",
+              "internationalNumber": "RC-617169"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231092151,
+          "companyId": 61200971,
+          "personId": 92407511,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 92407511,
+            "name": "kolawole ayodele",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1970,
+            "birthMonth": 1,
+            "birthDate": 21,
+            "address": "NO 19 OGBOMOSHO AVENUE, AKOWONJO,",
+            "countryOfResidence": "NIGERIA",
+            "email": "eventg@outlook.com",
+            "phone": "08030675919",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "KRISTOBIZ NIGERIA LIMITED",
+              "internationalNumber": "RC-414932"
+            },
+            {
+              "name": "TOMAS NIG LTD",
+              "internationalNumber": "RC-275623"
+            },
+            {
+              "name": "SUN ROOM BLIND LIMITED",
+              "internationalNumber": "RC-493930"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "year": "2000",
+    "title": "SALTZ RESOURCES LTD - RC-391052 - Nigeria",
+    "description": "SALTZ RESOURCES LTD Nigeria company, Company number: RC-391052, Incorporation Date Sep 22, 2000;, Address: SUITE PH, 2B, PENT HOUSE, FEBSON MALL, PLOT 2425, HERBERT MACAULAY WAY, ZONE 4, WUSE, ABUJA, FCT, GARKI, ABUJA STATE",
+    "company": {
+      "id": 61477959,
+      "name": "SALTZ RESOURCES LTD",
+      "internationalNumber": "RC-391052",
+      "localNumber": "391052",
+      "countryId": 24,
+      "dateCreated": "2000-09-22T00:00:00.000Z",
+      "createdAt": "2021-05-25T01:58:00.004Z",
+      "updatedAt": "2024-06-15T16:08:42.760Z",
+      "alternateNames": [],
+      "address": "SUITE PH, 2B, PENT HOUSE, FEBSON MALL, PLOT 2425, HERBERT MACAULAY WAY, ZONE 4, WUSE, ABUJA, FCT, GARKI, ABUJA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "2000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "549794",
+      "updatedAtSitemap": "2023-06-09T19:01:46.000Z",
+      "oldInternationalNumber": "391052",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 107,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 93082510,
+          "address": "SUITE PH, 2B, PENT HOUSE, FEBSON MALL, PLOT 2425, HERBERT MACAULAY WAY, ZONE 4, WUSE, ABUJA, FCT, GARKI, ABUJA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 159316722,
+          "companyId": 61477959,
+          "personId": 67500683,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67500683,
+            "name": "elizabeth akintola",
+            "countryId": 24,
+            "address": "LPLOT 45, AREA 1 GARKI ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "TINKABELLE LIMITED",
+              "internationalNumber": "RC-790901"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 229573346,
+          "companyId": 61477959,
+          "personId": 67500684,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67500684,
+            "name": "akintola samuel",
+            "countryId": 24,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "HEADWAY INVESTMENT NIGERIA LIMITED",
+              "internationalNumber": "RC-188434"
+            },
+            {
+              "name": "KINTEX INTEGRATED CONCEPTS LIMITED",
+              "internationalNumber": "RC-922696"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
