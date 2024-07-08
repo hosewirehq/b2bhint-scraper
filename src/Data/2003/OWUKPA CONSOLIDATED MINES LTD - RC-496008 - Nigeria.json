@@ -1,0 +1,440 @@
+[
+  {
+    "year": "2003",
+    "title": "OWUKPA CONSOLIDATED MINES LTD - RC-496008 - Nigeria",
+    "description": "OWUKPA CONSOLIDATED MINES LTD Nigeria company, Company number: RC-496008, Incorporation Date Oct 14, 2003;, Address: NO 3, OLD POST OFFICE ROAD, GBOKO, BENUE, GBOKO, BENUE STATE",
+    "company": {
+      "id": 62642527,
+      "name": "OWUKPA CONSOLIDATED MINES LTD",
+      "internationalNumber": "RC-496008",
+      "localNumber": "496008",
+      "countryId": 24,
+      "dateCreated": "2003-10-14T00:00:00.000Z",
+      "createdAt": "2021-05-30T21:53:19.532Z",
+      "updatedAt": "2024-06-15T14:32:43.488Z",
+      "alternateNames": [],
+      "address": "NO 3, OLD POST OFFICE ROAD, GBOKO, BENUE, GBOKO, BENUE STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "100000000",
+      "historicalNames": [],
+      "providerId": "653058",
+      "updatedAtSitemap": "2024-04-02T05:12:23.000Z",
+      "oldInternationalNumber": "496008",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 153,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6201732,
+          "providerId": "143192",
+          "providerName": "Mining Support Services Activities",
+          "countryId": 24,
+          "createdAt": "2021-11-07T16:33:51.817515+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 94122017,
+          "address": "NO 3, OLD POST OFFICE ROAD, GBOKO, BENUE, GBOKO, BENUE STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 237020815,
+          "companyId": 62642527,
+          "personId": 68073841,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 1000000,
+          "person": {
+            "id": 68073841,
+            "name": "ogbeh adegbe",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "NO 48, ALI AKILU STREET, ASOKORO",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "KINI COMMUNICATIONS LIMITED",
+              "internationalNumber": "RC-1209105"
+            },
+            {
+              "name": "PHARMATIX NIGERIA LIMITED",
+              "internationalNumber": "RC-63307"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 237020820,
+          "companyId": 62642527,
+          "personId": 93786070,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 93786070,
+            "name": "jatau gloria",
+            "countryId": 24,
+            "address": "AREA 11 GARKI, SUITE 4  BATANYA PLAZA",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "gjatau@yahoo.com",
+            "phone": "08034501603",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [
+            {
+              "name": "ZUTARI CONSULTING NIGERIA LIMITED",
+              "internationalNumber": "RC-954960"
+            },
+            {
+              "name": "GREENPEG NIGERIA LIMITED    ",
+              "internationalNumber": "RC-856662"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 237020809,
+          "companyId": 62642527,
+          "personId": 96843108,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 96843108,
+            "name": "ogbeh adegbeh null",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "1, OGBEH VILLA  OTUKPA                                                                                                BENUE",
+            "countryOfResidence": "NIGERIA",
+            "number": "null",
+            "documentType": "",
+            "email": "",
+            "phone": "null",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 237020810,
+          "companyId": 62642527,
+          "personId": 96843109,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 96843109,
+            "name": "nig ltd tarka rep b-plexco",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "NO 18 AJOSE ADEOGUN STREET UTAKO",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 237020813,
+          "companyId": 62642527,
+          "personId": 96843112,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 61000000,
+          "person": {
+            "id": 96843112,
+            "name": "nigeria ltd b-plexco",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "NO 18 AJOSE ADEOGUN STREET UTAKO",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "12",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 7,
+        "2": 4,
+        "null": 1
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

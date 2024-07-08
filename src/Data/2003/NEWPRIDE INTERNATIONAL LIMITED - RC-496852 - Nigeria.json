@@ -1,0 +1,282 @@
+[
+  {
+    "year": "2003",
+    "title": "NEWPRIDE INTERNATIONAL LIMITED - RC-496852 - Nigeria",
+    "description": "NEWPRIDE INTERNATIONAL LIMITED Nigeria company, Company number: RC-496852, Incorporation Date Oct 15, 2003;, Address: WARRI BOAT YARD, 28 WARRI/SAPELE ROAD, WARRI, DELTA STATE",
+    "company": {
+      "id": 63730843,
+      "name": "NEWPRIDE INTERNATIONAL LIMITED",
+      "internationalNumber": "RC-496852",
+      "localNumber": "496852",
+      "countryId": 24,
+      "dateCreated": "2003-10-15T00:00:00.000Z",
+      "createdAt": "2021-06-06T01:32:17.720Z",
+      "updatedAt": "2024-06-15T14:32:43.025Z",
+      "alternateNames": [],
+      "address": "WARRI BOAT YARD, 28 WARRI/SAPELE ROAD, WARRI, DELTA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "25000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "25000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON BUSINESS AS GENERAL CONTRACTORS, TELECOMMUNICATION SERVICES, PETROLUEM SERVICE, HOTEL AND ON SHORE/OFF SHORE CATERERS AND CONFECTIONERS IMPORTERS, EXPORTERS, INDUSTRIALISTS, ESTATE MAINTENANCE AND ESTATE SERVICES, TRANSPORTERS, CHANDLERS, HAULAGE SERVICES OF ALL CATEGORIES, RIG-MOVERS, SUPPLIERS OF GENERAL GOODS, OFFICE EQUIPMENT, STATIONERS, INTERIOR AND EXTERIOR DECORATORS, DESIGNERS, MANUFACTURERS AND MANUFACTURER'S REPRESENTATIVES AND GENERAL MERCHANDISE",
+      "providerId": "653897",
+      "updatedAtSitemap": "2023-06-09T18:47:40.000Z",
+      "oldInternationalNumber": "496852",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 180,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196924,
+          "providerId": "199237",
+          "providerName": "General Contracts",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:13.437675+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92206899,
+          "address": "WARRI BOAT YARD, 28 WARRI/SAPELE ROAD, WARRI, DELTA STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "RTD QUALITY SERVICES  (NIGERIA) LIMITED",
+              "internationalNumber": "RC-236059"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 240646004,
+          "companyId": 63730843,
+          "personId": 71521712,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 71521712,
+            "name": "chinedu  obi",
+            "countryId": 24,
+            "address": "NO 4 IJA EGBEMI ST. PEDRO BARIGA  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CHINEZ BEATS INTERNATIONAL LTD",
+              "internationalNumber": "RC-687193"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240646005,
+          "companyId": 63730843,
+          "personId": 78426935,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 78426935,
+            "name": "richard egworefa",
+            "countryId": 24,
+            "address": "NO.1, RIVER ROAD, OLARE LAYOUT BENDEL ESTATE WARRI                                                                                                 DELTA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ELOMAX NIG LTD",
+              "internationalNumber": "RC-770785"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
