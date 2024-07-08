@@ -1,0 +1,479 @@
+[
+  {
+    "year": "1988",
+    "title": "CAPITAL TRANSPORT LTD - RC-122815 - Nigeria",
+    "description": "CAPITAL TRANSPORT LTD Nigeria company, Company number: RC-122815, Incorporation Date Dec 16, 1988;, Address: 6, ADEPELE STREET, IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60540800,
+      "name": "CAPITAL TRANSPORT LTD",
+      "internationalNumber": "RC-122815",
+      "localNumber": "122815",
+      "countryId": 24,
+      "dateCreated": "1988-12-16T00:00:00.000Z",
+      "createdAt": "2021-05-14T12:19:11.212Z",
+      "updatedAt": "2024-06-15T15:26:19.217Z",
+      "alternateNames": [],
+      "address": "6, ADEPELE STREET, IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "110000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "287621",
+      "updatedAtSitemap": "2024-01-15T16:06:29.000Z",
+      "oldInternationalNumber": "122815",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 102,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82055858,
+          "address": "6, ADEPELE STREET, IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "RESOURCES RECOVERY LIMITED",
+              "internationalNumber": "RC-60194"
+            },
+            {
+              "name": "GANHO INVESTMENTS LIMITED",
+              "internationalNumber": "RC-87003"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 249618836,
+          "companyId": 60540800,
+          "personId": 66360524,
+          "roleId": 60318,
+          "person": {
+            "id": 66360524,
+            "name": "shadrach onotasa uchohwo",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1978,
+            "birthMonth": 10,
+            "birthDate": 2,
+            "address": "PLOT 10 SHUDY CLOSE, OFF BYAZHIN ACROSS, KUBWA, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1826303",
+            "documentType": "National ID Card",
+            "documentNumber": "52982021012",
+            "email": "evanonotasa@gmail.com",
+            "phone": "+234 806 617 5757",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "STEPHEN OZO NWACHINEMELU VENTURES",
+              "internationalNumber": "BN-3032645"
+            },
+            {
+              "name": "GOLDEN MOON ELECTRICALS LTD",
+              "internationalNumber": "RC-1579191"
+            },
+            {
+              "name": "AUTHENTIC TRIANGLES LTD",
+              "internationalNumber": "RC-1547802"
+            },
+            {
+              "name": "RESCUE ZONE GLOBAL ASSEMBLY",
+              "internationalNumber": "IT-119237"
+            },
+            {
+              "name": "TM-UMU IKA ENTERPRISE",
+              "internationalNumber": "BN-2593563"
+            },
+            {
+              "name": "MBOCHYX   ENTERPRISES",
+              "internationalNumber": "BN-2998072"
+            },
+            {
+              "name": "JOBPEREZ GLOBAL ENTERPRIZE",
+              "internationalNumber": "BN-2572679"
+            },
+            {
+              "name": "SUNKENIX ENTERPRISE",
+              "internationalNumber": "BN-2806973"
+            },
+            {
+              "name": "MASSNET  ENTREPRO LTD",
+              "internationalNumber": "RC-1485815"
+            },
+            {
+              "name": "JONITA GLOBAL ENTERPRISE",
+              "internationalNumber": "BN-2586176"
+            },
+            {
+              "name": "OKAFOR  J.O. GLOBAL  VENTURES",
+              "internationalNumber": "BN-2806530"
+            },
+            {
+              "name": "ASHMED LAW OFFICE",
+              "internationalNumber": "BN-2530507"
+            },
+            {
+              "name": "OCEAN OF WISDOM SCHOOL ",
+              "internationalNumber": "BN-3377047"
+            },
+            {
+              "name": "TOSMOF ENTERPRISE",
+              "internationalNumber": "BN-3298046"
+            },
+            {
+              "name": "LA PRENDA ENTERPRISE",
+              "internationalNumber": "BN-2558821"
+            },
+            {
+              "name": "TRIOGOLD INT'L  ACADEMY",
+              "internationalNumber": "BN-3090798"
+            },
+            {
+              "name": "SIGNATURE SECRET AFRICA'S FOUNDATION",
+              "internationalNumber": "IT-101464"
+            },
+            {
+              "name": "MAX TRANSPORT SCHEME",
+              "internationalNumber": "BN-3269955"
+            },
+            {
+              "name": "JAFFEXXO NIG, COMPANY",
+              "internationalNumber": "BN-3298050"
+            },
+            {
+              "name": "ROSSETTA'S FOOD AND PASTRIES",
+              "internationalNumber": "BN-3198450"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241710860,
+          "companyId": 60540800,
+          "personId": 94604685,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 94604685,
+            "name": "deji o.                                                                                              n/a",
+            "countryId": 24,
+            "address": "6, ADEPELE STREET, IKEJA, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "DEJBIM NIGERIA LTD",
+              "internationalNumber": "RC-156233"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241710863,
+          "companyId": 60540800,
+          "personId": 94604687,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 94604687,
+            "name": "deji o.",
+            "countryId": 24,
+            "address": "122, NORMAN WILLIAMS STREET, IKOYI LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "DEJBIM NIGERIA LTD",
+              "internationalNumber": "RC-156233"
+            },
+            {
+              "name": "IBST LIMITED",
+              "internationalNumber": "RC-486354"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241710864,
+          "companyId": 60540800,
+          "personId": 98694013,
+          "roleId": 60320,
+          "appointedOn": "2021-11-24",
+          "sourceNum": 1,
+          "person": {
+            "id": 98694013,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "IYEVIC DE BLESSED VENTURES",
+              "internationalNumber": "BN-3196382"
+            },
+            {
+              "name": "ABDULZXK EXCLUSIVE FASHION WORLD",
+              "internationalNumber": "BN-3966547"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 4,
+        "3": 4
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

@@ -1,0 +1,525 @@
+[
+  {
+    "year": "1988",
+    "title": "ZARDA ENGINEERING COMPANY LIMITED - RC-121463 - Nigeria",
+    "description": "ZARDA ENGINEERING COMPANY LIMITED Nigeria company, Company number: RC-121463, Incorporation Date Nov 28, 1988;, Address: 11, WURNO CLOSE, KADUNA, KADUNA, KADUNA, KADUNA STATE",
+    "company": {
+      "id": 60374388,
+      "name": "ZARDA ENGINEERING COMPANY LIMITED",
+      "internationalNumber": "RC-121463",
+      "localNumber": "121463",
+      "countryId": 24,
+      "dateCreated": "1988-11-28T00:00:00.000Z",
+      "createdAt": "2021-05-13T22:07:13.574Z",
+      "updatedAt": "2024-06-15T15:26:14.465Z",
+      "alternateNames": [],
+      "address": "11, WURNO CLOSE, KADUNA, KADUNA, KADUNA, KADUNA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "200000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "286272",
+      "updatedAtSitemap": "2024-01-15T16:06:55.000Z",
+      "oldInternationalNumber": "121463",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 209,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82073809,
+          "address": "11, WURNO CLOSE, KADUNA, KADUNA, KADUNA, KADUNA STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "AMIR FARMS LTD",
+              "internationalNumber": "RC-167307"
+            },
+            {
+              "name": "ROSELLA LTD",
+              "internationalNumber": "RC-105123"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 249061779,
+          "companyId": 60374388,
+          "personId": 99062429,
+          "roleId": 114332,
+          "person": {
+            "id": 99062429,
+            "name": "adeyemi oyedare",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1990,
+            "birthMonth": 12,
+            "birthDate": 16,
+            "address": "17IBRAHIM TAIWO ROAD ILORIN, ILORIN, KWARA STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1879421",
+            "documentType": "National ID Card",
+            "documentNumber": "12504618031",
+            "email": "adeyemioyedare@gmail.com",
+            "phone": "+234 803 691 8395",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "NORTHERN OAKS EMPOWERMENT INITIATIVE",
+              "internationalNumber": "IT-151325"
+            },
+            {
+              "name": "TEBZZ DESIGNS",
+              "internationalNumber": "BN-2994276"
+            },
+            {
+              "name": "VALUABLE STONES CONTINENTAL RESOURCES LTD",
+              "internationalNumber": "RC-1812249"
+            },
+            {
+              "name": "SULIYAT OGUNBO BAKE AWAY",
+              "internationalNumber": "BN-2880054"
+            },
+            {
+              "name": "FIRST CRESCENT LOFTY SQUARE LTD",
+              "internationalNumber": "RC-1644304"
+            },
+            {
+              "name": "FLY SIMPLE",
+              "internationalNumber": "BN-2806187"
+            },
+            {
+              "name": "SAM. P. RECREATION AND FITNESS PLACE",
+              "internationalNumber": "BN-3064146"
+            },
+            {
+              "name": "FORTHRIGHT TUTORS & EDUCATIONAL CONSULT LTD",
+              "internationalNumber": "RC-1620089"
+            },
+            {
+              "name": "LIONWAIST DESIGNS AND FASHION HOUSE LTD",
+              "internationalNumber": "RC-1632224"
+            },
+            {
+              "name": "HIS LOVE SHINES STORES",
+              "internationalNumber": "BN-3064148"
+            },
+            {
+              "name": "QUADILON IT LIMITED",
+              "internationalNumber": "RC-1640193"
+            },
+            {
+              "name": "SEDSA GLOBAL SERVICES LTD",
+              "internationalNumber": "RC-1752524"
+            },
+            {
+              "name": "MUHYIDEEN OTAFUN INVESTMENT NIG LTD",
+              "internationalNumber": "RC-1661465"
+            },
+            {
+              "name": "ASSHAMSUDDEENN PHARMACY AND SUPERMARKET LTD",
+              "internationalNumber": "RC-1627629"
+            },
+            {
+              "name": "AKOJOPO ZANGO INVESTMENT NIG LTD",
+              "internationalNumber": "RC-1823233"
+            },
+            {
+              "name": "WORKFORCE ROYAL INVESTMENT COMPANY LTD",
+              "internationalNumber": "RC-1655982"
+            },
+            {
+              "name": "CLASSIC MAVERICK GLOBAL ENTERPRISES",
+              "internationalNumber": "BN-2876566"
+            },
+            {
+              "name": "FARTSAM GLOBAL RESOURCES LIMITED",
+              "internationalNumber": "RC-1830646"
+            },
+            {
+              "name": "R.A TUNOLASE INVESTMENT LTD",
+              "internationalNumber": "RC-1627013"
+            },
+            {
+              "name": "SULA GLOBAL RESOURCES NIG LTD",
+              "internationalNumber": "RC-1882422"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243566352,
+          "companyId": 60374388,
+          "personId": 99517100,
+          "roleId": 60320,
+          "appointedOn": "2021-11-23",
+          "sourceNum": 1,
+          "person": {
+            "id": 99517100,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MOGBASH NITGERIA LIMITED",
+              "internationalNumber": "RC-336222"
+            },
+            {
+              "name": "PRINCE WORLD INVEST. LTD",
+              "internationalNumber": "RC-336234"
+            },
+            {
+              "name": "A. K. MOTORS LIMITED",
+              "internationalNumber": "RC-336237"
+            },
+            {
+              "name": "BERACHAH PHARMACY AND STORES (NIGERIA) LIMITED",
+              "internationalNumber": "RC-336228"
+            },
+            {
+              "name": "MICFEM AND SONS LIMITED",
+              "internationalNumber": "RC-336230"
+            },
+            {
+              "name": "CHIMEL COMMUNICATIONS LIMITED",
+              "internationalNumber": "RC-336233"
+            },
+            {
+              "name": "SHWATSON FARMS",
+              "internationalNumber": "BN-3938627"
+            },
+            {
+              "name": "GEOTESS NIGERIA LIMITED ",
+              "internationalNumber": "RC-336235"
+            },
+            {
+              "name": "GEO NUCELUS NIGERIA LIMITED",
+              "internationalNumber": "RC-336229"
+            },
+            {
+              "name": "LES AMITIES (NIG) LTD",
+              "internationalNumber": "RC-336236"
+            },
+            {
+              "name": "INTEGRATED CLEANING SERVICES LIMITED",
+              "internationalNumber": "RC-337017"
+            },
+            {
+              "name": "MC ABRAHAMS LIMITED",
+              "internationalNumber": "RC-336238"
+            },
+            {
+              "name": "ODLAS TRAVELS AND TOURS LIMITED",
+              "internationalNumber": "RC-336232"
+            },
+            {
+              "name": "ROYAL GAS LTD",
+              "internationalNumber": "RC-336227"
+            },
+            {
+              "name": "CZARINA RUSS LTD",
+              "internationalNumber": "RC-336223"
+            },
+            {
+              "name": "DEEMEKS VENTURES LIMITED",
+              "internationalNumber": "RC-336231"
+            },
+            {
+              "name": "NUCIO LIMITED",
+              "internationalNumber": "RC-336226"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243566348,
+          "companyId": 60374388,
+          "personId": 99517105,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 99517105,
+            "name": "hamza zauyad                                                                                         n/a",
+            "countryId": 24,
+            "address": "11, WURNO CLOSE, KADUNA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243566350,
+          "companyId": 60374388,
+          "personId": 99517107,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99517107,
+            "name": "hamza zauyad",
+            "countryId": 24,
+            "address": "11, WURNO CLOSE, KADUNA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 3
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

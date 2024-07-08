@@ -1,0 +1,533 @@
+[
+  {
+    "year": "1988",
+    "title": "BANK-BIM CONSOLIDATED LTD - RC-123389 - Nigeria",
+    "description": "BANK-BIM CONSOLIDATED LTD Nigeria company, Company number: RC-123389, Incorporation Date Dec 23, 1988;, Address: 22A, JOSEPH STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60611555,
+      "name": "BANK-BIM CONSOLIDATED LTD",
+      "internationalNumber": "RC-123389",
+      "localNumber": "123389",
+      "countryId": 24,
+      "dateCreated": "1988-12-23T00:00:00.000Z",
+      "createdAt": "2021-05-14T16:49:42.294Z",
+      "updatedAt": "2024-06-15T15:26:20.097Z",
+      "alternateNames": [],
+      "address": "22A, JOSEPH STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "288195",
+      "updatedAtSitemap": "2024-01-15T16:06:21.000Z",
+      "oldInternationalNumber": "123389",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 163,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92098705,
+          "address": "22A, JOSEPH STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "DUPOL PHARMACEUTICAL LTD",
+              "internationalNumber": "RC-217722"
+            },
+            {
+              "name": "ORIGIN TRAVEL AND TOURS LTD",
+              "internationalNumber": "RC-240932"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 249771101,
+          "companyId": 60611555,
+          "personId": 67526884,
+          "roleId": 114349,
+          "person": {
+            "id": 67526884,
+            "name": "casmir amadi",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1980,
+            "birthMonth": 3,
+            "birthDate": 5,
+            "address": "41ALHAJI MASHA ROAD, SURULERE, LAGOS, LAGOS, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1880419",
+            "documentType": "Driver's License",
+            "documentNumber": "SMK23397AA01",
+            "email": "carsh4u@yahoo.com",
+            "phone": "+234 803 422 0096",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114349,
+            "name": "Legal Practice",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practice"
+            }
+          },
+          "companies": [
+            {
+              "name": "NAZELS STORE",
+              "internationalNumber": "BN-2708817"
+            },
+            {
+              "name": "EBENEZER MY HELPER ENTERPRISES",
+              "internationalNumber": "BN-2681751"
+            },
+            {
+              "name": "FEDROSA ORGANIC SKINCARE LTD",
+              "internationalNumber": "RC-1726790"
+            },
+            {
+              "name": "CHRISBLESS VENTURES",
+              "internationalNumber": "BN-2983890"
+            },
+            {
+              "name": "ST. ANTHONY STARS MULTI CONCEPTS LIMITED",
+              "internationalNumber": "RC-1574391"
+            },
+            {
+              "name": "DOBENZ INTERNATIONAL LTD",
+              "internationalNumber": "RC-173281"
+            },
+            {
+              "name": "PETIT DANGO ENTERPRISES",
+              "internationalNumber": "BN-2628376"
+            },
+            {
+              "name": "DIOANY RESOURCES LIMITED",
+              "internationalNumber": "RC-1625486"
+            },
+            {
+              "name": "NEMODAT INVESTORS LTD",
+              "internationalNumber": "RC-1491204"
+            },
+            {
+              "name": "ADEMARAYOLA VENTURES LTD",
+              "internationalNumber": "RC-173376"
+            },
+            {
+              "name": "AFRO TIME PLUG LTD",
+              "internationalNumber": "RC-1789712"
+            },
+            {
+              "name": "OPEN HAUPT HEALTH LIMITED",
+              "internationalNumber": "RC-1657455"
+            },
+            {
+              "name": "JULIEPEP ENTERPRISES",
+              "internationalNumber": "BN-2635644"
+            },
+            {
+              "name": "SABI2EARN LIMITED",
+              "internationalNumber": "RC-1809001"
+            },
+            {
+              "name": "HARA CONSULTS LTD",
+              "internationalNumber": "RC-1491601"
+            },
+            {
+              "name": "EUWELD GLOBAL NIGERIA LIMITED",
+              "internationalNumber": "RC-1482143"
+            },
+            {
+              "name": "WORLD GATE FINANCE & INVESTMENT CO.",
+              "internationalNumber": "RC-127303"
+            },
+            {
+              "name": "BLESSED IKE JEKWU GLOBAL LIMITED",
+              "internationalNumber": "RC-1586461"
+            },
+            {
+              "name": "AFRICANMODERN CHIC",
+              "internationalNumber": "BN-2880877"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241045907,
+          "companyId": 60611555,
+          "personId": 97366003,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97366003,
+            "name": "adetutu davies",
+            "countryId": 24,
+            "address": "22A, JOSEPH STR, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "KOMPRESSORS ENGINEERING SERVICES LIMITED",
+              "internationalNumber": "RC-862783"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241045908,
+          "companyId": 60611555,
+          "personId": 98431788,
+          "roleId": 60320,
+          "appointedOn": "2021-11-24",
+          "sourceNum": 1,
+          "person": {
+            "id": 98431788,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CUBICLES AND CUTIES LIMITED",
+              "internationalNumber": "RC-345245"
+            },
+            {
+              "name": "ALMAR INVESTMENTS LIMITED",
+              "internationalNumber": "RC-345243"
+            },
+            {
+              "name": "ALICEN INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-345239"
+            },
+            {
+              "name": "GREENS GRAINS NIG LTD",
+              "internationalNumber": "RC-345242"
+            },
+            {
+              "name": "BRAKABOU'TAMS VENTURE",
+              "internationalNumber": "BN-3961453"
+            },
+            {
+              "name": "SHORT-HILL LIMITED",
+              "internationalNumber": "RC-345241"
+            },
+            {
+              "name": "AMZEC INVESTMENTS LIMITED",
+              "internationalNumber": "RC-345240"
+            },
+            {
+              "name": "JONROSE VENTS. LTD",
+              "internationalNumber": "RC-345244"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241045904,
+          "companyId": 60611555,
+          "personId": 98431828,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 98431828,
+            "name": "olusheye davies                                                                                      n/a",
+            "countryId": 24,
+            "address": "22A, JOSEPH STR, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241045905,
+          "companyId": 60611555,
+          "personId": 98431829,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 98431829,
+            "name": "adetutu davies                                                                                       n/a",
+            "countryId": 24,
+            "address": "22A, JOSEPH STR, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 2,
+        "null": 1
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
