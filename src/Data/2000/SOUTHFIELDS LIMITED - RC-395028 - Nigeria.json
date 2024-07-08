@@ -1,0 +1,302 @@
+[
+  {
+    "year": "2000",
+    "title": "SOUTHFIELDS LIMITED - RC-395028 - Nigeria",
+    "description": "SOUTHFIELDS LIMITED Nigeria company, Company number: RC-395028, Incorporation Date Nov 9, 2000;, Address: PLOT1664, OYINJOLAYEMISTR, VICTORIAISLAND, LAGOS, VICTORIA ISLAND, LAGOS STATE",
+    "company": {
+      "id": 63858319,
+      "name": "SOUTHFIELDS LIMITED",
+      "internationalNumber": "RC-395028",
+      "localNumber": "395028",
+      "countryId": 24,
+      "dateCreated": "2000-11-09T00:00:00.000Z",
+      "createdAt": "2021-06-06T20:15:38.124Z",
+      "updatedAt": "2024-06-15T16:08:26.839Z",
+      "alternateNames": [],
+      "address": "PLOT1664, OYINJOLAYEMISTR, VICTORIAISLAND, LAGOS, VICTORIA ISLAND, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "553648",
+      "updatedAtSitemap": "2023-06-09T19:01:17.000Z",
+      "oldInternationalNumber": "395028",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 132,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 93121040,
+          "address": "PLOT1664, OYINJOLAYEMISTR, VICTORIAISLAND, LAGOS, VICTORIA ISLAND, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 225680246,
+          "companyId": 63858319,
+          "personId": 69154287,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 69154287,
+            "name": "adetokunboh abudu",
+            "countryId": 24,
+            "address": "PLOT 1664, OYIN JOLAYEMI STREET VICTORIA ISLAND LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "VLA HOLDINGS LIMITED",
+              "internationalNumber": "RC-429222"
+            },
+            {
+              "name": "STIRLING BEVERAGES LIMITED",
+              "internationalNumber": "RC-47569"
+            },
+            {
+              "name": "ARCHITECTURAL PRODUCTS LIMITED",
+              "internationalNumber": "RC-27270"
+            },
+            {
+              "name": "FIRST BUS SERVICES LIMITED",
+              "internationalNumber": "RC-212528"
+            },
+            {
+              "name": "ALPINE INDUSTRIES LIMITED",
+              "internationalNumber": "RC-357964"
+            },
+            {
+              "name": "BW OIL SER. LTD",
+              "internationalNumber": "RC-400356"
+            },
+            {
+              "name": "ACOL PROPERTY AND INVESTMENTS LIMITED",
+              "internationalNumber": "RC-461609"
+            },
+            {
+              "name": "IPI SOAPS LIMITED",
+              "internationalNumber": "RC-370450"
+            },
+            {
+              "name": "SKYBLUE SERVICES NIGERIA LIMITED",
+              "internationalNumber": "RC-475314"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 225680247,
+          "companyId": 63858319,
+          "personId": 92671414,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 92671414,
+            "name": "ajibola kehinde a.",
+            "countryId": 24,
+            "address": "PLOT 1664, OYIN JOLAYEMI STR., VICTORIA ISLAND LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

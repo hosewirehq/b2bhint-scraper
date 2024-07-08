@@ -1,0 +1,378 @@
+[
+  {
+    "year": "2000",
+    "title": "GUARANTEE PETROLEUM COMPANY LIMITED - RC-393348 - Nigeria",
+    "description": "GUARANTEE PETROLEUM COMPANY LIMITED Nigeria company, Company number: RC-393348, Incorporation Date 24 Eki 2000;, Address: 21 SLVATION ROAD, OFF OPEBI ROAD",
+    "company": {
+      "id": 61477799,
+      "name": "GUARANTEE PETROLEUM COMPANY LIMITED",
+      "internationalNumber": "RC-393348",
+      "localNumber": "393348",
+      "countryId": 24,
+      "dateCreated": "2000-10-24T00:00:00.000Z",
+      "createdAt": "2021-05-25T01:57:14.642Z",
+      "updatedAt": "2024-06-15T16:08:34.707Z",
+      "alternateNames": [],
+      "address": "21 SLVATION ROAD, OFF OPEBI ROAD",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "200000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "200000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS OF OIL EXPLORATION, PETROLEUM OIL REFINERY, OIL REFINERY ENGINEERING AND CONSTRUCTION, SELL AND LEASE PETROLEUM LANDS, TO LOCATE PETROLEUM, GAS AND OTHER NATURAL MINERAL LANDS. TO ALSO BUY AND SELL PETROL, GAS, GASOLINE, OIL AND PETROLEUM PRODUCTS AND TO ENGAGE IN THE PRODUCTION, MARKETING OF CHEMICALS AND LUBRICATING PRODUCTS, TO IMPORT AND EXPORT PETROLEUM PRODUCTS IN CRUDE AND/OR REFINED FORM AND TO MANUFACTURE LUBRICANTS OIL, AND INSECTICIDES, CHEMICALS AND PETROLEUM MARKETER.",
+      "providerId": "552010",
+      "updatedAtSitemap": "2023-07-16T05:21:08.000Z",
+      "oldInternationalNumber": "393348",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 137,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6198645,
+          "providerId": "143189",
+          "providerName": "Extraction of Crude Petroleum and Natural Gas",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:48:55.971102+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 93111409,
+          "address": "21 SLVATION ROAD, OFF OPEBI ROAD",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 159317286,
+          "companyId": 61477799,
+          "personId": 67501011,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 67501011,
+            "name": "tunde  yebisi",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "address": "IMALE- FALAFIA STREET, 12",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159317287,
+          "companyId": 61477799,
+          "personId": 67501012,
+          "roleId": 60317,
+          "appointedOn": "2020-02-20",
+          "sourceNum": 1,
+          "person": {
+            "id": 67501012,
+            "name": "akintunde giwa mr.",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "address": "TONY EROMOSELE STREET, PARKVIEW ESTATE, 53",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159317288,
+          "companyId": 61477799,
+          "personId": 67501013,
+          "roleId": 60317,
+          "appointedOn": "2020-02-20",
+          "sourceNum": 1,
+          "person": {
+            "id": 67501013,
+            "name": "feyisayo agagu mr.",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "address": "ASSOCIATION WAY, DOLPHIN ESTATE, 122 B",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 159317293,
+          "companyId": 61477799,
+          "personId": 67501018,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 67501018,
+            "name": "maiyaki nasir",
+            "countryId": 24,
+            "address": "MUNATARE CHAMBER, ZOO ROAD, 197",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [
+            {
+              "name": "HENRISON NIGERIA LIMITED",
+              "internationalNumber": "RC-349368"
+            },
+            {
+              "name": "AWAKE INTERLINK NIGERIA LIMITED ",
+              "internationalNumber": "RC-467762"
+            },
+            {
+              "name": "KAN INTROSERVE LIMITED",
+              "internationalNumber": "RC-449349"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 7,
+        "null": 2
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
