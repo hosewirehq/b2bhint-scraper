@@ -1,0 +1,451 @@
+[
+  {
+    "year": "1987",
+    "title": "ALASHA AGBO CO. NIG LTD - RC-103024 - Nigeria",
+    "description": "ALASHA AGBO CO. NIG LTD Nigeria company, Company number: RC-103024, Incorporation Date Nov 19, 1987;, Address: 21, TURNBALL RD.IKOYI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61051230,
+      "name": "ALASHA AGBO CO. NIG LTD",
+      "internationalNumber": "RC-103024",
+      "localNumber": "103024",
+      "countryId": 24,
+      "dateCreated": "1987-11-19T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:33:53.495Z",
+      "updatedAt": "2024-06-15T15:37:04.794Z",
+      "alternateNames": [],
+      "address": "21, TURNBALL RD.IKOYI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "267943",
+      "updatedAtSitemap": "2024-01-15T18:35:57.000Z",
+      "oldInternationalNumber": "103024",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 105,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197797,
+          "providerId": "348592",
+          "providerName": "Churches",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:21:49.323204+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82070192,
+          "address": "21, TURNBALL RD.IKOYI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 245244635,
+          "companyId": 61051230,
+          "personId": 66479899,
+          "roleId": 114332,
+          "person": {
+            "id": 66479899,
+            "name": "philip sokfa chechet",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1982,
+            "birthMonth": 11,
+            "birthDate": 21,
+            "address": "NO. 19LIGHT GOLD ESTATE, AIRPORT ROAD LUGBE, ABUJA, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1698147",
+            "documentType": "International Passport",
+            "documentNumber": "A07573585",
+            "email": "pchechet@yahoo.com",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "ROSEWOOD GARDENS LTD",
+              "internationalNumber": "RC-1855327"
+            },
+            {
+              "name": "YEKABOND GLOBAL VENTURE",
+              "internationalNumber": "BN-2455886"
+            },
+            {
+              "name": "FENCUR INVESTMENT LTD",
+              "internationalNumber": "RC-169989"
+            },
+            {
+              "name": "FRIENDS FOR EBIRA DEVELOPMENT INITIATIVE",
+              "internationalNumber": "IT-95835"
+            },
+            {
+              "name": "AL-AKHIDMAL KHAIRIYYA FOUNDATION",
+              "internationalNumber": "IT-112736"
+            },
+            {
+              "name": "CONGRESS OF NORTHERN NIGERIA CHRISTIAN",
+              "internationalNumber": "IT-103024"
+            },
+            {
+              "name": "CHATSHAM NIGERIA LTD",
+              "internationalNumber": "RC-1799970"
+            },
+            {
+              "name": "EDGE METER COMPANY LTD",
+              "internationalNumber": "RC-1595139"
+            },
+            {
+              "name": "BACHAM FOODS",
+              "internationalNumber": "BN-2767499"
+            },
+            {
+              "name": "TUMBLE WEED NIGERIA LTD",
+              "internationalNumber": "RC-1881713"
+            },
+            {
+              "name": "GIGINYA ELECTRIC SERVICES LTD",
+              "internationalNumber": "RC-1594650"
+            },
+            {
+              "name": "AIMTAB RESOURCE CENTRE",
+              "internationalNumber": "BN-3007964"
+            },
+            {
+              "name": "LANCITY ACADEMY",
+              "internationalNumber": "BN-3012827"
+            },
+            {
+              "name": "MONAS TECHNICAL COMPANY LIMITED",
+              "internationalNumber": "RC-95835"
+            },
+            {
+              "name": "DARDOC CONCEPTS NIG. LTD",
+              "internationalNumber": "RC-1393751"
+            },
+            {
+              "name": "PRIME EXPORT GATEWAY LTD",
+              "internationalNumber": "RC-1842939"
+            },
+            {
+              "name": "REOMAK NIGERIA LTD",
+              "internationalNumber": "RC-112736"
+            },
+            {
+              "name": "REALWEB SYSTEMS SOLUTION LTD",
+              "internationalNumber": "RC-1458967"
+            },
+            {
+              "name": "MASKA QUALITY FURNITURES",
+              "internationalNumber": "BN-2482456"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238234925,
+          "companyId": 61051230,
+          "personId": 78833026,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78833026,
+            "name": "prof. baikie adamu",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1931,
+            "birthMonth": 10,
+            "birthDate": 1,
+            "address": "NO. 4, HANWA ROAD, GRA ZARIA, KADUNA STATE.",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06519552",
+            "documentType": "International Passport",
+            "email": "adamudumo@yahoo.com",
+            "phone": "08063446025",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238234926,
+          "companyId": 61051230,
+          "personId": 78833027,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78833027,
+            "name": "prof. ishaya dauda",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1968,
+            "birthMonth": 8,
+            "birthDate": 28,
+            "address": "NO. 7, BATURE CLOSE, OPP. VITAL YEARS SCHOOL, NEW GRA TUDUN FULANI ZARIA  SABON GARI LGA, KADUNA STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "ZAR02037AA90",
+            "documentType": "Driver's License",
+            "email": "daudaishaya@gmail.com",
+            "phone": "08065549941",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238234924,
+          "companyId": 61051230,
+          "personId": 97138127,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 97138127,
+            "name": "chechet philip",
+            "countryId": 24,
+            "address": "SUITE 1, WUCHETSON & CO., CITY PLAZA GARIKI, ABUJA.",
+            "countryOfResidence": "NIGERIA",
+            "email": "pchechet@gmail.com",
+            "phone": "08036434281",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

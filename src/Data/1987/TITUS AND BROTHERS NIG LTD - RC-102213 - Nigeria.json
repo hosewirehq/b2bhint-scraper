@@ -1,0 +1,398 @@
+[
+  {
+    "year": "1987",
+    "title": "TITUS AND BROTHERS NIG LTD - RC-102213 - Nigeria",
+    "description": "TITUS AND BROTHERS NIG LTD Nigeria company, Company number: RC-102213, Incorporation Date Nov 9, 1987;, Address: 1, OGUNJIMI STR., OKEIGBO, ONDO, OKEIGBO, ONDO STATE",
+    "company": {
+      "id": 61050366,
+      "name": "TITUS AND BROTHERS NIG LTD",
+      "internationalNumber": "RC-102213",
+      "localNumber": "102213",
+      "countryId": 24,
+      "dateCreated": "1987-11-09T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:31:31.017Z",
+      "updatedAt": "2024-06-15T15:37:12.711Z",
+      "alternateNames": [],
+      "address": "1, OGUNJIMI STR., OKEIGBO, ONDO, OKEIGBO, ONDO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "267142",
+      "updatedAtSitemap": "2024-01-15T18:35:50.000Z",
+      "oldInternationalNumber": "102213",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 273,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196942,
+          "providerId": "199095",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:29.578323+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82068794,
+          "address": "1, OGUNJIMI STR., OKEIGBO, ONDO, OKEIGBO, ONDO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238243500,
+          "companyId": 61050366,
+          "personId": 78838928,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78838928,
+            "name": "danlami joshua jydson",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1986,
+            "birthMonth": 6,
+            "birthDate": 15,
+            "address": "NO.5, ECWA HAUSA STREET, UNGWAN BORO, SABON TASHA, KADUNA STATE.",
+            "countryOfResidence": "NIGERIA",
+            "number": "A14386380",
+            "documentType": "Permanent Voters' Card",
+            "email": "ambs.jdjydson@gmail.com",
+            "phone": "08026517729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238243502,
+          "companyId": 61050366,
+          "personId": 78838929,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78838929,
+            "name": "abarshi moses d.",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1963,
+            "birthMonth": 5,
+            "birthDate": 31,
+            "address": "NO. 7, CAMEROON ROAD, BARNAWA, KADUNA STATE.",
+            "countryOfResidence": "NIGERIA",
+            "number": "A27978835",
+            "documentType": "Permanent Voters' Card",
+            "email": "mabarshi@gmail.com",
+            "phone": "09096965030",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238243499,
+          "companyId": 61050366,
+          "personId": 96795045,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96795045,
+            "name": "okoh ngozi",
+            "countryId": 24,
+            "address": "Flat 1, Block B, Goshen Court Estate, Dutse Zone 6, Ababa",
+            "phone": "07038401421",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ELECTO-DATA LIMITED",
+              "internationalNumber": "RC-106074"
+            },
+            {
+              "name": "PRECIOUS BEAUTY PRODUCTS LIMITED",
+              "internationalNumber": "RC-109082"
+            },
+            {
+              "name": "SEVEN HILLS NIGERIA LIMITED",
+              "internationalNumber": "RC-106073"
+            },
+            {
+              "name": "EZPAN INDUSTRIES LNIG LTD",
+              "internationalNumber": "RC-101023"
+            },
+            {
+              "name": "MOLYN NIGERIA LIMITED",
+              "internationalNumber": "RC-102452"
+            },
+            {
+              "name": "CACOGREEN NIG LTD",
+              "internationalNumber": "RC-105402"
+            },
+            {
+              "name": "SERENE ENGINEERING LIMITED",
+              "internationalNumber": "RC-105853"
+            },
+            {
+              "name": "EBENEZER MAKINDE & CO. LTD",
+              "internationalNumber": "RC-101599"
+            },
+            {
+              "name": "S.C. MOTUN NIG",
+              "internationalNumber": "RC-104238"
+            },
+            {
+              "name": "YASARA INTERNTATIONAL SERVICES LTD",
+              "internationalNumber": "RC-108935"
+            },
+            {
+              "name": "NAGINCO INDUSTRIES NIG LTD",
+              "internationalNumber": "RC-106781"
+            },
+            {
+              "name": "DAISLA INTERNATIONAL",
+              "internationalNumber": "RC-108588"
+            },
+            {
+              "name": "AOMMAK NIGERIA LIMITED",
+              "internationalNumber": "RC-109061"
+            },
+            {
+              "name": "SOFTOK TRAVEL SERVICES LTD",
+              "internationalNumber": "RC-107311"
+            },
+            {
+              "name": "BATUNBUKI LTD",
+              "internationalNumber": "RC-99837"
+            },
+            {
+              "name": "SAMBROS ENENDU AND SONS NIGERIA LTD",
+              "internationalNumber": "RC-106721"
+            },
+            {
+              "name": "PAT BOYD LTD",
+              "internationalNumber": "RC-106809"
+            },
+            {
+              "name": "EDYEE PAHRM CHEMIST LTD",
+              "internationalNumber": "RC-106229"
+            },
+            {
+              "name": "IVO-RIVER FARMS NIG LTD",
+              "internationalNumber": "RC-102343"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "10",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 9
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

@@ -1,0 +1,399 @@
+[
+  {
+    "year": "1987",
+    "title": "FUNSTEVE NIG LTD - RC-102204 - Nigeria",
+    "description": "FUNSTEVE NIG LTD Nigeria company, Company number: RC-102204, Incorporation Date Nov 9, 1987;, Address: HSE 17, FIRST AVE. FESTAC/T, LAGOS, LAGOLS, LAGOS, LAGOLS STATE",
+    "company": {
+      "id": 61050340,
+      "name": "FUNSTEVE NIG LTD",
+      "internationalNumber": "RC-102204",
+      "localNumber": "102204",
+      "countryId": 24,
+      "dateCreated": "1987-11-09T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:31:27.867Z",
+      "updatedAt": "2024-06-15T15:37:11.644Z",
+      "alternateNames": [],
+      "address": "HSE 17, FIRST AVE. FESTAC/T, LAGOS, LAGOLS, LAGOS, LAGOLS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "25000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "267133",
+      "updatedAtSitemap": "2024-01-15T18:35:49.000Z",
+      "oldInternationalNumber": "102204",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 273,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196942,
+          "providerId": "199095",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:29.578323+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82068779,
+          "address": "HSE 17, FIRST AVE. FESTAC/T, LAGOS, LAGOLS, LAGOS, LAGOLS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 244901697,
+          "companyId": 61050340,
+          "personId": 66144602,
+          "roleId": 114357,
+          "person": {
+            "id": 66144602,
+            "name": "oluseyi lois sam-akuma",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1987,
+            "birthMonth": 10,
+            "birthDate": 15,
+            "address": "A44311 A CLOSE, BLOCK 1, FESTAC TOWN, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1720686",
+            "documentType": "International Passport",
+            "documentNumber": "B00211478",
+            "email": "oluseyiomotosho@gmail.com",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114357,
+            "name": "Legal Practitioner ",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            }
+          },
+          "companies": [
+            {
+              "name": "WINGED WOLF",
+              "internationalNumber": "BN-2561423"
+            },
+            {
+              "name": "GRACE AND GREAT GLOBAL INVESTMENTS NIGERIA LIMITED",
+              "internationalNumber": "RC-1524497"
+            },
+            {
+              "name": "ONDISPLAY COMPANY LIMITED",
+              "internationalNumber": "RC-1836418"
+            },
+            {
+              "name": "UK BABY SHOPPER",
+              "internationalNumber": "BN-3533358"
+            },
+            {
+              "name": "KHALS STORES",
+              "internationalNumber": "BN-2949409"
+            },
+            {
+              "name": "A. I. GWADABE GENERAL ENTERPRISES NIGERIA LIMITED",
+              "internationalNumber": "RC-114643"
+            },
+            {
+              "name": "APIAJAY NIGERIA LIMITED",
+              "internationalNumber": "RC-111710"
+            },
+            {
+              "name": "PERBITTO LIMITED",
+              "internationalNumber": "RC-1767795"
+            },
+            {
+              "name": "DELANTIC NIGERIA LIMITED",
+              "internationalNumber": "RC-1454612"
+            },
+            {
+              "name": "MOLATHZ EXCLUSIVE STORE",
+              "internationalNumber": "BN-2549699"
+            },
+            {
+              "name": "AREWA GINNIGN COMPANY LIMITED",
+              "internationalNumber": "RC-112013"
+            },
+            {
+              "name": "KZT CREATIVES",
+              "internationalNumber": "BN-3558885"
+            },
+            {
+              "name": "INFINITE ACCENT CONCEPTS",
+              "internationalNumber": "BN-3449999"
+            },
+            {
+              "name": "WALTEL COMMUNICATIONS",
+              "internationalNumber": "BN-2526240"
+            },
+            {
+              "name": "REGARDLESS LAGOS LOGISTICS",
+              "internationalNumber": "BN-2611140"
+            },
+            {
+              "name": "SCENTS BY LOIS",
+              "internationalNumber": "BN-3065481"
+            },
+            {
+              "name": "OMEYI MAKEOVER",
+              "internationalNumber": "BN-3065638"
+            },
+            {
+              "name": "SIMPACT TECHNOLOGY AND ADVISORY LIMITED",
+              "internationalNumber": "RC-1450565"
+            },
+            {
+              "name": "NOLTON BRAVOS ADVISORY LIMITED",
+              "internationalNumber": "RC-1458406"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238243798,
+          "companyId": 61050340,
+          "personId": 67033736,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 67033736,
+            "name": "sam-akuma oluseyi",
+            "countryId": 24,
+            "address": "311 A CLOSE, FESTAC TOWN, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "email": "oluseyiomotosho@gmail.com",
+            "phone": "2347033182240",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238243799,
+          "companyId": 61050340,
+          "personId": 78839026,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78839026,
+            "name": "okee-aguguo somunachi valerie nkem",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1998,
+            "birthMonth": 8,
+            "birthDate": 22,
+            "address": "PLOT 18B, GBENGA ASHAFA STREET, OFF BANANA ISLAND ROAD, IKOYI, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A05905179",
+            "documentType": "International Passport",
+            "email": "sommygirl98@hotmail.com",
+            "phone": "08020606746",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

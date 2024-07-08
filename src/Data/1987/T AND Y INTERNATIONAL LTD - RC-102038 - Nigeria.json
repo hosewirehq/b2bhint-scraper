@@ -1,0 +1,412 @@
+[
+  {
+    "year": "1987",
+    "title": "T AND Y INTERNATIONAL LTD - RC-102038 - Nigeria",
+    "description": "T AND Y INTERNATIONAL LTD Nigeria company, Company number: RC-102038, Incorporation Date Nov 5, 1987;, Address: 4-6 YAYA ABATAN ST., AGUGA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61050160,
+      "name": "T AND Y INTERNATIONAL LTD",
+      "internationalNumber": "RC-102038",
+      "localNumber": "102038",
+      "countryId": 24,
+      "dateCreated": "1987-11-05T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:31:03.511Z",
+      "updatedAt": "2024-06-15T15:25:30.526Z",
+      "alternateNames": [],
+      "address": "4-6 YAYA ABATAN ST., AGUGA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "20000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "266967",
+      "updatedAtSitemap": "2024-01-15T16:09:27.000Z",
+      "oldInternationalNumber": "102038",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 159,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100311553,
+          "address": "4-6 YAYA ABATAN ST., AGUGA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 243060539,
+          "companyId": 61050160,
+          "personId": 66140094,
+          "roleId": 114349,
+          "person": {
+            "id": 66140094,
+            "name": "kabir alayo akanbi",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1979,
+            "birthMonth": 9,
+            "birthDate": 14,
+            "address": "117ALLEN AVENUE, IKEJA, IKEJA, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1463385",
+            "documentType": "International Passport",
+            "documentNumber": "A08026630",
+            "email": "profalayo01@yahoo.com",
+            "phone": "+234 803 430 2569",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114349,
+            "name": "Legal Practice",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practice"
+            }
+          },
+          "companies": [
+            {
+              "name": "SAHMON NIGERIA ENTERPRISE",
+              "internationalNumber": "BN-2533791"
+            },
+            {
+              "name": "ZAIMAM & SONS VENTURES",
+              "internationalNumber": "BN-2850334"
+            },
+            {
+              "name": "AAOYEDIRAN & ASSOCIATES ENGINEERING SERVICES LTD",
+              "internationalNumber": "RC-1631096"
+            },
+            {
+              "name": "RIDADEX GLOBAL SERVICES",
+              "internationalNumber": "BN-2818003"
+            },
+            {
+              "name": "KUBOID COMMUNICATIONS",
+              "internationalNumber": "BN-2999584"
+            },
+            {
+              "name": "KING YOA MULTI-RESOURCES",
+              "internationalNumber": "BN-2686498"
+            },
+            {
+              "name": "HASSAN TAIWO MULTI RESOURCES",
+              "internationalNumber": "BN-2646749"
+            },
+            {
+              "name": "TIMECON ENTERPRISES",
+              "internationalNumber": "BN-2795547"
+            },
+            {
+              "name": "PURE LIFE OIL AND GAS LTD",
+              "internationalNumber": "RC-1835932"
+            },
+            {
+              "name": "EPIC PUBLICATION",
+              "internationalNumber": "BN-3012313"
+            },
+            {
+              "name": "ABENZEN INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-1635923"
+            },
+            {
+              "name": "OLA-DEJI HOTELS",
+              "internationalNumber": "BN-3014239"
+            },
+            {
+              "name": "REIGNITE THERAPY & COUNSELING",
+              "internationalNumber": "BN-3065759"
+            },
+            {
+              "name": "MAXTOOLS CONCEPT",
+              "internationalNumber": "BN-3008160"
+            },
+            {
+              "name": "FIZZY ELEGANCE APPAREL",
+              "internationalNumber": "BN-3598816"
+            },
+            {
+              "name": "SURE FOUNDATION BUILDING CONTRACTOR",
+              "internationalNumber": "BN-3008179"
+            },
+            {
+              "name": "JIHAL REALTY NIGERIA LIMITED",
+              "internationalNumber": "RC-1808058"
+            },
+            {
+              "name": "WILLCRAFT MULTI RESOURCES",
+              "internationalNumber": "BN-2599352"
+            },
+            {
+              "name": "GBOLAND VENTURES",
+              "internationalNumber": "BN-2561712"
+            },
+            {
+              "name": "LEJULE MULTI-RESOURCES",
+              "internationalNumber": "BN-2699810"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238245614,
+          "companyId": 61050160,
+          "personId": 97118608,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 97118608,
+            "name": "akanbi kabir",
+            "countryId": 24,
+            "address": "NO 3, DURBAN STREET WUSE II  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "OBAJONES NIG LTD",
+              "internationalNumber": "RC-104844"
+            },
+            {
+              "name": "ADEBISI RASAKI GALLANT INDUSTRIAL CO. LTD",
+              "internationalNumber": "RC-109908"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238245615,
+          "companyId": 61050160,
+          "personId": 97140390,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 97140390,
+            "name": "akovoyon stephen friday",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1952,
+            "birthMonth": 7,
+            "birthDate": 6,
+            "address": "16/18, AKINYEMI STREET, IGANDO, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "number": "A39438761",
+            "documentType": "Permanent Voters' Card",
+            "email": "oluso@gmail.com",
+            "phone": "08056518159",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "10",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 9
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

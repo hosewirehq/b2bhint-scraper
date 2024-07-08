@@ -1,0 +1,403 @@
+[
+  {
+    "year": "1987",
+    "title": "YVONNE - JOY LIMITED - RC-101875 - Nigeria",
+    "description": "YVONNE - JOY LIMITED Nigeria company, Company number: RC-101875, Incorporation Date Oct 30, 1987;, Address: 24, BREADFUIT STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61049983,
+      "name": "YVONNE - JOY LIMITED",
+      "internationalNumber": "RC-101875",
+      "localNumber": "101875",
+      "countryId": 24,
+      "dateCreated": "1987-10-30T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:30:37.240Z",
+      "updatedAt": "2024-06-15T15:37:09.157Z",
+      "alternateNames": [],
+      "address": "24, BREADFUIT STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "266804",
+      "updatedAtSitemap": "2024-01-15T18:35:51.000Z",
+      "oldInternationalNumber": "101875",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 71,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197044,
+          "providerId": "348594",
+          "providerName": "IT Others",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:09.448381+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82068241,
+          "address": "24, BREADFUIT STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238247612,
+          "companyId": 61049983,
+          "personId": 78840554,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78840554,
+            "name": "dahir-umar aishatu",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1962,
+            "birthMonth": 7,
+            "birthDate": 9,
+            "address": "HOUSE C4, STALLION COURT, PLOT NO. 800 BLANTYRE STREET, WUSE II, ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "number": "A060503060",
+            "documentType": "International Passport",
+            "email": "aisha.dahir@yahoo.com",
+            "phone": "09460395455",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238247617,
+          "companyId": 61049983,
+          "personId": 78840555,
+          "roleId": 60330,
+          "sourceNum": 1,
+          "person": {
+            "id": 78840555,
+            "name": "muhammad muhammad sani",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1966,
+            "birthMonth": 12,
+            "birthDate": 30,
+            "address": "NO. 18, IDANRE HILLS AMSSCO PLATINUM CITY ESTATE, GALADIMAWA DISTRICT, ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "number": "A03167127",
+            "documentType": "International Passport",
+            "email": "muhammadsani@yahoo.com",
+            "phone": "08025010094",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238247611,
+          "companyId": 61049983,
+          "personId": 97140890,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 97140890,
+            "name": "nwaeze chidinma",
+            "countryId": 24,
+            "address": "NO. 6, NWOSU STREET, NDAKU-ANOZIE URUAGU  NNEWI                                                                                                 ANAMBRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ROCK ROYE NIGERIA LTD",
+              "internationalNumber": "RC-98951"
+            },
+            {
+              "name": "AUTO WIN LIMITED",
+              "internationalNumber": "RC-617320"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244861516,
+          "companyId": 61049983,
+          "personId": 66372530,
+          "roleId": 114332,
+          "person": {
+            "id": 66372530,
+            "name": "chidinma tina nwaeze",
+            "countryId": 24,
+            "occupation": "Legal practice",
+            "nationality": "NIGERIAN",
+            "birthYear": 1985,
+            "birthMonth": 11,
+            "birthDate": 21,
+            "address": " herbert macaulay way ,wuse zone 4, plot 511",
+            "countryOfResidence": "NIGERIA",
+            "documentNumber": "A02025797",
+            "email": "chidinma_nwaeze@yahoo.com",
+            "phone": "2348035986889 ",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "COMMINT NIG LTD",
+              "internationalNumber": "RC-90149"
+            },
+            {
+              "name": "EVERREADY FIRE SAFETY LTD",
+              "internationalNumber": "RC-127704"
+            },
+            {
+              "name": "HAVANA SPECIALIST HOSPITAL LIMITED",
+              "internationalNumber": "RC-92284"
+            },
+            {
+              "name": "ROCK ROYE NIGERIA LTD",
+              "internationalNumber": "RC-98951"
+            },
+            {
+              "name": "OLIVE BUSINESS CONSULTING INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-1888022"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 6
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
