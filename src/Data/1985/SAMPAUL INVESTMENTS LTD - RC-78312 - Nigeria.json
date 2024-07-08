@@ -1,0 +1,499 @@
+[
+  {
+    "year": "1985",
+    "title": "SAMPAUL INVESTMENTS LTD - RC-78312 - Nigeria",
+    "description": "SAMPAUL INVESTMENTS LTD Nigeria company, Company number: RC-78312, Incorporation Date Oct 15, 1985;, Address: 39 BRIDGE ST, IDUMOTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60933159,
+      "name": "SAMPAUL INVESTMENTS LTD",
+      "internationalNumber": "RC-78312",
+      "localNumber": "78312",
+      "countryId": 24,
+      "dateCreated": "1985-10-15T00:00:00.000Z",
+      "createdAt": "2021-05-19T18:42:01.116Z",
+      "updatedAt": "2024-06-15T15:24:15.199Z",
+      "alternateNames": [],
+      "address": "39 BRIDGE ST, IDUMOTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "243283",
+      "updatedAtSitemap": "2024-01-15T16:17:06.000Z",
+      "oldInternationalNumber": "78312",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 433,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83374784,
+          "address": "39 BRIDGE ST, IDUMOTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "PHILLAZ NIGERIA LIMITED",
+              "internationalNumber": "RC-75302"
+            },
+            {
+              "name": "ZEPH M. OGBUKA COMMERCIAL ENT.",
+              "internationalNumber": "BN-493138"
+            },
+            {
+              "name": "ADOLSUN E NT",
+              "internationalNumber": "BN-634122"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 157131595,
+          "companyId": 60933159,
+          "personId": 66332182,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66332182,
+            "name": "samuel okonkwo                                                                                       n/a",
+            "countryId": 24,
+            "address": "19, BADA STR. AKOWONJO, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "DESAMEX LINKS GLOBAL LIMITED",
+              "internationalNumber": "RC-1167377"
+            },
+            {
+              "name": "EMILCO SERVICES NIG LTD",
+              "internationalNumber": "RC-134393"
+            },
+            {
+              "name": "ULTIMATE ALUMINUM IND. LTD",
+              "internationalNumber": "RC-191979"
+            },
+            {
+              "name": "BOSNY AND CHEMICALS INDUSTRIES LIMITED",
+              "internationalNumber": "RC-273170"
+            },
+            {
+              "name": "SAMFRANCE NIG LIMITED",
+              "internationalNumber": "RC-242082"
+            },
+            {
+              "name": "SAM NEW AGE PRODUCTION LIMITED",
+              "internationalNumber": "RC-268123"
+            },
+            {
+              "name": "HI DESIGN CONSTRUCTION DEVELOPMENT NIGERIA LIMITED",
+              "internationalNumber": "RC-887606"
+            },
+            {
+              "name": "SABBATH CITY NIGERIA LIMITED",
+              "internationalNumber": "RC-230676"
+            },
+            {
+              "name": "ESON-KONSULT & FINANCE LTD",
+              "internationalNumber": "RC-154241"
+            },
+            {
+              "name": "SAMFRANS ASSOCIATES LTD",
+              "internationalNumber": "RC-81944"
+            },
+            {
+              "name": "BE IKENGA DEVELOPEMENT CO. NIG LTD",
+              "internationalNumber": "RC-255176"
+            },
+            {
+              "name": "TSS SAMTUS INDUSTRIES COMPANY LIMITED",
+              "internationalNumber": "RC-86314"
+            },
+            {
+              "name": "TOPCY NIG LTD",
+              "internationalNumber": "RC-199513"
+            },
+            {
+              "name": "SMOT FISHING NET INDUSTRY LTD",
+              "internationalNumber": "RC-72572"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 157131596,
+          "companyId": 60933159,
+          "personId": 66332183,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66332183,
+            "name": "david osuigwe                                                                                        n/a",
+            "countryId": 24,
+            "address": "39, BUDGE STREET IDUMOTA LAGOS STATE",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 157131597,
+          "companyId": 60933159,
+          "personId": 66332184,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66332184,
+            "name": "samuel okonkwo",
+            "countryId": 24,
+            "address": "25, OKPO STREET, NEW HEAVEN ENUGU ENUGU",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "DESAMEX LINKS GLOBAL LIMITED",
+              "internationalNumber": "RC-1167377"
+            },
+            {
+              "name": "EMILCO SERVICES NIG LTD",
+              "internationalNumber": "RC-134393"
+            },
+            {
+              "name": "SAMFRANCE NIG LIMITED",
+              "internationalNumber": "RC-242082"
+            },
+            {
+              "name": "ULTIMATE ALUMINUM IND. LTD",
+              "internationalNumber": "RC-191979"
+            },
+            {
+              "name": "BOSNY AND CHEMICALS INDUSTRIES LIMITED",
+              "internationalNumber": "RC-273170"
+            },
+            {
+              "name": "VICSON CONSTRUCTION LTD",
+              "internationalNumber": "RC-864049"
+            },
+            {
+              "name": "G77 INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-676793"
+            },
+            {
+              "name": "SAM NEW AGE PRODUCTION LIMITED",
+              "internationalNumber": "RC-268123"
+            },
+            {
+              "name": "FEN RESOURCES LIMITED",
+              "internationalNumber": "RC-388590"
+            },
+            {
+              "name": "HI DESIGN CONSTRUCTION DEVELOPMENT NIGERIA LIMITED",
+              "internationalNumber": "RC-887606"
+            },
+            {
+              "name": "ESON-KONSULT & FINANCE LTD",
+              "internationalNumber": "RC-154241"
+            },
+            {
+              "name": "SAMFRANS ASSOCIATES LTD",
+              "internationalNumber": "RC-81944"
+            },
+            {
+              "name": "BE IKENGA DEVELOPEMENT CO. NIG LTD",
+              "internationalNumber": "RC-255176"
+            },
+            {
+              "name": "SAMEK O BUILDING MATERIALS LIMITED",
+              "internationalNumber": "RC-662415"
+            },
+            {
+              "name": "SAM AND EDITH INTERCONTINENTAL CONCEPTS LIMITED",
+              "internationalNumber": "RC-864404"
+            },
+            {
+              "name": "TSS SAMTUS INDUSTRIES COMPANY LIMITED",
+              "internationalNumber": "RC-86314"
+            },
+            {
+              "name": "TOPCY NIG LTD",
+              "internationalNumber": "RC-199513"
+            },
+            {
+              "name": "SMOT FISHING NET INDUSTRY LTD",
+              "internationalNumber": "RC-72572"
+            },
+            {
+              "name": "PUREKACH NIGERIA LIMITED",
+              "internationalNumber": "RC-822437"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 157131598,
+          "companyId": 60933159,
+          "personId": 66332185,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66332185,
+            "name": "david osuigwe",
+            "countryId": 24,
+            "address": "39, BUDGE STREET IDUMOTA LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
