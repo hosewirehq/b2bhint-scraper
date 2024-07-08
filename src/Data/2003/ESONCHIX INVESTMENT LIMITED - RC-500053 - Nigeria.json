@@ -1,0 +1,298 @@
+[
+  {
+    "year": "2003",
+    "title": "ESONCHIX INVESTMENT LIMITED - RC-500053 - Nigeria",
+    "description": "ESONCHIX INVESTMENT LIMITED Nigeria company, Company number: RC-500053, Incorporation Date Dec 2, 2003;, Address: 3, ISUOCHISTREET, AWADA, ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+    "company": {
+      "id": 62552343,
+      "name": "ESONCHIX INVESTMENT LIMITED",
+      "internationalNumber": "RC-500053",
+      "localNumber": "500053",
+      "countryId": 24,
+      "dateCreated": "2003-12-02T00:00:00.000Z",
+      "createdAt": "2021-05-30T16:03:04.703Z",
+      "updatedAt": "2024-06-15T14:32:20.221Z",
+      "alternateNames": [],
+      "address": "3, ISUOCHISTREET, AWADA, ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "200000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "656993",
+      "updatedAtSitemap": "2023-06-09T18:47:22.000Z",
+      "oldInternationalNumber": "500053",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 156,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 94134607,
+          "address": "3, ISUOCHISTREET, AWADA, ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 237812583,
+          "companyId": 62552343,
+          "personId": 67231940,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67231940,
+            "name": "okeke chukwuemeka",
+            "countryId": 24,
+            "address": "11 Lome Crescent, Wuse Zone 7, Abuja - FCT",
+            "phone": "07039409741",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CMC GRACEGATE INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-603107"
+            },
+            {
+              "name": "E-SIOT LIMITED",
+              "internationalNumber": "RC-1465114"
+            },
+            {
+              "name": "RECUNT COMPANY LIMITED",
+              "internationalNumber": "RC-802811"
+            },
+            {
+              "name": "NOBIS ENERGY OIL & GAS LTD",
+              "internationalNumber": "RC-1073901"
+            },
+            {
+              "name": "THE YOUNG BLESSED MEKABLE NIG ENTERPRISES",
+              "internationalNumber": "BN-2304547"
+            },
+            {
+              "name": "CEE CEE STRASSE BAUER NIGERIA LIMITED",
+              "internationalNumber": "RC-507514"
+            },
+            {
+              "name": "AGOHA INVESTMENTS AND CONCEPTS LIMITED",
+              "internationalNumber": "RC-1433117"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 237812582,
+          "companyId": 62552343,
+          "personId": 97028354,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97028354,
+            "name": "okeke emmanuel o.",
+            "countryId": 24,
+            "address": "12, ADIGUN STR., OFF AMUSAN STR., NEW OKO-OBA LAGOS LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ONSON INVEST. NIG LTD",
+              "internationalNumber": "RC-345569"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "2",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

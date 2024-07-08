@@ -1,0 +1,397 @@
+[
+  {
+    "year": "2003",
+    "title": "BEVERLY TRUST LIMITED - RC-497548 - Nigeria",
+    "description": "BEVERLY TRUST LIMITED Nigeria company, Company number: RC-497548, Incorporation Date Nov 20, 2003;, Address: 9, ELETU-IWASHE STREET, LAGOS, LAGOS",
+    "company": {
+      "id": 60511537,
+      "name": "BEVERLY TRUST LIMITED",
+      "internationalNumber": "RC-497548",
+      "localNumber": "497548",
+      "countryId": 24,
+      "dateCreated": "2003-11-20T00:00:00.000Z",
+      "createdAt": "2021-05-14T10:05:08.583Z",
+      "updatedAt": "2024-06-15T14:19:00.080Z",
+      "alternateNames": [],
+      "address": "9, ELETU-IWASHE STREET, LAGOS, LAGOS",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "500000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "500000",
+      "historicalNames": [],
+      "providerId": "5050360",
+      "updatedAtSitemap": "2023-06-09T18:13:29.000Z",
+      "oldInternationalNumber": "497548",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 82,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888483,
+          "providerId": "3",
+          "providerName": "Fish Farming/Aquaculture",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:06:57.139242+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 95378334,
+          "address": "9, ELETU-IWASHE STREET, LAGOS, LAGOS",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 242013183,
+          "companyId": 60511537,
+          "personId": 66695704,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 25000,
+          "person": {
+            "id": 66695704,
+            "name": "nwosu obinna",
+            "countryId": 24,
+            "address": "No. 9 Timbuktu Street, Wuse Zone 6, Abuja",
+            "phone": "08034839115",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "EPITOME DE-LACLASSE VENTURES LIMITED",
+              "internationalNumber": "RC-869598"
+            },
+            {
+              "name": "DEMULTY DIVIDEND INVESTMENT COMPANY LIMITED",
+              "internationalNumber": "RC-464147"
+            },
+            {
+              "name": "S.E.A KEN INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-869633"
+            },
+            {
+              "name": "RICHARD VAL ENTERPRISES LIMITED",
+              "internationalNumber": "RC-869623"
+            },
+            {
+              "name": "ETSOLA NIGERIA LIMITED",
+              "internationalNumber": "RC-730739"
+            },
+            {
+              "name": "NOBLE STORES LIMITED",
+              "internationalNumber": "RC-1130278"
+            },
+            {
+              "name": "A.P.D VENTURES LIMITED",
+              "internationalNumber": "RC-869695"
+            },
+            {
+              "name": "ASTILLEROS ARMON S. A. LTD",
+              "internationalNumber": "RC-102379"
+            },
+            {
+              "name": "MAC-WOMS NIGERIA LIMITED",
+              "internationalNumber": "RC-730742"
+            },
+            {
+              "name": "ANTISLIP SOLUTIONS NIGERIA LIMITED",
+              "internationalNumber": "RC-742235"
+            },
+            {
+              "name": "SPRINGSTEEN GLOBAL VENTURES LIMITED",
+              "internationalNumber": "RC-869890"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242013186,
+          "companyId": 60511537,
+          "personId": 67528538,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 67528538,
+            "name": "mno nominees limited",
+            "countryId": 24,
+            "address": "NO. 18, OBA AKRAN AVENUE, ",
+            "countryOfResidence": "NIGERIA",
+            "email": "margaret.chukwu@jikeokechukwu.com",
+            "phone": "08036491459",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [
+            {
+              "name": "XIN HAO INDUSTRIES (NIGERIA) LIMITED",
+              "internationalNumber": "RC-842096"
+            },
+            {
+              "name": "ECOMAX MEDIA TECHNOLOGY LIMITED",
+              "internationalNumber": "RC-376587"
+            },
+            {
+              "name": "AIRPORT CHINESE RESTAURANT LTD",
+              "internationalNumber": "RC-32298"
+            },
+            {
+              "name": "JADE PALACE CHINESE CUISINE LIMITED",
+              "internationalNumber": "RC-636804"
+            },
+            {
+              "name": "PORCE-LAINWARE INDUSTRIES LTD",
+              "internationalNumber": "RC-37793"
+            },
+            {
+              "name": "EASTERN ENAMEL WARE FACTORY LTD",
+              "internationalNumber": "RC-3174"
+            },
+            {
+              "name": "PRIME NIG WOOD PRODUCTS CO. LTD",
+              "internationalNumber": "RC-221117"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242013182,
+          "companyId": 60511537,
+          "personId": 72019739,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 25000,
+          "person": {
+            "id": 72019739,
+            "name": "nwosu adaobi",
+            "countryId": 24,
+            "address": "ZONE D BLOCK 2 ASPAMDA BADAGRY  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "KASHCAJ REAL ESTATE AND PROPERTIES LIMITED",
+              "internationalNumber": "RC-1079976"
+            },
+            {
+              "name": "PATEMEJAH INVESTMENT LIMITED",
+              "internationalNumber": "RC-605696"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 7,
+        "null": 1
+      },
+      "personsWithRelatedCount": 5
+    }
+  }
+]

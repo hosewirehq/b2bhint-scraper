@@ -1,0 +1,330 @@
+[
+  {
+    "year": "2003",
+    "title": "PATHFINDER CAPITAL LIMITED - RC-499867 - Nigeria",
+    "description": "PATHFINDER CAPITAL LIMITED Nigeria company, Company number: RC-499867, Incorporation Date Dec 1, 2003;, Address: 24, OLUTAYOALAOSTREET, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+    "company": {
+      "id": 62652344,
+      "name": "PATHFINDER CAPITAL LIMITED",
+      "internationalNumber": "RC-499867",
+      "localNumber": "499867",
+      "countryId": 24,
+      "dateCreated": "2003-12-01T00:00:00.000Z",
+      "createdAt": "2021-05-30T22:21:26.852Z",
+      "updatedAt": "2024-06-15T14:32:21.603Z",
+      "alternateNames": [],
+      "address": "24, OLUTAYOALAOSTREET, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "656813",
+      "updatedAtSitemap": "2023-06-09T18:47:24.000Z",
+      "oldInternationalNumber": "499867",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 124,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 94134040,
+          "address": "24, OLUTAYOALAOSTREET, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 236973922,
+          "companyId": 62652344,
+          "personId": 67087697,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67087697,
+            "name": "olayinka lawal",
+            "countryId": 24,
+            "address": "28, OYE TOLA ADESOYE STREET, CASSO AGBADO,  IJAIYE,                                                                                               LAGOS.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "DE RODMARK VENTURES",
+              "internationalNumber": "BN-2217654"
+            },
+            {
+              "name": "A-LINE ARCHERS CONSTRUCTION COMPANY LIMITED",
+              "internationalNumber": "RC-1133033"
+            },
+            {
+              "name": "MUYEN LTD",
+              "internationalNumber": "RC-173151"
+            },
+            {
+              "name": "CHRISTEMMA INTERNATIONAL CONSULTING LTD",
+              "internationalNumber": "RC-879927"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 236973924,
+          "companyId": 62652344,
+          "personId": 69064968,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 69064968,
+            "name": "fisayo oyedeji",
+            "countryId": 24,
+            "address": "NO 24, OLUTAYO ALAO STREET RIVER VALLEY ESTATE, BERGER  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "FINANCIAL CARE ADVISERS LIMITED",
+              "internationalNumber": "1133481"
+            },
+            {
+              "name": "CORE BUSINESS LIMITED",
+              "internationalNumber": "RC-455020"
+            },
+            {
+              "name": "HOMERUN INTERNATIONAL SERVICES LIMITED",
+              "internationalNumber": "RC-995680"
+            },
+            {
+              "name": "PLAT SHIPPING LIMITED",
+              "internationalNumber": "RC-710462"
+            },
+            {
+              "name": "MAPLE AUTO LIMITED",
+              "internationalNumber": "RC-727436"
+            },
+            {
+              "name": "ENERGY CRAFT LIMITED",
+              "internationalNumber": "RC-823416"
+            },
+            {
+              "name": "FOODCRAFT LIMITED",
+              "internationalNumber": "RC-721911"
+            },
+            {
+              "name": "C T BUSINESS DATA COMPANY LTD",
+              "internationalNumber": "RC-1115153"
+            },
+            {
+              "name": "FOODNEST & EVENT LIMITED",
+              "internationalNumber": "RC-999211"
+            },
+            {
+              "name": "CORE ENERGY AND MARINE LIMITED",
+              "internationalNumber": "RC-452688"
+            },
+            {
+              "name": "TERMINAL NETWORKS LIMITED",
+              "internationalNumber": "RC-754440"
+            },
+            {
+              "name": "POWER FUND ALLIANCE LIMITED",
+              "internationalNumber": "RC-681925"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
