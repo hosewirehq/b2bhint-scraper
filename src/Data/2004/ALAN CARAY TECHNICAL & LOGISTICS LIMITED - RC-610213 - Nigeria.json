@@ -1,0 +1,506 @@
+[
+  {
+    "year": "2004",
+    "title": "ALAN CARAY TECHNICAL & LOGISTICS LIMITED - RC-610213 - Nigeria",
+    "description": "ALAN CARAY TECHNICAL & LOGISTICS LIMITED Nigeria company, Company number: RC-610213, Incorporation Date Nov 1, 2004;, Address: 9, MACGREGOR ROAD, IKOYI, LAGOS STATE",
+    "company": {
+      "id": 104062979,
+      "name": "ALAN CARAY TECHNICAL & LOGISTICS LIMITED",
+      "internationalNumber": "RC-610213",
+      "localNumber": "610213",
+      "countryId": 24,
+      "dateCreated": "2004-11-01T00:00:00.000Z",
+      "createdAt": "2022-03-16T06:14:31.191Z",
+      "updatedAt": "2024-06-15T15:56:44.936Z",
+      "alternateNames": [],
+      "address": "9, MACGREGOR ROAD, IKOYI, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "25000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "25000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE TRADE OR BUSINESS OF GENERAL MERCHANTS, EXPORTERS, IMPORTERS, TRADERS, DISTRIBUTORS, SUPPLIERS, COMMISSION AGENTS, ETC.",
+      "providerId": "705988",
+      "updatedAtSitemap": "2023-06-09T17:18:53.000Z",
+      "oldInternationalNumber": "610213",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 21,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197060,
+          "providerId": "199249",
+          "providerName": "Manufacturing Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:25.21671+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82502360,
+          "address": "9, MACGREGOR ROAD, IKOYI, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "WOODSTYLES LIMITED",
+              "internationalNumber": "RC-1196368"
+            },
+            {
+              "name": "VACC TECHNICAL LIMITED",
+              "internationalNumber": "RC-432554"
+            },
+            {
+              "name": "EL ALAN CONSTRUCTION COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-46413"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 232494975,
+          "companyId": 104062979,
+          "personId": 79965309,
+          "roleId": 60317,
+          "appointedOn": "2012-05-24",
+          "sourceNum": 1,
+          "person": {
+            "id": 79965309,
+            "name": "nader iskandar",
+            "countryId": 24,
+            "nationality": "Lebanon",
+            "address": "9 MACGREGOR ROAD,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "REDLEAF SOLUTIONS LIMITED",
+              "internationalNumber": "RC-949275"
+            },
+            {
+              "name": "VACC TECHNICAL LIMITED",
+              "internationalNumber": "RC-432554"
+            },
+            {
+              "name": "EL ALAN CONSTRUCTION COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-46413"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232494973,
+          "companyId": 104062979,
+          "personId": 95021360,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 95021360,
+            "name": "sunday  phillips",
+            "countryId": 24,
+            "address": "4, BURAIMOH  STREET, OBANIKORO,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232494977,
+          "companyId": 104062979,
+          "personId": 95021361,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 12500000,
+          "person": {
+            "id": 95021361,
+            "name": "nader iskamdar",
+            "countryId": 24,
+            "address": "25, BOURDILON ROAD, IKOYI,",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244892549,
+          "companyId": 104062979,
+          "personId": 95021361,
+          "roleId": 60321,
+          "appointedOn": "2022-03-23",
+          "votingShares": "null%",
+          "sourceNum": 1,
+          "person": {
+            "id": 95021361,
+            "name": "nader iskamdar",
+            "countryId": 24,
+            "address": "25, BOURDILON ROAD, IKOYI,",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244892547,
+          "companyId": 104062979,
+          "personId": 98726781,
+          "roleId": 60317,
+          "appointedOn": "2012-05-24",
+          "sourceNum": 1,
+          "person": {
+            "id": 98726781,
+            "name": "geday andrea",
+            "countryId": 24,
+            "address": "25, BOURDILON ROAD, ",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GOLD TIGER LIMITED",
+              "internationalNumber": "RC-1224615"
+            },
+            {
+              "name": "SOFT SOLUTIONS LTD",
+              "internationalNumber": "RC-244433"
+            },
+            {
+              "name": "VACC TECHNICAL LIMITED",
+              "internationalNumber": "RC-432554"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244892548,
+          "companyId": 104062979,
+          "personId": 98726781,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 12500000,
+          "person": {
+            "id": 98726781,
+            "name": "geday andrea",
+            "countryId": 24,
+            "address": "25, BOURDILON ROAD, ",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "GOLD TIGER LIMITED",
+              "internationalNumber": "RC-1224615"
+            },
+            {
+              "name": "SOFT SOLUTIONS LTD",
+              "internationalNumber": "RC-244433"
+            },
+            {
+              "name": "VACC TECHNICAL LIMITED",
+              "internationalNumber": "RC-432554"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 2,
+        "null": 4
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

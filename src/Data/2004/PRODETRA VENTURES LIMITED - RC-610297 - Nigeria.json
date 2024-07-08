@@ -1,0 +1,267 @@
+[
+  {
+    "year": "2004",
+    "title": "PRODETRA VENTURES LIMITED - RC-610297 - Nigeria",
+    "description": "PRODETRA VENTURES LIMITED Nigeria company, Company number: RC-610297, Incorporation Date 2. Nov. 2004;, Address: PLOT 1257, AMINU KANO CRESCENT, ZONE A7, WUSEII, ABUJA, FCT, ABUJA",
+    "company": {
+      "id": 104063167,
+      "name": "PRODETRA VENTURES LIMITED",
+      "internationalNumber": "RC-610297",
+      "localNumber": "610297",
+      "countryId": 24,
+      "dateCreated": "2004-11-02T00:00:00.000Z",
+      "createdAt": "2022-03-16T06:16:42.677Z",
+      "updatedAt": "2024-06-15T15:56:48.385Z",
+      "alternateNames": [],
+      "address": "PLOT 1257, AMINU KANO CRESCENT, ZONE A7, WUSEII, ABUJA, FCT, ABUJA",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON BUSINESS IN NIGERIA OR ELSEWHERE OF OR TRADE OF BUILDERS AND CONSTRUCTION WORKS OF ANY KIND AND FOR THAT PURPOSE TO ENGAGE IN THE CONSTRUCTION OF HOUSE , BRIDGES , DAMS , WATERWAYS , CANALS AND ENGAGED IN THE ERECTION , DEMOLITION OF ANY STRUCTURE .\nTO PURCHASE OR OTHERWISE ACQUIRE LANDS , HOUSES, OFFICES, WORKSHOPS , BUILDINGS AND PREMISES FOR THE PURPOSE OF SUCH TRADE OR BUSINESS .",
+      "providerId": "706070",
+      "updatedAtSitemap": "2023-06-09T17:18:53.000Z",
+      "oldInternationalNumber": "610297",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 114,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196978,
+          "providerId": "143222",
+          "providerName": "Construction of buildings",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:58.105044+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101224280,
+          "address": "PLOT 1257, AMINU KANO CRESCENT, ZONE A7, WUSEII, ABUJA, FCT, ABUJA",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 232494705,
+          "companyId": 104063167,
+          "personId": 95021199,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95021199,
+            "name": "sambo bashir mohammed",
+            "countryId": 24,
+            "address": "PLOT 38 IBB ROAD  FADAMA MADA                                                                                           BAUCHI",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232494706,
+          "companyId": 104063167,
+          "personId": 95021200,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95021200,
+            "name": "sambo muslim",
+            "countryId": 24,
+            "address": "PLOT 38 IBBROAD  FADAMA MADA                                                                                           BAUCHI",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 6
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

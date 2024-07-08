@@ -1,0 +1,336 @@
+[
+  {
+    "year": "2004",
+    "title": "GLEANING INTEGRATED LTD - RC-610295 - Nigeria",
+    "description": "GLEANING INTEGRATED LTD Nigeria company, Company number: RC-610295, Incorporation Date Nov 2, 2004;, Address: B17, WUSESHOPPINGCOMPLEX, ZONE5, WUSE, ABUJA, FCT, ABUJA, FCT STATE",
+    "company": {
+      "id": 61502381,
+      "name": "GLEANING INTEGRATED LTD",
+      "internationalNumber": "RC-610295",
+      "localNumber": "610295",
+      "countryId": 24,
+      "dateCreated": "2004-11-02T00:00:00.000Z",
+      "createdAt": "2021-05-25T04:22:42.583Z",
+      "updatedAt": "2024-06-15T15:56:48.446Z",
+      "alternateNames": [],
+      "address": "B17, WUSESHOPPINGCOMPLEX, ZONE5, WUSE, ABUJA, FCT, ABUJA, FCT STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "706068",
+      "updatedAtSitemap": "2023-06-09T17:18:53.000Z",
+      "oldInternationalNumber": "610295",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 114,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101224253,
+          "address": "B17, WUSESHOPPINGCOMPLEX, ZONE5, WUSE, ABUJA, FCT, ABUJA, FCT STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 235882253,
+          "companyId": 61502381,
+          "personId": 94683416,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 94683416,
+            "name": "akpesuwe deborah erdoo",
+            "countryId": 24,
+            "address": "9 YAKUBU GOWON CRESCENT ASOKORO  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MENDOVER NIGERIA LIMITED",
+              "internationalNumber": "RC-1132743"
+            },
+            {
+              "name": "CLEAN RESULT LTD",
+              "internationalNumber": "RC-962142"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 250238068,
+          "companyId": 61502381,
+          "personId": 94683417,
+          "roleId": 60321,
+          "percentage": 30,
+          "appointedOn": "2022-03-25",
+          "votingShares": "null%",
+          "sourceNum": 1,
+          "person": {
+            "id": 94683417,
+            "name": "akpe msurshima",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "YAKUBU GOWON CRESCENT, ASOKORO, NO 91",
+            "countryOfResidence": "NIGERIA",
+            "email": "I",
+            "phone": "I",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [
+            {
+              "name": "MENDOVER NIGERIA LIMITED",
+              "internationalNumber": "RC-1132743"
+            },
+            {
+              "name": "CLEAN RESULT LTD",
+              "internationalNumber": "RC-962142"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 250238069,
+          "companyId": 61502381,
+          "personId": 101498964,
+          "roleId": 60321,
+          "percentage": 30,
+          "appointedOn": "2022-03-25",
+          "votingShares": "null%",
+          "sourceNum": 1,
+          "person": {
+            "id": 101498964,
+            "name": "akpe tersoo",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "WUSE SHOPPING COMPLEX, WUSE ZONE 5, B17",
+            "countryOfResidence": "NIGERIA",
+            "email": "I",
+            "phone": "I",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 3
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
