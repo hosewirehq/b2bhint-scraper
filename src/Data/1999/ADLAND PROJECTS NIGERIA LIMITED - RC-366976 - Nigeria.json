@@ -1,0 +1,569 @@
+[
+  {
+    "year": "1999",
+    "title": "ADLAND PROJECTS NIGERIA LIMITED - RC-366976 - Nigeria",
+    "description": "ADLAND PROJECTS NIGERIA LIMITED Nigeria company, Company number: RC-366976, Incorporation Date Oct 10, 1999;, Address: 300, ABA EXPRESSWAY, RIVERS STATE",
+    "company": {
+      "id": 62074811,
+      "name": "ADLAND PROJECTS NIGERIA LIMITED",
+      "internationalNumber": "RC-366976",
+      "localNumber": "366976",
+      "countryId": 24,
+      "dateCreated": "1999-10-10T00:00:00.000Z",
+      "createdAt": "2021-05-28T03:34:40.971Z",
+      "updatedAt": "2024-06-15T16:12:20.719Z",
+      "alternateNames": [],
+      "address": "300, ABA EXPRESSWAY, RIVERS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "10000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS OF CIVIL ENGINEERING CONSTRUCTION COMPANY, PROVIDE CONSTRUCTION SERVICES OF EVERY DESCRIPTIONS, INCLUDING THE PLANNING, DESIGN, ERECTION, IMPROVEMENT, REPAIR, ALTERATION, MAINTENANCE AND DEMOLITION OF CONSTRUCTION WORKS. TO ENGAGE (WITHOUT PREJUDICE TO THE GENERAL OF THE FORE-GOING) IN THE CONSTRUCTION OF BUILDINGS, COMPLEXES, ROADS, HIGHWAYS, BRIDGES, WATERWAYS, WHARVES, MARINE WORKS, RAILWAYS, MANUFACTURING FACILITIES, POWER PLANTS, COMMUNICATION PROJECTS, SEWAGE WORKS, DRAINAGE SYSTEMS, WATER ENGINEERING WORKS, ENGINEERING CONSTANCY SERVICES AND SURVEYING OF ALL KINDS.",
+      "providerId": "526578",
+      "updatedAtSitemap": "2023-06-09T19:04:45.000Z",
+      "oldInternationalNumber": "366976",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 5,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197342,
+          "providerId": "143223",
+          "providerName": "Civil engineering",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:09:18.335754+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92983766,
+          "address": "300, ABA EXPRESSWAY, RIVERS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241439003,
+          "companyId": 62074811,
+          "personId": 71854356,
+          "roleId": 60323,
+          "appointedOn": "2021-08-26",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 1500000,
+          "person": {
+            "id": 71854356,
+            "name": "ehimuan emmanuel",
+            "countryId": 24,
+            "address": "NO. 185, WOJI ROAD, G.R.A., PHASE II PORT HARCOURT RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "LINJO INVESTMENTS LIMITED",
+              "internationalNumber": "RC-353959"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241439009,
+          "companyId": 62074811,
+          "personId": 71854356,
+          "roleId": 60321,
+          "appointedOn": "2022-01-29",
+          "votingShares": "null%",
+          "sourceNum": 1,
+          "person": {
+            "id": 71854356,
+            "name": "ehimuan emmanuel",
+            "countryId": 24,
+            "address": "NO. 185, WOJI ROAD, G.R.A., PHASE II PORT HARCOURT RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [
+            {
+              "name": "LINJO INVESTMENTS LIMITED",
+              "internationalNumber": "RC-353959"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241439005,
+          "companyId": 62074811,
+          "personId": 95220062,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 95220062,
+            "name": "peter oriaran",
+            "countryId": 24,
+            "address": "SUITE 29, AREA 7B, C/SHOP GARKI, ABUJA FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [
+            {
+              "name": "KIKADEL NIGERIA LIMITED",
+              "internationalNumber": "RC-380293"
+            },
+            {
+              "name": "PETSAN COMPUTER AND INFOTECH LIMITED",
+              "internationalNumber": "RC-492749"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241438993,
+          "companyId": 62074811,
+          "personId": 96457907,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 96457907,
+            "name": "ehimuan nelson",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "HARMONY ESTATE EAST WEST ROAD, 14",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "DEFERRED",
+            "email": "NIL",
+            "phone": "NIL",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "N & C CONSTRUCTION COMPANY LIMITED ",
+              "internationalNumber": "RC-425053"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241438999,
+          "companyId": 62074811,
+          "personId": 96457907,
+          "roleId": 60323,
+          "appointedOn": "2021-08-25",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 5000000,
+          "person": {
+            "id": 96457907,
+            "name": "ehimuan nelson",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "HARMONY ESTATE EAST WEST ROAD, 14",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "DEFERRED",
+            "email": "NIL",
+            "phone": "NIL",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "N & C CONSTRUCTION COMPANY LIMITED ",
+              "internationalNumber": "RC-425053"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241439006,
+          "companyId": 62074811,
+          "personId": 98587698,
+          "roleId": 60320,
+          "appointedOn": "2021-12-12",
+          "sourceNum": 1,
+          "person": {
+            "id": 98587698,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "AEROLAND AVIATION ASSOCIATES LIMITED",
+              "internationalNumber": "RC-366992"
+            },
+            {
+              "name": "HY-JOHNSON METAL FABRICATION NIGERIA LIMITED",
+              "internationalNumber": "RC-365196"
+            },
+            {
+              "name": "ONE WORLD COMMUNICATIONS LIMITED",
+              "internationalNumber": "RC-366994"
+            },
+            {
+              "name": "HEISRISEN INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-366995"
+            },
+            {
+              "name": "ANIFA DAMIYAT AND CO. LTD",
+              "internationalNumber": "RC-365190"
+            },
+            {
+              "name": "ONNELINS INVESTMENT NIGERIA LIMITED",
+              "internationalNumber": "RC-366978"
+            },
+            {
+              "name": "AL-SHEWASHEMEED NIGERIA LIMITED",
+              "internationalNumber": "RC-365194"
+            },
+            {
+              "name": "HILLTOP RESOURCES LIMITED",
+              "internationalNumber": "RC-366993"
+            },
+            {
+              "name": "ABDUL PETROLEUM NIGERIA LIMITED",
+              "internationalNumber": "RC-365195"
+            },
+            {
+              "name": "MAJE SALISU SULLUBAWA (ALH.) NIG LTD",
+              "internationalNumber": "RC-365192"
+            },
+            {
+              "name": "ALLEKU CONCEPTS NIGERIA LIMITED",
+              "internationalNumber": "RC-366998"
+            },
+            {
+              "name": "OBICHRIST NIGERIA ENTERPRISES LIMITED",
+              "internationalNumber": "RC-366977"
+            },
+            {
+              "name": "MARHABABIKA NIGERIA LIMITED",
+              "internationalNumber": "RC-140877"
+            },
+            {
+              "name": "AZZA TECHNOLOGIES LIMITED",
+              "internationalNumber": "RC-366991"
+            },
+            {
+              "name": "AGES RESOUCES NIGERIA LIMITED",
+              "internationalNumber": "RC-366996"
+            },
+            {
+              "name": "OSUAGWU AND BROS INTERNATIONAL COMPANY LIMITED",
+              "internationalNumber": "RC-366979"
+            },
+            {
+              "name": "A-M INVESTMENT COMPANY LIMITED",
+              "internationalNumber": "RC-365191"
+            },
+            {
+              "name": "ATINUKE ZURICH (INTERNATIONAL) LIMITED",
+              "internationalNumber": "RC-365197"
+            },
+            {
+              "name": "AJAYI BUILDERS AND ASSOCIATES NIGERIA LIMITED",
+              "internationalNumber": "RC-366990"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "22",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 6,
+        "2": 6,
+        "null": 10
+      },
+      "personsWithRelatedCount": 7
+    }
+  }
+]

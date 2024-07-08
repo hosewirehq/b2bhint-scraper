@@ -1,0 +1,496 @@
+[
+  {
+    "year": "1999",
+    "title": "DIGITXCHANGE LIMITED - RC-370305 - Nigeria",
+    "description": "DIGITXCHANGE LIMITED Nigeria company, Company number: RC-370305, Incorporation Date Dec 1, 1999;, Address: 41 USUMA STREET, ABUJA, FCT",
+    "company": {
+      "id": 61262545,
+      "name": "DIGITXCHANGE LIMITED",
+      "internationalNumber": "RC-370305",
+      "localNumber": "370305",
+      "countryId": 24,
+      "dateCreated": "1999-12-01T00:00:00.000Z",
+      "createdAt": "2021-05-23T22:42:47.957Z",
+      "updatedAt": "2024-06-15T16:40:15.932Z",
+      "alternateNames": [],
+      "address": "41 USUMA STREET, ABUJA, FCT",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON BUSINESS OF A TELECOMMUNICATION COMPANY AND TO PROVIDE TELECOMMUNICATION SERVICES TO ALL KINDS INCLUDING THE INSTALLATION AND MAINTENANCE OF TELECOMMUNICATION NETWORK USING CABLE, WIRELESS, CELLULAR OR ANY OTHER TYPES OF TECHNOLOGY OR ANY MODE",
+      "providerId": "529749",
+      "updatedAtSitemap": "2023-12-14T17:27:02.000Z",
+      "oldInternationalNumber": "370305",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 95,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197140,
+          "providerId": "143238",
+          "providerName": "Telecommunications",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:04:31.161083+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92997845,
+          "address": "41 USUMA STREET, ABUJA, FCT",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 177601633,
+          "companyId": 61262545,
+          "personId": 72050023,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 72050023,
+            "name": "abubakar umar maidama",
+            "countryId": 24,
+            "address": "SOFITEL BUILDING, GARKI 11,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [
+            {
+              "name": "ALPHA SECURITY SYSTEMS LIMITED",
+              "internationalNumber": "RC-359975"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 177601635,
+          "companyId": 61262545,
+          "personId": 72050024,
+          "roleId": 60317,
+          "appointedOn": "2000-11-21",
+          "sourceNum": 1,
+          "person": {
+            "id": 72050024,
+            "name": "muhammed ajoke (mrs)",
+            "countryId": 24,
+            "address": "39B COOPER ROAD, ",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ALPHA SECURITY SYSTEMS LIMITED",
+              "internationalNumber": "RC-359975"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 177601637,
+          "companyId": 61262545,
+          "personId": 72050025,
+          "roleId": 60323,
+          "appointedOn": "2000-11-21",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 800000,
+          "person": {
+            "id": 72050025,
+            "name": "muhammed  ajoke (mrs)",
+            "countryId": 24,
+            "occupation": "Business woman",
+            "address": "39B, COOPER ROAD,",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 237063087,
+          "companyId": 61262545,
+          "personId": 94049992,
+          "roleId": 60323,
+          "appointedOn": "2000-11-21",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 200000,
+          "person": {
+            "id": 94049992,
+            "name": "muhammed aisha",
+            "countryId": 24,
+            "occupation": "Business woman",
+            "address": "39B, COOPER ROAD,",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 230708245,
+          "companyId": 61262545,
+          "personId": 94087726,
+          "roleId": 60317,
+          "appointedOn": "1999-11-08",
+          "sourceNum": 1,
+          "person": {
+            "id": 94087726,
+            "name": "aisha muhammed",
+            "countryId": 24,
+            "address": "6, ALHAJI JIKAN ARI ROAD, SABON GARI, DOMA  DOMA                                                                                                  NASARAWA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MKB PROPERTIES AND INVESTMENTS LTD",
+              "internationalNumber": "RC-993729"
+            },
+            {
+              "name": "ARIMARI PETROLEUM AND GAS LIMITED",
+              "internationalNumber": "RC-945154"
+            },
+            {
+              "name": "SCRIBES AND SCROLLS LTD",
+              "internationalNumber": "RC-171455"
+            },
+            {
+              "name": "ORIENTAL FURNISHING & FITTINGS NIG LTD",
+              "internationalNumber": "RC-126169"
+            },
+            {
+              "name": "ASSET MANAGEMENT GROUP LTD",
+              "internationalNumber": "RC-177738"
+            },
+            {
+              "name": "IMG NIG MULTI LINK SERVICES LTD",
+              "internationalNumber": "RC-1100808"
+            },
+            {
+              "name": "AL-KAUSAR NATURAL WATER LIMITED",
+              "internationalNumber": "RC-407747"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 237063088,
+          "companyId": 61262545,
+          "personId": 96839653,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 96839653,
+            "name": "abubakar umar",
+            "countryId": 24,
+            "address": "NO.7, AJIWA CLOSE, KOFAR MARUSA LAYOUT  KATSINA                                                                                               KATSINA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 3,
+        "null": 2
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

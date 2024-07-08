@@ -1,0 +1,386 @@
+[
+  {
+    "year": "1999",
+    "title": "FEIMA INVESTMENTS LIMITED - RC-370640 - Nigeria",
+    "description": "FEIMA INVESTMENTS LIMITED Nigeria company, Company number: RC-370640, Incorporation Date Dec 15, 1999;, Address: 6, OCHIRIST.ELEKHAHIAROAD, P/HARCOURT, RIVERS, P/HARCOURT, RIVERS STATE",
+    "company": {
+      "id": 63745979,
+      "name": "FEIMA INVESTMENTS LIMITED",
+      "internationalNumber": "RC-370640",
+      "localNumber": "370640",
+      "countryId": 24,
+      "dateCreated": "1999-12-15T00:00:00.000Z",
+      "createdAt": "2021-06-06T03:07:40.949Z",
+      "updatedAt": "2024-06-15T15:12:15.899Z",
+      "alternateNames": [],
+      "address": "6, OCHIRIST.ELEKHAHIAROAD, P/HARCOURT, RIVERS, P/HARCOURT, RIVERS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "530055",
+      "updatedAtSitemap": "2024-05-15T15:43:39.000Z",
+      "oldInternationalNumber": "370640",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 147,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92999219,
+          "address": "6, OCHIRIST.ELEKHAHIAROAD, P/HARCOURT, RIVERS, P/HARCOURT, RIVERS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 226344542,
+          "companyId": 63745979,
+          "personId": 78507860,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 78507860,
+            "name": "fente thomas abrakassa",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": " OCHIRIST.ELEKHAHIAROAD, 6",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "FEIMA MARINE SERVICES LIMITED",
+              "internationalNumber": "RC-754417"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 226344546,
+          "companyId": 63745979,
+          "personId": 78507860,
+          "roleId": 60321,
+          "percentage": 80,
+          "appointedOn": "2022-02-14",
+          "votingShares": "80%",
+          "sourceNum": 1,
+          "person": {
+            "id": 78507860,
+            "name": "fente thomas abrakassa",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": " OCHIRIST.ELEKHAHIAROAD, 6",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [
+            {
+              "name": "FEIMA MARINE SERVICES LIMITED",
+              "internationalNumber": "RC-754417"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 226344543,
+          "companyId": 63745979,
+          "personId": 78507861,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 78507861,
+            "name": "mara abrakassa",
+            "countryId": 24,
+            "address": "NO. 9,DANIEL IGWE STREET NKPOGU  PORT-HARCOURT                                                                                         RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "FEIMA MARINE SERVICES LIMITED",
+              "internationalNumber": "RC-754417"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 226344547,
+          "companyId": 63745979,
+          "personId": 78507863,
+          "roleId": 60321,
+          "percentage": 10,
+          "appointedOn": "2022-02-14",
+          "votingShares": "10%",
+          "sourceNum": 1,
+          "person": {
+            "id": 78507863,
+            "name": "david fente abrakassa",
+            "countryId": 24,
+            "address": "2 LORD OGBOMA LANE GRA PHASE 3  P/H                                                                                                   RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [
+            {
+              "name": "DIMJA NIGERIA LIMITED",
+              "internationalNumber": "RC-939411"
+            },
+            {
+              "name": "ELIATA OIL AND GAS LIMITED",
+              "internationalNumber": "RC-936974"
+            },
+            {
+              "name": "FEIMA MARINE SERVICES LIMITED",
+              "internationalNumber": "RC-754417"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5,
+        "null": 3
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]
