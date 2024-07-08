@@ -1,0 +1,466 @@
+[
+  {
+    "year": "1998",
+    "title": "BELHOPE FARMS LTD - RC-346378 - Nigeria",
+    "description": "BELHOPE FARMS LTD          Nigeria company, Company number: RC-346378, Incorporation Date Nov 16, 1998;, Address: 1, BELHOPE ESTATE RUMUOKUTA, PORTHARCOURT, RIVERS STATE",
+    "company": {
+      "id": 62873541,
+      "name": "BELHOPE FARMS LTD         ",
+      "internationalNumber": "RC-346378",
+      "localNumber": "346378",
+      "countryId": 24,
+      "dateCreated": "1998-11-16T00:00:00.000Z",
+      "createdAt": "2021-05-31T14:47:01.414Z",
+      "updatedAt": "2024-06-15T16:11:45.692Z",
+      "alternateNames": [],
+      "address": "1, BELHOPE ESTATE RUMUOKUTA, PORTHARCOURT, RIVERS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "5000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON BUSINESS OF AGRICULTURE AND FARMING.",
+      "providerId": "506871",
+      "updatedAtSitemap": "2023-06-09T19:08:00.000Z",
+      "oldInternationalNumber": "346378",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 127,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197567,
+          "providerId": "199101",
+          "providerName": "Fish Farming/Aquaculture",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:15:41.600268+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92872368,
+          "address": "1, BELHOPE ESTATE RUMUOKUTA, PORTHARCOURT, RIVERS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 229365357,
+          "companyId": 62873541,
+          "personId": 67054303,
+          "roleId": 60317,
+          "appointedOn": "2021-10-26",
+          "sourceNum": 1,
+          "person": {
+            "id": 67054303,
+            "name": "isokrari daba ombo",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "birthYear": 1954,
+            "birthMonth": 2,
+            "birthDate": 12,
+            "address": "NTA ROAD, RUMUOKWUTA",
+            "number": "A10237583",
+            "documentType": "International Passport",
+            "email": "isokraridaba@yahoo.com",
+            "phone": "08039391315",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GANKOS LIMITED",
+              "internationalNumber": "RC-158115"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 162781181,
+          "companyId": 62873541,
+          "personId": 69023767,
+          "roleId": 60322,
+          "sourceNum": 1,
+          "person": {
+            "id": 69023767,
+            "name": "suberu m. lucy",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "PLOT 107, GIDADO IDRIS STREET, WUYE",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "08030846564",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60322,
+            "name": "Secretary company",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary company"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 162781182,
+          "companyId": 62873541,
+          "personId": 69023768,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 69023768,
+            "name": "isokrari  hope",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "address": "NO 2, EKE CLOSE, CHOBA ROAD,",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 236009152,
+          "companyId": 62873541,
+          "personId": 96536121,
+          "roleId": 60323,
+          "appointedOn": "2021-11-10",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 2000000,
+          "person": {
+            "id": 96536121,
+            "name": "isokrari daba mrs",
+            "countryId": 24,
+            "address": "NO 40 NTA ROAD, RUMUOKWUTA, PORT HARCOURT, RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 236009153,
+          "companyId": 62873541,
+          "personId": 96536122,
+          "roleId": 60323,
+          "appointedOn": "2021-11-10",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 600000,
+          "person": {
+            "id": 96536122,
+            "name": "andrew biobele jaja  mrs",
+            "countryId": 24,
+            "address": "100 PAITED LADY COVE, GEORGETOWN, TEXAS USA.",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 236009157,
+          "companyId": 62873541,
+          "personId": 96536126,
+          "roleId": 60321,
+          "percentage": 0,
+          "appointedOn": "2022-03-16",
+          "votingShares": "0%",
+          "sourceNum": 1,
+          "person": {
+            "id": 96536126,
+            "name": "isokrari hope mr",
+            "countryId": 24,
+            "address": "NO 40 NTA ROAD, RUMUOKWUTA, PORT HARCOURT, RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "18",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 6,
+        "2": 7,
+        "null": 5
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]
