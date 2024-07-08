@@ -1,0 +1,433 @@
+[
+  {
+    "year": "2002",
+    "title": "RIVER DRILL NIGERIA LIMITED - RC-465349 - Nigeria",
+    "description": "RIVER DRILL NIGERIA LIMITED Nigeria company, Company number: RC-465349, Incorporation Date Oct 29, 2002;, Address: 8 HERBERT MACAULAY OLD GRA, PORT HARCOURT, PORTHARCOURT, RIVERS STATE",
+    "company": {
+      "id": 103590758,
+      "name": "RIVER DRILL NIGERIA LIMITED",
+      "internationalNumber": "RC-465349",
+      "localNumber": "465349",
+      "countryId": 24,
+      "dateCreated": "2002-10-29T00:00:00.000Z",
+      "createdAt": "2022-03-14T03:23:15.351Z",
+      "updatedAt": "2024-06-15T16:03:35.621Z",
+      "alternateNames": [],
+      "address": "8 HERBERT MACAULAY OLD GRA, PORT HARCOURT, PORTHARCOURT, RIVERS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "622840",
+      "updatedAtSitemap": "2023-06-09T18:52:19.000Z",
+      "oldInternationalNumber": "465349",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 58,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197981,
+          "providerId": "143209",
+          "providerName": "Manufacture of computer, electronic and optical products",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:27:19.138862+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 93998385,
+          "address": "8 HERBERT MACAULAY OLD GRA, PORT HARCOURT, PORTHARCOURT, RIVERS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 245010170,
+          "companyId": 103590758,
+          "personId": 97979099,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 200000,
+          "person": {
+            "id": 97979099,
+            "name": "bakre robert",
+            "countryId": 24,
+            "address": "13, TUNDE OSHILAJA STREET, OPEBI IKEJA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "CITY FIRE AND RESCUE SERVICES LIMITED",
+              "internationalNumber": "RC-1448122"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245010171,
+          "companyId": 103590758,
+          "personId": 100223922,
+          "roleId": 60320,
+          "appointedOn": "2022-01-09",
+          "sourceNum": 1,
+          "person": {
+            "id": 100223922,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CNIDY INVESTMENTS COMPANY LIMITED",
+              "internationalNumber": "RC-465352"
+            },
+            {
+              "name": "MEG PETROLEUM LIMITED",
+              "internationalNumber": "RC-465355"
+            },
+            {
+              "name": "SUPERSUN TELECOMS NETWORKS LIMITED",
+              "internationalNumber": "RC-465347"
+            },
+            {
+              "name": "VASKAY NIGERIA LIMITED",
+              "internationalNumber": "RC-465353"
+            },
+            {
+              "name": "DOMINION TRADES FREIGHT FORWARDERS LIMITED",
+              "internationalNumber": "RC-465350"
+            },
+            {
+              "name": "TOWAS VENTURES LIMITED",
+              "internationalNumber": "RC-465351"
+            },
+            {
+              "name": "HUGEPET INDUSTRIES LIMITED",
+              "internationalNumber": "RC-465357"
+            },
+            {
+              "name": "GADAS PETROLEUM NIGERIA LIMITED",
+              "internationalNumber": "RC-465354"
+            },
+            {
+              "name": "WEST AFRICAN MONBAT LIMITED",
+              "internationalNumber": "RC-465348"
+            },
+            {
+              "name": "MERCANTILE AND MERCHANDISING COMPANY LIMITED",
+              "internationalNumber": "RC-465356"
+            },
+            {
+              "name": "MORYOKS GLOBAL VENTURES LIMITED",
+              "internationalNumber": "RC-465346"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245010167,
+          "companyId": 103590758,
+          "personId": 100223933,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 100223933,
+            "name": "tonye princewill",
+            "countryId": 24,
+            "address": "4B, ELEME STREET OLD GRA  PH                                                                                                    RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MOBOLE COM. NIGERIA LIMITED",
+              "internationalNumber": "RC-461185"
+            },
+            {
+              "name": "DELTA PLUS GEOPHYSICAL LTD",
+              "internationalNumber": "RC-1035703"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245010169,
+          "companyId": 103590758,
+          "personId": 100223933,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 800000,
+          "person": {
+            "id": 100223933,
+            "name": "tonye princewill",
+            "countryId": 24,
+            "address": "4B, ELEME STREET OLD GRA  PH                                                                                                    RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "MOBOLE COM. NIGERIA LIMITED",
+              "internationalNumber": "RC-461185"
+            },
+            {
+              "name": "DELTA PLUS GEOPHYSICAL LTD",
+              "internationalNumber": "RC-1035703"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 3
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]
