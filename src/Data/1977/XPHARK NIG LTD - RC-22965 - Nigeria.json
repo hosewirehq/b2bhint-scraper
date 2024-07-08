@@ -1,0 +1,621 @@
+[
+  {
+    "year": "1977",
+    "title": "XPHARK NIG LTD - RC-22965 - Nigeria",
+    "description": "XPHARK NIG LTD Nigeria company, Company number: RC-22965, Incorporation Date Dec 9, 1977;, Address: 26, ABIBU OKI STR, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60691326,
+      "name": "XPHARK NIG LTD",
+      "internationalNumber": "RC-22965",
+      "localNumber": "22965",
+      "countryId": 24,
+      "dateCreated": "1977-12-09T00:00:00.000Z",
+      "createdAt": "2021-05-14T22:03:36.960Z",
+      "updatedAt": "2024-06-15T15:42:30.162Z",
+      "alternateNames": [],
+      "address": "26, ABIBU OKI STR, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "188250",
+      "updatedAtSitemap": "2023-06-09T16:51:53.000Z",
+      "oldInternationalNumber": "22965",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 19,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82051388,
+          "address": "26, ABIBU OKI STR, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "DAO AUTOPARTS NIG LTD",
+              "internationalNumber": "RC-39572"
+            },
+            {
+              "name": "FOLLIX AND COMPANY LIMITED",
+              "internationalNumber": "RC-41134"
+            },
+            {
+              "name": "GEORGE INDUSTRIES NIGERIA LTD",
+              "internationalNumber": "RC-52692"
+            },
+            {
+              "name": "TERMINAL AGENCIES (NIG)  LTD",
+              "internationalNumber": "RC-42627"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 240293885,
+          "companyId": 60691326,
+          "personId": 66157290,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66157290,
+            "name": "francis oladebinu                                                                                    n/a",
+            "countryId": 24,
+            "address": "26, ABIBU OKI STR. LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "ZION ROCK BIBLE CHURCH INT'L",
+              "internationalNumber": "RC-44813"
+            },
+            {
+              "name": "S. MAKINTOSH NIGERIA LIMITED",
+              "internationalNumber": "RC-48842"
+            },
+            {
+              "name": "WESTERN NIGERIA AMUSMENTS CORPORATION LIMITED",
+              "internationalNumber": "RC-7510"
+            },
+            {
+              "name": "JESUS MISSIONS INTERNATIONAL IBADAN, NIGERIA",
+              "internationalNumber": "RC-35508"
+            },
+            {
+              "name": "HELM NIG LTD",
+              "internationalNumber": "RC-30400"
+            },
+            {
+              "name": "SENKOM NIG LTD",
+              "internationalNumber": "RC-36537"
+            },
+            {
+              "name": "GLOBAL INTEGRITY FRIENDS CLUB OF NIGERIA",
+              "internationalNumber": "RC-47907"
+            },
+            {
+              "name": "ADAM PARMACEUTICALS LABORATORIES",
+              "internationalNumber": "RC-35591"
+            },
+            {
+              "name": "JAMIU RIZKIYAT FAEDOT TIJANIYYAT SOCIETY OF NIGERIA",
+              "internationalNumber": "RC-29227"
+            },
+            {
+              "name": "ELR INVESTMENTS (NIG) CO. LTD",
+              "internationalNumber": "RC-44070"
+            },
+            {
+              "name": "BORNU TRANSPORTERS SYNDICATE LIMITED",
+              "internationalNumber": "RC-7292"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240293887,
+          "companyId": 60691326,
+          "personId": 66157292,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66157292,
+            "name": "francis oladebinu",
+            "countryId": 24,
+            "address": "4, ALAMU TAIWO STR. KETU, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ZION ROCK BIBLE CHURCH INT'L",
+              "internationalNumber": "RC-44813"
+            },
+            {
+              "name": "$$ELR INVESTMENT CO. NIG LTD",
+              "internationalNumber": "RC-4407"
+            },
+            {
+              "name": "WESTERN NIGERIA AMUSMENTS CORPORATION LIMITED",
+              "internationalNumber": "RC-7510"
+            },
+            {
+              "name": "JESUS MISSIONS INTERNATIONAL IBADAN, NIGERIA",
+              "internationalNumber": "RC-35508"
+            },
+            {
+              "name": "HELM NIG LTD",
+              "internationalNumber": "RC-30400"
+            },
+            {
+              "name": "SENKOM NIG LTD",
+              "internationalNumber": "RC-36537"
+            },
+            {
+              "name": "GLOBAL INTEGRITY FRIENDS CLUB OF NIGERIA",
+              "internationalNumber": "RC-47907"
+            },
+            {
+              "name": "ADAM PARMACEUTICALS LABORATORIES",
+              "internationalNumber": "RC-35591"
+            },
+            {
+              "name": "GENERAL TRADING &MARINE CO. LTD",
+              "internationalNumber": "RC-6937"
+            },
+            {
+              "name": "JAMIU RIZKIYAT FAEDOT TIJANIYYAT SOCIETY OF NIGERIA",
+              "internationalNumber": "RC-29227"
+            },
+            {
+              "name": "INITIATIVE FOR RESTORATION OF WOMEN VIRTUE AND VALUES",
+              "internationalNumber": "RC-28392"
+            },
+            {
+              "name": "ELR INVESTMENTS (NIG) CO. LTD",
+              "internationalNumber": "RC-44070"
+            },
+            {
+              "name": "BORNU TRANSPORTERS SYNDICATE LIMITED",
+              "internationalNumber": "RC-7292"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240293886,
+          "companyId": 60691326,
+          "personId": 68113002,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68113002,
+            "name": "joseph adigun                                                                                        n/a",
+            "countryId": 24,
+            "address": "26,ABIBU OKI STREET, LAGOS.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "PRECIOUS ANGELS ORPHANGE HOME",
+              "internationalNumber": "RC-36959"
+            },
+            {
+              "name": "KOLE MACGREGOR ASSOCIATES UNLIMITED NIGERIA",
+              "internationalNumber": "RC-41942"
+            },
+            {
+              "name": "MBC INTERNATIONAL BANK PLC",
+              "internationalNumber": "RC-44282"
+            },
+            {
+              "name": "PAN AFRICAN ENTERPRISES LTD",
+              "internationalNumber": "RC-25813"
+            },
+            {
+              "name": "SAHEL ELECTRONICS LIMITED",
+              "internationalNumber": "RC-26348"
+            },
+            {
+              "name": "HELM NIG LTD",
+              "internationalNumber": "RC-30400"
+            },
+            {
+              "name": "TEACHERS' PROFESSIONAL DEVELOPMENT FOUNDATION KADUNA",
+              "internationalNumber": "RC-43690"
+            },
+            {
+              "name": "SANCTUARY OF GOD MINISTRY OF THE HOLY SPIRIT",
+              "internationalNumber": "RC-22968"
+            },
+            {
+              "name": "AJIYA INVESTMENT LTD",
+              "internationalNumber": "RC-47157"
+            },
+            {
+              "name": "MAN UTD FOOTBALL CLUB FANS & SUPPORTERS ASSOCIATION, NIGERIA",
+              "internationalNumber": "RC-44228"
+            },
+            {
+              "name": "HALL ENGINEERING [NIGERIA] LIMITED",
+              "internationalNumber": "RC-43206"
+            },
+            {
+              "name": "EZIOYI AMAKA FRIENDS CLUB, OYIGBO RIVERS STATE",
+              "internationalNumber": "RC-25081"
+            },
+            {
+              "name": "JAMIU RIZKIYAT FAEDOT TIJANIYYAT SOCIETY OF NIGERIA",
+              "internationalNumber": "RC-29227"
+            },
+            {
+              "name": "TIKUNADE NIGERIA  LIMITED",
+              "internationalNumber": "RC-54718"
+            },
+            {
+              "name": "BREY CONSTRUCTION LTD",
+              "internationalNumber": "RC-35522"
+            },
+            {
+              "name": "JUSTICE DEV & PEACE MOVT. CATHOLIC DIOCESE OF OYO",
+              "internationalNumber": "IT-22933"
+            },
+            {
+              "name": "PEACE AND CONFLICT RESOLUTION ORGANIZATION",
+              "internationalNumber": "RC-25539"
+            },
+            {
+              "name": "DAO AUTOPARTS NIG LTD",
+              "internationalNumber": "RC-39572"
+            },
+            {
+              "name": "MAIADO PHARMACEUTICAL NIG LTD",
+              "internationalNumber": "RC-25814"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240293888,
+          "companyId": 60691326,
+          "personId": 68113003,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68113003,
+            "name": "joseph adigun",
+            "countryId": 24,
+            "address": "26,ABIBU OKI STREET, LAGOS.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "PRECIOUS ANGELS ORPHANGE HOME",
+              "internationalNumber": "RC-36959"
+            },
+            {
+              "name": "KOLE MACGREGOR ASSOCIATES UNLIMITED NIGERIA",
+              "internationalNumber": "RC-41942"
+            },
+            {
+              "name": "MBC INTERNATIONAL BANK PLC",
+              "internationalNumber": "RC-44282"
+            },
+            {
+              "name": "PAN AFRICAN ENTERPRISES LTD",
+              "internationalNumber": "RC-25813"
+            },
+            {
+              "name": "SAHEL ELECTRONICS LIMITED",
+              "internationalNumber": "RC-26348"
+            },
+            {
+              "name": "HELM NIG LTD",
+              "internationalNumber": "RC-30400"
+            },
+            {
+              "name": "TEACHERS' PROFESSIONAL DEVELOPMENT FOUNDATION KADUNA",
+              "internationalNumber": "RC-43690"
+            },
+            {
+              "name": "SANCTUARY OF GOD MINISTRY OF THE HOLY SPIRIT",
+              "internationalNumber": "RC-22968"
+            },
+            {
+              "name": "AJIYA INVESTMENT LTD",
+              "internationalNumber": "RC-47157"
+            },
+            {
+              "name": "MAN UTD FOOTBALL CLUB FANS & SUPPORTERS ASSOCIATION, NIGERIA",
+              "internationalNumber": "RC-44228"
+            },
+            {
+              "name": "HALL ENGINEERING [NIGERIA] LIMITED",
+              "internationalNumber": "RC-43206"
+            },
+            {
+              "name": "EZIOYI AMAKA FRIENDS CLUB, OYIGBO RIVERS STATE",
+              "internationalNumber": "RC-25081"
+            },
+            {
+              "name": "JAMIU RIZKIYAT FAEDOT TIJANIYYAT SOCIETY OF NIGERIA",
+              "internationalNumber": "RC-29227"
+            },
+            {
+              "name": "TIKUNADE NIGERIA  LIMITED",
+              "internationalNumber": "RC-54718"
+            },
+            {
+              "name": "BREY CONSTRUCTION LTD",
+              "internationalNumber": "RC-35522"
+            },
+            {
+              "name": "JUSTICE DEV & PEACE MOVT. CATHOLIC DIOCESE OF OYO",
+              "internationalNumber": "IT-22933"
+            },
+            {
+              "name": "PEACE AND CONFLICT RESOLUTION ORGANIZATION",
+              "internationalNumber": "RC-25539"
+            },
+            {
+              "name": "DAO AUTOPARTS NIG LTD",
+              "internationalNumber": "RC-39572"
+            },
+            {
+              "name": "MAIADO PHARMACEUTICAL NIG LTD",
+              "internationalNumber": "RC-25814"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]
