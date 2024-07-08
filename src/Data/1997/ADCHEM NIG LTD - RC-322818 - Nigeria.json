@@ -1,0 +1,303 @@
+[
+  {
+    "year": "1997",
+    "title": "ADCHEM NIG LTD - RC-322818 - Nigeria",
+    "description": "ADCHEM NIG LTD Nigeria company, Company number: RC-322818, Incorporation Date Oct 22, 1997;, Address: 7, ALH.ADAMSSTR., OFFPOWERLINE, EJIGBO, LAGOS, EJIGBO, LAGOS STATE",
+    "company": {
+      "id": 61804581,
+      "name": "ADCHEM NIG LTD",
+      "internationalNumber": "RC-322818",
+      "localNumber": "322818",
+      "countryId": 24,
+      "dateCreated": "1997-10-22T00:00:00.000Z",
+      "createdAt": "2021-05-26T09:02:29.785Z",
+      "updatedAt": "2024-06-15T16:14:56.717Z",
+      "alternateNames": [],
+      "address": "7, ALH.ADAMSSTR., OFFPOWERLINE, EJIGBO, LAGOS, EJIGBO, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "500000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "484076",
+      "updatedAtSitemap": "2023-06-09T19:12:23.000Z",
+      "oldInternationalNumber": "322818",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 74,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92729704,
+          "address": "7, ALH.ADAMSSTR., OFFPOWERLINE, EJIGBO, LAGOS, EJIGBO, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 243451330,
+          "companyId": 61804581,
+          "personId": 68226299,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68226299,
+            "name": "sola adewumi",
+            "countryId": 24,
+            "address": "38, KOFO ABAYOMI AVENUE, APAPA  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ROBIN SHIPMANAGEMENT NIGERIA LIMITED",
+              "internationalNumber": "RC-641234"
+            },
+            {
+              "name": "TOUCH OF GLAMOUR UNISEX SALON AND BOUTIQUE LTD",
+              "internationalNumber": "RC-647825"
+            },
+            {
+              "name": "KADE MULTI SERVICES INVESTMENT LIMITED",
+              "internationalNumber": "RC-687039"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243451328,
+          "companyId": 61804581,
+          "personId": 69100159,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 69100159,
+            "name": "olumide adewumi",
+            "countryId": 24,
+            "address": "NO. 2 JOLA DAVID'S STREET BEHIND COUNTY HOSPITAL, OGBA  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "EBONYMINTS LIMITED",
+              "internationalNumber": "RC-1057733"
+            },
+            {
+              "name": "SOJALAD NIG LTD",
+              "internationalNumber": "RC-1009310"
+            },
+            {
+              "name": "THE NOTE COMPANY LIMITED",
+              "internationalNumber": "RC-816535"
+            },
+            {
+              "name": "GIDILOUNGE LIMITED",
+              "internationalNumber": "RC-1056306"
+            },
+            {
+              "name": "OLUA INVESTMENT LTD",
+              "internationalNumber": "RC-178816"
+            },
+            {
+              "name": "THE SHRINKERS LIMITED",
+              "internationalNumber": "RC-1083053"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

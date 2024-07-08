@@ -1,0 +1,464 @@
+[
+  {
+    "year": "1997",
+    "title": "TIGER RESOURCES LIMITED - RC-322775 - Nigeria",
+    "description": "TIGER RESOURCES LIMITED Nigeria company, Company number: RC-322775, Incorporation Date Oct 17, 1997;, Address: PLOT 887 AWOLOWO STREET AREA 11 GARKI, ABUJA, FCT, ABUJA, FCT",
+    "company": {
+      "id": 61804236,
+      "name": "TIGER RESOURCES LIMITED",
+      "internationalNumber": "RC-322775",
+      "localNumber": "322775",
+      "countryId": 24,
+      "dateCreated": "1997-10-17T00:00:00.000Z",
+      "createdAt": "2021-05-26T09:00:22.698Z",
+      "updatedAt": "2024-06-15T15:41:23.587Z",
+      "alternateNames": [],
+      "address": "PLOT 887 AWOLOWO STREET AREA 11 GARKI, ABUJA, FCT, ABUJA, FCT",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "100000",
+      "historicalNames": [],
+      "providerId": "4928599",
+      "updatedAtSitemap": "2023-06-09T16:46:11.000Z",
+      "oldInternationalNumber": "322775",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 123,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197198,
+          "providerId": "199149",
+          "providerName": "Import and Export of General Goods",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:05:50.796668+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 102043763,
+          "address": "PLOT 887 AWOLOWO STREET AREA 11 GARKI, ABUJA, FCT, ABUJA, FCT",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 243456114,
+          "companyId": 61804236,
+          "personId": 93604433,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 25000,
+          "person": {
+            "id": 93604433,
+            "name": "esere fred",
+            "countryId": 24,
+            "address": "PLOT 887, AWOLOWO STREET , AREA 11, GARKI ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "TIGER CONSTRUCTION LIMITED",
+              "internationalNumber": "RC-322178"
+            },
+            {
+              "name": "TIGER HOLDING LTD",
+              "internationalNumber": "RC-324093"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243456112,
+          "companyId": 61804236,
+          "personId": 97948027,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 25000,
+          "person": {
+            "id": 97948027,
+            "name": "idris aminu",
+            "countryId": 24,
+            "address": "PLOT 887,AWOLOWO STREET AREA 11,GARKI ABUJA F.C.T",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "TIGER ELECTRIC LTD",
+              "internationalNumber": "RC-322774"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243456119,
+          "companyId": 61804236,
+          "personId": 99459118,
+          "roleId": 60320,
+          "appointedOn": "2021-12-11",
+          "sourceNum": 1,
+          "person": {
+            "id": 99459118,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "EMMYMASCO NIG LTD",
+              "internationalNumber": "RC-322786"
+            },
+            {
+              "name": "BROOK PROPERTY LIMITED",
+              "internationalNumber": "RC-322777"
+            },
+            {
+              "name": "CHI-GLO VENTURES NIGERIA LIMITED",
+              "internationalNumber": "RC-322675"
+            },
+            {
+              "name": "GEM SHELTERS LTD",
+              "internationalNumber": "RC-322778"
+            },
+            {
+              "name": "M AND T RESOURCES AND TECHNOLOGY LTD",
+              "internationalNumber": "RC-322772"
+            },
+            {
+              "name": "DEL PROPERTIES LTD",
+              "internationalNumber": "RC-322776"
+            },
+            {
+              "name": "HOMY NIG LTD",
+              "internationalNumber": "RC-322781"
+            },
+            {
+              "name": "JOBEN NIGERIA LIMITED",
+              "internationalNumber": "RC-322789"
+            },
+            {
+              "name": "SCHATZ INVESTMENTS LIMITED",
+              "internationalNumber": "RC-322791"
+            },
+            {
+              "name": "HAYLIDS COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-322788"
+            },
+            {
+              "name": "SHARPLINK INTER. CO. LTD",
+              "internationalNumber": "RC-136487"
+            },
+            {
+              "name": "BIGGOD NIGERIA LIMITED",
+              "internationalNumber": "RC-322771"
+            },
+            {
+              "name": "sirajo agaji islamic chemist jibia",
+              "internationalNumber": "BN-3946100"
+            },
+            {
+              "name": "EMZEE NIG LTD",
+              "internationalNumber": "RC-322787"
+            },
+            {
+              "name": "GLEN OAKS LTD",
+              "internationalNumber": "RC-134237"
+            },
+            {
+              "name": "SASA INVESTMENT LIMITED",
+              "internationalNumber": "RC-322674"
+            },
+            {
+              "name": "ZAMANUR NIGERIA LIMITED",
+              "internationalNumber": "RC-322790"
+            },
+            {
+              "name": "VIVIAN-NORA NIGEIA LTD",
+              "internationalNumber": "RC-322773"
+            },
+            {
+              "name": "EJIX INTERNATIONAL MINERAL VENTURES LIMITED",
+              "internationalNumber": "RC-322779"
+            },
+            {
+              "name": "FINBU NIG LTD",
+              "internationalNumber": "RC-322785"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243456115,
+          "companyId": 61804236,
+          "personId": 99459644,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99459644,
+            "name": "awar mr faed",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "PLOT 887 AWOLOWO STREET AREA 11 GARKI,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 4,
+        "2": 5
+      },
+      "personsWithRelatedCount": 5
+    }
+  }
+]
