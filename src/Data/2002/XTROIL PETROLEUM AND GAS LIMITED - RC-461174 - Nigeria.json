@@ -1,0 +1,280 @@
+[
+  {
+    "year": "2002",
+    "title": "XTROIL PETROLEUM AND GAS LIMITED - RC-461174 - Nigeria",
+    "description": "XTROIL PETROLEUM AND GAS LIMITED Nigeria company, Company number: RC-461174, Incorporation Date Sep 4, 2002;, Address: PLOT 17, ARIYO CLOSE, MAFOLUKU, LAGOS STATE",
+    "company": {
+      "id": 103575386,
+      "name": "XTROIL PETROLEUM AND GAS LIMITED",
+      "internationalNumber": "RC-461174",
+      "localNumber": "461174",
+      "countryId": 24,
+      "dateCreated": "2002-09-04T00:00:00.000Z",
+      "createdAt": "2022-03-14T01:04:11.995Z",
+      "updatedAt": "2024-06-15T16:03:57.208Z",
+      "alternateNames": [],
+      "address": "PLOT 17, ARIYO CLOSE, MAFOLUKU, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "100000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS INDEPENDENT MARKETERS OF PETROLEUM PRODUCTS, CRUDE OIL, PURE PTEROLEUM",
+      "providerId": "618683",
+      "updatedAtSitemap": "2024-03-02T18:09:29.000Z",
+      "oldInternationalNumber": "461174",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 128,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197403,
+          "providerId": "199279",
+          "providerName": "Sale of Petroleum Products",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:11:20.046779+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 150684241,
+          "address": "PLOT 17, ARIYO CLOSE, MAFOLUKU, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 233128916,
+          "companyId": 103575386,
+          "personId": 68108974,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68108974,
+            "name": "abiola ajibade",
+            "countryId": 24,
+            "address": "92, SHIPEOLU STREET, PALMGROVE LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "HAYTYPE NIGERIA LTD",
+              "internationalNumber": "RC-55437"
+            },
+            {
+              "name": "SUNDAY AJIBADE ENTERPRISES LIMITED",
+              "internationalNumber": "RC-501026"
+            },
+            {
+              "name": "AJIBSON PETROLEUM NIGERIA LIMITED",
+              "internationalNumber": "RC-509182"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233128920,
+          "companyId": 103575386,
+          "personId": 95401439,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95401439,
+            "name": "mandykin ijioma",
+            "countryId": 24,
+            "address": "37A, CORPORATION DRIVE DOLPHIN ESTATE IKOYI LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

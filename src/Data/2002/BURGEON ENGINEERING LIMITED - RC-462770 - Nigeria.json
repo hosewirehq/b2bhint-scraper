@@ -1,0 +1,402 @@
+[
+  {
+    "year": "2002",
+    "title": "BURGEON ENGINEERING LIMITED - RC-462770 - Nigeria",
+    "description": "BURGEON ENGINEERING LIMITED Nigeria company, Company number: RC-462770, Incorporation Date Sep 30, 2002;, Address: PLOT 164 IKENEGBU LAYOUT OWERRI IMO STATE, OWERRI, IMO STATE",
+    "company": {
+      "id": 103581246,
+      "name": "BURGEON ENGINEERING LIMITED",
+      "internationalNumber": "RC-462770",
+      "localNumber": "462770",
+      "countryId": 24,
+      "dateCreated": "2002-09-30T00:00:00.000Z",
+      "createdAt": "2022-03-14T01:59:37.386Z",
+      "updatedAt": "2024-06-15T16:03:52.053Z",
+      "alternateNames": [],
+      "address": "PLOT 164 IKENEGBU LAYOUT OWERRI IMO STATE, OWERRI, IMO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "2000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "2000000",
+      "historicalNames": [],
+      "providerId": "620269",
+      "updatedAtSitemap": "2023-06-09T18:52:42.000Z",
+      "oldInternationalNumber": "462770",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 107,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197198,
+          "providerId": "199149",
+          "providerName": "Import and Export of General Goods",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:05:50.796668+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 93985625,
+          "address": "PLOT 164 IKENEGBU LAYOUT OWERRI IMO STATE, OWERRI, IMO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 233112354,
+          "companyId": 103581246,
+          "personId": 93619642,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 1600000,
+          "person": {
+            "id": 93619642,
+            "name": "henry nwabueze",
+            "countryId": 24,
+            "address": "PLOT 133 IKENEGBU LAYOUT, OPP. GTB BANK, OWERRI  OWERRI                                                                                                IMO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "BURGEON GLOBAL ENTERPRIZES LIMITED",
+              "internationalNumber": "RC-965731"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233112355,
+          "companyId": 103581246,
+          "personId": 93619643,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 200000,
+          "person": {
+            "id": 93619643,
+            "name": "nwabueze zita oluchi",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "PLOT 133, IKENEGBU LAYOUT",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "BURGEON OIL & GAS LIMITED",
+              "internationalNumber": "RC-963018"
+            },
+            {
+              "name": "BURGEON FOREVER WATER LIMITED",
+              "internationalNumber": "RC-1036338"
+            },
+            {
+              "name": "BURGEON GLOBAL ENTERPRIZES LIMITED",
+              "internationalNumber": "RC-965731"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233112358,
+          "companyId": 103581246,
+          "personId": 93619643,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 93619643,
+            "name": "nwabueze zita oluchi",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "PLOT 133, IKENEGBU LAYOUT",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "BURGEON OIL & GAS LIMITED",
+              "internationalNumber": "RC-963018"
+            },
+            {
+              "name": "BURGEON FOREVER WATER LIMITED",
+              "internationalNumber": "RC-1036338"
+            },
+            {
+              "name": "BURGEON GLOBAL ENTERPRIZES LIMITED",
+              "internationalNumber": "RC-965731"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233112359,
+          "companyId": 103581246,
+          "personId": 95391941,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95391941,
+            "name": "nwabueze letica",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "PLOT 164 IKENEGBU LAYOUT",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 3,
+        "2": 4
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
