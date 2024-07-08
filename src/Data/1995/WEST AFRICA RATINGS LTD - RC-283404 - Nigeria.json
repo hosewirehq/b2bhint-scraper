@@ -1,0 +1,665 @@
+[
+  {
+    "year": "1995",
+    "title": "WEST AFRICA RATINGS LTD - RC-283404 - Nigeria",
+    "description": "WEST AFRICA  RATINGS   LTD Nigeria company, Company number: RC-283404, Incorporation Date Nov 9, 1995;, Address: NEW AFRICA HOUSE (11TH FLOOR) 31 MARINA, LAGOS STATE",
+    "company": {
+      "id": 61731387,
+      "name": "WEST AFRICA  RATINGS   LTD",
+      "internationalNumber": "RC-283404",
+      "localNumber": "283404",
+      "countryId": 24,
+      "dateCreated": "1995-11-09T00:00:00.000Z",
+      "createdAt": "2021-05-26T02:08:43.017Z",
+      "updatedAt": "2024-06-15T16:18:26.406Z",
+      "alternateNames": [],
+      "address": "NEW AFRICA HOUSE (11TH FLOOR) 31 MARINA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "10000000",
+      "historicalNames": [],
+      "activityDescription": "",
+      "providerId": "446184",
+      "updatedAtSitemap": "2023-06-09T19:20:06.000Z",
+      "oldInternationalNumber": "283404",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 103,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196919,
+          "providerId": "143269",
+          "providerName": "Other personal services activities",
+          "countryId": 24,
+          "createdAt": "2021-11-07T13:47:47.959002+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92480556,
+          "address": "NEW AFRICA HOUSE (11TH FLOOR) 31 MARINA, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 244478421,
+          "companyId": 61731387,
+          "personId": 69012830,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 69000,
+          "person": {
+            "id": 69012830,
+            "name": "foluso phillips",
+            "countryId": 24,
+            "address": "31B, ODUDUWA CRESCENT GRA, IKEJA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "PATH ENTERTAINMENT LIMITED",
+              "internationalNumber": "RC-640296"
+            },
+            {
+              "name": "SHORTLIST AFRICA ONLINE LIMITED",
+              "internationalNumber": "RC-1077261"
+            },
+            {
+              "name": "WEB LIQUID (NIGERIA) LIMITED",
+              "internationalNumber": "RC-905339"
+            },
+            {
+              "name": "PR AFRICA INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-438375"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244478418,
+          "companyId": 61731387,
+          "personId": 96704486,
+          "roleId": 60317,
+          "appointedOn": "2019-06-30",
+          "sourceNum": 1,
+          "person": {
+            "id": 96704486,
+            "name": "ajiboye adebisi",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "35, DELE ADEYEMI STREET, AGUNGI LEKKI, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GLOBAL CREDIT RATING COMPANY LIMITED",
+              "internationalNumber": "RC-424814"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244478417,
+          "companyId": 61731387,
+          "personId": 97800304,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 97800304,
+            "name": "obinna chinedu obi",
+            "countryId": 24,
+            "address": "PLOT 19,PHASE IV,KUBWA,",
+            "countryOfResidence": "NIGERIA",
+            "email": "obyynony@gmail.com",
+            "phone": "08033962021",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [
+            {
+              "name": "IDIMA BLOSSOM CLEANERS",
+              "internationalNumber": "BN-2321551"
+            },
+            {
+              "name": "MAHAZAPA ALLIED SOLUTIONS",
+              "internationalNumber": "BN-2322855"
+            },
+            {
+              "name": "IDEBOGHIE PAUL ASSOCIATES",
+              "internationalNumber": "BN-2331942"
+            },
+            {
+              "name": "GLORIOUS CORPORATE CLEANING SERVICES",
+              "internationalNumber": "BN-2362204"
+            },
+            {
+              "name": "BABLOM INTEGRATED SERVICES",
+              "internationalNumber": "BN-2335249"
+            },
+            {
+              "name": "FOLATO PLUMBING &  ALLIED SERVICES",
+              "internationalNumber": "BN-2401558"
+            },
+            {
+              "name": "YAMARI GLOBAL SERVICES",
+              "internationalNumber": "BN-2356919"
+            },
+            {
+              "name": "DIVINE-GOLD MULTI-DYNAMIC LINKS",
+              "internationalNumber": "BN-2327234"
+            },
+            {
+              "name": "JOHNTHREESIXTEEN VISUAL PLUS",
+              "internationalNumber": "BN-2408378"
+            },
+            {
+              "name": "NIMADU RESOURCES",
+              "internationalNumber": "BN-2358407"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244478423,
+          "companyId": 61731387,
+          "personId": 97800304,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 97800304,
+            "name": "obinna chinedu obi",
+            "countryId": 24,
+            "address": "PLOT 19,PHASE IV,KUBWA,",
+            "countryOfResidence": "NIGERIA",
+            "email": "obyynony@gmail.com",
+            "phone": "08033962021",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [
+            {
+              "name": "IDIMA BLOSSOM CLEANERS",
+              "internationalNumber": "BN-2321551"
+            },
+            {
+              "name": "MAHAZAPA ALLIED SOLUTIONS",
+              "internationalNumber": "BN-2322855"
+            },
+            {
+              "name": "IDEBOGHIE PAUL ASSOCIATES",
+              "internationalNumber": "BN-2331942"
+            },
+            {
+              "name": "GLORIOUS CORPORATE CLEANING SERVICES",
+              "internationalNumber": "BN-2362204"
+            },
+            {
+              "name": "BABLOM INTEGRATED SERVICES",
+              "internationalNumber": "BN-2335249"
+            },
+            {
+              "name": "FOLATO PLUMBING &  ALLIED SERVICES",
+              "internationalNumber": "BN-2401558"
+            },
+            {
+              "name": "YAMARI GLOBAL SERVICES",
+              "internationalNumber": "BN-2356919"
+            },
+            {
+              "name": "DIVINE-GOLD MULTI-DYNAMIC LINKS",
+              "internationalNumber": "BN-2327234"
+            },
+            {
+              "name": "JOHNTHREESIXTEEN VISUAL PLUS",
+              "internationalNumber": "BN-2408378"
+            },
+            {
+              "name": "NIMADU RESOURCES",
+              "internationalNumber": "BN-2358407"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244478411,
+          "companyId": 61731387,
+          "personId": 100000840,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 100000840,
+            "name": "olawale adeabyo edun                                                                                 n/a",
+            "countryId": 24,
+            "address": "4B, OJORA  ROAD. IKOYI LAGOS LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244478412,
+          "companyId": 61731387,
+          "personId": 100000841,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 100000841,
+            "name": "foluso  phillips                                                                                     n/a",
+            "countryId": 24,
+            "address": "31B, ODUDUWA  CRESCENT  G.R.A IKEJA. LAGOS LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244478413,
+          "companyId": 61731387,
+          "personId": 100000842,
+          "roleId": 60317,
+          "appointedOn": "2019-06-30",
+          "sourceNum": 1,
+          "person": {
+            "id": 100000842,
+            "name": "oluwatobi edun",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "15, OKOTIE EBOH STREET, SOUTH WEST IKOYI, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244478420,
+          "companyId": 61731387,
+          "personId": 69439090,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 7931000,
+          "person": {
+            "id": 69439090,
+            "name": "adebayo olawale edun",
+            "countryId": 24,
+            "address": "NO 15, OKOTIE EBOH STREET, SOUTH WEST IKOYI",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "YANGZTE - LAGOON CONSTRUCTION DEV. CO. LIMITED",
+              "internationalNumber": "RC-676813"
+            },
+            {
+              "name": "FLUR INVESTMENTS LTD",
+              "internationalNumber": "RC-1053470"
+            },
+            {
+              "name": "COVENANT TIENS LIMITED",
+              "internationalNumber": "RC-1065327"
+            },
+            {
+              "name": "SKIPPER PRODUCTS LIMITED",
+              "internationalNumber": "RC-432478"
+            },
+            {
+              "name": "SEAMER TRADES LIMITED",
+              "internationalNumber": "RC-995541"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "13",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 3,
+        "2": 4,
+        "3": 2,
+        "null": 4
+      },
+      "personsWithRelatedCount": 7
+    }
+  }
+]

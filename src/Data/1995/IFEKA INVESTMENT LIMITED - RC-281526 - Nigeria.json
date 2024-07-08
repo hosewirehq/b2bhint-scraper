@@ -1,0 +1,497 @@
+[
+  {
+    "year": "1995",
+    "title": "IFEKA INVESTMENT LIMITED - RC-281526 - Nigeria",
+    "description": "IFEKA INVESTMENT LIMITED Nigeria company, Company number: RC-281526, Incorporation Date Oct 24, 1995;, Address: PLOT 320, ASOKORO DISTRICT, ABUJA, FCT, ABUJA, FCT STATE",
+    "company": {
+      "id": 63204994,
+      "name": "IFEKA INVESTMENT LIMITED",
+      "internationalNumber": "RC-281526",
+      "localNumber": "281526",
+      "countryId": 24,
+      "dateCreated": "1995-10-24T00:00:00.000Z",
+      "createdAt": "2021-06-02T07:44:12.635Z",
+      "updatedAt": "2024-06-15T16:18:38.517Z",
+      "alternateNames": [],
+      "address": "PLOT 320, ASOKORO DISTRICT, ABUJA, FCT, ABUJA, FCT STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "100000",
+      "historicalNames": [],
+      "providerId": "444360",
+      "updatedAtSitemap": "2023-06-09T19:20:31.000Z",
+      "oldInternationalNumber": "281526",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 163,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196924,
+          "providerId": "199237",
+          "providerName": "General Contracts",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:13.437675+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92468857,
+          "address": "PLOT 320, ASOKORO DISTRICT, ABUJA, FCT, ABUJA, FCT STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "T.E. AND T. ENGINEERING LIMITED",
+              "internationalNumber": "RC-282031"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 243885373,
+          "companyId": 63204994,
+          "personId": 67560876,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67560876,
+            "name": "ojemeni lawrence                                                                                     n/a",
+            "countryId": 24,
+            "address": "MAYBOKO STREET CENTRE 5, WUSE2, ABUJA FCT.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "KING J. NIG LTD",
+              "internationalNumber": "RC-282307"
+            },
+            {
+              "name": "T.E. AND T. ENGINEERING LIMITED",
+              "internationalNumber": "RC-282031"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243885375,
+          "companyId": 63204994,
+          "personId": 67560878,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67560878,
+            "name": "ojemeni ebenezer                                                                                     n/a",
+            "countryId": 24,
+            "address": "MAYBOKO STREET CENTRE 5, WUSE 2, ABUJA FCT.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "KING J. NIG LTD",
+              "internationalNumber": "RC-282307"
+            },
+            {
+              "name": "T.E. AND T. ENGINEERING LIMITED",
+              "internationalNumber": "RC-282031"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243885380,
+          "companyId": 63204994,
+          "personId": 67560880,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 25000,
+          "person": {
+            "id": 67560880,
+            "name": "ojemeni tokunboh",
+            "countryId": 24,
+            "address": "PLOT 320 ASOKORO DISTRICT ABUJA FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "T.E. AND T. ENGINEERING LIMITED",
+              "internationalNumber": "RC-282031"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243885377,
+          "companyId": 63204994,
+          "personId": 67560880,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67560880,
+            "name": "ojemeni tokunboh",
+            "countryId": 24,
+            "address": "PLOT 320 ASOKORO DISTRICT ABUJA FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "T.E. AND T. ENGINEERING LIMITED",
+              "internationalNumber": "RC-282031"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243885381,
+          "companyId": 63204994,
+          "personId": 67560881,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 25000,
+          "person": {
+            "id": 67560881,
+            "name": "ojemeni ebenezer",
+            "countryId": 24,
+            "address": "MAYBOKO STREET CENTRE 5, WUSE 2, ABUJA FCT.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "KING J. NIG LTD",
+              "internationalNumber": "RC-282307"
+            },
+            {
+              "name": "T.E. AND T. ENGINEERING LIMITED",
+              "internationalNumber": "RC-282031"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243885378,
+          "companyId": 63204994,
+          "personId": 67560881,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67560881,
+            "name": "ojemeni ebenezer",
+            "countryId": 24,
+            "address": "MAYBOKO STREET CENTRE 5, WUSE 2, ABUJA FCT.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "KING J. NIG LTD",
+              "internationalNumber": "RC-282307"
+            },
+            {
+              "name": "T.E. AND T. ENGINEERING LIMITED",
+              "internationalNumber": "RC-282031"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "10",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 3,
+        "2": 4,
+        "3": 3
+      },
+      "personsWithRelatedCount": 7
+    }
+  }
+]
