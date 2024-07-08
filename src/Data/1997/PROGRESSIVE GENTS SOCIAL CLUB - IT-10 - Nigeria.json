@@ -1,0 +1,356 @@
+[
+  {
+    "year": "1997",
+    "title": "PROGRESSIVE GENTS SOCIAL CLUB - IT-10 - Nigeria",
+    "description": "PROGRESSIVE GENTS SOCIAL CLUB Nigeria company, Company number: IT-10, Incorporation Date 14 Eki 1997;, Address: 550, ADESIYANSTREETPALMGROVELAGOS, PALMGROVE, LAGOS",
+    "company": {
+      "id": 61771068,
+      "name": "PROGRESSIVE GENTS SOCIAL CLUB",
+      "internationalNumber": "IT-10",
+      "localNumber": "10",
+      "countryId": 24,
+      "dateCreated": "1997-10-14T00:00:00.000Z",
+      "createdAt": "2021-05-26T05:33:25.062Z",
+      "updatedAt": "2024-06-15T15:35:41.272Z",
+      "alternateNames": [],
+      "address": "550, ADESIYANSTREETPALMGROVELAGOS, PALMGROVE, LAGOS",
+      "additionalData": {},
+      "typeId": 99333,
+      "historicalNames": [],
+      "providerId": "668292",
+      "updatedAtSitemap": "2023-06-09T16:33:01.000Z",
+      "oldInternationalNumber": "10",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99333,
+        "type": "Incorporated trustee",
+        "countryId": 24,
+        "translation": {
+          "en": "Incorporated trustee"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 112,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197256,
+          "providerId": "199204",
+          "providerName": "Management Consultancy Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:07:16.304797+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82122571,
+          "address": "550, ADESIYANSTREETPALMGROVELAGOS, PALMGROVE, LAGOS",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 264230457,
+          "companyId": 61771068,
+          "personId": 100362018,
+          "roleId": 60324,
+          "appointedOn": "2022-02-11",
+          "sourceNum": 1,
+          "person": {
+            "id": 100362018,
+            "name": "zakariyya muhammad awwal",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "address": "Gyadi Gyadi Arewa, No   45",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "mmzakkariyya@gmail.com",
+            "phone": "08054619000",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [
+            {
+              "name": "LANDSLIDE BUREAU DE CHANGE LIMITED",
+              "internationalNumber": "RC-1528673"
+            },
+            {
+              "name": "ZEAB INDUSTRIES LIMITED",
+              "internationalNumber": "RC-1594556"
+            },
+            {
+              "name": "4WAYCASH BUREAU DE CHANGE LIMITED",
+              "internationalNumber": "RC-1527320"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 251554533,
+          "companyId": 61771068,
+          "personId": 101849862,
+          "roleId": 171701,
+          "appointedOn": "2022-02-11",
+          "sourceNum": 1,
+          "sharesType": "500,000",
+          "sharesCount": 500000,
+          "person": {
+            "id": 101849862,
+            "name": "zakariyya muhammad  awwal",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "nationality": "Nigeria",
+            "birthYear": 1980,
+            "birthMonth": 10,
+            "birthDate": 1,
+            "address": "Katsina Road, Opposite Federal Secretariat, Suite A7,  First Floor, Number 9",
+            "countryOfResidence": "NIGERIA",
+            "number": "425549964830",
+            "documentType": "National ID Card",
+            "email": "mmzakkariyya@gmail.com",
+            "phone": "08054619000",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 171701,
+            "name": "General partner - limited partnhership",
+            "countryId": 24,
+            "translation": {
+              "en": ""
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 253125816,
+          "companyId": 61771068,
+          "personId": 102206546,
+          "roleId": 60320,
+          "appointedOn": "2022-02-11",
+          "sourceNum": 1,
+          "person": {
+            "id": 102206546,
+            "name": "zakariyya muhammad       awwal",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "nationality": "Nigeria",
+            "birthYear": 1980,
+            "birthMonth": 9,
+            "birthDate": 30,
+            "address": "Constantine Street, Zone 4, Wuse, Plot 5 ",
+            "countryOfResidence": "NIGERIA",
+            "number": "42554964830",
+            "documentType": "National ID Card",
+            "email": "mmzakkariyya@gmail.com",
+            "phone": "08054619000",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Muh*****       Aww** Zak******",
+          "contacts": {
+            "email": [
+              "mmz*******************"
+            ],
+            "phone": [
+              "080********"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 3
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

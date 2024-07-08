@@ -1,0 +1,415 @@
+[
+  {
+    "year": "1997",
+    "title": "TECHNOTAL LIMITED - RC-320278 - Nigeria",
+    "description": "TECHNOTAL LIMITED Nigeria company, Company number: RC-320278, Incorporation Date Sep 19, 1997;, Address: NO 3A ENUGU ROAD ONITSHA, ANAMBRA, ANAMBRA",
+    "company": {
+      "id": 61779512,
+      "name": "TECHNOTAL LIMITED",
+      "internationalNumber": "RC-320278",
+      "localNumber": "320278",
+      "countryId": 24,
+      "dateCreated": "1997-09-19T00:00:00.000Z",
+      "createdAt": "2021-05-26T06:24:50.522Z",
+      "updatedAt": "2024-06-15T15:41:25.485Z",
+      "alternateNames": [],
+      "address": "NO 3A ENUGU ROAD ONITSHA, ANAMBRA, ANAMBRA",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "4925705",
+      "updatedAtSitemap": "2023-06-09T16:46:22.000Z",
+      "oldInternationalNumber": "320278",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 83,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197063,
+          "providerId": "199212",
+          "providerName": "Engineering Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:30.74539+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 102041604,
+          "address": "NO 3A ENUGU ROAD ONITSHA, ANAMBRA, ANAMBRA",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 243834945,
+          "companyId": 61779512,
+          "personId": 68254438,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 10000,
+          "person": {
+            "id": 68254438,
+            "name": "ejidike chudi",
+            "countryId": 24,
+            "address": "NO. 1 USUMEYI STREET OLD KARIMO  ABUJA                                                                                                 F C T",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "O`KAMO PRIVATE RESETTLEMENT INITIATIVE LTD/GTE",
+              "internationalNumber": "RC-644706"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243834943,
+          "companyId": 61779512,
+          "personId": 94477822,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 10000,
+          "person": {
+            "id": 94477822,
+            "name": "umeh emmanuel",
+            "countryId": 24,
+            "address": "HOUSE 10, BEHIND TRANSFORMER, ASO PRIMARY SCHOOL  MARARABA                                                                                              NASARAWA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "OSSY-EMATECH COMPUTER SYNERGY NIG",
+              "internationalNumber": "BN-2293227"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243834950,
+          "companyId": 61779512,
+          "personId": 99650856,
+          "roleId": 60320,
+          "appointedOn": "2021-12-11",
+          "sourceNum": 1,
+          "person": {
+            "id": 99650856,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CROSS-FRAMES (NIGERIA) LIMITED",
+              "internationalNumber": "RC-320280"
+            },
+            {
+              "name": "BOYE AND GBOLA (NIGERIA) LIMITED",
+              "internationalNumber": "RC-320283"
+            },
+            {
+              "name": "IBN FAC-MENEL CONSORTIUM LTD",
+              "internationalNumber": "RC-320277"
+            },
+            {
+              "name": "DEGBO SERVICES LIMITED",
+              "internationalNumber": "RC-320285"
+            },
+            {
+              "name": "LAFOGUNDAR COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-320279"
+            },
+            {
+              "name": "SAMOK SERVICES AND COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-320281"
+            },
+            {
+              "name": "GACON HOLDINGS LTD",
+              "internationalNumber": "RC-135691"
+            },
+            {
+              "name": "PROPTYSERV LIMITED",
+              "internationalNumber": "RC-320282"
+            },
+            {
+              "name": "TOPMAS LINKS NIGERIA LIMITED",
+              "internationalNumber": "RC-320284"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243834933,
+          "companyId": 61779512,
+          "personId": 99651063,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99651063,
+            "name": "engr. uko - akpulu tony",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "3A, ENUGU RD",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "18",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 9,
+        "2": 9
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
