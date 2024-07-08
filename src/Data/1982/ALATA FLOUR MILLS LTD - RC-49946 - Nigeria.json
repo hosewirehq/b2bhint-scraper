@@ -1,0 +1,444 @@
+[
+  {
+    "year": "1982",
+    "title": "ALATA FLOUR MILLS LTD - RC-49946 - Nigeria",
+    "description": "ALATA FLOUR MILLS LTD Nigeria company, Company number: RC-49946, Incorporation Date Sep 24, 1982;, Address: SABO-ILORIN RD., INDUST. AREA, OGBOMOSHO, OYO, OGBOMOSHO, OYO STATE",
+    "company": {
+      "id": 60860483,
+      "name": "ALATA FLOUR MILLS LTD",
+      "internationalNumber": "RC-49946",
+      "localNumber": "49946",
+      "countryId": 24,
+      "dateCreated": "1982-09-24T00:00:00.000Z",
+      "createdAt": "2021-05-15T10:17:45.643Z",
+      "updatedAt": "2024-06-15T16:44:44.709Z",
+      "alternateNames": [],
+      "address": "SABO-ILORIN RD., INDUST. AREA, OGBOMOSHO, OYO, OGBOMOSHO, OYO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "215153",
+      "updatedAtSitemap": "2023-06-09T16:21:03.000Z",
+      "oldInternationalNumber": "49946",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 47,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6401340,
+          "providerId": "266202",
+          "providerName": "Organization                                      ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T18:42:00.632885+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83313548,
+          "address": "SABO-ILORIN RD., INDUST. AREA, OGBOMOSHO, OYO, OGBOMOSHO, OYO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238674060,
+          "companyId": 60860483,
+          "personId": 66530132,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66530132,
+            "name": "ibrahim canpolat",
+            "countryId": 24,
+            "address": "KM 6 ANKARAYOLU  CORUM                                                                                                 TURKEY",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "BOSPORUS CONSTRUCTION AND HOUSING LIMITED",
+              "internationalNumber": "RC-729527"
+            },
+            {
+              "name": "PILING & CONSTRUCTIONS NIGERIA LIMITED",
+              "internationalNumber": "RC-797889"
+            },
+            {
+              "name": "DAINTY FLOUR MILLS LTD",
+              "internationalNumber": "RC-73060"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238674052,
+          "companyId": 60860483,
+          "personId": 67702459,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67702459,
+            "name": "john a. adeleke                                                                                      n/a",
+            "countryId": 24,
+            "address": "PORT HARCOURT RIVERS STATE",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "PORTHARCOURT WORLDTRDE CENTRE",
+              "internationalNumber": "RC-218523"
+            },
+            {
+              "name": "ALATA FARMS LTD",
+              "internationalNumber": "RC-127683"
+            },
+            {
+              "name": "ADEBAYO ALATA SAWMILLS CO. LTD",
+              "internationalNumber": "RC-24526"
+            },
+            {
+              "name": "REMMY BOOK INDUSTRIES LTD",
+              "internationalNumber": "RC-61962"
+            },
+            {
+              "name": "J.A. ADELEKE & COMPANY LTD",
+              "internationalNumber": "RC-77734"
+            },
+            {
+              "name": "HERITAGE CHRISTIAN EDUCATIONAL MINISTRY",
+              "internationalNumber": "IT-24576"
+            },
+            {
+              "name": "GREAT EAGLE CLUB OF IGBO - ELERIN",
+              "internationalNumber": "RC-24615"
+            },
+            {
+              "name": "YOUTH RE-ORIENTATION AND EMPOWERMENT FOUNDATION",
+              "internationalNumber": "IT-24647"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238674059,
+          "companyId": 60860483,
+          "personId": 67702462,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67702462,
+            "name": "john a. adeleke",
+            "countryId": 24,
+            "address": "7, WALTER CARRINGTON CRESCENT VICTORIA ISLAND LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "AFRICA ICT-AUTOMOTIVE LTD",
+              "internationalNumber": "RC-487984"
+            },
+            {
+              "name": "PORTHARCOURT WORLDTRDE CENTRE",
+              "internationalNumber": "RC-218523"
+            },
+            {
+              "name": "ALATA FARMS LTD",
+              "internationalNumber": "RC-127683"
+            },
+            {
+              "name": "ADEBAYO ALATA SAWMILLS CO. LTD",
+              "internationalNumber": "RC-24526"
+            },
+            {
+              "name": "REMMY BOOK INDUSTRIES LTD",
+              "internationalNumber": "RC-61962"
+            },
+            {
+              "name": "J.A. ADELEKE & COMPANY LTD",
+              "internationalNumber": "RC-77734"
+            },
+            {
+              "name": "HERITAGE CHRISTIAN EDUCATIONAL MINISTRY",
+              "internationalNumber": "IT-24576"
+            },
+            {
+              "name": "GREAT EAGLE CLUB OF IGBO - ELERIN",
+              "internationalNumber": "RC-24615"
+            },
+            {
+              "name": "YOUTH RE-ORIENTATION AND EMPOWERMENT FOUNDATION",
+              "internationalNumber": "IT-24647"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238674053,
+          "companyId": 60860483,
+          "personId": 67953731,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67953731,
+            "name": "samuel a. amao                                                                                       n/a",
+            "countryId": 24,
+            "address": "SABO-ILORIN RD., OGBOMOSHO.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SAMKARI & SONS PRESS LTD",
+              "internationalNumber": "RC-55478"
+            },
+            {
+              "name": "J.A. ADELEKE & COMPANY LTD",
+              "internationalNumber": "RC-77734"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "14",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 7,
+        "3": 7
+      },
+      "personsWithRelatedCount": 8
+    }
+  }
+]

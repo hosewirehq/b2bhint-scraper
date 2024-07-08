@@ -1,0 +1,300 @@
+[
+  {
+    "year": "1982",
+    "title": "SHAMTATA CO. LTD A - RC-49737 - Nigeria",
+    "description": "SHAMTATA CO. LTD A Nigeria company, Company number: RC-49737, Incorporation Date Sep 17, 1982;, Address: 369, KOKI QUARTERS, KANO, KANO, KANO, KANO STATE",
+    "company": {
+      "id": 60859041,
+      "name": "SHAMTATA CO. LTD A",
+      "internationalNumber": "RC-49737",
+      "localNumber": "49737",
+      "countryId": 24,
+      "dateCreated": "1982-09-17T00:00:00.000Z",
+      "createdAt": "2021-05-15T10:12:03.320Z",
+      "updatedAt": "2024-06-15T16:44:41.607Z",
+      "alternateNames": [],
+      "address": "369, KOKI QUARTERS, KANO, KANO, KANO, KANO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "214944",
+      "updatedAtSitemap": "2023-06-09T16:21:02.000Z",
+      "oldInternationalNumber": "49737",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 82,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6401363,
+          "providerId": "266243",
+          "providerName": "Foundation                                        ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T18:42:35.251751+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82070266,
+          "address": "369, KOKI QUARTERS, KANO, KANO, KANO, KANO STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "WIDE INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-48576"
+            },
+            {
+              "name": "FAST FORWARD FARMS LTD",
+              "internationalNumber": "RC-103064"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 238684460,
+          "companyId": 60859041,
+          "personId": 67936533,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67936533,
+            "name": "hassan s. dantata                                                                                    n/a",
+            "countryId": 24,
+            "address": "56/57, UNITY RD, KANO",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "FAST FORWARD LTD",
+              "internationalNumber": "RC-39978"
+            },
+            {
+              "name": "HASSAN SANUSI INTERNATIONAL LTD",
+              "internationalNumber": "RC-49856"
+            },
+            {
+              "name": "DANTATA CANDLES INDUSTRIES LIMITED",
+              "internationalNumber": "RC-72243"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238684461,
+          "companyId": 60859041,
+          "personId": 67936538,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67936538,
+            "name": "hassan s. dantata",
+            "countryId": 24,
+            "address": "56/57, UNITY RD, KANO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "FAST FORWARD LTD",
+              "internationalNumber": "RC-39978"
+            },
+            {
+              "name": "HASSAN SANUSI INTERNATIONAL LTD",
+              "internationalNumber": "RC-49856"
+            },
+            {
+              "name": "DANTATA CANDLES INDUSTRIES LIMITED",
+              "internationalNumber": "RC-72243"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "2",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
