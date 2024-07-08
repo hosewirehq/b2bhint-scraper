@@ -1,0 +1,328 @@
+[
+  {
+    "year": "1987",
+    "title": "TOFA ALLIED INVESTMENT LTD - RC-103091 - Nigeria",
+    "description": "TOFA ALLIED INVESTMENT LTD Nigeria company, Company number: RC-103091, Incorporation Date Nov 20, 1987;, Address: 45, BELLO DANDAGO RD., KANO, KANO, KANO, KANO STATE",
+    "company": {
+      "id": 61051294,
+      "name": "TOFA ALLIED INVESTMENT LTD",
+      "internationalNumber": "RC-103091",
+      "localNumber": "103091",
+      "countryId": 24,
+      "dateCreated": "1987-11-20T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:34:03.071Z",
+      "updatedAt": "2024-06-15T16:43:53.461Z",
+      "alternateNames": [],
+      "address": "45, BELLO DANDAGO RD., KANO, KANO, KANO, KANO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "268010",
+      "updatedAtSitemap": "2024-01-15T18:47:50.000Z",
+      "oldInternationalNumber": "103091",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 96,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197106,
+          "providerId": "199090",
+          "providerName": "CHURCH",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:03:42.795673+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82070313,
+          "address": "45, BELLO DANDAGO RD., KANO, KANO, KANO, KANO STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "DAGI ENTERPRISES NIG LTD",
+              "internationalNumber": "RC-75901"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 238234233,
+          "companyId": 61051294,
+          "personId": 78832732,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 78832732,
+            "name": "adegbenro oluwatobi",
+            "countryId": 24,
+            "address": "1, 3rd Avenue, D Close, Gowon Estate, Egbeda, Lagos State",
+            "countryOfResidence": "NIGERIA",
+            "email": "tobyniceup@yahoo.com",
+            "phone": "2348085050464",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238234234,
+          "companyId": 61051294,
+          "personId": 78832733,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78832733,
+            "name": "adegbenro oluwatobi adeniyi",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1977,
+            "birthMonth": 4,
+            "birthDate": 3,
+            "address": "plot1, 3rd avenue, D-Close, Gowon Estate, Egbeda",
+            "countryOfResidence": "NIGERIA",
+            "number": "KTU15572AA01",
+            "documentType": "Driver's License",
+            "email": "tobyniceup@yahoo.com",
+            "phone": "08085050464",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238234235,
+          "companyId": 61051294,
+          "personId": 78832734,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78832734,
+            "name": "adegbenro henrietta abidomhi",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1981,
+            "birthMonth": 5,
+            "birthDate": 29,
+            "address": "plot 1, 3rd avenue, D-Close, Gowon Estate, Egbeda,",
+            "countryOfResidence": "NIGERIA",
+            "number": "A27235193",
+            "documentType": "Permanent Voters' Card",
+            "email": "enreesam@yahoo.com",
+            "phone": "07080864655",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 7
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]

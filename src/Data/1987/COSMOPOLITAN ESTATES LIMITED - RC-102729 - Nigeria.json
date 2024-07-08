@@ -1,0 +1,367 @@
+[
+  {
+    "year": "1987",
+    "title": "COSMOPOLITAN ESTATES LIMITED - RC-102729 - Nigeria",
+    "description": "COSMOPOLITAN ESTATES LIMITED Nigeria company, Company number: RC-102729, Incorporation Date Nov 16, 1987;, Address: 80, FALOLU RD., S/LERE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61050915,
+      "name": "COSMOPOLITAN ESTATES LIMITED",
+      "internationalNumber": "RC-102729",
+      "localNumber": "102729",
+      "countryId": 24,
+      "dateCreated": "1987-11-16T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:33:04.447Z",
+      "updatedAt": "2024-06-15T15:37:08.417Z",
+      "alternateNames": [],
+      "address": "80, FALOLU RD., S/LERE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "267649",
+      "updatedAtSitemap": "2024-01-15T18:35:54.000Z",
+      "oldInternationalNumber": "102729",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 64,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197893,
+          "providerId": "199092",
+          "providerName": "SOCIAL CLUBS BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:24:21.914181+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82069674,
+          "address": "80, FALOLU RD., S/LERE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "BINJAN FOODS  & DRINKS CO. LTD",
+              "internationalNumber": "RC-189780"
+            },
+            {
+              "name": "JAMES HARRISON AND JAMES ENTERPRISES LTD",
+              "internationalNumber": "RC-230697"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 238238268,
+          "companyId": 61050915,
+          "personId": 78836589,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78836589,
+            "name": "nnaji fidelis",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1962,
+            "birthMonth": 2,
+            "birthDate": 22,
+            "address": "NO. 5 CORNERSTONE AVENUE, ABAKPA NIKE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A18018216",
+            "documentType": "Permanent Voters' Card",
+            "email": "nnaji_fidelis1962@gmail.com",
+            "phone": "08063091506",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238238269,
+          "companyId": 61050915,
+          "personId": 78836590,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78836590,
+            "name": "udeh ogochukwu benedethe",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1980,
+            "birthMonth": 1,
+            "birthDate": 24,
+            "address": "19 NZIMIRO STREET, NEW HAVEN",
+            "countryOfResidence": "NIGERIA",
+            "number": "90F5B2161B29595",
+            "documentType": "Permanent Voters' Card",
+            "email": "udehobenedethe1980@gmail.com",
+            "phone": "07065111464",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238238267,
+          "companyId": 61050915,
+          "personId": 96314857,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96314857,
+            "name": "ossi makwe",
+            "countryId": 24,
+            "address": "NO. 5 AGADES STREET, WUSE 2, ABUJA, FCT",
+            "phone": "08069205630",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "KOMOPUTER NIGERIA SERVICES LTD",
+              "internationalNumber": "RC-105634"
+            },
+            {
+              "name": "ROC D DEVELOPERS CONSTRUCTION LTD",
+              "internationalNumber": "RC-1484430"
+            },
+            {
+              "name": "ELOZIE BUSINESS EMPORIUM LTD",
+              "internationalNumber": "RC-1434890"
+            },
+            {
+              "name": "BIOR-JAG VENTURES NIGERIA LTD",
+              "internationalNumber": "RC-104638"
+            },
+            {
+              "name": "FESOKS LTD",
+              "internationalNumber": "RC-104639"
+            },
+            {
+              "name": "AMRA CONSTRUCTION LTD",
+              "internationalNumber": "RC-105638"
+            },
+            {
+              "name": "SHERIFF TAIRU AND SONS LIMITED (ALHAJI)",
+              "internationalNumber": "RC-108877"
+            },
+            {
+              "name": "PATRISEL INTERPRISES COMPANY LTD",
+              "internationalNumber": "RC-104419"
+            },
+            {
+              "name": "STAR KING DAVID LUXURY HOTELS LTD",
+              "internationalNumber": "RC-1429792"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

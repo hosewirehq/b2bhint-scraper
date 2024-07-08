@@ -1,0 +1,361 @@
+[
+  {
+    "year": "1987",
+    "title": "GALLANT GUARDS (NIG) LTD - RC-102904 - Nigeria",
+    "description": "GALLANT GUARDS (NIG) LTD Nigeria company, Company number: RC-102904, Incorporation Date Nov 18, 1987;, Address: AMINU KANO WAY, KANO, KANO, KANO, KANO STATE",
+    "company": {
+      "id": 61051112,
+      "name": "GALLANT GUARDS (NIG) LTD",
+      "internationalNumber": "RC-102904",
+      "localNumber": "102904",
+      "countryId": 24,
+      "dateCreated": "1987-11-18T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:33:37.644Z",
+      "updatedAt": "2024-06-15T15:37:08.010Z",
+      "alternateNames": [],
+      "address": "AMINU KANO WAY, KANO, KANO, KANO, KANO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "4000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "267824",
+      "updatedAtSitemap": "2024-01-15T18:35:54.000Z",
+      "oldInternationalNumber": "102904",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 272,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197833,
+          "providerId": "349666",
+          "providerName": "COMMUNITY BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:22:43.379509+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82069982,
+          "address": "AMINU KANO WAY, KANO, KANO, KANO, KANO STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "MASHCO INTERNATIONAL NIG LTD",
+              "internationalNumber": "RC-66592"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 238236238,
+          "companyId": 61051112,
+          "personId": 78710484,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78710484,
+            "name": "edechime nnabuike james",
+            "countryId": 24,
+            "address": "41 ALHAJI MASHA ROAD, SURULERE, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "number": "KJA02911AA01",
+            "documentType": "Driver's License",
+            "email": "edechime@yahoo.com",
+            "phone": "08020905733",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [
+            {
+              "name": "MYFIL NIG LTD",
+              "internationalNumber": "RC-107399"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238236241,
+          "companyId": 61051112,
+          "personId": 78833694,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78833694,
+            "name": "ikeri uka",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1961,
+            "birthMonth": 11,
+            "birthDate": 14,
+            "address": "101, MURUNFOLU STREET, AKOKA, YABA",
+            "countryOfResidence": "NIGERIA",
+            "number": "A24469476",
+            "documentType": "Permanent Voters' Card",
+            "email": "uka.ikeri@gmail.com",
+            "phone": "08035529524",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238236235,
+          "companyId": 61051112,
+          "personId": 94270993,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 94270993,
+            "name": "ameh samuel",
+            "countryId": 24,
+            "address": "364  HEBERT MACAULAY WAY YABA                     ",
+            "email": "alyonchambers@yahoo.com                           ",
+            "phone": "08030648338         ",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "TUNSLAM SCIENTIFIC CONSULTING LIMITED",
+              "internationalNumber": "RC-1219333"
+            },
+            {
+              "name": "INFRANK AGRO INDUSTRIES LIMITED",
+              "internationalNumber": "RC-101840"
+            },
+            {
+              "name": "AGBOOLA T. O. NIGERIA LIMITED",
+              "internationalNumber": "RC-106294"
+            },
+            {
+              "name": "BOAMS TRANSPORT & LOGISTICS COMPANY LIMITED",
+              "internationalNumber": "RC-618996"
+            },
+            {
+              "name": "TRAVEBLOK TRAVELS BUREAU LIMITED",
+              "internationalNumber": "RC-1571712"
+            },
+            {
+              "name": "LEMMY ENTERPRISES (THAN) LIMITED",
+              "internationalNumber": "RC-106345"
+            },
+            {
+              "name": "EDGE TRAVELS LTD",
+              "internationalNumber": "RC-1096826"
+            },
+            {
+              "name": "SAMMY'S ENGINEERING GLOBAL SERVICES",
+              "internationalNumber": "BN-3007445"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 6
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

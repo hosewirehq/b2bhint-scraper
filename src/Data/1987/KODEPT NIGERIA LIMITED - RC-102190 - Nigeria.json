@@ -1,0 +1,471 @@
+[
+  {
+    "year": "1987",
+    "title": "KODEPT NIGERIA LIMITED - RC-102190 - Nigeria",
+    "description": "KODEPT NIGERIA LIMITED Nigeria company, Company number: RC-102190, Incorporation Date Nov 9, 1987;, Address: FLAT 6, B1-177 IPONRI HOUSSING ESTATE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61050310,
+      "name": "KODEPT NIGERIA LIMITED",
+      "internationalNumber": "RC-102190",
+      "localNumber": "102190",
+      "countryId": 24,
+      "dateCreated": "1987-11-09T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:31:24.835Z",
+      "updatedAt": "2024-06-15T15:37:12.154Z",
+      "alternateNames": [],
+      "address": "FLAT 6, B1-177 IPONRI HOUSSING ESTATE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "25000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "267119",
+      "updatedAtSitemap": "2024-01-15T18:35:49.000Z",
+      "oldInternationalNumber": "102190",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 273,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82068760,
+          "address": "FLAT 6, B1-177 IPONRI HOUSSING ESTATE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238244111,
+          "companyId": 61050310,
+          "personId": 78839149,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78839149,
+            "name": "henshaw inyang ewa",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1970,
+            "birthMonth": 5,
+            "birthDate": 18,
+            "address": "6 INYANG EKENG STREET, CALABAR",
+            "countryOfResidence": "NIGERIA",
+            "number": "A05665364",
+            "documentType": "International Passport",
+            "email": "HENSHAWRO@ICLOUD.COM",
+            "phone": "08033478766",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238244112,
+          "companyId": 61050310,
+          "personId": 78839150,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78839150,
+            "name": "edu betta chimabim",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1985,
+            "birthMonth": 10,
+            "birthDate": 26,
+            "address": "100 MURTALA MOHAMMED WAY, CALABAR",
+            "countryOfResidence": "NIGERIA",
+            "number": "CAL01888AA01",
+            "documentType": "Driver's License",
+            "email": "bettaedu@gmail.com",
+            "phone": "08039302693",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238244110,
+          "companyId": 61050310,
+          "personId": 96286483,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96286483,
+            "name": "ibeawuchi david",
+            "countryId": 24,
+            "address": "SUITE 071 TRINITY HOUSE MABUSHI ABUJA",
+            "phone": "08065855369",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "NIGERIAN ITALIAN DEVELOPMENT CO.",
+              "internationalNumber": "RC-104050"
+            },
+            {
+              "name": "HTM INTERNATIONAL NIG LTD",
+              "internationalNumber": "RC-100471"
+            },
+            {
+              "name": "NGAM WAINABE FARMS NIG LTD",
+              "internationalNumber": "RC-101949"
+            },
+            {
+              "name": "G Y B. CONSULTS LTD",
+              "internationalNumber": "RC-103277"
+            },
+            {
+              "name": "SHAPASONS NIG LTD",
+              "internationalNumber": "RC-104225"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 262226542,
+          "companyId": 61050310,
+          "personId": 104264451,
+          "roleId": 60318,
+          "person": {
+            "id": 104264451,
+            "name": "david ibeawuchi",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1991,
+            "birthMonth": 2,
+            "birthDate": 28,
+            "address": "Trinity HouseSuite 071 Trinity House Mabushi, Abuja, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1685603",
+            "documentType": "Permanent Voters' Card",
+            "documentNumber": "90F5B1CD1F401543869",
+            "email": "david.ibeawuchi@gmail.com",
+            "phone": "+234 806 585 5369",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "CROWDPOL NIGERIA LIMITED",
+              "internationalNumber": "RC-1510966"
+            },
+            {
+              "name": "TINCY FOODS",
+              "internationalNumber": "BN-2459495"
+            },
+            {
+              "name": "VICBOLAD ENTERPRISES LIMITED",
+              "internationalNumber": "RC-110441"
+            },
+            {
+              "name": "LENIMAT GLOBAL LIMITED",
+              "internationalNumber": "RC-1398930"
+            },
+            {
+              "name": "JEFFNEDVED GLOBAL LTD",
+              "internationalNumber": "RC-1470408"
+            },
+            {
+              "name": "RCJ BEAUTY HUB",
+              "internationalNumber": "BN-2810541"
+            },
+            {
+              "name": "KNOXX SAFETY STORE",
+              "internationalNumber": "BN-2634280"
+            },
+            {
+              "name": "EKARITE GLOBAL RESOURCES LIMITED",
+              "internationalNumber": "RC-1529196"
+            },
+            {
+              "name": "KIP POWER NIG LTD",
+              "internationalNumber": "RC-1367481"
+            },
+            {
+              "name": "LOBI POLO LIMITED",
+              "internationalNumber": "RC-1399140"
+            },
+            {
+              "name": "4K'S FOR REAL BY CHIKASON LIMITED",
+              "internationalNumber": "RC-1567642"
+            },
+            {
+              "name": "DCI LEGAL",
+              "internationalNumber": "BN-2755454"
+            },
+            {
+              "name": "JECHIRA DEVELOPMENT INITIATIVE",
+              "internationalNumber": "IT-103277"
+            },
+            {
+              "name": "CTERMINUS KING GLOBAL LIMITED",
+              "internationalNumber": "RC-1561852"
+            },
+            {
+              "name": "YOUNG LAWYERS FORUM OF NIGERIA",
+              "internationalNumber": "IT-104050"
+            },
+            {
+              "name": "OLD MILL PAPER COMPANY LIMITED",
+              "internationalNumber": "RC-1400736"
+            },
+            {
+              "name": "HTM INTERNATIONAL NIG LTD",
+              "internationalNumber": "RC-100471"
+            },
+            {
+              "name": "PANGET GLOBAL LIMITED",
+              "internationalNumber": "RC-1398532"
+            },
+            {
+              "name": "MARITIME GUARDIANS FOUNDATION",
+              "internationalNumber": "IT-104225"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 6
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

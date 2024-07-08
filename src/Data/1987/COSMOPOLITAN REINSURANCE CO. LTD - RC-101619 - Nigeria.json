@@ -1,0 +1,408 @@
+[
+  {
+    "year": "1987",
+    "title": "COSMOPOLITAN REINSURANCE CO. LTD - RC-101619 - Nigeria",
+    "description": "COSMOPOLITAN REINSURANCE CO. LTD Nigeria company, Company number: RC-101619, Incorporation Date Oct 27, 1987;, Address: 1-4 BALOGUN STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61049701,
+      "name": "COSMOPOLITAN REINSURANCE CO. LTD",
+      "internationalNumber": "RC-101619",
+      "localNumber": "101619",
+      "countryId": 24,
+      "dateCreated": "1987-10-27T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:30:01.416Z",
+      "updatedAt": "2024-06-15T15:37:06.564Z",
+      "alternateNames": [],
+      "address": "1-4 BALOGUN STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "266548",
+      "updatedAtSitemap": "2024-01-15T18:35:49.000Z",
+      "oldInternationalNumber": "101619",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 190,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197058,
+          "providerId": "349378",
+          "providerName": "IT Others",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:23.636108+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82067804,
+          "address": "1-4 BALOGUN STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 243504151,
+          "companyId": 61049701,
+          "personId": 67079889,
+          "roleId": 114349,
+          "person": {
+            "id": 67079889,
+            "name": "francis  onweluche  uzoegwu ",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1966,
+            "birthMonth": 4,
+            "birthDate": 2,
+            "address": "SUITE 56 SHALOM PLAZA, PLOT1088, JOSEPH GOMWALK STREET, GUDU DISTRICT, ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "number": "1718607",
+            "documentType": "Driver's License",
+            "documentNumber": "ABC14197AB16",
+            "email": "frankkobis@gmail.com",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114349,
+            "name": "Legal Practice",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practice"
+            }
+          },
+          "companies": [
+            {
+              "name": "URO FEEDS LTD",
+              "internationalNumber": "RC-103465"
+            },
+            {
+              "name": "MYKE ELEGANCE LTD",
+              "internationalNumber": "RC-1660288"
+            },
+            {
+              "name": "CHUKWUENEKA ALILIKA NIGERIA LIMITED",
+              "internationalNumber": "RC-114632"
+            },
+            {
+              "name": "UTOPIASTORES",
+              "internationalNumber": "BN-3169808"
+            },
+            {
+              "name": "GOLDEN CATIE VENTURES",
+              "internationalNumber": "BN-3422349"
+            },
+            {
+              "name": "LADI BUSINESS DEVELOPMENT SERVICES LTD",
+              "internationalNumber": "RC-1635508"
+            },
+            {
+              "name": "FOUNTAIN POWER GOSPEL BIBLE MINISTRY",
+              "internationalNumber": "IT-101619"
+            },
+            {
+              "name": "PUTUPUTU INTERNATIONAL LTD",
+              "internationalNumber": "RC-1868306"
+            },
+            {
+              "name": "OAKEZ LTD",
+              "internationalNumber": "RC-1660349"
+            },
+            {
+              "name": "FIRST GENESIS HOTELS AND TOWERS LTD",
+              "internationalNumber": "RC-1502098"
+            },
+            {
+              "name": "ASSOCIATED VEGITABLE OIL PRODUCTS CO. NIG. LTD",
+              "internationalNumber": "RC-1632334"
+            },
+            {
+              "name": "OUR LORD'S MEDICOR PHARMACY LTD",
+              "internationalNumber": "RC-1734624"
+            },
+            {
+              "name": "KINGDOM MINDSET CHAPEL INTERNATIONAL",
+              "internationalNumber": "IT-112949"
+            },
+            {
+              "name": "IGWEAMAKA SOCIAL CLUB OF NIGERIA",
+              "internationalNumber": "IT-98726"
+            },
+            {
+              "name": "LAKABO VENTURES LTD",
+              "internationalNumber": "RC-112949"
+            },
+            {
+              "name": "NOSTRUM INTERNATIONAL OIL & GAS LTD",
+              "internationalNumber": "RC-1565295"
+            },
+            {
+              "name": "BANILUX NIGERIA LTD",
+              "internationalNumber": "RC-98726"
+            },
+            {
+              "name": "MARCH ENERGY LIMITED",
+              "internationalNumber": "RC-1457407"
+            },
+            {
+              "name": "FASHION GIANTS GLOBAL VENTURES LTD",
+              "internationalNumber": "RC-1657176"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238250664,
+          "companyId": 61049701,
+          "personId": 97137158,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 97137158,
+            "name": "uzoegwu  francis ",
+            "countryId": 24,
+            "address": "SUITE 14C, LAKECITY PLAZA, GUDU, ABUJA.",
+            "countryOfResidence": "NIGERIA",
+            "email": "frankkobis@gmail.com",
+            "phone": "+2348185510000",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "URO FEEDS LTD",
+              "internationalNumber": "RC-103465"
+            },
+            {
+              "name": "BANILUX NIGERIA LTD",
+              "internationalNumber": "RC-98726"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238250665,
+          "companyId": 61049701,
+          "personId": 97141689,
+          "roleId": 60330,
+          "sourceNum": 1,
+          "person": {
+            "id": 97141689,
+            "name": "uzoeto kingsley tochukwu",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1994,
+            "birthMonth": 2,
+            "birthDate": 14,
+            "address": "NO. 41, ONITSHA ROAD, NNEWI.",
+            "countryOfResidence": "NIGERIA",
+            "number": "90F5BO1C3C49494",
+            "documentType": "Permanent Voters' Card",
+            "email": "sundayuzoeto@yahoo.com",
+            "phone": "08067431657",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

@@ -1,0 +1,539 @@
+[
+  {
+    "year": "1987",
+    "title": "QUICENT ASSOCIATES LIMITED - RC-101842 - Nigeria",
+    "description": "QUICENT ASSOCIATES LIMITED Nigeria company, Company number: RC-101842, Incorporation Date Oct 30, 1987;, Address: 47, ZIK AVE., ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+    "company": {
+      "id": 61049948,
+      "name": "QUICENT ASSOCIATES LIMITED",
+      "internationalNumber": "RC-101842",
+      "localNumber": "101842",
+      "countryId": 24,
+      "dateCreated": "1987-10-30T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:30:32.270Z",
+      "updatedAt": "2024-06-15T15:37:10.110Z",
+      "alternateNames": [],
+      "address": "47, ZIK AVE., ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "200000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "266771",
+      "updatedAtSitemap": "2024-01-15T18:35:51.000Z",
+      "oldInternationalNumber": "101842",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 71,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82068184,
+          "address": "47, ZIK AVE., ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238247972,
+          "companyId": 61049948,
+          "personId": 78840750,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78840750,
+            "name": "akinduyite segun daniel",
+            "countryId": 24,
+            "occupation": "Clergy",
+            "nationality": "131",
+            "birthYear": 1982,
+            "birthMonth": 2,
+            "birthDate": 27,
+            "address": "1, BACK OF UMUASUPKU PLAYING GROUND IGBO",
+            "countryOfResidence": "NIGERIA",
+            "number": "A50348612",
+            "documentType": "International Passport",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238247973,
+          "companyId": 61049948,
+          "personId": 78840751,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78840751,
+            "name": "akinduyite jane chidiebere",
+            "countryId": 24,
+            "occupation": "Business woman",
+            "nationality": "131",
+            "birthYear": 1978,
+            "birthMonth": 11,
+            "birthDate": 10,
+            "address": "1, BACK OF UMUASUPKU PLAYING GROUND IGBO",
+            "countryOfResidence": "NIGERIA",
+            "number": "1234544",
+            "documentType": "Driver's License",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238247971,
+          "companyId": 61049948,
+          "personId": 96259433,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96259433,
+            "name": "incorporated trustees - individual",
+            "countryId": 24,
+            "address": "N/A",
+            "countryOfResidence": "NIGERIA",
+            "email": "N/A",
+            "phone": "N/A",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SUMTEC NIGERIA LIMITED",
+              "internationalNumber": "RC-97525"
+            },
+            {
+              "name": "SULACHEM NIGERIA LIMITED",
+              "internationalNumber": "RC-97767"
+            },
+            {
+              "name": "FIRST CITY FISHING COMPANY LIMITED",
+              "internationalNumber": "RC-96553"
+            },
+            {
+              "name": "AMUCHE FARMING AND TRACTOR SERVICES LTD",
+              "internationalNumber": "RC-97342"
+            },
+            {
+              "name": "MANAN INTEK NIG LTD",
+              "internationalNumber": "RC-112246"
+            },
+            {
+              "name": "BUSINESS REPORTS LTD",
+              "internationalNumber": "RC-97922"
+            },
+            {
+              "name": "KADESMAT INVESTMENTS LIMITED (W.A.)",
+              "internationalNumber": "RC-95978"
+            },
+            {
+              "name": "FRAMAN ENTERPRISES NIGERIA LTD",
+              "internationalNumber": "RC-98222"
+            },
+            {
+              "name": "AGRIC BUSINESS & RESOURCES LTD",
+              "internationalNumber": "RC-97222"
+            },
+            {
+              "name": "SPAWS SYSTEMS LTD",
+              "internationalNumber": "RC-98776"
+            },
+            {
+              "name": "LEIGHTON ELECTRONIC & COMPUTER SERVICES LTD",
+              "internationalNumber": "RC-101039"
+            },
+            {
+              "name": "CLEARING & MOVEMENT COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-96556"
+            },
+            {
+              "name": "KARRIS NIGERIA LIMITED",
+              "internationalNumber": "RC-96045"
+            },
+            {
+              "name": "ADTRUST INSURANCE CONSULTANTS LIMITED",
+              "internationalNumber": "RC-96038"
+            },
+            {
+              "name": "OBANTA PRESS LTD",
+              "internationalNumber": "RC-96137"
+            },
+            {
+              "name": "J. TRADE LIMITED",
+              "internationalNumber": "RC-95366"
+            },
+            {
+              "name": "SOCIOECONOMIC DEVELOPMENT INITIATIVE",
+              "internationalNumber": "IT-86978"
+            },
+            {
+              "name": "AVIDAN NIGERIA COMPANY LIMITED",
+              "internationalNumber": "RC-95779"
+            },
+            {
+              "name": "KINGSTIME INTERNATIONAL LTD",
+              "internationalNumber": "RC-96298"
+            },
+            {
+              "name": "BUGI NIG LTD",
+              "internationalNumber": "RC-97810"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245046984,
+          "companyId": 61049948,
+          "personId": 66146832,
+          "roleId": 114332,
+          "person": {
+            "id": 66146832,
+            "name": "ademola  adenaike ",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1980,
+            "birthMonth": 11,
+            "birthDate": 10,
+            "address": "1OLADEINDE STREET, IKEJA, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1621061",
+            "documentType": "Driver's License",
+            "documentNumber": "KRD14689AA01",
+            "email": "palacesolicitors@gmail.com",
+            "phone": "+234 702 014 1468",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "MACNETZ LAUNDRY & DRY-CLEANING ENTERPRISES LIMITED",
+              "internationalNumber": "RC-1398640"
+            },
+            {
+              "name": "TIMELY BAKERS",
+              "internationalNumber": "BN-2454821"
+            },
+            {
+              "name": "LOISLADE LIMITED",
+              "internationalNumber": "RC-1470493"
+            },
+            {
+              "name": "VICATIS ENTERPRISES",
+              "internationalNumber": "BN-2835360"
+            },
+            {
+              "name": "AL-ISTIHAANAT BILLAH ISLAMIC SOCIETY OF NIGERIA",
+              "internationalNumber": "IT-150174"
+            },
+            {
+              "name": "CHRIST POWER MOUNTAIN OF PERFECTION MINISTRY",
+              "internationalNumber": "IT-88029"
+            },
+            {
+              "name": "DAYSOL MECHANICAL SERVICES LTD",
+              "internationalNumber": "RC-1400543"
+            },
+            {
+              "name": "NENYE ROYAL SERVICES LIMITED",
+              "internationalNumber": "RC-1396432"
+            },
+            {
+              "name": "DAIRY PRODUCTS PRODUCERS & MARKETERS ASSOCIATION OF NIGERIA",
+              "internationalNumber": "IT-89571"
+            },
+            {
+              "name": "LBT AGRO LTD",
+              "internationalNumber": "RC-1371890"
+            },
+            {
+              "name": "OBMANIKAVOG GLOBAL SERVICES",
+              "internationalNumber": "BN-2489608"
+            },
+            {
+              "name": "CHISLON FOODS ENTERPRISE",
+              "internationalNumber": "BN-2517067"
+            },
+            {
+              "name": "BOOST RADIO NETWORKS",
+              "internationalNumber": "BN-2492319"
+            },
+            {
+              "name": "RICHBELL FOUNTAIN LIMITED",
+              "internationalNumber": "RC-1368947"
+            },
+            {
+              "name": "LATOVIC ENTERPRISES",
+              "internationalNumber": "BN-2572707"
+            },
+            {
+              "name": "JESUS HEALING CHRISTIAN PERFECTION CHURCH",
+              "internationalNumber": "IT-88773"
+            },
+            {
+              "name": "BRIDGEGOLD NIGERIA LIMITED",
+              "internationalNumber": "RC-1343921"
+            },
+            {
+              "name": "NUTUM GLOBAL SERVICES LTD",
+              "internationalNumber": "RC-1695035"
+            },
+            {
+              "name": "RAYMOND - NITA TRAVELS & TOURS INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-1364541"
+            },
+            {
+              "name": "BOJOSERAPH ENTERPRISES",
+              "internationalNumber": "BN-2519669"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

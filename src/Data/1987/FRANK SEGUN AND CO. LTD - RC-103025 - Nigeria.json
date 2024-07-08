@@ -1,0 +1,461 @@
+[
+  {
+    "year": "1987",
+    "title": "FRANK SEGUN AND CO. LTD - RC-103025 - Nigeria",
+    "description": "FRANK SEGUN AND CO. LTD Nigeria company, Company number: RC-103025, Incorporation Date Nov 19, 1987;, Address: 9, ONDO BYE-PASS, AKURE, ONDO, AKURE, ONDO STATE",
+    "company": {
+      "id": 61051238,
+      "name": "FRANK SEGUN AND CO. LTD",
+      "internationalNumber": "RC-103025",
+      "localNumber": "103025",
+      "countryId": 24,
+      "dateCreated": "1987-11-19T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:33:54.480Z",
+      "updatedAt": "2024-06-15T15:37:05.595Z",
+      "alternateNames": [],
+      "address": "9, ONDO BYE-PASS, AKURE, ONDO, AKURE, ONDO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "267944",
+      "updatedAtSitemap": "2024-01-15T18:35:57.000Z",
+      "oldInternationalNumber": "103025",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 105,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196919,
+          "providerId": "143269",
+          "providerName": "Other personal services activities",
+          "countryId": 24,
+          "createdAt": "2021-11-07T13:47:47.959002+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82070198,
+          "address": "9, ONDO BYE-PASS, AKURE, ONDO, AKURE, ONDO STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "A CROSSBOW NIGERIA LIMITED",
+              "internationalNumber": "RC-127616"
+            },
+            {
+              "name": "OLA-BABATUNDE ENTS.",
+              "internationalNumber": "BN-655389"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 238234858,
+          "companyId": 61051238,
+          "personId": 78832995,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78832995,
+            "name": "mohammed isah ibn",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1989,
+            "birthMonth": 1,
+            "birthDate": 9,
+            "address": "HOUSE NO 5, KPAKUNGU AREA, BESIDE JFLA, MINNA NIGER STATE.",
+            "countryOfResidence": "NIGERIA",
+            "number": "A07511897",
+            "documentType": "International Passport",
+            "email": "isaibnmd@gmail.com",
+            "phone": "08059268602",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238234859,
+          "companyId": 61051238,
+          "personId": 78832996,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78832996,
+            "name": "ja'afaru ibrahim akibu",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1990,
+            "birthMonth": 5,
+            "birthDate": 13,
+            "address": "NO 17, ZARUMAI QUARTERS GADO NASCO ROAD 3, OFF OKADA ROAD MINNA, NIGER STATE.",
+            "countryOfResidence": "NIGERIA",
+            "number": "A04954444",
+            "documentType": "International Passport",
+            "email": "akijaff@gmail.com",
+            "phone": "08036493690",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238234857,
+          "companyId": 61051238,
+          "personId": 94899180,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 94899180,
+            "name": "jibrin seidu",
+            "countryId": 24,
+            "address": "8 MAHATMA GHANDI STREET",
+            "countryOfResidence": "NIGERIA",
+            "email": "seidujibrin22@gmail.com",
+            "phone": "08134505805",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245123968,
+          "companyId": 61051238,
+          "personId": 68347233,
+          "roleId": 114332,
+          "person": {
+            "id": 68347233,
+            "name": "seidu jibrin",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1987,
+            "birthMonth": 4,
+            "birthDate": 16,
+            "address": "NO 5A8 MAHATMA GHANDI STREET, ABUJA, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1834163",
+            "documentType": "Driver's License",
+            "documentNumber": "ABC36261AD38",
+            "email": "seidujibrin22@gmail.com",
+            "phone": "+234 813 450 5805",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "OYERINDE FARM",
+              "internationalNumber": "BN-3185504"
+            },
+            {
+              "name": "TRIDOX NIG LTD",
+              "internationalNumber": "RC-120475"
+            },
+            {
+              "name": "DAIRY AND BEEF INTERNATIONAL CENTER LIMITED",
+              "internationalNumber": "RC-1666886"
+            },
+            {
+              "name": "EMPRIS ENGINEERING ENT.",
+              "internationalNumber": "BN-3185788"
+            },
+            {
+              "name": "GIGA CONSULTING LIMITED",
+              "internationalNumber": "RC-1469793"
+            },
+            {
+              "name": "ZAMFARA YOUTHS FOR PEACE AND LOVE INITIATIVE",
+              "internationalNumber": "IT-151328"
+            },
+            {
+              "name": "KUD OIL & TISSUES PRODUCTION",
+              "internationalNumber": "BN-3187555"
+            },
+            {
+              "name": "AANIZAMMI SUITES & HOTELS LTD",
+              "internationalNumber": "RC-1764319"
+            },
+            {
+              "name": "HALIFIA GLOBAL VENTURES",
+              "internationalNumber": "BN-2947802"
+            },
+            {
+              "name": "GLYTZAARS NIG LTD",
+              "internationalNumber": "RC-1720257"
+            },
+            {
+              "name": "CENTRE FOR CREATIVE AND TRANSFORMATIVE LEADERSHIP",
+              "internationalNumber": "IT-103025"
+            },
+            {
+              "name": "TRIPLE JUSTICE FOUNDATION",
+              "internationalNumber": "IT-120475"
+            },
+            {
+              "name": "POLICE FORCE HEADQUARTERS MOSQUE, ABUJA",
+              "internationalNumber": "IT-137666"
+            },
+            {
+              "name": "OYERINDE PHOTOGRAPHY",
+              "internationalNumber": "BN-3172306"
+            },
+            {
+              "name": "SEIDU JIBRIN AND ASSOCIATES",
+              "internationalNumber": "BN-2785657"
+            },
+            {
+              "name": "MALLY'S INDULGENCE NUTRITIONAL AND CATERING SERVICES",
+              "internationalNumber": "BN-2944043"
+            },
+            {
+              "name": "COMPUTER TEACHERS ASSOCIATION OF NIGERIA",
+              "internationalNumber": "IT-130506"
+            },
+            {
+              "name": "KYOMKE NIGERIA LIMITED",
+              "internationalNumber": "RC-1579004"
+            },
+            {
+              "name": "POLICE COOPERATIVE VENTURES LIMITED",
+              "internationalNumber": "RC-1562019"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

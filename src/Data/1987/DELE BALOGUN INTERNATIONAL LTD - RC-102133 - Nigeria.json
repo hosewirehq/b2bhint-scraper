@@ -1,0 +1,524 @@
+[
+  {
+    "year": "1987",
+    "title": "DELE BALOGUN INTERNATIONAL LTD - RC-102133 - Nigeria",
+    "description": "DELE BALOGUN INTERNATIONAL LTD Nigeria company, Company number: RC-102133, Incorporation Date Nov 9, 1987;, Address: 7, ODUBIYI STR, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61050263,
+      "name": "DELE BALOGUN INTERNATIONAL LTD",
+      "internationalNumber": "RC-102133",
+      "localNumber": "102133",
+      "countryId": 24,
+      "dateCreated": "1987-11-09T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:31:18.811Z",
+      "updatedAt": "2024-06-15T15:37:09.180Z",
+      "alternateNames": [],
+      "address": "7, ODUBIYI STR, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "267062",
+      "updatedAtSitemap": "2024-01-15T18:35:53.000Z",
+      "oldInternationalNumber": "102133",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 273,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82068657,
+          "address": "7, ODUBIYI STR, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238244549,
+          "companyId": 61050263,
+          "personId": 78839363,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78839363,
+            "name": "ataboh john",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1988,
+            "birthMonth": 6,
+            "birthDate": 30,
+            "address": "NO. 1, PIWEYI AIRPORT ROAD, BEHIND SHOP RIGHT AT ORANGE GARDEN, ABUJA FCT.",
+            "countryOfResidence": "NIGERIA",
+            "number": "ABC50874AC15",
+            "documentType": "Driver's License",
+            "email": "atabohjohn@yahoo.com",
+            "phone": "08182375088",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238244550,
+          "companyId": 61050263,
+          "personId": 78839364,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78839364,
+            "name": "barau mary david",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1984,
+            "birthMonth": 4,
+            "birthDate": 19,
+            "address": "NO. 5, PIWEYI AIRPORT ROAD, BEHIND SHOP RIGHT AT ORANGE GARDEN, ABUJA FCT.",
+            "countryOfResidence": "NIGERIA",
+            "number": "7751101161",
+            "documentType": "National ID Card",
+            "email": "baraumary@yahoo.com",
+            "phone": "08064536250",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244413500,
+          "companyId": 61050263,
+          "personId": 66141046,
+          "roleId": 114332,
+          "person": {
+            "id": 66141046,
+            "name": "jude chinweze afunanya",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "nationality": "NIGERIAN",
+            "birthYear": 1974,
+            "birthMonth": 11,
+            "birthDate": 6,
+            "address": " FUDIE MALL, PLOT 768 MIKE AKHIGBE DRIVE, JABI - DISTRICT,, SUITE B7,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "documentNumber": "45634323245",
+            "email": "CHINWEZE2001@YAHOO.COM",
+            "phone": "08062527999",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "NICKYROSE INTERNATIONAL LTD",
+              "internationalNumber": "RC-100038"
+            },
+            {
+              "name": "GREENLAND VENTURES LTD",
+              "internationalNumber": "RC-103068"
+            },
+            {
+              "name": "HUDSON-DEKKER LIMITED",
+              "internationalNumber": "RC-98637"
+            },
+            {
+              "name": "CHAMAZ INVESTMENTS LIMITED",
+              "internationalNumber": "RC-99174"
+            },
+            {
+              "name": "ADESOLA AFOLABI & SONS LTD",
+              "internationalNumber": "RC-106438"
+            },
+            {
+              "name": "MEGSEEM ENTERPRISES NIGERIA LIMITED",
+              "internationalNumber": "RC-95992"
+            },
+            {
+              "name": "IFE PHARMACY LTD",
+              "internationalNumber": "RC-98847"
+            },
+            {
+              "name": "B. A. TISA NIG LTD",
+              "internationalNumber": "RC-101309"
+            },
+            {
+              "name": "SIDIQ NIGERIA LIMITED",
+              "internationalNumber": "RC-99101"
+            },
+            {
+              "name": "DONA INVESTMENTS LIMITED",
+              "internationalNumber": "RC-97758"
+            },
+            {
+              "name": "ADATA INVESTMENT LIMITED",
+              "internationalNumber": "RC-103655"
+            },
+            {
+              "name": "BIL INTERNATIONAL NIG LTD",
+              "internationalNumber": "RC-96973"
+            },
+            {
+              "name": "AFRIMARINE VENTURES LTD",
+              "internationalNumber": "RC-99709"
+            },
+            {
+              "name": "PGC INDUSTRIES LTD",
+              "internationalNumber": "RC-173022"
+            },
+            {
+              "name": "JOHNBIMCO MOTORS LTD",
+              "internationalNumber": "RC-93234"
+            },
+            {
+              "name": "BAREEMOID  INDUSTRIES  LIMITED",
+              "internationalNumber": "RC-96707"
+            },
+            {
+              "name": "BEER STACK CRAFT DISTILLERY LIMITED",
+              "internationalNumber": "RC-1911106"
+            },
+            {
+              "name": "BIOMEDICAL LABORATORY SERVICES LIMITED",
+              "internationalNumber": "RC-100941"
+            },
+            {
+              "name": "WEBB INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-102423"
+            },
+            {
+              "name": "CHS HOLDINGS LTD",
+              "internationalNumber": "RC-103813"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238244548,
+          "companyId": 61050263,
+          "personId": 96263712,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96263712,
+            "name": "afunanya jude",
+            "countryId": 24,
+            "address": "ABUJA",
+            "phone": "08062527999",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "NICKYROSE INTERNATIONAL LTD",
+              "internationalNumber": "RC-100038"
+            },
+            {
+              "name": "BACHA (NIG) LTD",
+              "internationalNumber": "RC-101558"
+            },
+            {
+              "name": "CHAMAZ INVESTMENTS LIMITED",
+              "internationalNumber": "RC-99174"
+            },
+            {
+              "name": "GREENLAND VENTURES LTD",
+              "internationalNumber": "RC-103068"
+            },
+            {
+              "name": "ADESOLA AFOLABI & SONS LTD",
+              "internationalNumber": "RC-106438"
+            },
+            {
+              "name": "B. A. TISA NIG LTD",
+              "internationalNumber": "RC-101309"
+            },
+            {
+              "name": "DE-MADE ENTERPSIES",
+              "internationalNumber": "RC-104267"
+            },
+            {
+              "name": "RAMEEO NIG LTD",
+              "internationalNumber": "RC-101264"
+            },
+            {
+              "name": "ADATA INVESTMENT LIMITED",
+              "internationalNumber": "RC-103655"
+            },
+            {
+              "name": "KATSINA FARMS & MILLS LTD",
+              "internationalNumber": "RC-104764"
+            },
+            {
+              "name": "AFRIMARINE VENTURES LTD",
+              "internationalNumber": "RC-99709"
+            },
+            {
+              "name": "J. D. UWAK (NIG) LTD",
+              "internationalNumber": "RC-106762"
+            },
+            {
+              "name": "TENSTARS NIGERIA LTD",
+              "internationalNumber": "RC-103656"
+            },
+            {
+              "name": "BIOMEDICAL LABORATORY SERVICES LIMITED",
+              "internationalNumber": "RC-100941"
+            },
+            {
+              "name": "ALVENA BEST LIMITED",
+              "internationalNumber": "RC-102473"
+            },
+            {
+              "name": "WEBB INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-102423"
+            },
+            {
+              "name": "CHS HOLDINGS LTD",
+              "internationalNumber": "RC-103813"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
