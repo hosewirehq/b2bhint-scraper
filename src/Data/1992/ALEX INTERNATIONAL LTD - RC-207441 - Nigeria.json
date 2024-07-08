@@ -1,0 +1,408 @@
+[
+  {
+    "year": "1992",
+    "title": "ALEX INTERNATIONAL LTD - RC-207441 - Nigeria",
+    "description": "ALEX INTERNATIONAL LTD Nigeria company, Company number: RC-207441, Incorporation Date Oct 22, 1992;, Address: NO. 1 URU ROAD, NNEWI, ANAMBRA, NNEWI, ANAMBRA STATE",
+    "company": {
+      "id": 62782027,
+      "name": "ALEX INTERNATIONAL LTD",
+      "internationalNumber": "RC-207441",
+      "localNumber": "207441",
+      "countryId": 24,
+      "dateCreated": "1992-10-22T00:00:00.000Z",
+      "createdAt": "2021-05-31T05:54:27.771Z",
+      "updatedAt": "2024-06-15T16:19:52.066Z",
+      "alternateNames": [],
+      "address": "NO. 1 URU ROAD, NNEWI, ANAMBRA, NNEWI, ANAMBRA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "500000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "371367",
+      "updatedAtSitemap": "2023-06-09T19:32:30.000Z",
+      "oldInternationalNumber": "207441",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 166,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92058127,
+          "address": "NO. 1 URU ROAD, NNEWI, ANAMBRA, NNEWI, ANAMBRA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 164795622,
+          "companyId": 62782027,
+          "personId": 67512974,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67512974,
+            "name": "ogonna okafor",
+            "countryId": 24,
+            "address": "4/5 JIMADE CLOSE LADIPO MUSHIN  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "BEST TOTAL INDUSTRIES LTD",
+              "internationalNumber": "RC-207860"
+            },
+            {
+              "name": "TRADEX AND AGROTEE LIMITED",
+              "internationalNumber": "RC-945625"
+            },
+            {
+              "name": "GOLDEN SHEKEL INTEGRATED SERVICES LIMITED",
+              "internationalNumber": "RC-747822"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 164795621,
+          "companyId": 62782027,
+          "personId": 67625172,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67625172,
+            "name": "dikanna okafor",
+            "countryId": 24,
+            "address": "39C RUMENS STREET, IKOYI  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "BEST TOTAL INDUSTRIES LTD",
+              "internationalNumber": "RC-207860"
+            },
+            {
+              "name": "CHICASON HOLDINGS LTD",
+              "internationalNumber": "RC-148605"
+            },
+            {
+              "name": "RIMCO FARM PLANTATIONS LTD",
+              "internationalNumber": "RC-246015"
+            },
+            {
+              "name": "DYKO OIL AND GAS SERVICES LIMITED",
+              "internationalNumber": "RC-779824"
+            },
+            {
+              "name": "CHICASON NIG LTD",
+              "internationalNumber": "RC-42861"
+            },
+            {
+              "name": "INTERCORP OIL LIMITED",
+              "internationalNumber": "RC-443575"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 164795612,
+          "companyId": 62782027,
+          "personId": 68063391,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68063391,
+            "name": "okafor florence                                                                                      n/a",
+            "countryId": 24,
+            "address": "22 AYINDE GIWA STREET, IRE-AKARI ESTATE, LAGOS LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "GOLDWORTHS INVESTMENTS LIMITED",
+              "internationalNumber": "RC-276638"
+            },
+            {
+              "name": "NEUTRAL RESOURCES LTD",
+              "internationalNumber": "RC-65479"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 164795613,
+          "companyId": 62782027,
+          "personId": 68063392,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68063392,
+            "name": "okafor chibike                                                                                       n/a",
+            "countryId": 24,
+            "address": "1URU ROAD, NNEWI ANAMBRA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "BEST TOTAL INDUSTRIES LTD",
+              "internationalNumber": "RC-207860"
+            },
+            {
+              "name": "NEUTRAL RESOURCES LTD",
+              "internationalNumber": "RC-65479"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "15",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 8,
+        "3": 7
+      },
+      "personsWithRelatedCount": 15
+    }
+  }
+]

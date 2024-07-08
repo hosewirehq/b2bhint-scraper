@@ -1,0 +1,428 @@
+[
+  {
+    "year": "1992",
+    "title": "WATSONS VENTURES LTD - RC-207819 - Nigeria",
+    "description": "WATSONS VENTURES LTD Nigeria company, Company number: RC-207819, Incorporation Date Oct 22, 1992;, Address: 9, DELE AJAYI CLOSE ALIMOSO, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62784667,
+      "name": "WATSONS VENTURES LTD",
+      "internationalNumber": "RC-207819",
+      "localNumber": "207819",
+      "countryId": 24,
+      "dateCreated": "1992-10-22T00:00:00.000Z",
+      "createdAt": "2021-05-31T06:02:36.200Z",
+      "updatedAt": "2024-06-15T16:19:49.651Z",
+      "alternateNames": [],
+      "address": "9, DELE AJAYI CLOSE ALIMOSO, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "371745",
+      "updatedAtSitemap": "2023-06-09T19:32:27.000Z",
+      "oldInternationalNumber": "207819",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 166,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92059569,
+          "address": "9, DELE AJAYI CLOSE ALIMOSO, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 164754079,
+          "companyId": 62784667,
+          "personId": 66326889,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66326889,
+            "name": "kayode olomu                                                                                         n/a",
+            "countryId": 24,
+            "address": "NO1 JEJE AJAYI  CLOSE ALIMOSO LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "OMO-AGBA NIGERIA LIMITED",
+              "internationalNumber": "RC-85959"
+            },
+            {
+              "name": "PATLAWRYS AUTO PARTS LTD",
+              "internationalNumber": "RC-72534"
+            },
+            {
+              "name": "BUSINESS WORLD LIMITED",
+              "internationalNumber": "RC-83959"
+            },
+            {
+              "name": "MEDIA RESOURCES ASSOCIATES LTD",
+              "internationalNumber": "RC-54461"
+            },
+            {
+              "name": "GREENSTAR INTERNATIONAL LTD",
+              "internationalNumber": "RC-129585"
+            },
+            {
+              "name": "ALIMOSO COMPANY LTD",
+              "internationalNumber": "RC-207114"
+            },
+            {
+              "name": "DEGAULE ADEEN ENGINEEEING LIMITED",
+              "internationalNumber": "RC-71950"
+            },
+            {
+              "name": "BONDS INTER-VENTURES LTD",
+              "internationalNumber": "RC-207818"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 164754083,
+          "companyId": 62784667,
+          "personId": 66326895,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66326895,
+            "name": "kayode olomu",
+            "countryId": 24,
+            "address": "NO1 JEJE AJAYI  CLOSE ALIMOSO LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "OMO-AGBA NIGERIA LIMITED",
+              "internationalNumber": "RC-85959"
+            },
+            {
+              "name": "PATLAWRYS AUTO PARTS LTD",
+              "internationalNumber": "RC-72534"
+            },
+            {
+              "name": "BUSINESS WORLD LIMITED",
+              "internationalNumber": "RC-83959"
+            },
+            {
+              "name": "MEDIA RESOURCES ASSOCIATES LTD",
+              "internationalNumber": "RC-54461"
+            },
+            {
+              "name": "GREENSTAR INTERNATIONAL LTD",
+              "internationalNumber": "RC-129585"
+            },
+            {
+              "name": "ALIMOSO COMPANY LTD",
+              "internationalNumber": "RC-207114"
+            },
+            {
+              "name": "DEGAULE ADEEN ENGINEEEING LIMITED",
+              "internationalNumber": "RC-71950"
+            },
+            {
+              "name": "BONDS INTER-VENTURES LTD",
+              "internationalNumber": "RC-207818"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 164754081,
+          "companyId": 62784667,
+          "personId": 68075728,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68075728,
+            "name": "elijah s. akinfenwa                                                                                  n/a",
+            "countryId": 24,
+            "address": "1/3, ALH TEMIDERE STR. AKOWONJO LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "ESKIN NIGERIA LTD",
+              "internationalNumber": "RC-62909"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 164754085,
+          "companyId": 62784667,
+          "personId": 68075730,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68075730,
+            "name": "elijah s. akinfenwa",
+            "countryId": 24,
+            "address": "1/3, ALH TEMIDERE STR. AKOWONJO LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ESKIN NIGERIA LTD",
+              "internationalNumber": "RC-62909"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 4,
+        "3": 3
+      },
+      "personsWithRelatedCount": 5
+    }
+  }
+]
