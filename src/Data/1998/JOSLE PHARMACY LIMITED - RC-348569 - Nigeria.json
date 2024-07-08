@@ -1,0 +1,362 @@
+[
+  {
+    "year": "1998",
+    "title": "JOSLE PHARMACY LIMITED - RC-348569 - Nigeria",
+    "description": "JOSLE PHARMACY LIMITED Nigeria company, Company number: RC-348569, Incorporation Date Dec 29, 1998;, Address: NO.2, TEMIDIRESTREET, BOBOKO, ILORIN, KWARA, ILORIN, KWARA STATE",
+    "company": {
+      "id": 63584168,
+      "name": "JOSLE PHARMACY LIMITED",
+      "internationalNumber": "RC-348569",
+      "localNumber": "348569",
+      "countryId": 24,
+      "dateCreated": "1998-12-29T00:00:00.000Z",
+      "createdAt": "2021-06-05T03:35:08.523Z",
+      "updatedAt": "2024-06-15T16:41:38.016Z",
+      "alternateNames": [],
+      "address": "NO.2, TEMIDIRESTREET, BOBOKO, ILORIN, KWARA, ILORIN, KWARA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "509000",
+      "updatedAtSitemap": "2023-06-09T16:13:09.000Z",
+      "oldInternationalNumber": "348569",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 83,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92887433,
+          "address": "NO.2, TEMIDIRESTREET, BOBOKO, ILORIN, KWARA, ILORIN, KWARA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 227403533,
+          "companyId": 63584168,
+          "personId": 93423923,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 93423923,
+            "name": "oyeyomi juliana",
+            "countryId": 24,
+            "address": "NO. 2, THE APOSTOLIC CHURCH TEMIDIRE STREET, ILORIN KWARA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 227403534,
+          "companyId": 63584168,
+          "personId": 93423924,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 93423924,
+            "name": "oyeyomi isaac olawale",
+            "countryId": 24,
+            "address": "NO. 2, THE APOSTOLIC CHURCH TEMIDIRE STREET, ILORIN KWARA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 227403535,
+          "companyId": 63584168,
+          "personId": 93423925,
+          "roleId": 60321,
+          "percentage": 70,
+          "appointedOn": "2021-12-04",
+          "votingShares": "null%",
+          "sourceNum": 1,
+          "person": {
+            "id": 93423925,
+            "name": "oyemomi isaac olawale",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "THE APOSTOLIC CHURCH , TEMIDIRE STREET, BABOKO ASSEMBLY, NO. 2",
+            "countryOfResidence": "NIGERIA",
+            "email": "joslepharmacyltd@gmail.com",
+            "phone": "000000000000",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 227403536,
+          "companyId": 63584168,
+          "personId": 93423926,
+          "roleId": 60321,
+          "percentage": 30,
+          "appointedOn": "2021-12-04",
+          "votingShares": "null%",
+          "sourceNum": 1,
+          "person": {
+            "id": 93423926,
+            "name": "oyemomi juliana",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "THE APOSTOLIC CHURCH , TEMIDIRE STREET, BABOKO ASSEMBLY, NO. 2",
+            "countryOfResidence": "NIGERIA",
+            "email": "joslepharmacyltd@gmail.com",
+            "phone": "000000000000",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "null": 2
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
