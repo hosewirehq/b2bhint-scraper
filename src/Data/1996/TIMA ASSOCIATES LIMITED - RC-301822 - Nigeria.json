@@ -1,0 +1,475 @@
+[
+  {
+    "year": "1996",
+    "title": "TIMA ASSOCIATES LIMITED - RC-301822 - Nigeria",
+    "description": "TIMA ASSOCIATES LIMITED Nigeria company, Company number: RC-301822, Incorporation Date Oct 23, 1996;, Address: HARUNA COMPOUND, AMONOKU BASSA LGA, KOGI, KOGI",
+    "company": {
+      "id": 62108736,
+      "name": "TIMA ASSOCIATES LIMITED",
+      "internationalNumber": "RC-301822",
+      "localNumber": "301822",
+      "countryId": 24,
+      "dateCreated": "1996-10-23T00:00:00.000Z",
+      "createdAt": "2021-05-28T07:39:09.005Z",
+      "updatedAt": "2024-06-15T16:43:58.759Z",
+      "alternateNames": [],
+      "address": "HARUNA COMPOUND, AMONOKU BASSA LGA, KOGI, KOGI",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "100000",
+      "historicalNames": [],
+      "providerId": "4829537",
+      "updatedAtSitemap": "2023-06-09T16:19:25.000Z",
+      "oldInternationalNumber": "301822",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 150,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6198982,
+          "providerId": "199272",
+          "providerName": "Sales of Books and Stationeries",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:59:14.566684+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101969242,
+          "address": "HARUNA COMPOUND, AMONOKU BASSA LGA, KOGI, KOGI",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241109591,
+          "companyId": 62108736,
+          "personId": 78787428,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 15000,
+          "person": {
+            "id": 78787428,
+            "name": "haruna abdulaleem",
+            "countryId": 24,
+            "occupation": "Secretary",
+            "nationality": "Nigeria",
+            "address": "GF 02 UTC COMPLEX",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "BIOSPHERE PHARMACEUTICALS LIMITED",
+              "internationalNumber": "RC-393825"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241109596,
+          "companyId": 62108736,
+          "personId": 78787428,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 78787428,
+            "name": "haruna abdulaleem",
+            "countryId": 24,
+            "occupation": "Secretary",
+            "nationality": "Nigeria",
+            "address": "GF 02 UTC COMPLEX",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "BIOSPHERE PHARMACEUTICALS LIMITED",
+              "internationalNumber": "RC-393825"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241109588,
+          "companyId": 62108736,
+          "personId": 93147983,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 25000,
+          "person": {
+            "id": 93147983,
+            "name": "wambebe charles",
+            "countryId": 24,
+            "address": "NO 17, ASO DRIVE, MAITAMA  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "NIPCO PHARMACEUTICALS  LIMITED",
+              "internationalNumber": "RC-257210"
+            },
+            {
+              "name": "GBG GLOBAL AFRICA LIMITED",
+              "internationalNumber": "RC-987384"
+            },
+            {
+              "name": "ESOMA HERBALS LIMITED",
+              "internationalNumber": "RC-458526"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241109598,
+          "companyId": 62108736,
+          "personId": 98465003,
+          "roleId": 60320,
+          "appointedOn": "2021-12-08",
+          "sourceNum": 1,
+          "person": {
+            "id": 98465003,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "NKKY- YU PHARMACY AND SUPERMARKET LIMITED",
+              "internationalNumber": "RC-302837"
+            },
+            {
+              "name": "PARJOKE  LTD",
+              "internationalNumber": "RC-302849"
+            },
+            {
+              "name": "EMDU-WILLS INVESTMENTS LIMITED",
+              "internationalNumber": "RC-302841"
+            },
+            {
+              "name": "CHRIST THE GOOD SHEPHERD EDUCATIONAL LTD",
+              "internationalNumber": "RC-301820"
+            },
+            {
+              "name": "YOGOTECH INDUSTRIES NIG LTD",
+              "internationalNumber": "RC-302848"
+            },
+            {
+              "name": "GLOTSON INTERNATIONAL NIGERIA LTD",
+              "internationalNumber": "RC-302852"
+            },
+            {
+              "name": "NITEX ASSO. NIG LTD",
+              "internationalNumber": "RC-302853"
+            },
+            {
+              "name": "ANYA MOTORS NIG LTD",
+              "internationalNumber": "RC-156712"
+            },
+            {
+              "name": "DIAMOND ENGINEERING COMPANY LIMITED",
+              "internationalNumber": "RC-301885"
+            },
+            {
+              "name": "URBAN AFFAIRS LTD",
+              "internationalNumber": "RC-302842"
+            },
+            {
+              "name": "TAKE 'N' PAY NIGERIA LIMITED",
+              "internationalNumber": "RC-301819"
+            },
+            {
+              "name": "JOHN-OLA ODUMESO PETRLEUM NIGERIA LIMITED",
+              "internationalNumber": "RC-302844"
+            },
+            {
+              "name": "GEO-TECH SYSTEMS LIMITED",
+              "internationalNumber": "RC-302851"
+            },
+            {
+              "name": "EXPEDITED KAPITAL SERVICES LTD",
+              "internationalNumber": "RC-301884"
+            },
+            {
+              "name": "DEMEEK INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-302845"
+            },
+            {
+              "name": "ADE OLUWAFEMI OIL LIMITED",
+              "internationalNumber": "RC-302840"
+            },
+            {
+              "name": "NISI INVESTMENT NIG LTD",
+              "internationalNumber": "RC-302846"
+            },
+            {
+              "name": "ROCKBLESS INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-302850"
+            },
+            {
+              "name": "FEMLAT AND SONS (NIG) LTD",
+              "internationalNumber": "RC-302839"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "12",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 5,
+        "2": 7
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
