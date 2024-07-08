@@ -1,0 +1,427 @@
+[
+  {
+    "year": "1980",
+    "title": "AYE INVESTMENT LTD - RC-35095 - Nigeria",
+    "description": "AYE INVESTMENT LTD Nigeria company, Company number: RC-35095, Incorporation Date Sep 16, 1980;, Address: 17, NNAMDI AZIKIWE STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60671766,
+      "name": "AYE INVESTMENT LTD",
+      "internationalNumber": "RC-35095",
+      "localNumber": "35095",
+      "countryId": 24,
+      "dateCreated": "1980-09-16T00:00:00.000Z",
+      "createdAt": "2021-05-14T20:41:00.113Z",
+      "updatedAt": "2024-06-15T16:44:58.990Z",
+      "alternateNames": [],
+      "address": "17, NNAMDI AZIKIWE STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "200352",
+      "updatedAtSitemap": "2023-06-09T16:21:38.000Z",
+      "oldInternationalNumber": "35095",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 103,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82041024,
+          "address": "17, NNAMDI AZIKIWE STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "CONTRAFIN NIG LTD",
+              "internationalNumber": "RC-88319"
+            },
+            {
+              "name": "GUINEA FARMS LTD",
+              "internationalNumber": "RC-50197"
+            },
+            {
+              "name": "AFRICAN INSPECTION LIMITED",
+              "internationalNumber": "RC-87424"
+            },
+            {
+              "name": "SEWEDO TECHNICAL COMPANY LTD",
+              "internationalNumber": "RC-36315"
+            },
+            {
+              "name": "CROSS OCEAN FISH & SHRIMPS COMPANY LIMITED",
+              "internationalNumber": "RC-85898"
+            },
+            {
+              "name": "METROMEDIA INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-29047"
+            },
+            {
+              "name": "TONY AMADI NIG LTD",
+              "internationalNumber": "RC-33043"
+            },
+            {
+              "name": "AGRICONTA ENTERPRISES NIG LTD",
+              "internationalNumber": "RC-45979"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 240495058,
+          "companyId": 60671766,
+          "personId": 97435147,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97435147,
+            "name": "ndubuisi mbanugo                                                                                     n/a",
+            "countryId": 24,
+            "address": "17, NNAMDI AZIKIWE STREET, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "ESTHERS ASSOCIATION OF BUAN",
+              "internationalNumber": "RC-37953"
+            },
+            {
+              "name": "GOD DE CINEMAS LTD",
+              "internationalNumber": "RC-40930"
+            },
+            {
+              "name": "PHEBEAN MUNI LTD",
+              "internationalNumber": "RC-37936"
+            },
+            {
+              "name": "SEWEDO TECHNICAL COMPANY LTD",
+              "internationalNumber": "RC-36315"
+            },
+            {
+              "name": "DYNAPOWER NIG LTD",
+              "internationalNumber": "RC-37935"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240495060,
+          "companyId": 60671766,
+          "personId": 97435149,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97435149,
+            "name": "ndubuisi mbanugo",
+            "countryId": 24,
+            "address": "17, NNAMDI AZIKIWE STREET, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ESTHERS ASSOCIATION OF BUAN",
+              "internationalNumber": "RC-37953"
+            },
+            {
+              "name": "GOD DE CINEMAS LTD",
+              "internationalNumber": "RC-40930"
+            },
+            {
+              "name": "PHEBEAN MUNI LTD",
+              "internationalNumber": "RC-37936"
+            },
+            {
+              "name": "SEWEDO TECHNICAL COMPANY LTD",
+              "internationalNumber": "RC-36315"
+            },
+            {
+              "name": "DYNAPOWER NIG LTD",
+              "internationalNumber": "RC-37935"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240495057,
+          "companyId": 60671766,
+          "personId": 98144481,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 98144481,
+            "name": "abudu y. eke                                                                                         n/a",
+            "countryId": 24,
+            "address": "28A, CAMEROUN ROAD, IKOYI-LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240495059,
+          "companyId": 60671766,
+          "personId": 98144482,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 98144482,
+            "name": "abudu y. eke",
+            "countryId": 24,
+            "address": "28A, CAMEROUN ROAD, IKOYI-LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
