@@ -1,0 +1,533 @@
+[
+  {
+    "year": "2001",
+    "title": "ESKOM PLC - RC-437935 - Nigeria",
+    "description": "ESKOM PLC Nigeria company, Company number: RC-437935, Incorporation Date Dec 12, 2001;, Address: PLOT 1221, AMINU KANO CRESCENT, WUSE II, ABUJA, FCT",
+    "company": {
+      "id": 103476148,
+      "name": "ESKOM PLC",
+      "internationalNumber": "RC-437935",
+      "localNumber": "437935",
+      "countryId": 24,
+      "dateCreated": "2001-12-12T00:00:00.000Z",
+      "createdAt": "2022-03-13T12:08:55.063Z",
+      "updatedAt": "2024-06-15T16:05:32.824Z",
+      "alternateNames": [],
+      "address": "PLOT 1221, AMINU KANO CRESCENT, WUSE II, ABUJA, FCT",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "51000002.56 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "51000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY O BUSINESS OF PETROLEUM, OIL AND GAS SERVICES COMPANY, UPSTREAM AND DOWNSTREAM, EXPLORATION, PROSPECTING, DRILLING, PROCESSING, REFINING, LIFTING OF PETROLEUM AND OTHER RELATED PRODUCTS, OIL TOOLS AND EQUIPMENT AND GENERAL OIL FIELD SERVICES: TO DEVELOP AND EXPLOIT ANY RIGHTS, PRIVILEGES, CONCESSIONS, INVENTIONS, PATENT RIGHTS AND LICENCES OF THE COMPANY OR ANY OTHER PERSON OR PERSONS",
+      "providerId": "595556",
+      "updatedAtSitemap": "2023-07-17T11:58:38.000Z",
+      "oldInternationalNumber": "437935",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 196,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196967,
+          "providerId": "199119",
+          "providerName": "Oil and Gas Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:47.223789+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 93623301,
+          "address": "PLOT 1221, AMINU KANO CRESCENT, WUSE II, ABUJA, FCT",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 233376523,
+          "companyId": 103476148,
+          "personId": 95533347,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 95533347,
+            "name": "egbaji sunday esq",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "SUITE B18, PATSY PLAZA",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233376527,
+          "companyId": 103476148,
+          "personId": 95533348,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 200000,
+          "person": {
+            "id": 95533348,
+            "name": "orjiako ambrose bryant c",
+            "countryId": 24,
+            "address": "NO. 2A, AJISAFE STREET, GRA",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233376528,
+          "companyId": 103476148,
+          "personId": 95533349,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 350000,
+          "person": {
+            "id": 95533349,
+            "name": "orjiako chioma",
+            "countryId": 24,
+            "address": "NO. 2A, AJISAFE STREET, GRA",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 233376536,
+          "companyId": 103476148,
+          "personId": 95533355,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 95533355,
+            "name": "uzoigwe joseph chukwuemeka",
+            "countryId": 24,
+            "address": "NO 4, REGINA COKER STREET, OFF AWOLOWO WAY",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245090479,
+          "companyId": 103476148,
+          "personId": 100225693,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 100225693,
+            "name": "orjiako philip ifeanyi",
+            "countryId": 24,
+            "address": "NO2A, AJISAFE STR., , IKEJA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245090486,
+          "companyId": 103476148,
+          "personId": 100230438,
+          "roleId": 60320,
+          "appointedOn": "2022-01-08",
+          "sourceNum": 1,
+          "person": {
+            "id": 100230438,
+            "name": "olapo folorunso samuel",
+            "countryId": 24,
+            "address": "No. 3, Layi Oyekanmi Street, Mushin, Lagos",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "National Identification Number",
+            "email": "folusolapo@yahoo.com",
+            "phone": "2348055219813",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "HAM-TEM NIGERIA LIMITED",
+              "internationalNumber": "RC-445447"
+            },
+            {
+              "name": "SHANNET INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-443331"
+            },
+            {
+              "name": "UGONECHE RESOURCES LIMITED",
+              "internationalNumber": "RC-443381"
+            },
+            {
+              "name": "ORJINZE OIL COMPANY LIMITED",
+              "internationalNumber": "RC-445435"
+            },
+            {
+              "name": "CHINKY MORES LIMITED",
+              "internationalNumber": "RC-443382"
+            },
+            {
+              "name": "GLASS-SMITH NIGERIA LIMITED",
+              "internationalNumber": "RC-443589"
+            },
+            {
+              "name": "SACOSTEL BEST INVESTMENTS LIMITED",
+              "internationalNumber": "RC-443313"
+            },
+            {
+              "name": "IBRAHIM (ALH.) LAARO ALARANSE AND SONS NIGERIA LTD",
+              "internationalNumber": "RC-443374"
+            },
+            {
+              "name": "THOMAS-CHUCKS INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-443397"
+            },
+            {
+              "name": "ENERGYCOURT LIMITED",
+              "internationalNumber": "RC-445448"
+            },
+            {
+              "name": "DING XIN INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-443267"
+            },
+            {
+              "name": "MAC CHARISON ORGANICS LIMITED",
+              "internationalNumber": "RC-443272"
+            },
+            {
+              "name": "BLESSED CHIBROS NIGERIA LIMITED",
+              "internationalNumber": "RC-443396"
+            },
+            {
+              "name": "BOMOK FOODS LIMITED",
+              "internationalNumber": "RC-443378"
+            },
+            {
+              "name": "CALSTONE ESTATES LIMITED",
+              "internationalNumber": "RC-443231"
+            },
+            {
+              "name": "TOURWORLD TRAVELS LIMITED",
+              "internationalNumber": "RC-443371"
+            },
+            {
+              "name": "PHASE SECURITY SERVICES LIMITED",
+              "internationalNumber": "RC-443235"
+            },
+            {
+              "name": "TRUSTGATE INDUSTRIES NIGERIA LIMITED",
+              "internationalNumber": "RC-443242"
+            },
+            {
+              "name": "PEDRO RESOURCES DEVELOPMENT NIGERIA LIMITED",
+              "internationalNumber": "RC-443266"
+            },
+            {
+              "name": "MAMET CONCEPT LIMITED",
+              "internationalNumber": "RC-443387"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "17",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 9,
+        "2": 2,
+        "null": 6
+      },
+      "personsWithRelatedCount": 6
+    }
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "year": "2001",
+    "title": "MARSELLIS WARNER CONSTRUCTION W/AFRICA - RC-436471 - Nigeria",
+    "description": "MARSELLIS WARNER CONSTRUCTION W/AFRICA Nigeria company, Company number: RC-436471, Incorporation Date Dec 3, 2001;, Address: 103, ALLENAVENUE, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+    "company": {
+      "id": 63524198,
+      "name": "MARSELLIS WARNER CONSTRUCTION W/AFRICA",
+      "internationalNumber": "RC-436471",
+      "localNumber": "436471",
+      "countryId": 24,
+      "dateCreated": "2001-12-03T00:00:00.000Z",
+      "createdAt": "2021-06-04T18:56:45.201Z",
+      "updatedAt": "2024-06-15T16:05:37.566Z",
+      "alternateNames": [],
+      "address": "103, ALLENAVENUE, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "594111",
+      "updatedAtSitemap": "2023-06-09T18:56:04.000Z",
+      "oldInternationalNumber": "436471",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 133,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 93032068,
+          "address": "103, ALLENAVENUE, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "GENESIS BUSINESS SOLUTIONS LIMITED",
+              "internationalNumber": "RC-454533"
+            },
+            {
+              "name": "TOKSJOB INTERNATIONAL INVESTMENTS LIMITED",
+              "internationalNumber": "RC-467364"
+            },
+            {
+              "name": "CZAS NIGERIA LIMITED",
+              "internationalNumber": "RC-619333"
+            },
+            {
+              "name": "GENESIS GLOB AFRIC LIMITED",
+              "internationalNumber": "RC-378737"
+            },
+            {
+              "name": "MIASTO SERVICES NIGERIA LIMITED",
+              "internationalNumber": "RC-619341"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 242668189,
+          "companyId": 63524198,
+          "personId": 99086640,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99086640,
+            "name": "benjamin rotimi",
+            "countryId": 24,
+            "address": "103, ALLEN AVENUE, IKEJA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242668190,
+          "companyId": 63524198,
+          "personId": 99086641,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99086641,
+            "name": "israel h. ademola",
+            "countryId": 24,
+            "address": "103, ALLEN AVENUE, IKEJA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "3",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
