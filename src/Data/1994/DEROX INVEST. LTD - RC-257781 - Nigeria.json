@@ -1,0 +1,390 @@
+[
+  {
+    "year": "1994",
+    "title": "DEROX INVEST. LTD - RC-257781 - Nigeria",
+    "description": "DEROX INVEST. LTD Nigeria company, Company number: RC-257781, Incorporation Date Nov 18, 1994;, Address: 1, CURTINS ADENIYI STREET, SURULERE, LAGOS",
+    "company": {
+      "id": 63101218,
+      "name": "DEROX INVEST. LTD",
+      "internationalNumber": "RC-257781",
+      "localNumber": "257781",
+      "countryId": 24,
+      "dateCreated": "1994-11-18T00:00:00.000Z",
+      "createdAt": "2021-06-01T19:32:46.136Z",
+      "updatedAt": "2024-06-15T16:00:12.981Z",
+      "alternateNames": [],
+      "address": "1, CURTINS ADENIYI STREET, SURULERE, LAGOS",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "100000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS OF GENERAL MERCHANTS, IMPORTERS,EXPORTERS, DISTRIBUTORS OF GOODS AND DEALERS IN MERCHANDISE OF ALL KINDS AND AS CUSTOM CLEARING AND FORWARDING AGENTS.",
+      "providerId": "421440",
+      "updatedAtSitemap": "2023-07-11T06:47:45.000Z",
+      "oldInternationalNumber": "257781",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 261,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196948,
+          "providerId": "199238",
+          "providerName": "General Merchandise ",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:34.036647+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 128600247,
+          "address": "1, CURTINS ADENIYI STREET, SURULERE, LAGOS",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 232736512,
+          "companyId": 63101218,
+          "personId": 76157020,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 76157020,
+            "name": "uju okatta                                                                                           n/a",
+            "countryId": 24,
+            "address": "CURTIS  ADENIYI STR. SURULERE. LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "D.K. FARMS LTD",
+              "internationalNumber": "RC-262748"
+            },
+            {
+              "name": "E.M.E. FARMS LTD",
+              "internationalNumber": "RC-263421"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232736514,
+          "companyId": 63101218,
+          "personId": 76157022,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 76157022,
+            "name": "uju okatta",
+            "countryId": 24,
+            "address": "CURTIS  ADENIYI STR. SURULERE. LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "D.K. FARMS LTD",
+              "internationalNumber": "RC-262748"
+            },
+            {
+              "name": "E.M.E. FARMS LTD",
+              "internationalNumber": "RC-263421"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232736511,
+          "companyId": 63101218,
+          "personId": 76157165,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 76157165,
+            "name": "okatta harris davis e.                                                                               n/a",
+            "countryId": 24,
+            "address": "CURTIS  ADENIYI STR. SURULERE. LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "EXERT  TRADING  LTD",
+              "internationalNumber": "RC-263419"
+            },
+            {
+              "name": "POINTAGE  INTERNATIONAL LTD",
+              "internationalNumber": "RC-262746"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232736513,
+          "companyId": 63101218,
+          "personId": 76157170,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 76157170,
+            "name": "okatta harris davis e.",
+            "countryId": 24,
+            "address": "CURTIS  ADENIYI STR. SURULERE. LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "EXERT  TRADING  LTD",
+              "internationalNumber": "RC-263419"
+            },
+            {
+              "name": "POINTAGE  INTERNATIONAL LTD",
+              "internationalNumber": "RC-262746"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 2
+      },
+      "personsWithRelatedCount": 5
+    }
+  }
+]
