@@ -1,0 +1,436 @@
+[
+  {
+    "year": "1981",
+    "title": "JOYTEC INDUSTRIAL CO. LTD - RC-43937 - Nigeria",
+    "description": "JOYTEC INDUSTRIAL CO. LTD Nigeria company, Company number: RC-43937, Incorporation Date Dec 17, 1981;, Address: 17, AFUBERA STR., ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+    "company": {
+      "id": 60823531,
+      "name": "JOYTEC INDUSTRIAL CO. LTD",
+      "internationalNumber": "RC-43937",
+      "localNumber": "43937",
+      "countryId": 24,
+      "dateCreated": "1981-12-17T00:00:00.000Z",
+      "createdAt": "2021-05-15T07:34:48.820Z",
+      "updatedAt": "2024-06-15T14:10:33.384Z",
+      "alternateNames": [],
+      "address": "17, AFUBERA STR., ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "20000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "209157",
+      "updatedAtSitemap": "2023-06-09T15:21:19.000Z",
+      "oldInternationalNumber": "43937",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 83,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83302492,
+          "address": "17, AFUBERA STR., ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238924196,
+          "companyId": 60823531,
+          "personId": 67042308,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67042308,
+            "name": "cyril okoye                                                                                          n/a",
+            "countryId": 24,
+            "address": "12 AKWUEGBO STREET, URUAGU NNEWE",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "TOPSEAL INDUSTRY LIMITED",
+              "internationalNumber": "RC-912766"
+            },
+            {
+              "name": "DAUGHTERS OF ZION WIDOWS ORGANISATION",
+              "internationalNumber": "RC-41411"
+            },
+            {
+              "name": "WATERSHED PRODUCTIONS NIG LTD",
+              "internationalNumber": "RC-176957"
+            },
+            {
+              "name": "CHIMAL HOLDINGS LTD",
+              "internationalNumber": "RC-151721"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238924199,
+          "companyId": 60823531,
+          "personId": 67042310,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67042310,
+            "name": "cyril okoye",
+            "countryId": 24,
+            "address": "NO. 13, KANO STREET, ONITSHA ANAMBRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "E. C. GODWINS LIMITED",
+              "internationalNumber": "RC-385111"
+            },
+            {
+              "name": "MASTER C. N. O. AGENCIES NIGERIA LIMITED",
+              "internationalNumber": "RC-753018"
+            },
+            {
+              "name": "TOPSEAL INDUSTRY LIMITED",
+              "internationalNumber": "RC-912766"
+            },
+            {
+              "name": "DAUGHTERS OF ZION WIDOWS ORGANISATION",
+              "internationalNumber": "RC-41411"
+            },
+            {
+              "name": "CVCO SERVICES NIG LTD",
+              "internationalNumber": "RC-385954"
+            },
+            {
+              "name": "WATERSHED PRODUCTIONS NIG LTD",
+              "internationalNumber": "RC-176957"
+            },
+            {
+              "name": "CHIMAL HOLDINGS LTD",
+              "internationalNumber": "RC-151721"
+            },
+            {
+              "name": "MERCY LINK INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-442150"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238924194,
+          "companyId": 60823531,
+          "personId": 67460464,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67460464,
+            "name": "clement okoye                                                                                        n/a",
+            "countryId": 24,
+            "address": "62, ONITSHA RD, NNEWI",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "GREAT LAND INDUST. LTD",
+              "internationalNumber": "RC-154473"
+            },
+            {
+              "name": "DINCO CONSTRUCTION COMPANY LIMITED",
+              "internationalNumber": "RC-202773"
+            },
+            {
+              "name": "OCLEMSCO GROUP OF CO. LTD",
+              "internationalNumber": "RC-254312"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238924197,
+          "companyId": 60823531,
+          "personId": 67460465,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67460465,
+            "name": "clement okoye",
+            "countryId": 24,
+            "address": "NO CB 12/2484 ZUBA MOTOR SPARE PARTS MARKET ABUJA  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GREAT LAND INDUST. LTD",
+              "internationalNumber": "RC-154473"
+            },
+            {
+              "name": "HALLMARK CLINICAL &CHILDREN DIAGNOSTIC LAB NIG LTD",
+              "internationalNumber": "RC-661348"
+            },
+            {
+              "name": "OCLEMSCO GROUP OF CO. LTD",
+              "internationalNumber": "RC-254312"
+            },
+            {
+              "name": "DINCO CONSTRUCTION COMPANY LIMITED",
+              "internationalNumber": "RC-202773"
+            },
+            {
+              "name": "MACC JORDAN INVESTMENT LIMITED",
+              "internationalNumber": "RC-779312"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 3
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]
