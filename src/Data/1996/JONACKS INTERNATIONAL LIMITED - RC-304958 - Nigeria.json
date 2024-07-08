@@ -1,0 +1,460 @@
+[
+  {
+    "year": "1996",
+    "title": "JONACKS INTERNATIONAL LIMITED - RC-304958 - Nigeria",
+    "description": "JONACKS INTERNATIONAL LIMITED Nigeria company, Company number: RC-304958, Incorporation Date 1996 m. gruodžio 19 d.;, Address: BLOCK 4, SUITE 23, ODUN-ADE BUS STOP BADAGRY EXPRESSWAY, LAGOS, LAGOS",
+    "company": {
+      "id": 62145513,
+      "name": "JONACKS INTERNATIONAL LIMITED",
+      "internationalNumber": "RC-304958",
+      "localNumber": "304958",
+      "countryId": 24,
+      "dateCreated": "1996-12-19T00:00:00.000Z",
+      "createdAt": "2021-05-28T18:42:21.600Z",
+      "updatedAt": "2024-06-15T15:43:08.943Z",
+      "alternateNames": [],
+      "address": "BLOCK 4, SUITE 23, ODUN-ADE BUS STOP BADAGRY EXPRESSWAY, LAGOS, LAGOS",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "100000",
+      "historicalNames": [],
+      "providerId": "4846036",
+      "updatedAtSitemap": "2023-06-09T16:53:03.000Z",
+      "oldInternationalNumber": "304958",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 95,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197285,
+          "providerId": "199138",
+          "providerName": "Building Works ",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:08:04.453788+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 101982809,
+          "address": "BLOCK 4, SUITE 23, ODUN-ADE BUS STOP BADAGRY EXPRESSWAY, LAGOS, LAGOS",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 240869011,
+          "companyId": 62145513,
+          "personId": 97303924,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 50000,
+          "person": {
+            "id": 97303924,
+            "name": "okafor john",
+            "countryId": 24,
+            "address": "5, CAMERUN RD, OFF JUNCT. RD, KA KADUNA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240869012,
+          "companyId": 62145513,
+          "personId": 98262132,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 50000,
+          "person": {
+            "id": 98262132,
+            "name": "okafor emmanuel",
+            "countryId": 24,
+            "address": "NO. 17A, NZIMIRO STREET, NEW HAVEN ENUGU ENUGU",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "GROUNDLIFT INTERNATIONAL NIGERIA LIMITED",
+              "internationalNumber": "RC-300837"
+            },
+            {
+              "name": "LA-JASPER INDUSTRIES LIMITED",
+              "internationalNumber": "RC-1227278"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240869014,
+          "companyId": 62145513,
+          "personId": 98262132,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 98262132,
+            "name": "okafor emmanuel",
+            "countryId": 24,
+            "address": "NO. 17A, NZIMIRO STREET, NEW HAVEN ENUGU ENUGU",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GROUNDLIFT INTERNATIONAL NIGERIA LIMITED",
+              "internationalNumber": "RC-300837"
+            },
+            {
+              "name": "LA-JASPER INDUSTRIES LIMITED",
+              "internationalNumber": "RC-1227278"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240869015,
+          "companyId": 62145513,
+          "personId": 98340740,
+          "roleId": 60320,
+          "appointedOn": "2021-12-08",
+          "sourceNum": 1,
+          "person": {
+            "id": 98340740,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ANAD NIGERIA LIMITED",
+              "internationalNumber": "RC-304959"
+            },
+            {
+              "name": "S. O. ONYEKAONWU ENTERPRISES LIMITED",
+              "internationalNumber": "RC-304960"
+            },
+            {
+              "name": "KNIGHT AND KINGCROSS LIMITED",
+              "internationalNumber": "RC-306201"
+            },
+            {
+              "name": "B. V. A. CONCERNS LIMITED",
+              "internationalNumber": "RC-304951"
+            },
+            {
+              "name": "CONTI AFRIQUE CONSORTIUM LIMITED",
+              "internationalNumber": "RC-304953"
+            },
+            {
+              "name": "OKFAL INTERNATIONAL COMPANY LTD",
+              "internationalNumber": "RC-139464"
+            },
+            {
+              "name": "FURNITURE WORLD NIGERIA LIMITED",
+              "internationalNumber": "RC-306199"
+            },
+            {
+              "name": "EBIRIM INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-304952"
+            },
+            {
+              "name": "NEGRO INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-306203"
+            },
+            {
+              "name": "HAO SHI DA    LTD",
+              "internationalNumber": "RC-304956"
+            },
+            {
+              "name": "YEREGI ENGINEERING SERVICES LTD",
+              "internationalNumber": "RC-146965"
+            },
+            {
+              "name": "OTUGO VENTS. LTD",
+              "internationalNumber": "RC-304950"
+            },
+            {
+              "name": "WATGO NIGERIA LIMITED",
+              "internationalNumber": "RC-304957"
+            },
+            {
+              "name": "BAGO MARINE LAND SERVICES LTD",
+              "internationalNumber": "RC-304962"
+            },
+            {
+              "name": "DRILLING DYNAMICS LTD",
+              "internationalNumber": "RC-304954"
+            },
+            {
+              "name": "C.C.S. PHARMACY AND EQUIPMENTS LIMITED",
+              "internationalNumber": "RC-304963"
+            },
+            {
+              "name": "FLORICORNF INVEST. LTD",
+              "internationalNumber": "RC-304965"
+            },
+            {
+              "name": "BENPHARMS NIG TLD.",
+              "internationalNumber": "RC-304949"
+            },
+            {
+              "name": "IYDA  JOHNSON ENTERPRISES NIGERIA LIMITED",
+              "internationalNumber": "RC-304967"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 3
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
