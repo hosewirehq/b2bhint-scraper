@@ -1,0 +1,534 @@
+[
+  {
+    "year": "1995",
+    "title": "JACREAL INVESTMENTS LTD - RC-281445 - Nigeria",
+    "description": "JACREAL INVESTMENTS LTD Nigeria company, Company number: RC-281445, Incorporation Date Oct 17, 1995;, Address: 77, ODUNFA STR, EEBUTE METTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 63204638,
+      "name": "JACREAL INVESTMENTS LTD",
+      "internationalNumber": "RC-281445",
+      "localNumber": "281445",
+      "countryId": 24,
+      "dateCreated": "1995-10-17T00:00:00.000Z",
+      "createdAt": "2021-06-02T07:40:35.272Z",
+      "updatedAt": "2024-06-15T16:18:37.399Z",
+      "alternateNames": [],
+      "address": "77, ODUNFA STR, EEBUTE METTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "1000000",
+      "historicalNames": [],
+      "providerId": "444279",
+      "updatedAtSitemap": "2023-06-09T19:20:32.000Z",
+      "oldInternationalNumber": "281445",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 79,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196978,
+          "providerId": "143222",
+          "providerName": "Construction of buildings",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:58.105044+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92468304,
+          "address": "77, ODUNFA STR, EEBUTE METTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 243890397,
+          "companyId": 63204638,
+          "personId": 69617620,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 69617620,
+            "name": "abiodun oyebola",
+            "countryId": 24,
+            "address": "149, ADAMASINGBA SHOPPING COMPLEX, IBADAN",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "VINDOTCO WEST AFRICA LIMITED",
+              "internationalNumber": "RC-664165"
+            },
+            {
+              "name": "FOUR BEES INVESTMENT NIG LTD",
+              "internationalNumber": "RC-194486"
+            },
+            {
+              "name": "DAAVIC NIGERIA LTD",
+              "internationalNumber": "RC-146741"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243890403,
+          "companyId": 63204638,
+          "personId": 69617620,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 200000,
+          "person": {
+            "id": 69617620,
+            "name": "abiodun oyebola",
+            "countryId": 24,
+            "address": "149, ADAMASINGBA SHOPPING COMPLEX, IBADAN",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "VINDOTCO WEST AFRICA LIMITED",
+              "internationalNumber": "RC-664165"
+            },
+            {
+              "name": "FOUR BEES INVESTMENT NIG LTD",
+              "internationalNumber": "RC-194486"
+            },
+            {
+              "name": "DAAVIC NIGERIA LTD",
+              "internationalNumber": "RC-146741"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243890392,
+          "companyId": 63204638,
+          "personId": 94708292,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 94708292,
+            "name": "abiodun oyebola                                                                                      n/a",
+            "countryId": 24,
+            "address": "149, ADAMASINGBA SHOPPING COMPLEX, IBADAN",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "FOUR BEES INVESTMENT NIG LTD",
+              "internationalNumber": "RC-194486"
+            },
+            {
+              "name": "DAAVIC NIGERIA LTD",
+              "internationalNumber": "RC-146741"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243890409,
+          "companyId": 63204638,
+          "personId": 97915523,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97915523,
+            "name": "rahman abdul",
+            "countryId": 24,
+            "address": "1A PIKE STREET OBALENDE LAGOS LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "POINT OF SALES FOR AFRICA TELECOMMUNICATIONS LIMITED",
+              "internationalNumber": "RC-1639738"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243890390,
+          "companyId": 63204638,
+          "personId": 99680751,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 99680751,
+            "name": "rahman abdul                                                                                         n/a",
+            "countryId": 24,
+            "address": "1A PIKE STREET OBALENDE LAGOS LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243890401,
+          "companyId": 63204638,
+          "personId": 99680756,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 200000,
+          "person": {
+            "id": 99680756,
+            "name": "hagan victoria",
+            "countryId": 24,
+            "address": "6, OSANYIN STR., ALAGOMEJI YABA LAGOS LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243890408,
+          "companyId": 63204638,
+          "personId": 99680761,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 99680761,
+            "name": "omolabake abiodun omolabake",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "100A, IWAYA ROAD, ONIKE YABA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "21",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 5,
+        "2": 9,
+        "3": 6,
+        "null": 1
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

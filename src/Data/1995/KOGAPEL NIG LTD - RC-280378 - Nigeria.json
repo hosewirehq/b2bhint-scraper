@@ -1,0 +1,362 @@
+[
+  {
+    "year": "1995",
+    "title": "KOGAPEL NIG LTD - RC-280378 - Nigeria",
+    "description": "KOGAPEL NIG LTD Nigeria company, Company number: RC-280378, Incorporation Date Oct 5, 1995;, Address: 1, FADARE STR., OPPO AROMETA SAWMIL ILA, ILALE OWO, ILALE OWO",
+    "company": {
+      "id": 63200209,
+      "name": "KOGAPEL NIG LTD",
+      "internationalNumber": "RC-280378",
+      "localNumber": "280378",
+      "countryId": 24,
+      "dateCreated": "1995-10-05T00:00:00.000Z",
+      "createdAt": "2021-06-02T07:02:36.800Z",
+      "updatedAt": "2024-06-15T16:42:17.972Z",
+      "alternateNames": [],
+      "address": "1, FADARE STR., OPPO AROMETA SAWMIL ILA, ILALE OWO, ILALE OWO",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "443255",
+      "updatedAtSitemap": "2023-06-09T16:14:55.000Z",
+      "oldInternationalNumber": "280378",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 118,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92461566,
+          "address": "1, FADARE STR., OPPO AROMETA SAWMIL ILA, ILALE OWO, ILALE OWO",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 243947437,
+          "companyId": 63200209,
+          "personId": 97600131,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97600131,
+            "name": "k. adesina                                                                                           n/a",
+            "countryId": 24,
+            "address": "FADARE STR., AROMETA SAWMILL ILALE OWO ONDO",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "DATA-GRAPHIC NIGERIA LIMITED",
+              "internationalNumber": "RC-73887"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243947441,
+          "companyId": 63200209,
+          "personId": 97600134,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97600134,
+            "name": "k. adesina",
+            "countryId": 24,
+            "address": "FADARE STR., AROMETA SAWMILL ILALE OWO ONDO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "DATA-GRAPHIC NIGERIA LIMITED",
+              "internationalNumber": "RC-73887"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243947435,
+          "companyId": 63200209,
+          "personId": 99710569,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 99710569,
+            "name": "jimson k. gabriel                                                                                    n/a",
+            "countryId": 24,
+            "address": "",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243947439,
+          "companyId": 63200209,
+          "personId": 99710572,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 99710572,
+            "name": "jimson k. gabriel",
+            "countryId": 24,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5,
+        "3": 4
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
