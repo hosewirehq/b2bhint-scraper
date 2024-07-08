@@ -1,0 +1,334 @@
+[
+  {
+    "year": "1987",
+    "title": "MOLISCO NIGERIA LTD - RC-104384 - Nigeria",
+    "description": "MOLISCO NIGERIA LTD Nigeria company, Company number: RC-104384, Incorporation Date Dec 9, 1987;, Address: 21, OLONODE STR, YABA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61052634,
+      "name": "MOLISCO NIGERIA LTD",
+      "internationalNumber": "RC-104384",
+      "localNumber": "104384",
+      "countryId": 24,
+      "dateCreated": "1987-12-09T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:37:29.928Z",
+      "updatedAt": "2024-06-15T15:36:59.600Z",
+      "alternateNames": [],
+      "address": "21, OLONODE STR, YABA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "activityDescription": "",
+      "providerId": "269289",
+      "updatedAtSitemap": "2024-01-15T18:36:03.000Z",
+      "oldInternationalNumber": "104384",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 280,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82072550,
+          "address": "21, OLONODE STR, YABA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "ENI - JAY VENTURES",
+              "internationalNumber": "BN-830752"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 238218663,
+          "companyId": 61052634,
+          "personId": 78825348,
+          "roleId": 60330,
+          "sourceNum": 1,
+          "person": {
+            "id": 78825348,
+            "name": "nnamuka donatus otuosorochukwu",
+            "countryId": 24,
+            "birthYear": 1986,
+            "birthMonth": 5,
+            "birthDate": 5,
+            "address": "14/16 MATHIAS STREET, OMOJUWA ESTATE, KOSOFE, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A08236576",
+            "documentType": "International Passport",
+            "email": "LAGOSMCC@GMAIL.COM",
+            "phone": "08037255730",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238218662,
+          "companyId": 61052634,
+          "personId": 97132286,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 97132286,
+            "name": "longe omomeje",
+            "countryId": 24,
+            "address": "PLOT 78, LOME CRESCENT, WUSE, ZONE 7, ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "email": "dupsy_e@yahoo.com",
+            "phone": "2348127756600",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "PETROBIM NIG LTD",
+              "internationalNumber": "RC-105268"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238218664,
+          "companyId": 61052634,
+          "personId": 97134938,
+          "roleId": 60331,
+          "appointedOn": "2021-10-04",
+          "sourceNum": 1,
+          "person": {
+            "id": 97134938,
+            "name": "hansda alphonse",
+            "countryId": 24,
+            "nationality": "India",
+            "birthYear": 1981,
+            "birthMonth": 5,
+            "birthDate": 14,
+            "address": "VIA S.  AGAPITO, 00177",
+            "countryOfResidence": "NIGERIA",
+            "number": "S1163820",
+            "documentType": "International Passport",
+            "email": "jameshansda5@gmail.com",
+            "phone": "+234077373848",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 7
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "year": "1987",
+    "title": "BAFOD PHARMACEUTICAL COMPANY NIG LTD - RC-106082 - Nigeria",
+    "description": "BAFOD PHARMACEUTICAL COMPANY NIG LTD Nigeria company, Company number: RC-106082, Incorporation Date Dec 24, 1987;, Address: 1, ALLEN AVE, ANNEX IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61092512,
+      "name": "BAFOD PHARMACEUTICAL COMPANY NIG LTD",
+      "internationalNumber": "RC-106082",
+      "localNumber": "106082",
+      "countryId": 24,
+      "dateCreated": "1987-12-24T00:00:00.000Z",
+      "createdAt": "2021-05-22T06:23:55.098Z",
+      "updatedAt": "2024-06-15T15:36:51.577Z",
+      "alternateNames": [],
+      "address": "1, ALLEN AVE, ANNEX IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270982",
+      "updatedAtSitemap": "2024-01-15T18:36:10.000Z",
+      "oldInternationalNumber": "106082",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 35,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197250,
+          "providerId": "348833",
+          "providerName": "Church",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:07:09.277252+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82075502,
+          "address": "1, ALLEN AVE, ANNEX IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 245626422,
+          "companyId": 61092512,
+          "personId": 66790862,
+          "roleId": 114332,
+          "person": {
+            "id": 66790862,
+            "name": "oghenemarho hilary okene",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1976,
+            "birthMonth": 1,
+            "birthDate": 13,
+            "address": "NO.18MASSENYA STREET, WUSE ZONE 6, abuja, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1309140",
+            "documentType": "National ID Card",
+            "documentNumber": "50632020927",
+            "email": "anfodexchambers@yahoo.com",
+            "phone": "+234 816 323 9756",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "RIGHT  ENCOUNTER CHRISTIAN MINISTRY",
+              "internationalNumber": "IT-102243"
+            },
+            {
+              "name": "DITTIES  SOLUTIONS",
+              "internationalNumber": "BN-3079165"
+            },
+            {
+              "name": "BOROFI PHARMACEUTICAL COMPANY LTD",
+              "internationalNumber": "RC-1439056"
+            },
+            {
+              "name": "STARS    UNIVERSITY   LIMITED",
+              "internationalNumber": "RC-1528729"
+            },
+            {
+              "name": "OBETIM   ENTERPRISE",
+              "internationalNumber": "BN-2712913"
+            },
+            {
+              "name": "SISMO-EDGE  INT NIGERIA  LIMITED",
+              "internationalNumber": "RC-1460823"
+            },
+            {
+              "name": "HELPMATE-TOUCH  SOLUTIONS",
+              "internationalNumber": "BN-2639065"
+            },
+            {
+              "name": "GLXG  CREATIONS",
+              "internationalNumber": "BN-2454031"
+            },
+            {
+              "name": "VINCENT DE-SAGE SYNERGY NIGERIA  LIMITED",
+              "internationalNumber": "RC-1487665"
+            },
+            {
+              "name": "B-VISTA  BAR LIMITED",
+              "internationalNumber": "RC-1428538"
+            },
+            {
+              "name": "DELTA  APPRECIATE  TRANS-LOGISTICS  LIMITED",
+              "internationalNumber": "RC-1517710"
+            },
+            {
+              "name": "OWHE CARE AND SUPPORT FOUNDATION",
+              "internationalNumber": "IT-156840"
+            },
+            {
+              "name": "ANISTYNATOS INTEGRATED NIG. LIMITED",
+              "internationalNumber": "RC-1375568"
+            },
+            {
+              "name": "PHYTO  FOODS  &  BOTANICALS  LIMITED",
+              "internationalNumber": "RC-1645473"
+            },
+            {
+              "name": "CHIBRICS PROPERTIES & REAL ESTATE CONSULTING COMPANY LIMITED",
+              "internationalNumber": "RC-1866880"
+            },
+            {
+              "name": "BRESKE-MI  BURHO SERVICES",
+              "internationalNumber": "BN-3230764"
+            },
+            {
+              "name": "HENROI  EMERALD  PROPERTIES",
+              "internationalNumber": "BN-2598765"
+            },
+            {
+              "name": "BENCOPEREZ  CONCEPT  NIGERIA LIMITED",
+              "internationalNumber": "RC-1368410"
+            },
+            {
+              "name": "OVOJEVWE    ENTERPRISE",
+              "internationalNumber": "BN-2591323"
+            },
+            {
+              "name": "METROGENICS  INTERNATIONAL  LIMITED",
+              "internationalNumber": "RC-1653384"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238192028,
+          "companyId": 61092512,
+          "personId": 78815480,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78815480,
+            "name": "oladejo isaac olanrewaju",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1973,
+            "birthMonth": 3,
+            "birthDate": 8,
+            "address": "124 ORIOKE  ISEGUN TI KRISTI OTAMOKUN,OYO STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A31500607",
+            "documentType": "Permanent Voters' Card",
+            "email": "isaacoladejo17@gmail.com",
+            "phone": "07038413982",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238192029,
+          "companyId": 61092512,
+          "personId": 78815481,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78815481,
+            "name": "oladejo leah fisayo",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1977,
+            "birthMonth": 5,
+            "birthDate": 31,
+            "address": "124 ORI-OKE ISEGUN TI KRISTI OTAMOKUN, OYO STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A31453711",
+            "documentType": "Permanent Voters' Card",
+            "email": "fisayooladejo@gmail.com",
+            "phone": "07062449472",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238192027,
+          "companyId": 61092512,
+          "personId": 96383137,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96383137,
+            "name": "okene oghenemarho",
+            "countryId": 24,
+            "address": "18 MASSENYA STREET, WUSE ZONE 6, ABUJA",
+            "phone": "08163239756",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "EMPOWERED COMMUNICATION SOLUTION",
+              "internationalNumber": "BN-2318852"
+            },
+            {
+              "name": "DE-MOJEED LTD",
+              "internationalNumber": "RC-106575"
+            },
+            {
+              "name": "OTIKENS CHEMICAL & ALLIED PRODUCTS LTD",
+              "internationalNumber": "RC-102243"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

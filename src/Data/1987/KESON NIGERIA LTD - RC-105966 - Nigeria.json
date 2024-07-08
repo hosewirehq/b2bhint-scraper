@@ -1,0 +1,531 @@
+[
+  {
+    "year": "1987",
+    "title": "KESON NIGERIA LTD - RC-105966 - Nigeria",
+    "description": "KESON NIGERIA LTD Nigeria company, Company number: RC-105966, Incorporation Date Dec 23, 1987;, Address: 21, AWKUNANAW STR., ENUGU, ENUGU, ENUGU, ENUGU STATE",
+    "company": {
+      "id": 61092386,
+      "name": "KESON NIGERIA LTD",
+      "internationalNumber": "RC-105966",
+      "localNumber": "105966",
+      "countryId": 24,
+      "dateCreated": "1987-12-23T00:00:00.000Z",
+      "createdAt": "2021-05-22T06:23:38.616Z",
+      "updatedAt": "2024-06-15T15:36:52.184Z",
+      "alternateNames": [],
+      "address": "21, AWKUNANAW STR., ENUGU, ENUGU, ENUGU, ENUGU STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270866",
+      "updatedAtSitemap": "2024-01-15T18:36:09.000Z",
+      "oldInternationalNumber": "105966",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 280,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6200176,
+          "providerId": "348596",
+          "providerName": "CULTURAL BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T15:33:27.300972+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82075309,
+          "address": "21, AWKUNANAW STR., ENUGU, ENUGU, ENUGU, ENUGU STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238193684,
+          "companyId": 61092386,
+          "personId": 78816155,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78816155,
+            "name": "okeowo joshua olusola",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1976,
+            "birthMonth": 1,
+            "birthDate": 30,
+            "address": "PLOT J40B, 219 CLOSE, BANANA ISLAND, IKOYI, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06061067",
+            "documentType": "International Passport",
+            "email": "okeowojoshua@yahoo.com",
+            "phone": "08033076554",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238193685,
+          "companyId": 61092386,
+          "personId": 78816156,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78816156,
+            "name": "okeowo olanike mobisola",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1983,
+            "birthMonth": 2,
+            "birthDate": 27,
+            "address": "PLOT J40B, 219 CLOSE, BANANA ISLAND, IKOYI, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06061067",
+            "documentType": "International Passport",
+            "email": "okeowoolanike@yahoo.com",
+            "phone": "08037374220",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238193683,
+          "companyId": 61092386,
+          "personId": 96785451,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96785451,
+            "name": "oluwafemi oyemakinde",
+            "countryId": 24,
+            "address": "5, OYEMAKINDE CLOSE, OFF RIVER VALLEY ESTATE, OJODU BERGER, LAGOS STATE",
+            "phone": "07063783463",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "AYOOLA DADA AND COMPANY LIMITED",
+              "internationalNumber": "RC-110179"
+            },
+            {
+              "name": "HUSMAN (NIG) LTD",
+              "internationalNumber": "RC-105865"
+            },
+            {
+              "name": "FEMQUAK ENTERPRISES LTD",
+              "internationalNumber": "RC-109507"
+            },
+            {
+              "name": "AZUCOMMA (NIG) LTD",
+              "internationalNumber": "RC-107695"
+            },
+            {
+              "name": "O. J. COMMUNICATIONS COMPANY NIG LTD",
+              "internationalNumber": "RC-100139"
+            },
+            {
+              "name": "PEECHARD PHARMACEUTICALS LTD",
+              "internationalNumber": "RC-104280"
+            },
+            {
+              "name": "HASADI NIGERIA LTD",
+              "internationalNumber": "RC-112721"
+            },
+            {
+              "name": "TYMEX INVESTMENT   NIG LTD",
+              "internationalNumber": "RC-106930"
+            },
+            {
+              "name": "AGOBERGE GOULD NIGERIA LIMITED",
+              "internationalNumber": "RC-109045"
+            },
+            {
+              "name": "SHAPES LTD",
+              "internationalNumber": "RC-101215"
+            },
+            {
+              "name": "IDT NIGERIA LIMITED",
+              "internationalNumber": "RC-102288"
+            },
+            {
+              "name": "HONEYWELL PRODUCTS LTD",
+              "internationalNumber": "RC-109186"
+            },
+            {
+              "name": "SADOS PHARMACEUTICALS LTD",
+              "internationalNumber": "RC-104847"
+            },
+            {
+              "name": "PANSCO INT. LTD",
+              "internationalNumber": "RC-115523"
+            },
+            {
+              "name": "DOORBELL TRADERS LTD",
+              "internationalNumber": "RC-104581"
+            },
+            {
+              "name": "NAD'S COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-110108"
+            },
+            {
+              "name": "SUNRISE GLORY LTD",
+              "internationalNumber": "RC-106578"
+            },
+            {
+              "name": "IGBINEDION MEDICAL HOSPITAL & RESEARCH CENTRE LTD",
+              "internationalNumber": "RC-101368"
+            },
+            {
+              "name": "ARTIC OCEAN LINES LIMITED",
+              "internationalNumber": "RC-108983"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 262727586,
+          "companyId": 61092386,
+          "personId": 104253400,
+          "roleId": 114332,
+          "person": {
+            "id": 104253400,
+            "name": "oyemakinde kayode oluwafemi",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1984,
+            "birthMonth": 2,
+            "birthDate": 1,
+            "address": "90ALLEN AVENUE, LAGOS, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1747549",
+            "documentType": "National ID Card",
+            "documentNumber": "243545679",
+            "email": "kayodeoyemakinde@yahoo.com",
+            "phone": "+234 706 378 3463",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "QPROJECT NIGERIA LTD",
+              "internationalNumber": "RC-1423003"
+            },
+            {
+              "name": "THRONE INTERNATIONAL LOGISTICS SERVICES LIMITED",
+              "internationalNumber": "RC-1460437"
+            },
+            {
+              "name": "ECO MASSIVE TECHNOLOGY",
+              "internationalNumber": "BN-2517145"
+            },
+            {
+              "name": "SHORELINE CUSTODIAN LTD",
+              "internationalNumber": "RC-1458614"
+            },
+            {
+              "name": "GBEMYSON GLOBAL INVESTMENT LIMITED",
+              "internationalNumber": "RC-1458934"
+            },
+            {
+              "name": "ELVICH FARM NIGERIA LTD",
+              "internationalNumber": "RC-1425276"
+            },
+            {
+              "name": "TREX PROJECT LIMITED",
+              "internationalNumber": "RC-1467031"
+            },
+            {
+              "name": "IYKEMANNI GLOBAL CONCEPTS",
+              "internationalNumber": "BN-2518894"
+            },
+            {
+              "name": "EKIRANER CHAMBERS",
+              "internationalNumber": "BN-2524882"
+            },
+            {
+              "name": "DEGAY ACADEMY MODEL SCHOOL",
+              "internationalNumber": "BN-2538753"
+            },
+            {
+              "name": "S.B. JOHNSON ENTERPRISES",
+              "internationalNumber": "BN-2547502"
+            },
+            {
+              "name": "JEMAC OJOGEH NIG LTD",
+              "internationalNumber": "RC-1457804"
+            },
+            {
+              "name": "CHY - NATHAN CONCEPT LTD",
+              "internationalNumber": "RC-1458126"
+            },
+            {
+              "name": "ALIF SEAFOODS LTD",
+              "internationalNumber": "RC-1459762"
+            },
+            {
+              "name": "RONA STANDARD GLOBAL VENTURES",
+              "internationalNumber": "BN-2561674"
+            },
+            {
+              "name": "STUOG CHEMICALS & ALLIED PRODUCTS ENTERPRISE",
+              "internationalNumber": "BN-2520751"
+            },
+            {
+              "name": "RADIANTLIFE GLOBAL TRAVEL & TOURS LTD",
+              "internationalNumber": "RC-1462779"
+            },
+            {
+              "name": "SB DECORATION ENTERPRISES",
+              "internationalNumber": "BN-2565032"
+            },
+            {
+              "name": "WALEX EDWARD NIGERIA ENTERPRISES",
+              "internationalNumber": "BN-2517692"
+            },
+            {
+              "name": "DEE-VEE HAIR COLLECTION ENTERPRISES",
+              "internationalNumber": "BN-2519799"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "year": "1987",
+    "title": "POVA SERVISES LTD - RC-104999 - Nigeria",
+    "description": "POVA SERVISES LTD Nigeria company, Company number: RC-104999, Incorporation Date Dec 15, 1987;, Address: 57/1465 ORITA CHALLEGE, IBADAN, OYO, IBADAN, OYO STATE",
+    "company": {
+      "id": 61053294,
+      "name": "POVA SERVISES LTD",
+      "internationalNumber": "RC-104999",
+      "localNumber": "104999",
+      "countryId": 24,
+      "dateCreated": "1987-12-15T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:39:15.517Z",
+      "updatedAt": "2024-06-15T15:36:57.978Z",
+      "alternateNames": [],
+      "address": "57/1465 ORITA CHALLEGE, IBADAN, OYO, IBADAN, OYO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "269902",
+      "updatedAtSitemap": "2024-01-15T18:36:04.000Z",
+      "oldInternationalNumber": "104999",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 358,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197311,
+          "providerId": "349626",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:08:37.748956+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82073581,
+          "address": "57/1465 ORITA CHALLEGE, IBADAN, OYO, IBADAN, OYO STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "AFRODANISCH  MULTI-PURPOSE INVESTMENTS CO. LTD",
+              "internationalNumber": "RC-96844"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 245345263,
+          "companyId": 61053294,
+          "personId": 66754947,
+          "roleId": 114349,
+          "person": {
+            "id": 66754947,
+            "name": "peter opaluwa okwoli",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1975,
+            "birthMonth": 1,
+            "birthDate": 18,
+            "address": "HERITAGE LAW FIRM, HOUSE 1C, YENAGOA STREET, OFF OYO STREET, AREA 2, GARKI, ABUJA, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1823784",
+            "documentType": "National ID Card",
+            "documentNumber": "08177527779",
+            "email": "opaluwaokwoli@gmail.com",
+            "phone": "+234 803 596 5598",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114349,
+            "name": "Legal Practice",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practice"
+            }
+          },
+          "companies": [
+            {
+              "name": "TOPBARGE LIMITED",
+              "internationalNumber": "RC-1841102"
+            },
+            {
+              "name": "IDUH FOOD AND BEVERAGES LIMITED",
+              "internationalNumber": "RC-1493063"
+            },
+            {
+              "name": "URANE FARMS & ENTERPRISES",
+              "internationalNumber": "BN-3268428"
+            },
+            {
+              "name": "OLDFIELD FOODS LIMITED",
+              "internationalNumber": "RC-1487281"
+            },
+            {
+              "name": "KARISA CONSULTS LIMITED",
+              "internationalNumber": "RC-1477655"
+            },
+            {
+              "name": "HAPPY DELIGHT ARENA",
+              "internationalNumber": "BN-3544136"
+            },
+            {
+              "name": "FOURSQUARE ABBAN PRIMARY HEALTH CENTER LIMITED",
+              "internationalNumber": "RC-1500050"
+            },
+            {
+              "name": "ALPERTON GUARDS LTD",
+              "internationalNumber": "RC-1579690"
+            },
+            {
+              "name": "BIMMAYO LIMITED",
+              "internationalNumber": "RC-1471625"
+            },
+            {
+              "name": "JUSTICE CHIOMA OKIRIE FOUNDATION FOR GOD'S HERITAGE AND FAMILY LITERACY",
+              "internationalNumber": "IT-156714"
+            },
+            {
+              "name": "ROADWORKS & ALLIED SERVICES LTD",
+              "internationalNumber": "RC-1434311"
+            },
+            {
+              "name": "FRELYN INTERNATIONAL SCHOOL LIMITED",
+              "internationalNumber": "RC-1606500"
+            },
+            {
+              "name": "HAKAM GLOBAL SERVICES",
+              "internationalNumber": "BN-2594856"
+            },
+            {
+              "name": "ALEXVIDA BUSINESS VENTURES",
+              "internationalNumber": "BN-2876046"
+            },
+            {
+              "name": "THE KING OF LOVE ASSEMBLY",
+              "internationalNumber": "IT-103222"
+            },
+            {
+              "name": "INDIE NATURALS LIMITED",
+              "internationalNumber": "RC-1485542"
+            },
+            {
+              "name": "SUNAD HOME AND MEDICARE LIMITED",
+              "internationalNumber": "RC-1453975"
+            },
+            {
+              "name": "MURAFAQA VENTURES",
+              "internationalNumber": "BN-2519588"
+            },
+            {
+              "name": "AFRICA AGRIBUSINESS AND FARMS DEVELOPMENT INITIATIVE",
+              "internationalNumber": "IT-157640"
+            },
+            {
+              "name": "INVESTICO 2020 LIMITED",
+              "internationalNumber": "RC-1623399"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238210682,
+          "companyId": 61053294,
+          "personId": 67405552,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 67405552,
+            "name": "okwoli peter",
+            "countryId": 24,
+            "address": "NO1C, YENAGOA STREET, OFF OYO STREET, AREA 2, GARKI",
+            "countryOfResidence": "NIGERIA",
+            "email": "opaluwapeter@gmail.com",
+            "phone": "08030967528",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "KORMEN ASSOCIATES LTD",
+              "internationalNumber": "RC-103222"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 196587962,
+          "companyId": 61053294,
+          "personId": 78821825,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78821825,
+            "name": "gbenle olabode george",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1946,
+            "birthMonth": 4,
+            "birthDate": 19,
+            "address": "21, OSHIN ROAD KONGI LAYOUT, BODIJA, IBADAN,",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06156814",
+            "documentType": "International Passport",
+            "email": "bodegbenle@yahoo.com",
+            "phone": "08033068212",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

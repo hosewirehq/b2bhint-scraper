@@ -1,0 +1,402 @@
+[
+  {
+    "year": "1987",
+    "title": "TOBINSCO NIGERIA LTD - RC-105974 - Nigeria",
+    "description": "TOBINSCO NIGERIA LTD Nigeria company, Company number: RC-105974, Incorporation Date 23 Dec. 1987;, Address: 277, TRANS AMADI INDUSTRIAL LAYOUT, P.H.COURT, RIVERS, P.H.COURT, RIVERS STATE",
+    "company": {
+      "id": 61092378,
+      "name": "TOBINSCO NIGERIA LTD",
+      "internationalNumber": "RC-105974",
+      "localNumber": "105974",
+      "countryId": 24,
+      "dateCreated": "1987-12-23T00:00:00.000Z",
+      "createdAt": "2021-05-22T06:23:38.257Z",
+      "updatedAt": "2024-06-15T15:36:52.424Z",
+      "alternateNames": [],
+      "address": "277, TRANS AMADI INDUSTRIAL LAYOUT, P.H.COURT, RIVERS, P.H.COURT, RIVERS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270874",
+      "updatedAtSitemap": "2024-01-15T18:36:10.000Z",
+      "oldInternationalNumber": "105974",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 280,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197267,
+          "providerId": "199096",
+          "providerName": "COMMUNITY BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:07:31.974192+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82075324,
+          "address": "277, TRANS AMADI INDUSTRIAL LAYOUT, P.H.COURT, RIVERS, P.H.COURT, RIVERS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238193791,
+          "companyId": 61092378,
+          "personId": 78816197,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78816197,
+            "name": "egbeyemi olakunle olufunso",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigerian",
+            "birthYear": 1971,
+            "birthMonth": 1,
+            "birthDate": 18,
+            "address": "5, DELE LABISI STREET, ARIDA",
+            "countryOfResidence": "NIGERIA",
+            "number": "12345",
+            "documentType": "Permanent Voters' Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [
+            {
+              "name": "NIRAD PROPERTY VENTURES",
+              "internationalNumber": "BN-2330566"
+            },
+            {
+              "name": "DECGA LABORATORY SUPPLIES ENTERPRISES",
+              "internationalNumber": "BN-2330567"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238193793,
+          "companyId": 61092378,
+          "personId": 78816199,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78816199,
+            "name": "egbeyemi ayodeji olagoke",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1978,
+            "birthMonth": 8,
+            "birthDate": 8,
+            "address": "NO. ABU ODE STREET, IDIMU EGBEDA",
+            "countryOfResidence": "NIGERIA",
+            "number": "12345",
+            "documentType": "Permanent Voters' Card",
+            "email": "ayodejigoke@gmail.com",
+            "phone": "08028252797",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238193790,
+          "companyId": 61092378,
+          "personId": 92854678,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 92854678,
+            "name": "olajobi muftau",
+            "countryId": 24,
+            "address": "68 idowu anishere street off governor's road ikotun",
+            "countryOfResidence": "NIGERIA",
+            "email": "miftah1303@yahoo.com",
+            "phone": "2348065857703",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ICEPLACE MILLENNIAL CONCEPTS LTD",
+              "internationalNumber": "RC-1633506"
+            },
+            {
+              "name": "VIANNI BEAUTY",
+              "internationalNumber": "BN-2862018"
+            },
+            {
+              "name": "MAYOGATE REALTORS LIMITED",
+              "internationalNumber": "RC-1527084"
+            },
+            {
+              "name": "KIDS LITERARY CIRCLE LIMITED",
+              "internationalNumber": "RC-1473144"
+            },
+            {
+              "name": "JPU LTD",
+              "internationalNumber": "RC-107447"
+            },
+            {
+              "name": "AUNTY AYO COMPREHENSIVE COLLEGE LIMITED",
+              "internationalNumber": "RC-1459366"
+            },
+            {
+              "name": "AL-IZZAH PRIVATE SCHOOL LTD",
+              "internationalNumber": "RC-1459852"
+            },
+            {
+              "name": "MODRASATU DAR TAHFIZH",
+              "internationalNumber": "BN-2811554"
+            },
+            {
+              "name": "INTERIOR ARCHITECTURE HUB AFRICA LIMITED",
+              "internationalNumber": "RC-1650938"
+            },
+            {
+              "name": "GOLDCOIN GLOBAL TRAVELS AND TOURS LIMITED",
+              "internationalNumber": "RC-1457192"
+            },
+            {
+              "name": "X-DIGITAL SERVICES  LIMITED",
+              "internationalNumber": "RC-1554872"
+            },
+            {
+              "name": "DOUBLE PLUS ELECTRONIC COMMERCE CO. LTD",
+              "internationalNumber": "RC-1545841"
+            },
+            {
+              "name": "WEST BYTE AUTO PLACE LIMITED",
+              "internationalNumber": "RC-1457699"
+            },
+            {
+              "name": "HERITAGE DOORS PLUS VENTURES",
+              "internationalNumber": "BN-2831604"
+            },
+            {
+              "name": "DOUBLE PLUS DAILY-USE COMMODITY CO. LTD",
+              "internationalNumber": "RC-1545825"
+            },
+            {
+              "name": "ON POINT MULTI SERVICES LTD",
+              "internationalNumber": "RC-1453169"
+            },
+            {
+              "name": "MOTTAGOLD OIL & GAS LTD",
+              "internationalNumber": "RC-1454741"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

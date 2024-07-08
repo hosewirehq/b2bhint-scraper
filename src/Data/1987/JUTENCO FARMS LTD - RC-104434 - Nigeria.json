@@ -1,0 +1,524 @@
+[
+  {
+    "year": "1987",
+    "title": "JUTENCO FARMS LTD - RC-104434 - Nigeria",
+    "description": "JUTENCO FARMS LTD Nigeria company, Company number: RC-104434, Incorporation Date Dec 9, 1987;, Address: C57, I/SADO STR, UNGWAR, SUNDAY, KADUNA, KADUNA, KADUNA, KADUNA STATE",
+    "company": {
+      "id": 61052679,
+      "name": "JUTENCO FARMS LTD",
+      "internationalNumber": "RC-104434",
+      "localNumber": "104434",
+      "countryId": 24,
+      "dateCreated": "1987-12-09T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:37:36.945Z",
+      "updatedAt": "2024-06-15T15:37:02.416Z",
+      "alternateNames": [],
+      "address": "C57, I/SADO STR, UNGWAR, SUNDAY, KADUNA, KADUNA, KADUNA, KADUNA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "269339",
+      "updatedAtSitemap": "2024-01-15T18:36:01.000Z",
+      "oldInternationalNumber": "104434",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 280,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196919,
+          "providerId": "143269",
+          "providerName": "Other personal services activities",
+          "countryId": 24,
+          "createdAt": "2021-11-07T13:47:47.959002+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82072634,
+          "address": "C57, I/SADO STR, UNGWAR, SUNDAY, KADUNA, KADUNA, KADUNA, KADUNA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238218219,
+          "companyId": 61052679,
+          "personId": 78825086,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78825086,
+            "name": "ayodeji opadokun",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1946,
+            "birthMonth": 8,
+            "birthDate": 27,
+            "address": "27, LAWANI STREET, ONIKE YABA, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "number": "EPE072AA5",
+            "documentType": "Driver's License",
+            "email": "opadokinoyo@gmail.com",
+            "phone": "08033005095",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238218221,
+          "companyId": 61052679,
+          "personId": 78825088,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78825088,
+            "name": "ajayi michael oludare popoola",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1966,
+            "birthMonth": 8,
+            "birthDate": 24,
+            "address": "4, EFON LAYE, MUSHIN, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "number": "KSF19641AA06",
+            "documentType": "Driver's License",
+            "email": "rut2manpope@gmail.com",
+            "phone": "08033543810",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 262093974,
+          "companyId": 61052679,
+          "personId": 102058808,
+          "roleId": 114332,
+          "person": {
+            "id": 102058808,
+            "name": "peter nwachukwu",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1964,
+            "birthMonth": 8,
+            "birthDate": 14,
+            "address": "36AJE STREET, SABO, YABA, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1721060",
+            "documentType": "Driver's License",
+            "documentNumber": "KJA8501AA3",
+            "email": "petercnwachukwu@yahoo.com",
+            "phone": "+234 803 364 1025",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "MINGLE INVESTMENT NIG LIMITED",
+              "internationalNumber": "RC-1619480"
+            },
+            {
+              "name": "SHADACARES CAKES AND CATERING",
+              "internationalNumber": "BN-3572605"
+            },
+            {
+              "name": "OGUNRINOLA MOSES NIGERIA LIMITED",
+              "internationalNumber": "RC-1862449"
+            },
+            {
+              "name": "INDUSTRIAL AND COMMERCIAL SERVICES NIGERIA LIMTED",
+              "internationalNumber": "RC-111643"
+            },
+            {
+              "name": "NISSI-TREASURE OF COMFORT & MERCY ENTERPRISE",
+              "internationalNumber": "BN-2521867"
+            },
+            {
+              "name": "CAC MOUNT COMFORT SCHOOL",
+              "internationalNumber": "BN-2518437"
+            },
+            {
+              "name": "GTREASURE BERTHA COMPANY LIMITED",
+              "internationalNumber": "RC-1448635"
+            },
+            {
+              "name": "HAJLINKS APPEARANCE",
+              "internationalNumber": "BN-2518021"
+            },
+            {
+              "name": "C.O MOBUSCO VENTURES LIMITED",
+              "internationalNumber": "RC-1812667"
+            },
+            {
+              "name": "EDUCATION INFORMATION SOCIETY OF NIGERIA",
+              "internationalNumber": "IT-117737"
+            },
+            {
+              "name": "OMOBABALOLA NIGERIA ENTERPRISES",
+              "internationalNumber": "BN-2561320"
+            },
+            {
+              "name": "BELZIM NIG LTD",
+              "internationalNumber": "RC-113076"
+            },
+            {
+              "name": "DEVAN GLOBAL SERVICES",
+              "internationalNumber": "BN-2658273"
+            },
+            {
+              "name": "SEADOLPH CLOTHING",
+              "internationalNumber": "BN-2710782"
+            },
+            {
+              "name": "GOLDFIELD AGRIC INPUT & INVESTMENTS LIMITED",
+              "internationalNumber": "RC-1789993"
+            },
+            {
+              "name": "CHARMS EMPIRE LIMITED",
+              "internationalNumber": "RC-1445299"
+            },
+            {
+              "name": "ABIKEX FROZEN",
+              "internationalNumber": "BN-3357496"
+            },
+            {
+              "name": "MASHOPA AGRICULTURAL DEVELOPMENT CO. NIG LTD",
+              "internationalNumber": "RC-105547"
+            },
+            {
+              "name": "TEEBLEST CONCEPT",
+              "internationalNumber": "BN-2639371"
+            },
+            {
+              "name": "F.N.O. DRUG COMPANY LIMITED",
+              "internationalNumber": "RC-113089"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238218218,
+          "companyId": 61052679,
+          "personId": 94183384,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 94183384,
+            "name": "nwachukwu peter",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "address": "AJE STREET, SABO, 36",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "petercnwachukwu@yahoo.com",
+            "phone": "08032687596",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "COLEMAN SECURITY COMPANY LIMITED",
+              "internationalNumber": "RC-1899561"
+            },
+            {
+              "name": "ERIPHIL WORLDWIDE SOLUTIONS LIMITED",
+              "internationalNumber": "RC-1909922"
+            },
+            {
+              "name": "J. N. JUNEX I INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-1912586"
+            },
+            {
+              "name": "L.O.LABODE INVESTMENT VENTURES LIMITED",
+              "internationalNumber": "RC-1908351"
+            },
+            {
+              "name": "FESTUS IJADUOLA NIG LIMITED",
+              "internationalNumber": "RC-1907828"
+            },
+            {
+              "name": "HASBOJ  ENGINEERING & PROPERTIES LIMITED",
+              "internationalNumber": "RC-1901929"
+            },
+            {
+              "name": "CEEKAL INSURANCE BROKERS LTD",
+              "internationalNumber": "RC-1910134"
+            },
+            {
+              "name": "GLINK PARTNERS LIMITED",
+              "internationalNumber": "RC-1913145"
+            },
+            {
+              "name": "CAMOUFLAGE TOWERS LIMITED",
+              "internationalNumber": "RC-1912430"
+            },
+            {
+              "name": "TREASURES INTER- GLOBES LIMITED",
+              "internationalNumber": "RC-1900877"
+            },
+            {
+              "name": "ABAABNI EXCEL TECHNICAL NIGERIA LTD",
+              "internationalNumber": "RC-1907552"
+            },
+            {
+              "name": "KMIGHTY .KC. NIG. LTD",
+              "internationalNumber": "RC-1898756"
+            },
+            {
+              "name": "24VISUALS LTD",
+              "internationalNumber": "RC-1909232"
+            },
+            {
+              "name": "OYEWOLE JEJE PROPERTIES NIGERIA LIMITED",
+              "internationalNumber": "RC-1900060"
+            },
+            {
+              "name": "CHALBOSH GLOBAL LIMITED",
+              "internationalNumber": "RC-1897950"
+            },
+            {
+              "name": "A & A CONCERN HEALTH  MANAGEMENT LIMITED",
+              "internationalNumber": "RC-1913715"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

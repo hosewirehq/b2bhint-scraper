@@ -1,0 +1,328 @@
+[
+  {
+    "year": "1987",
+    "title": "G- MEEG NIG LIMITED - RC-103440 - Nigeria",
+    "description": "G- MEEG NIG LIMITED Nigeria company, Company number: RC-103440, Incorporation Date Nov 27, 1987;, Address: 3, ALHAJI ADEBAYO YUSUF STR. APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61051650,
+      "name": "G- MEEG NIG LIMITED",
+      "internationalNumber": "RC-103440",
+      "localNumber": "103440",
+      "countryId": 24,
+      "dateCreated": "1987-11-27T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:34:53.259Z",
+      "updatedAt": "2024-06-15T15:37:05.051Z",
+      "alternateNames": [],
+      "address": "3, ALHAJI ADEBAYO YUSUF STR. APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "268355",
+      "updatedAtSitemap": "2024-01-15T18:35:56.000Z",
+      "oldInternationalNumber": "103440",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 236,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196942,
+          "providerId": "199095",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:29.578323+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82070918,
+          "address": "3, ALHAJI ADEBAYO YUSUF STR. APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238230030,
+          "companyId": 61051650,
+          "personId": 78830806,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 78830806,
+            "name": "udoh roseline",
+            "countryId": 24,
+            "address": "HOUSE 19, ADISA ESTATE, APO, ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rudoh@yahoo.com",
+            "phone": "2348035878743",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "RYCHCLEMS INTEGRATED LTD",
+              "internationalNumber": "RC-1422531"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238230032,
+          "companyId": 61051650,
+          "personId": 78830808,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78830808,
+            "name": "ogunba uluobi",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1979,
+            "birthMonth": 4,
+            "birthDate": 18,
+            "address": "11 WINNIPEG CLOSE, MAITAMA,",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06019559",
+            "documentType": "International Passport",
+            "email": "uluobiandrea@yahoo.com",
+            "phone": "0803 701 6517",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238230033,
+          "companyId": 61051650,
+          "personId": 78830809,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78830809,
+            "name": "aguiyi-ironsi louisa",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1957,
+            "birthMonth": 3,
+            "birthDate": 14,
+            "address": "69 NKWERRE STREET, UMUAHIA, ABIA STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "90F5B1AA5429563",
+            "documentType": "Permanent Voters' Card",
+            "email": "umejike@yahoo.com",
+            "phone": "0802 735 2819",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 6
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

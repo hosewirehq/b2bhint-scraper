@@ -1,0 +1,476 @@
+[
+  {
+    "year": "1987",
+    "title": "TOMO INDUSTRIES NIG LTD - RC-104501 - Nigeria",
+    "description": "TOMO INDUSTRIES NIG LTD Nigeria company, Company number: RC-104501, Incorporation Date Dec 9, 1987;, Address: 1, OBASA RD., IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61052765,
+      "name": "TOMO INDUSTRIES NIG LTD",
+      "internationalNumber": "RC-104501",
+      "localNumber": "104501",
+      "countryId": 24,
+      "dateCreated": "1987-12-09T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:37:50.245Z",
+      "updatedAt": "2024-06-15T15:36:59.722Z",
+      "alternateNames": [],
+      "address": "1, OBASA RD., IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "269405",
+      "updatedAtSitemap": "2024-01-15T18:36:03.000Z",
+      "oldInternationalNumber": "104501",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 280,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196942,
+          "providerId": "199095",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:29.578323+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82072763,
+          "address": "1, OBASA RD., IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "MASSTECH NIG LTD",
+              "internationalNumber": "RC-231322"
+            },
+            {
+              "name": "ELDER ANSLEM NIG LTD",
+              "internationalNumber": "RC-138350"
+            },
+            {
+              "name": "BOB-SAN NIG LTD",
+              "internationalNumber": "RC-196982"
+            },
+            {
+              "name": "NKEM-DIRIM NIG. ENTS.",
+              "internationalNumber": "BN-492455"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 245367765,
+          "companyId": 61052765,
+          "personId": 66399676,
+          "roleId": 114332,
+          "person": {
+            "id": 66399676,
+            "name": "uche kingsley ewurum",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1989,
+            "birthMonth": 6,
+            "birthDate": 14,
+            "address": "60 60 SABO MAITAMA OFF TAMA STREET KUBWA, FCT, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1701928",
+            "documentType": "National ID Card",
+            "documentNumber": "52982090007",
+            "email": "barrkings69@gmail.com",
+            "phone": "+234 806 971 6684",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "WEST FORTE COMPANY LTD",
+              "internationalNumber": "RC-1425848"
+            },
+            {
+              "name": "EZUKA ELECTRIK SERVICES LTD",
+              "internationalNumber": "RC-1410862"
+            },
+            {
+              "name": "OKIJA GLOBAL TRUST LIMITED",
+              "internationalNumber": "RC-1477861"
+            },
+            {
+              "name": "HAVILAH RESTAURANT BAR AND GRILL LIMITED",
+              "internationalNumber": "RC-1557041"
+            },
+            {
+              "name": "TRANSPERENCIA INICIATIVA LIMITED",
+              "internationalNumber": "RC-1479390"
+            },
+            {
+              "name": "THE RANCH COMPANY LIMITED",
+              "internationalNumber": "RC-1875457"
+            },
+            {
+              "name": "DISCOVERME ENTERPRISE",
+              "internationalNumber": "BN-2712072"
+            },
+            {
+              "name": "KENE DRIVING SCHOOL LTD",
+              "internationalNumber": "RC-1462648"
+            },
+            {
+              "name": "DINSEY LUXURY HAIR",
+              "internationalNumber": "BN-2826658"
+            },
+            {
+              "name": "VARRACY VENTURES",
+              "internationalNumber": "BN-2453694"
+            },
+            {
+              "name": "FIONYTECH PROJECTS LIMITED",
+              "internationalNumber": "RC-1458296"
+            },
+            {
+              "name": "NAMUKWIN NIGERIA LIMITED",
+              "internationalNumber": "RC-1464211"
+            },
+            {
+              "name": "CYPHER RESOURCES LIMITED",
+              "internationalNumber": "RC-1571949"
+            },
+            {
+              "name": "STRATEDELTA NIG LTD",
+              "internationalNumber": "RC-1551690"
+            },
+            {
+              "name": "ZENAGO GLOBAL RESOURCES LIMITED",
+              "internationalNumber": "RC-1377173"
+            },
+            {
+              "name": "TUGA RENDERS INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-1847308"
+            },
+            {
+              "name": "SHIMEK SERVICES VENTURES",
+              "internationalNumber": "BN-2492743"
+            },
+            {
+              "name": "VIVILICIOUS ENTERPRISE",
+              "internationalNumber": "BN-2781591"
+            },
+            {
+              "name": " THE OLIVE PRIME TREATMENT SERVICES LIMITED",
+              "internationalNumber": "RC-1469134"
+            },
+            {
+              "name": "RUJ PROJECTS LIMITED",
+              "internationalNumber": "RC-1548458"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238217295,
+          "companyId": 61052765,
+          "personId": 78824629,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78824629,
+            "name": "ijeoma ejele joyce",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1973,
+            "birthMonth": 11,
+            "birthDate": 20,
+            "address": "NO 6 HOLY TRINITY COMPOUND CATHOLIC CHURCH , WORLD BANK ESTATE , NEW OWERRI, IMO STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A05753633",
+            "documentType": "International Passport",
+            "email": "joyce@yahoo.com",
+            "phone": "080",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238217296,
+          "companyId": 61052765,
+          "personId": 78824630,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78824630,
+            "name": "ooja eigege rachel",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1971,
+            "birthMonth": 7,
+            "birthDate": 2,
+            "address": "NO 6 HOLY TRINITY COMPOUND CATHOLIC CHURCH , WORLD BANK ESTATE , NEW OWERRI, IMO STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A07548154",
+            "documentType": "International Passport",
+            "email": "rachel@yahoo.com",
+            "phone": "070",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238217294,
+          "companyId": 61052765,
+          "personId": 97123775,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 97123775,
+            "name": "ewurum uche",
+            "countryId": 24,
+            "address": "NO 60 SABO MAITAMA OFF TAMA STREET, KUBWA FCT",
+            "phone": "08069716684",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GENOSSER NIGERIA LTD",
+              "internationalNumber": "RC-107883"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "year": "1987",
+    "title": "DAPKOL MANUFACTURING COMPANY LTD - RC-105855 - Nigeria",
+    "description": "DAPKOL MANUFACTURING COMPANY LTD Nigeria company, Company number: RC-105855, Incorporation Date Dec 22, 1987;, Address: 111, ITASIN STR, MODEKEKE, MODAKEKE, OYO, MODAKEKE, OYO STATE",
+    "company": {
+      "id": 61092263,
+      "name": "DAPKOL MANUFACTURING COMPANY LTD",
+      "internationalNumber": "RC-105855",
+      "localNumber": "105855",
+      "countryId": 24,
+      "dateCreated": "1987-12-22T00:00:00.000Z",
+      "createdAt": "2021-05-22T06:23:17.025Z",
+      "updatedAt": "2024-06-15T15:36:54.003Z",
+      "alternateNames": [],
+      "address": "111, ITASIN STR, MODEKEKE, MODAKEKE, OYO, MODAKEKE, OYO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270755",
+      "updatedAtSitemap": "2024-01-15T18:36:05.000Z",
+      "oldInternationalNumber": "105855",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 391,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197314,
+          "providerId": "143244",
+          "providerName": "Real estate activities.",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:08:42.830882+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82075116,
+          "address": "111, ITASIN STR, MODEKEKE, MODAKEKE, OYO, MODAKEKE, OYO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 245745332,
+          "companyId": 61092263,
+          "personId": 66162581,
+          "roleId": 114349,
+          "person": {
+            "id": 66162581,
+            "name": "onyeka stanley obiajulu",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1983,
+            "birthMonth": 11,
+            "birthDate": 27,
+            "address": "House 9Third Avenue, Gwarimpa, Abuja, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1680954",
+            "documentType": "International Passport",
+            "documentNumber": "A10129540",
+            "email": "ominigold@gmail.com",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114349,
+            "name": "Legal Practice",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practice"
+            }
+          },
+          "companies": [
+            {
+              "name": "IKIONOS PROPERTIES LIMITED",
+              "internationalNumber": "RC-1554945"
+            },
+            {
+              "name": "EMEHEL FARMS ENTERPRISE",
+              "internationalNumber": "BN-3144050"
+            },
+            {
+              "name": "VANTIJD TECHNOLOGIES LIMITED",
+              "internationalNumber": "RC-1496497"
+            },
+            {
+              "name": "PADA AGRO-ALLIED COMPANY LIMITED",
+              "internationalNumber": "RC-1441496"
+            },
+            {
+              "name": "ASTROTECH INTEGRATED SERVICES LIMITED",
+              "internationalNumber": "RC-1729214"
+            },
+            {
+              "name": "GISIMO TOWNSHIP DEVELOPMENT COMPANY LIMITED",
+              "internationalNumber": "RC-1630670"
+            },
+            {
+              "name": "MIXTA AFRICA CORPORATE SERVICES LIMITED",
+              "internationalNumber": "RC-1358240"
+            },
+            {
+              "name": "RADIATE ORGANIC & BEAUTY CARE",
+              "internationalNumber": "BN-2998592"
+            },
+            {
+              "name": "NEOUGE COMPUTER SERVICES",
+              "internationalNumber": "BN-2909114"
+            },
+            {
+              "name": "NEW U COUTURE LIMITED",
+              "internationalNumber": "RC-1470289"
+            },
+            {
+              "name": "LUXURY HEALTH PHARMACY  & STORES LIMITED",
+              "internationalNumber": "RC-1507175"
+            },
+            {
+              "name": "MAX-PHILLIPS & COMPANY NIG LTD",
+              "internationalNumber": "RC-110049"
+            },
+            {
+              "name": "ARM IMPACT NETWORK LTD/GTE",
+              "internationalNumber": "RC-1523924"
+            },
+            {
+              "name": "GRACIOUS GOLD INTERNATIONAL COMPANY LIMITED",
+              "internationalNumber": "RC-1396581"
+            },
+            {
+              "name": "LNT HOUSING LIMITED",
+              "internationalNumber": "RC-1545238"
+            },
+            {
+              "name": "KEZMEK INTERNATIONAL  LIMITED",
+              "internationalNumber": "RC-1624068"
+            },
+            {
+              "name": "DIENOTH NIGERIA LIMITED",
+              "internationalNumber": "RC-124416"
+            },
+            {
+              "name": "CHITO FAMILY TRUST LIMITED",
+              "internationalNumber": "RC-1563700"
+            },
+            {
+              "name": "HORVARTH ESTATE LIMITED",
+              "internationalNumber": "RC-1495922"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238195426,
+          "companyId": 61092263,
+          "personId": 78816760,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78816760,
+            "name": "ndubuisi ugochukwu greg",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1982,
+            "birthMonth": 6,
+            "birthDate": 27,
+            "address": "1 MEKUNWEN ROAD, OFF OYINKAN ABAYOMI DRIVE",
+            "countryOfResidence": "NIGERIA",
+            "number": "EKY8174AA22",
+            "documentType": "Driver's License",
+            "email": "U.NDUBUISI@MIXTAAFRICA.COM",
+            "phone": "08033073840",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238195424,
+          "companyId": 61092263,
+          "personId": 94627556,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 94627556,
+            "name": "obiajulu onyeka",
+            "countryId": 24,
+            "address": "House 9, 3rd avenue, Gwarimpa, ABUJA",
+            "phone": "07035608667",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ASSET AND RESOURCE MANAGEMENT HOLDING COMPANY LIMITED",
+              "internationalNumber": "RC-246029"
+            },
+            {
+              "name": "MAX-PHILLIPS & COMPANY NIG LTD",
+              "internationalNumber": "RC-110049"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Ony*** Sta**** Obi*****",
+          "contacts": {
+            "phone": [
+              "234**********"
+            ],
+            "email": [
+              "omi****************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

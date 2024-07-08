@@ -1,0 +1,450 @@
+[
+  {
+    "year": "1987",
+    "title": "BASIC INVESTMENT CO. NIG LTD - RC-105643 - Nigeria",
+    "description": "BASIC INVESTMENT CO. NIG LTD Nigeria company, Company number: RC-105643, Incorporation Date Dec 21, 1987;, Address: E7/585 ODE AJE, IBADAN, OYO, IBADAN, OYO STATE",
+    "company": {
+      "id": 61083692,
+      "name": "BASIC INVESTMENT CO. NIG LTD",
+      "internationalNumber": "RC-105643",
+      "localNumber": "105643",
+      "countryId": 24,
+      "dateCreated": "1987-12-21T00:00:00.000Z",
+      "createdAt": "2021-05-22T01:15:21.941Z",
+      "updatedAt": "2024-06-15T15:36:54.758Z",
+      "alternateNames": [],
+      "address": "E7/585 ODE AJE, IBADAN, OYO, IBADAN, OYO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270543",
+      "updatedAtSitemap": "2024-01-15T18:36:08.000Z",
+      "oldInternationalNumber": "105643",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 342,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197311,
+          "providerId": "349626",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:08:37.748956+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82074772,
+          "address": "E7/585 ODE AJE, IBADAN, OYO, IBADAN, OYO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238197890,
+          "companyId": 61083692,
+          "personId": 66674630,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 66674630,
+            "name": "ojikutu ahmed opeyemi",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1983,
+            "birthMonth": 1,
+            "birthDate": 1,
+            "address": "87, Ogudu Road, Ogudu-Ojota",
+            "countryOfResidence": "NIGERIA",
+            "number": "SMK67805AA04",
+            "documentType": "Driver's License",
+            "email": "ahmedojikutuassociates@gmail.com",
+            "phone": "08037222205",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 244821622,
+          "companyId": 61083692,
+          "personId": 67863206,
+          "roleId": 114332,
+          "person": {
+            "id": 67863206,
+            "name": "ayodeji idemudia eichie",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1981,
+            "birthMonth": 6,
+            "birthDate": 4,
+            "address": "136Alake Onile - Ere Crescent Gbagada Phase II Lagos., Lagos, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1784945",
+            "documentType": "International Passport",
+            "documentNumber": "A10350140",
+            "email": "dejieichie@gmail.com",
+            "phone": "+234 817 164 7169",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "RASHEED BANKOLE NIGERIA LIMITED",
+              "internationalNumber": "RC-1837077"
+            },
+            {
+              "name": "FABULOUS SOLUTIONS IMPORTS & EXPORTS LTD",
+              "internationalNumber": "RC-1654740"
+            },
+            {
+              "name": "OMOJOLA ESTHER NIGERIA VENTURES",
+              "internationalNumber": "BN-3529689"
+            },
+            {
+              "name": "CEE BONES DANCE COMPANY",
+              "internationalNumber": "BN-2964699"
+            },
+            {
+              "name": "ELITA ORGANIQUE SKINCARE SERVICES",
+              "internationalNumber": "BN-2904044"
+            },
+            {
+              "name": "TOMOBA HOLDINGS LTD",
+              "internationalNumber": "RC-174335"
+            },
+            {
+              "name": "GREENLANE HOMES",
+              "internationalNumber": "BN-3038385"
+            },
+            {
+              "name": "TAIYE ALAKAN NIGERIA VENTURES",
+              "internationalNumber": "BN-3482837"
+            },
+            {
+              "name": "BEEJAY CLASSIC & GENERAL MERCHANDIZE",
+              "internationalNumber": "BN-2904284"
+            },
+            {
+              "name": "BRUME DESIGNS",
+              "internationalNumber": "BN-2538615"
+            },
+            {
+              "name": "THE LEKKI LEGAL",
+              "internationalNumber": "BN-3369421"
+            },
+            {
+              "name": "YOMTECH ENGINEERING SERVICES",
+              "internationalNumber": "BN-3597206"
+            },
+            {
+              "name": "SADIQ MABEKO EDUCATION CONSULT",
+              "internationalNumber": "BN-3173293"
+            },
+            {
+              "name": "YUBATAD ALUMINIUM COMPANY",
+              "internationalNumber": "BN-2964821"
+            },
+            {
+              "name": "THE LEAGUE OF XTRAORDINARY GENTLEMEN FOUNDATION",
+              "internationalNumber": "IT-105643"
+            },
+            {
+              "name": "LIGHTRADE ENTERPRISE",
+              "internationalNumber": "BN-3624223"
+            },
+            {
+              "name": "OLUWA NI ONISENLA KAMORUDEEN BUHARI CENTRAL MOSQUE",
+              "internationalNumber": "IT-161658"
+            },
+            {
+              "name": "HOUSECHECK LTD",
+              "internationalNumber": "RC-1580022"
+            },
+            {
+              "name": "BRAINBOX ENGINEERING ENTERPRISE",
+              "internationalNumber": "BN-3257049"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238197884,
+          "companyId": 61083692,
+          "personId": 78817971,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 78817971,
+            "name": "eichie ayodeji",
+            "countryId": 24,
+            "address": "136, Alake Onile - Ere Crescent Gbagada Lagos.",
+            "phone": "08171647169",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238197885,
+          "companyId": 61083692,
+          "personId": 78817972,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78817972,
+            "name": "alade folaranmi odunayo",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1981,
+            "birthMonth": 4,
+            "birthDate": 26,
+            "address": "19, COMMUNITY ROAD, AKOKA, YABA, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "number": "A50214101",
+            "documentType": "International Passport",
+            "email": "FOLAALADE1@GMAIL.COM",
+            "phone": "08023234387",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "11",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 9
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

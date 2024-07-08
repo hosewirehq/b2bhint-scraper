@@ -1,0 +1,388 @@
+[
+  {
+    "year": "1987",
+    "title": "VELANO NIGERIA LIMITED - RC-105451 - Nigeria",
+    "description": "VELANO NIGERIA LIMITED Nigeria company, Company number: RC-105451, Incorporation Date Dec 18, 1987;, Address: 17, SHOTINOYE STR. APAPA LAGOS, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61083466,
+      "name": "VELANO NIGERIA LIMITED",
+      "internationalNumber": "RC-105451",
+      "localNumber": "105451",
+      "countryId": 24,
+      "dateCreated": "1987-12-18T00:00:00.000Z",
+      "createdAt": "2021-05-22T01:14:55.228Z",
+      "updatedAt": "2024-06-15T15:36:54.143Z",
+      "alternateNames": [],
+      "address": "17, SHOTINOYE STR. APAPA LAGOS, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270353",
+      "updatedAtSitemap": "2024-01-15T18:36:06.000Z",
+      "oldInternationalNumber": "105451",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 314,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197311,
+          "providerId": "349626",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:08:37.748956+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82074420,
+          "address": "17, SHOTINOYE STR. APAPA LAGOS, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238202074,
+          "companyId": 61083466,
+          "personId": 78819193,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78819193,
+            "name": "badmus dr. adeola monsuru",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1980,
+            "birthMonth": 5,
+            "birthDate": 1,
+            "address": "40, OLANIYI STREET, NEW OKO OBA, ABULE EGBA,",
+            "countryOfResidence": "NIGERIA",
+            "number": "KJA22116AA01",
+            "documentType": "Driver's License",
+            "email": "drolabadmus@yahoo.com",
+            "phone": "08028867016",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238202076,
+          "companyId": 61083466,
+          "personId": 78819195,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78819195,
+            "name": "oshodi olabode abdullateef",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1983,
+            "birthMonth": 4,
+            "birthDate": 18,
+            "address": "BLOCK E, FLAT 2, TOMA ESTATE, OWUTU IKORODU WEST, IKORODU,",
+            "countryOfResidence": "NIGERIA",
+            "number": "KRD33974AA06",
+            "documentType": "Driver's License",
+            "email": "buddy4mii@yahoo.com",
+            "phone": "08023566023",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238202073,
+          "companyId": 61083466,
+          "personId": 96555384,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96555384,
+            "name": "shuaibu isiaku",
+            "countryId": 24,
+            "address": "Suit 8-10 ZM Plaza Area 11 Garki",
+            "documentType": "National Identification Number",
+            "email": "isiakus25@yahoo.com",
+            "phone": "2348062659270",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ECSTACY INTERNATIONAL  ACADEMY",
+              "internationalNumber": "BN-3107635"
+            },
+            {
+              "name": "OZONIX TECHNOLOGY LTD",
+              "internationalNumber": "RC-1404511"
+            },
+            {
+              "name": "SARJAMEN  FASHION DESIGN & COMPUTER TRAINING CENTRE",
+              "internationalNumber": "BN-3304835"
+            },
+            {
+              "name": "SUPER JOSSY SERVICES LTD",
+              "internationalNumber": "RC-1552200"
+            },
+            {
+              "name": "KING RICHARDZ KONZULTZ",
+              "internationalNumber": "BN-2870366"
+            },
+            {
+              "name": "HAMDANA FOOTBALL CLUB LTD",
+              "internationalNumber": "RC-1633370"
+            },
+            {
+              "name": "MUSAZMAH GLOBAL ENTERPRISES",
+              "internationalNumber": "BN-2600073"
+            },
+            {
+              "name": "MUHAAL GLOBAL FARMS",
+              "internationalNumber": "BN-3349309"
+            },
+            {
+              "name": "BIZONAL SUCCESS NIGERIA LIMITED  ",
+              "internationalNumber": "RC-1545853"
+            },
+            {
+              "name": "PAIDIT RESOURCES LIMITED",
+              "internationalNumber": "RC-1582848"
+            },
+            {
+              "name": "ABDULLAHI GAMBO GLOBAL",
+              "internationalNumber": "BN-2885592"
+            },
+            {
+              "name": "T - FLUX LTD",
+              "internationalNumber": "RC-1446645"
+            },
+            {
+              "name": "SMARTWORLD INNOVATIONS LTD",
+              "internationalNumber": "RC-1780769"
+            },
+            {
+              "name": "SYNERGY FURNITURE LIMITED",
+              "internationalNumber": "RC-1548036"
+            },
+            {
+              "name": "GEREESH MEDICAL FACILITATION SERVICES LTD",
+              "internationalNumber": "RC-1451631"
+            },
+            {
+              "name": "WALLMARK LIFECARE CENTER LIMITED",
+              "internationalNumber": "RC-1469766"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
