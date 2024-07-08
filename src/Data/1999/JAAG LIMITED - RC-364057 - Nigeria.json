@@ -1,0 +1,345 @@
+[
+  {
+    "year": "1999",
+    "title": "JAAG LIMITED - RC-364057 - Nigeria",
+    "description": "JAAG LIMITED Nigeria company, Company number: RC-364057, Incorporation Date Aug 27, 1999;, Address: 7THFLOOR, PRESIDENTIALWING, BOLINGOHOTEL&TOWERS, CENTRALBUSINESSDISTRICT, ABUJA, FCT, ABUJA, FCT STATE",
+    "company": {
+      "id": 62035981,
+      "name": "JAAG LIMITED",
+      "internationalNumber": "RC-364057",
+      "localNumber": "364057",
+      "countryId": 24,
+      "dateCreated": "1999-08-27T00:00:00.000Z",
+      "createdAt": "2021-05-27T21:33:14.262Z",
+      "updatedAt": "2024-06-15T16:12:32.719Z",
+      "alternateNames": [],
+      "address": "7THFLOOR, PRESIDENTIALWING, BOLINGOHOTEL&TOWERS, CENTRALBUSINESSDISTRICT, ABUJA, FCT, ABUJA, FCT STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "523768",
+      "updatedAtSitemap": "2023-09-16T11:36:49.000Z",
+      "oldInternationalNumber": "364057",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 103,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92970895,
+          "address": "7THFLOOR, PRESIDENTIALWING, BOLINGOHOTEL&TOWERS, CENTRALBUSINESSDISTRICT, ABUJA, FCT, ABUJA, FCT STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241748659,
+          "companyId": 62035981,
+          "personId": 71898005,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 71898005,
+            "name": "cheluchi igweh",
+            "countryId": 24,
+            "address": "PLOT 599 INDEPENDENCE  BOLINGO HOTELS AND TOWERS  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "PROJECT HAVEN LIMITED",
+              "internationalNumber": "RC-884594"
+            },
+            {
+              "name": "ARBROATH SERVICES LIMITED",
+              "internationalNumber": "RC-765287"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241748662,
+          "companyId": 62035981,
+          "personId": 98709705,
+          "roleId": 60320,
+          "appointedOn": "2021-12-12",
+          "sourceNum": 1,
+          "person": {
+            "id": 98709705,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "COMBERT GLOBAL PHARMACEUTICAL AND CHEMICAL CO. LTD",
+              "internationalNumber": "RC-364059"
+            },
+            {
+              "name": "JAURO MOTORS NIGERIA LIMITED",
+              "internationalNumber": "RC-364062"
+            },
+            {
+              "name": "CHUBBS ENTERPRISES NIGERIA LIMITED",
+              "internationalNumber": "RC-364066"
+            },
+            {
+              "name": "VOYAGER ENTERPRISES LIMITED",
+              "internationalNumber": "RC-364067"
+            },
+            {
+              "name": "CRYSTAL DENIK VENTS. LTD",
+              "internationalNumber": "RC-364058"
+            },
+            {
+              "name": "JOPRINT BUSINESS CENTRE LIMITED",
+              "internationalNumber": "RC-364069"
+            },
+            {
+              "name": "COMPUSOK NIGERIA LIMITED",
+              "internationalNumber": "RC-364060"
+            },
+            {
+              "name": "LAYIMAN GLOBALFARMS VENTURES AND GENERAL MERCHANDISE",
+              "internationalNumber": "BN-3188383"
+            },
+            {
+              "name": "CHINEL PHARMACY LIMITED",
+              "internationalNumber": "RC-364074"
+            },
+            {
+              "name": "CONSOLIDATED BUILDERS LTD",
+              "internationalNumber": "RC-364071"
+            },
+            {
+              "name": "JOMM NIGERIA LIMITED",
+              "internationalNumber": "RC-364073"
+            },
+            {
+              "name": "A.W.S AHLAN WASAHLAN MOTORS",
+              "internationalNumber": "BN-3967297"
+            },
+            {
+              "name": "CHREM VENTURES LIMITED",
+              "internationalNumber": "RC-364065"
+            },
+            {
+              "name": "JECHEM AND SONS TRADING NIGERIA LIMITED",
+              "internationalNumber": "RC-364064"
+            },
+            {
+              "name": "JAMA'AT IHIYA'UL - ISLAM LIMITED",
+              "internationalNumber": "RC-364070"
+            },
+            {
+              "name": "CRYSTALVISION TECHNOLOGIES (NIGERIA) LIMITED",
+              "internationalNumber": "RC-364068"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 9
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
