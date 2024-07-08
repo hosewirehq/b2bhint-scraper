@@ -1,0 +1,502 @@
+[
+  {
+    "year": "1988",
+    "title": "LABAIKA SECURITIES LIMITED - RC-118881 - Nigeria",
+    "description": "LABAIKA SECURITIES LIMITED Nigeria company, Company number: RC-118881, Incorporation Date Oct 7, 1988;, Address: 5B, OFFIN RD., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61132411,
+      "name": "LABAIKA SECURITIES LIMITED",
+      "internationalNumber": "RC-118881",
+      "localNumber": "118881",
+      "countryId": 24,
+      "dateCreated": "1988-10-07T00:00:00.000Z",
+      "createdAt": "2021-05-23T00:36:39.517Z",
+      "updatedAt": "2024-06-15T15:26:06.674Z",
+      "alternateNames": [],
+      "address": "5B, OFFIN RD., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "283701",
+      "updatedAtSitemap": "2024-01-15T16:07:14.000Z",
+      "oldInternationalNumber": "118881",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 289,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100383138,
+          "address": "5B, OFFIN RD., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 231565861,
+          "companyId": 61132411,
+          "personId": 67862564,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67862564,
+            "name": "atinuke a. kuye                                                                                      n/a",
+            "countryId": 24,
+            "address": "53 BABAPONMULE STR., IDIMNAGORO LAHGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "UTILITY ENVELOPE MANUF. CO LTD",
+              "internationalNumber": "RC-55020"
+            },
+            {
+              "name": "PANAFRICAN PAINTS & CHEMICAL INDUSTRIES NIG LTD",
+              "internationalNumber": "RC-74985"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231565862,
+          "companyId": 61132411,
+          "personId": 67862565,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67862565,
+            "name": "oladipupo  kuye                                                                                      n/a",
+            "countryId": 24,
+            "address": "53, BABAPOUMILE ONIPETES IKEJA LAGOS LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231565864,
+          "companyId": 61132411,
+          "personId": 67862567,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67862567,
+            "name": "atinuke a. kuye",
+            "countryId": 24,
+            "address": "53 BABAPONMULE STR., IDIMNAGORO LAHGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "UTILITY ENVELOPE MANUF. CO LTD",
+              "internationalNumber": "RC-55020"
+            },
+            {
+              "name": "PANAFRICAN PAINTS & CHEMICAL INDUSTRIES NIG LTD",
+              "internationalNumber": "RC-74985"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231565865,
+          "companyId": 61132411,
+          "personId": 67862568,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67862568,
+            "name": "oladipupo  kuye",
+            "countryId": 24,
+            "address": "53, BABAPOUMILE ONIPETES IKEJA LAGOS LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 248941059,
+          "companyId": 61132411,
+          "personId": 99426135,
+          "roleId": 114359,
+          "person": {
+            "id": 99426135,
+            "name": "uzodinma augustine alozie",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1964,
+            "birthMonth": 9,
+            "birthDate": 13,
+            "address": "100IKWERRE ROAD, port harcourt, RIVERS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1320082",
+            "documentType": "Permanent Voters' Card",
+            "documentNumber": "A214551244",
+            "email": "samonye100@yahoo.com",
+            "phone": "+234 703 019 8868",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114359,
+            "name": "Chartered Accountant",
+            "countryId": 24,
+            "translation": {
+              "en": "Chartered Accountant"
+            }
+          },
+          "companies": [
+            {
+              "name": "ZAK MEGA LINKS LIMITED",
+              "internationalNumber": "RC-1628263"
+            },
+            {
+              "name": "RIGTEE LIMITED",
+              "internationalNumber": "RC-1780843"
+            },
+            {
+              "name": "MAGEN AVRAHAM JEWISH SYNAGOGUE",
+              "internationalNumber": "IT-159608"
+            },
+            {
+              "name": "JO FASHION NIG LTD",
+              "internationalNumber": "RC-1695516"
+            },
+            {
+              "name": "JUSGLOBA INTEGRATED SERVICES LTD",
+              "internationalNumber": "RC-1866608"
+            },
+            {
+              "name": "ARISA  & ARISA  LAW FIRM",
+              "internationalNumber": "BN-3031394"
+            },
+            {
+              "name": "G.STEPHEDO INTEGRATED SERVICES",
+              "internationalNumber": "BN-3017287"
+            },
+            {
+              "name": "MORRISWA GLOBAL CONCEPTS",
+              "internationalNumber": "BN-2804508"
+            },
+            {
+              "name": "FOYOR FARMS & CONSTRUCTION COMPANY",
+              "internationalNumber": "BN-2740967"
+            },
+            {
+              "name": "BLESSED C. U. A JOGWO'S ENT NIG",
+              "internationalNumber": "BN-2671726"
+            },
+            {
+              "name": "CHRIST PREVAILING PRAYER MISSION",
+              "internationalNumber": "IT-156141"
+            },
+            {
+              "name": "XPRESS TECH LIMITED",
+              "internationalNumber": "RC-1827267"
+            },
+            {
+              "name": "OGONI ARISE AND SHINE FOUNDATION",
+              "internationalNumber": "IT-154805"
+            },
+            {
+              "name": "GARRISON TRADERS ASSOCIATION PORT HARCOURT",
+              "internationalNumber": "IT-150448"
+            },
+            {
+              "name": "ROSELYN_247 UNIQUE EMPIRE",
+              "internationalNumber": "BN-3555759"
+            },
+            {
+              "name": "SUCCESSMANGO LIMITED",
+              "internationalNumber": "RC-1590538"
+            },
+            {
+              "name": "SHUNEM'S GLOBAL SERVICES",
+              "internationalNumber": "BN-2724563"
+            },
+            {
+              "name": "CHIBEXT ALUMETAL CONCEPT",
+              "internationalNumber": "BN-3246119"
+            },
+            {
+              "name": "BENOCKS LOGISTICS & PLANNING LTD",
+              "internationalNumber": "RC-1631459"
+            },
+            {
+              "name": "MUSAIRIZE RESOURCES",
+              "internationalNumber": "BN-3288705"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 4,
+        "3": 3,
+        "null": 1
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]
