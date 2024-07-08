@@ -1,0 +1,421 @@
+[
+  {
+    "year": "1985",
+    "title": "ZEBRA ELECTRIC MOTOR MANUFACTURING COMPANY LTD - RC-77650 - Nigeria",
+    "description": "ZEBRA ELECTRIC MOTOR MANUFACTURING COMPANY LTD Nigeria company, Company number: RC-77650, Incorporation Date Sep 23, 1985;, Address: 221, KIRIKIRI RD. OLODI-APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60932406,
+      "name": "ZEBRA ELECTRIC MOTOR MANUFACTURING COMPANY LTD",
+      "internationalNumber": "RC-77650",
+      "localNumber": "77650",
+      "countryId": 24,
+      "dateCreated": "1985-09-23T00:00:00.000Z",
+      "createdAt": "2021-05-19T18:40:13.733Z",
+      "updatedAt": "2024-06-15T15:24:11.617Z",
+      "alternateNames": [],
+      "address": "221, KIRIKIRI RD. OLODI-APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "242621",
+      "updatedAtSitemap": "2024-01-15T16:17:34.000Z",
+      "oldInternationalNumber": "77650",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 178,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83372278,
+          "address": "221, KIRIKIRI RD. OLODI-APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "CONTINENTAL MACHINE TOOL INDUSTRIES LTD",
+              "internationalNumber": "RC-76905"
+            },
+            {
+              "name": "ENWEREM PLASTIC MANUFACTURING CO. LTD",
+              "internationalNumber": "RC-74495"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 160611692,
+          "companyId": 60932406,
+          "personId": 66900155,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66900155,
+            "name": "luke okwara                                                                                          n/a",
+            "countryId": 24,
+            "address": "16, SHADIA ONAUGA STR. ABULE-OSHUN, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "FALSAL NIG LTD",
+              "internationalNumber": "RC-183192"
+            },
+            {
+              "name": "ATLANTIC MOTORS MANUFACTURES LTD",
+              "internationalNumber": "RC-188878"
+            },
+            {
+              "name": "WHITE CASTLE NIGERIA LTD",
+              "internationalNumber": "RC-182518"
+            },
+            {
+              "name": "NASSARAWA PAINT MANUFACTURING CO. LTD",
+              "internationalNumber": "RC-76904"
+            },
+            {
+              "name": "ATLANTIC STEEL MILLS LTD",
+              "internationalNumber": "RC-248969"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160611695,
+          "companyId": 60932406,
+          "personId": 66900157,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66900157,
+            "name": "luke okwara",
+            "countryId": 24,
+            "address": "16, SHADIA ONAUGA STR. ABULE-OSHUN, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "FALSAL NIG LTD",
+              "internationalNumber": "RC-183192"
+            },
+            {
+              "name": "WHITE CASTLE NIGERIA LTD",
+              "internationalNumber": "RC-182518"
+            },
+            {
+              "name": "NASSARAWA PAINT MANUFACTURING CO. LTD",
+              "internationalNumber": "RC-76904"
+            },
+            {
+              "name": "YUMMY CHUMMY LIMITED",
+              "internationalNumber": "RC-495108"
+            },
+            {
+              "name": "ATLANTIC STEEL MILLS LTD",
+              "internationalNumber": "RC-248969"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160611694,
+          "companyId": 60932406,
+          "personId": 67996613,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67996613,
+            "name": "charles mbachu                                                                                       n/a",
+            "countryId": 24,
+            "address": "64,EMORDI STR., APAPA-LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "CONTINENTAL MACHINE TOOL INDUSTRIES LTD",
+              "internationalNumber": "RC-76905"
+            },
+            {
+              "name": "AMAIGBO INVESTMENT LIMITED",
+              "internationalNumber": "RC-236023"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160611697,
+          "companyId": 60932406,
+          "personId": 67996615,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67996615,
+            "name": "charles mbachu",
+            "countryId": 24,
+            "address": "64,EMORDI STR., APAPA-LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CONTINENTAL MACHINE TOOL INDUSTRIES LTD",
+              "internationalNumber": "RC-76905"
+            },
+            {
+              "name": "AMAIGBO INVESTMENT LIMITED",
+              "internationalNumber": "RC-236023"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 3
+      },
+      "personsWithRelatedCount": 6
+    }
+  }
+]
