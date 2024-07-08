@@ -1,0 +1,292 @@
+[
+  {
+    "year": "1999",
+    "title": "MAIYANKA INVESTMENTS LIMITED - RC-363743 - Nigeria",
+    "description": "MAIYANKA INVESTMENTS LIMITED Nigeria company, Company number: RC-363743, Incorporation Date Sep 15, 1999;, Address: 25, NYERERESTR.BYSABOCENTRALMOSQUE., IBADAN, OYO, IBADAN, OYO STATE",
+    "company": {
+      "id": 62035426,
+      "name": "MAIYANKA INVESTMENTS LIMITED",
+      "internationalNumber": "RC-363743",
+      "localNumber": "363743",
+      "countryId": 24,
+      "dateCreated": "1999-09-15T00:00:00.000Z",
+      "createdAt": "2021-05-27T21:24:36.519Z",
+      "updatedAt": "2024-06-15T16:12:32.542Z",
+      "alternateNames": [],
+      "address": "25, NYERERESTR.BYSABOCENTRALMOSQUE., IBADAN, OYO, IBADAN, OYO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "500000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "523464",
+      "updatedAtSitemap": "2023-06-09T19:05:09.000Z",
+      "oldInternationalNumber": "363743",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 152,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92969484,
+          "address": "25, NYERERESTR.BYSABOCENTRALMOSQUE., IBADAN, OYO, IBADAN, OYO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241751840,
+          "companyId": 62035426,
+          "personId": 66172529,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66172529,
+            "name": "sagiru muhammad",
+            "countryId": 24,
+            "address": "NO 30  JA'OJI SHAGARI QUARTERS KANO  KANO                                                                                                  KANO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "A. A. SULU ABDULLAHI NIG LTD",
+              "internationalNumber": "RC-944372"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241751842,
+          "companyId": 62035426,
+          "personId": 66421449,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66421449,
+            "name": "bala suleiman",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1980,
+            "birthMonth": 11,
+            "birthDate": 27,
+            "address": "AMBASSADOR QUARTERS BY NATIONAL OPEN UNIVERSITY OF NIGERIA ",
+            "countryOfResidence": "NIGERIA",
+            "email": "smanbaladawai@gmail.com",
+            "phone": "08032466958",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GUDDEL INVESTMENT LIMITED",
+              "internationalNumber": "RC-308569"
+            },
+            {
+              "name": "ISLAM PATENT MEDICINE STORE",
+              "internationalNumber": "BN-3204004"
+            },
+            {
+              "name": "NAMU NAMU BUSINESS CENTRE",
+              "internationalNumber": "BN-3210699"
+            },
+            {
+              "name": "AJIYA GLOBAL FLEET CONCEPTS LTD",
+              "internationalNumber": "RC-795234"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
