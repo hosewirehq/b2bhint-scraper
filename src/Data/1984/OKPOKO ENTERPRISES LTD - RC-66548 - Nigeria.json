@@ -1,0 +1,424 @@
+[
+  {
+    "year": "1984",
+    "title": "OKPOKO ENTERPRISES LTD - RC-66548 - Nigeria",
+    "description": "OKPOKO ENTERPRISES LTD Nigeria company, Company number: RC-66548, Incorporation Date Nov 2, 1984;, Address: 46, NEW MKT RD., ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+    "company": {
+      "id": 60908189,
+      "name": "OKPOKO ENTERPRISES LTD",
+      "internationalNumber": "RC-66548",
+      "localNumber": "66548",
+      "countryId": 24,
+      "dateCreated": "1984-11-02T00:00:00.000Z",
+      "createdAt": "2021-05-19T03:49:39.873Z",
+      "updatedAt": "2024-06-15T16:44:11.634Z",
+      "alternateNames": [],
+      "address": "46, NEW MKT RD., ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "231645",
+      "updatedAtSitemap": "2023-06-09T16:20:00.000Z",
+      "oldInternationalNumber": "66548",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 82,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6416116,
+          "providerId": "463535",
+          "providerName": "Social Club                                       ",
+          "countryId": 24,
+          "createdAt": "2022-08-21T01:19:12.841577+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83353923,
+          "address": "46, NEW MKT RD., ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 160652007,
+          "companyId": 60908189,
+          "personId": 68058605,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68058605,
+            "name": "peter c. ezenwa                                                                                      n/a",
+            "countryId": 24,
+            "address": "46, NEW MKT ROAD, ONITSHA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "CONSOLIDATED AGRICULTURAL CO. LTD",
+              "internationalNumber": "RC-35030"
+            },
+            {
+              "name": "E. M. INVESTMENTS LTD",
+              "internationalNumber": "RC-52236"
+            },
+            {
+              "name": "EASTERN BULK COMMODITIES LTD",
+              "internationalNumber": "RC-51704"
+            },
+            {
+              "name": "P. C. EZENWA AND COMPANY NIG LTD",
+              "internationalNumber": "RC-66549"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160652008,
+          "companyId": 60908189,
+          "personId": 68058606,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68058606,
+            "name": "ifeoma ezenwa                                                                                        n/a",
+            "countryId": 24,
+            "address": "IGWE'S PALACE, ABA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "CONSOLIDATED AGRICULTURAL CO. LTD",
+              "internationalNumber": "RC-35030"
+            },
+            {
+              "name": "P. C. EZENWA AND COMPANY NIG LTD",
+              "internationalNumber": "RC-66549"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160652009,
+          "companyId": 60908189,
+          "personId": 68058607,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68058607,
+            "name": "peter c. ezenwa",
+            "countryId": 24,
+            "address": "46, NEW MKT ROAD, ONITSHA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CONSOLIDATED AGRICULTURAL CO. LTD",
+              "internationalNumber": "RC-35030"
+            },
+            {
+              "name": "E. M. INVESTMENTS LTD",
+              "internationalNumber": "RC-52236"
+            },
+            {
+              "name": "EASTERN BULK COMMODITIES LTD",
+              "internationalNumber": "RC-51704"
+            },
+            {
+              "name": "P. C. EZENWA AND COMPANY NIG LTD",
+              "internationalNumber": "RC-66549"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160652010,
+          "companyId": 60908189,
+          "personId": 68058608,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68058608,
+            "name": "ifeoma ezenwa",
+            "countryId": 24,
+            "address": "NO 18 MM INTERNATIONAL AIRPORT ROAD MAFOLUKU  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "EXCEL ORIENTAL HOTEL AND SUITES LIMITED",
+              "internationalNumber": "RC-968889"
+            },
+            {
+              "name": "SUMMIT CASTLE LIMITED",
+              "internationalNumber": "RC-845168"
+            },
+            {
+              "name": "CONSOLIDATED AGRICULTURAL CO. LTD",
+              "internationalNumber": "RC-35030"
+            },
+            {
+              "name": "SUMMIT VILLAS LTD",
+              "internationalNumber": "RC-727243"
+            },
+            {
+              "name": "HOMDEL LIMITED",
+              "internationalNumber": "RC-400179"
+            },
+            {
+              "name": "ASAKATA RESOURCES LIMITED",
+              "internationalNumber": "RC-992238"
+            },
+            {
+              "name": "P. C. EZENWA AND COMPANY NIG LTD",
+              "internationalNumber": "RC-66549"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]
