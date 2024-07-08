@@ -1,0 +1,247 @@
+[
+  {
+    "year": "1994",
+    "title": "C. ANEC NIGERIA ENTERPRISES - BN-LAZ 000080 - Nigeria",
+    "description": "C. ANEC NIGERIA ENTERPRISES Nigeria company, Company number: BN-LAZ 000080, Incorporation Date Oct 24, 1994;, Address: 78 AGBEBI STREET, PAKO-AGUDA, SURULERE, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 109120539,
+      "name": "C. ANEC NIGERIA ENTERPRISES",
+      "internationalNumber": "BN-LAZ 000080",
+      "localNumber": "LAZ 000080",
+      "countryId": 24,
+      "dateCreated": "1994-10-24T00:00:00.000Z",
+      "createdAt": "2022-04-15T19:18:55.133Z",
+      "updatedAt": "2024-06-15T15:40:33.184Z",
+      "alternateNames": [],
+      "address": "78 AGBEBI STREET, PAKO-AGUDA, SURULERE, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99331,
+      "historicalNames": [],
+      "providerId": "7939687",
+      "updatedAtSitemap": "2023-06-09T16:44:46.000Z",
+      "oldInternationalNumber": "LAZ 000080",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99331,
+        "type": "Business name - sole proprietor",
+        "countryId": 24,
+        "translation": {
+          "en": "Sole proprietor"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 164,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [],
+      "addresses": [
+        {
+          "id": 102092171,
+          "address": "78 AGBEBI STREET, PAKO-AGUDA, SURULERE, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 298875415,
+          "companyId": 109120539,
+          "personId": 101856719,
+          "roleId": 60319,
+          "sourceNum": 2,
+          "person": {
+            "id": 101856719,
+            "name": "ekeh canice anec",
+            "countryId": 24,
+            "occupation": "Business",
+            "address": "AGBEBI STREET, PAKO-AGUDA, 78",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 251592992,
+          "companyId": 109120539,
+          "personId": 101856719,
+          "roleId": 60319,
+          "sourceNum": 1,
+          "person": {
+            "id": 101856719,
+            "name": "ekeh canice anec",
+            "countryId": 24,
+            "occupation": "Business",
+            "address": "AGBEBI STREET, PAKO-AGUDA, 78",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60319,
+            "name": "Proprietor",
+            "countryId": 24,
+            "translation": {
+              "en": "Proprietor"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "2",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 2
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]
