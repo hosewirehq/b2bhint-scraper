@@ -1,0 +1,440 @@
+[
+  {
+    "year": "1982",
+    "title": "MAINA HOTELS LTD - RC-51639 - Nigeria",
+    "description": "MAINA HOTELS LTD Nigeria company, Company number: RC-51639, Incorporation Date Dec 23, 1982;, Address: 18, I/DASUKI, JOS, PLATEAU, JOS, PLATEAU STATE",
+    "company": {
+      "id": 60871971,
+      "name": "MAINA HOTELS LTD",
+      "internationalNumber": "RC-51639",
+      "localNumber": "51639",
+      "countryId": 24,
+      "dateCreated": "1982-12-23T00:00:00.000Z",
+      "createdAt": "2021-05-15T11:03:02.735Z",
+      "updatedAt": "2024-06-15T16:44:41.649Z",
+      "alternateNames": [],
+      "address": "18, I/DASUKI, JOS, PLATEAU, JOS, PLATEAU STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "216845",
+      "updatedAtSitemap": "2023-06-09T16:20:56.000Z",
+      "oldInternationalNumber": "51639",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 115,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6403149,
+          "providerId": "318017",
+          "providerName": "Foundation                                        ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T19:33:17.127839+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83316518,
+          "address": "18, I/DASUKI, JOS, PLATEAU, JOS, PLATEAU STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238589791,
+          "companyId": 60871971,
+          "personId": 67884318,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67884318,
+            "name": "shehu othman                                                                                         n/a",
+            "countryId": 24,
+            "address": "86/8, BUZU STR. JOS PLATEAU",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SHEDDA NIG LTD",
+              "internationalNumber": "RC-258460"
+            },
+            {
+              "name": "BRANZUK IKULI CENTRE FOR SOCIAL REHABILITATION",
+              "internationalNumber": "RC-31658"
+            },
+            {
+              "name": "FIA HOLDING LTD",
+              "internationalNumber": "RC-31642"
+            },
+            {
+              "name": "NASIHA PRINTING AND PUBLICATION COM PANY LTD",
+              "internationalNumber": "RC-271040"
+            },
+            {
+              "name": "TABERNACLE OF LOVE AND FAITH MINISTRY - WORLDWIDE",
+              "internationalNumber": "RC-31634"
+            },
+            {
+              "name": "ECHOES OF PRAISE MINISTRY INT'L",
+              "internationalNumber": "RC-31662"
+            },
+            {
+              "name": "FAHAS FOOD & PROC. CO. LTD",
+              "internationalNumber": "RC-31661"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238589802,
+          "companyId": 60871971,
+          "personId": 67884319,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67884319,
+            "name": "shehu othman",
+            "countryId": 24,
+            "address": "86/8, BUZU STR. JOS PLATEAU",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SHEDDA NIG LTD",
+              "internationalNumber": "RC-258460"
+            },
+            {
+              "name": "QAHINA ASSOCIATES LIMITED",
+              "internationalNumber": "RC-677683"
+            },
+            {
+              "name": "ZENATA CRYSTAL LIMITED",
+              "internationalNumber": "RC-677645"
+            },
+            {
+              "name": "BRANZUK IKULI CENTRE FOR SOCIAL REHABILITATION",
+              "internationalNumber": "RC-31658"
+            },
+            {
+              "name": "FIA HOLDING LTD",
+              "internationalNumber": "RC-31642"
+            },
+            {
+              "name": "NASIHA PRINTING AND PUBLICATION COM PANY LTD",
+              "internationalNumber": "RC-271040"
+            },
+            {
+              "name": "TABERNACLE OF LOVE AND FAITH MINISTRY - WORLDWIDE",
+              "internationalNumber": "RC-31634"
+            },
+            {
+              "name": "ECHOES OF PRAISE MINISTRY INT'L",
+              "internationalNumber": "RC-31662"
+            },
+            {
+              "name": "FAHAS FOOD & PROC. CO. LTD",
+              "internationalNumber": "RC-31661"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238589794,
+          "companyId": 60871971,
+          "personId": 67946578,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67946578,
+            "name": "mohammed dalhatu                                                                                     n/a",
+            "countryId": 24,
+            "address": "E5, YANDOKA RD. BAUCHI",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SATTELITE NIG LTD",
+              "internationalNumber": "RC-274618"
+            },
+            {
+              "name": "AYYUKA NIGERIA LIMITED",
+              "internationalNumber": "RC-276687"
+            },
+            {
+              "name": "GRASSROOTS CUNSOLIOTES ENTERPRISES LTD",
+              "internationalNumber": "RC-274850"
+            },
+            {
+              "name": "LAFIA MERCHANTS NIG LTD",
+              "internationalNumber": "RC-34354"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238589810,
+          "companyId": 60871971,
+          "personId": 92792350,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 92792350,
+            "name": "rabi dalhatu",
+            "countryId": 24,
+            "address": "PLOT 285, INTERMEDIATE QTRS MINNA NIGER",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "DALTEX INVESTMENTS LIMITED",
+              "internationalNumber": "RC-383310"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "22",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 11,
+        "3": 11
+      },
+      "personsWithRelatedCount": 9
+    }
+  }
+]

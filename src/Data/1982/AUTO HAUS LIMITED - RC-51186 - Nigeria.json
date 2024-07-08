@@ -1,0 +1,388 @@
+[
+  {
+    "year": "1982",
+    "title": "AUTO HAUS LIMITED - RC-51186 - Nigeria",
+    "description": "AUTO HAUS LIMITED Nigeria company, Company number: RC-51186, Incorporation Date Dec 1, 1982;, Address: 7, DANMOLE STR., S/LERE, LAGOS, S/LERE, LAGOS STATE",
+    "company": {
+      "id": 60868897,
+      "name": "AUTO HAUS LIMITED",
+      "internationalNumber": "RC-51186",
+      "localNumber": "51186",
+      "countryId": 24,
+      "dateCreated": "1982-12-01T00:00:00.000Z",
+      "createdAt": "2021-05-15T10:50:27.559Z",
+      "updatedAt": "2024-06-15T16:44:40.156Z",
+      "alternateNames": [],
+      "address": "7, DANMOLE STR., S/LERE, LAGOS, S/LERE, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "216392",
+      "updatedAtSitemap": "2023-06-09T16:20:58.000Z",
+      "oldInternationalNumber": "51186",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 106,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6402713,
+          "providerId": "301255",
+          "providerName": "Association                                       ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T19:21:54.588157+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83315851,
+          "address": "7, DANMOLE STR., S/LERE, LAGOS, S/LERE, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238612500,
+          "companyId": 60868897,
+          "personId": 67616717,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67616717,
+            "name": "rosemary ikwuemesi                                                                                   n/a",
+            "countryId": 24,
+            "address": "N0.136, OJUELEGBA ROAD, SURULERE  LAGOS                                                                                                 LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "RHOMAG INVESTMENT LIMITED",
+              "internationalNumber": "RC-50314"
+            },
+            {
+              "name": "BRANDON LEUCIENT & LEVENTURE LIMITED",
+              "internationalNumber": "RC-926588"
+            },
+            {
+              "name": "BENDICON GLOBAL RESOURCES LIMITED",
+              "internationalNumber": "RC-918326"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238612502,
+          "companyId": 60868897,
+          "personId": 67616720,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67616720,
+            "name": "rosemary ikwuemesi",
+            "countryId": 24,
+            "address": "N0.136, OJUELEGBA ROAD, SURULERE  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "RHOMAG INVESTMENT LIMITED",
+              "internationalNumber": "RC-50314"
+            },
+            {
+              "name": "BRANDON LEUCIENT & LEVENTURE LIMITED",
+              "internationalNumber": "RC-926588"
+            },
+            {
+              "name": "BENDICON GLOBAL RESOURCES LIMITED",
+              "internationalNumber": "RC-918326"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238612499,
+          "companyId": 60868897,
+          "personId": 97258487,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97258487,
+            "name": "maxwell ikwuemesi                                                                                    n/a",
+            "countryId": 24,
+            "address": "7, ALHAJI DANMOLE ST., SURULERE, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "RHOMAG INVESTMENT LIMITED",
+              "internationalNumber": "RC-50314"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238612501,
+          "companyId": 60868897,
+          "personId": 97258488,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97258488,
+            "name": "maxwell ikwuemesi",
+            "countryId": 24,
+            "address": "7, ALHAJI DANMOLE ST., SURULERE, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "RHOMAG INVESTMENT LIMITED",
+              "internationalNumber": "RC-50314"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

@@ -1,0 +1,516 @@
+[
+  {
+    "year": "1982",
+    "title": "LAFE SECURITIES LIMITED - RC-50415 - Nigeria",
+    "description": "LAFE SECURITIES LIMITED Nigeria company, Company number: RC-50415, Incorporation Date Oct 27, 1982;, Address: 9, AKINOLA COLE CRESCENT, IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60863681,
+      "name": "LAFE SECURITIES LIMITED",
+      "internationalNumber": "RC-50415",
+      "localNumber": "50415",
+      "countryId": 24,
+      "dateCreated": "1982-10-27T00:00:00.000Z",
+      "createdAt": "2021-05-15T10:29:55.331Z",
+      "updatedAt": "2024-06-15T16:44:44.068Z",
+      "alternateNames": [],
+      "address": "9, AKINOLA COLE CRESCENT, IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "215622",
+      "updatedAtSitemap": "2023-06-09T16:21:03.000Z",
+      "oldInternationalNumber": "50415",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 142,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6401975,
+          "providerId": "279035",
+          "providerName": "Social Club                                       ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T19:00:38.638037+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83314372,
+          "address": "9, AKINOLA COLE CRESCENT, IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238650040,
+          "companyId": 60863681,
+          "personId": 66220977,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66220977,
+            "name": "samuel o.",
+            "countryId": 24,
+            "address": "PLOT 625, WUYE B3, ABUJA FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "AWALANTE NIGERIA LIMITED",
+              "internationalNumber": "RC-212457"
+            },
+            {
+              "name": "CONCEPT AUTOMOTIVES CO. LTD",
+              "internationalNumber": "RC-214804"
+            },
+            {
+              "name": "SAM-SON NIG LTD",
+              "internationalNumber": "RC-148071"
+            },
+            {
+              "name": "FRANKON CHEMICALS LIMITED",
+              "internationalNumber": "RC-61567"
+            },
+            {
+              "name": "DEBERG EDUCATIONAL SUPPORT LIMITED",
+              "internationalNumber": "RC-481747"
+            },
+            {
+              "name": "BARKS AND COMPANY LTD",
+              "internationalNumber": "RC-183139"
+            },
+            {
+              "name": "DIPSON PROPERTIES LIMITED",
+              "internationalNumber": "RC-484417"
+            },
+            {
+              "name": "KALMARK INVESTMENT CO. LTD",
+              "internationalNumber": "RC-153698"
+            },
+            {
+              "name": "NWAGBOSO NIG LTD",
+              "internationalNumber": "RC-198984"
+            },
+            {
+              "name": "TRIDENT VENTURES LIMITED",
+              "internationalNumber": "RC-212939"
+            },
+            {
+              "name": "NICHEM VENTURES LTD",
+              "internationalNumber": "RC-200942"
+            },
+            {
+              "name": "SAMMICK  INTERBIZ LTD",
+              "internationalNumber": "RC-265266"
+            },
+            {
+              "name": "LEBANON TOGOLEESE BANK REPRES. OFFICE NIG LTD",
+              "internationalNumber": "RC-58546"
+            },
+            {
+              "name": "SKY-BLUE VENTURES   LTD",
+              "internationalNumber": "RC-212450"
+            },
+            {
+              "name": "JAVAN TELECOMS LIMITED",
+              "internationalNumber": "RC-486229"
+            },
+            {
+              "name": "OLU-OJO NIG LTD",
+              "internationalNumber": "RC-213154"
+            },
+            {
+              "name": "OLADRIC AND ASSOCIATES LTD",
+              "internationalNumber": "RC-242057"
+            },
+            {
+              "name": "NEW CHURCH OF CHRIST IN NIGERIA",
+              "internationalNumber": "RC-7188"
+            },
+            {
+              "name": "AMANUICE POOL  & SONS LTD",
+              "internationalNumber": "RC-116253"
+            },
+            {
+              "name": "WEST ATLANTIC AGENCIES LIMITED",
+              "internationalNumber": "RC-351830"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238650037,
+          "companyId": 60863681,
+          "personId": 66736530,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66736530,
+            "name": "samuel o.                                                                                            n/a",
+            "countryId": 24,
+            "address": "18, IJAGBEMI STR. PEDRO BARIGA LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "AWALANTE NIGERIA LIMITED",
+              "internationalNumber": "RC-212457"
+            },
+            {
+              "name": "RISSUN NIGERIA LIMITED",
+              "internationalNumber": "RC-41960"
+            },
+            {
+              "name": "CONCEPT AUTOMOTIVES CO. LTD",
+              "internationalNumber": "RC-214804"
+            },
+            {
+              "name": "SAM-SON NIG LTD",
+              "internationalNumber": "RC-148071"
+            },
+            {
+              "name": "FRANKON CHEMICALS LIMITED",
+              "internationalNumber": "RC-61567"
+            },
+            {
+              "name": "BARKS AND COMPANY LTD",
+              "internationalNumber": "RC-183139"
+            },
+            {
+              "name": "KALMARK INVESTMENT CO. LTD",
+              "internationalNumber": "RC-153698"
+            },
+            {
+              "name": "NWAGBOSO NIG LTD",
+              "internationalNumber": "RC-198984"
+            },
+            {
+              "name": "TRIDENT VENTURES LIMITED",
+              "internationalNumber": "RC-212939"
+            },
+            {
+              "name": "NICHEM VENTURES LTD",
+              "internationalNumber": "RC-200942"
+            },
+            {
+              "name": "SAMMICK  INTERBIZ LTD",
+              "internationalNumber": "RC-265266"
+            },
+            {
+              "name": "SKY-BLUE VENTURES   LTD",
+              "internationalNumber": "RC-212450"
+            },
+            {
+              "name": "LEBANON TOGOLEESE BANK REPRES. OFFICE NIG LTD",
+              "internationalNumber": "RC-58546"
+            },
+            {
+              "name": "OLU-OJO NIG LTD",
+              "internationalNumber": "RC-213154"
+            },
+            {
+              "name": "OLADRIC AND ASSOCIATES LTD",
+              "internationalNumber": "RC-242057"
+            },
+            {
+              "name": "AMANUICE POOL  & SONS LTD",
+              "internationalNumber": "RC-116253"
+            },
+            {
+              "name": "LARA BAKERING NIG LTD",
+              "internationalNumber": "RC-37867"
+            },
+            {
+              "name": "DEBOYO LTD",
+              "internationalNumber": "RC-43371"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238650035,
+          "companyId": 60863681,
+          "personId": 97272969,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97272969,
+            "name": "olubunmi adetutu                                                                                     n/a",
+            "countryId": 24,
+            "address": "9, AKINOLA COLE CRESCENT, IKAJA,LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "LAFE CONSULTANTS LIMITED",
+              "internationalNumber": "RC-50438"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238650038,
+          "companyId": 60863681,
+          "personId": 97272972,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97272972,
+            "name": "olubunmi adetutu",
+            "countryId": 24,
+            "address": "9, AKINOLA COLE CRESCENT, IKAJA,LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "LAFE CONSULTANTS LIMITED",
+              "internationalNumber": "RC-50438"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 3
+      },
+      "personsWithRelatedCount": 6
+    }
+  }
+]

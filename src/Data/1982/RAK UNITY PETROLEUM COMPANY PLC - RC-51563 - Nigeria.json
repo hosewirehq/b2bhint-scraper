@@ -1,0 +1,525 @@
+[
+  {
+    "year": "1982",
+    "title": "RAK UNITY PETROLEUM COMPANY PLC - RC-51563 - Nigeria",
+    "description": "RAK UNITY PETROLEUM COMPANY PLC Nigeria company, Company number: RC-51563, Incorporation Date Dec 20, 1982;, Address: BLOCK 5, WATER CORPORATION ROAD, G.R.A IJORA, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60871465,
+      "name": "RAK UNITY PETROLEUM COMPANY PLC",
+      "internationalNumber": "RC-51563",
+      "localNumber": "51563",
+      "countryId": 24,
+      "dateCreated": "1982-12-20T00:00:00.000Z",
+      "createdAt": "2021-05-15T11:00:57.615Z",
+      "updatedAt": "2024-06-15T16:44:42.029Z",
+      "alternateNames": [],
+      "address": "BLOCK 5, WATER CORPORATION ROAD, G.R.A IJORA, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "67868672 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "67868670",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS OF SALE, DISTRIBUTION,TRANSPORTION OF PETROLEUM PRODUCTS,LIQUID AND GASEOUS HYDRO-CARBONS,OTHER MINERALS.",
+      "providerId": "216769",
+      "updatedAtSitemap": "2024-04-29T10:05:31.000Z",
+      "oldInternationalNumber": "51563",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007877,
+          "providerId": "DISSOLVED",
+          "providerName": "DISSOLVED",
+          "countryId": 24,
+          "translation": {
+            "en": "Dissolved"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 88,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197403,
+          "providerId": "199279",
+          "providerName": "Sale of Petroleum Products",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:11:20.046779+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83316359,
+          "address": "BLOCK 5, WATER CORPORATION ROAD, G.R.A IJORA, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238593559,
+          "companyId": 60871465,
+          "personId": 67649646,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67649646,
+            "name": "moroti adedoyin adeyinka",
+            "countryId": 24,
+            "address": "PLOT32 OYIBO ADJHARO STREET LEKKI PHASE 1  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "NEVEDA OIL AND GAS LIMITED",
+              "internationalNumber": "RC-740401"
+            },
+            {
+              "name": "LOTUS ENERGY LIMITED",
+              "internationalNumber": "RC-461334"
+            },
+            {
+              "name": "AEROHOUSE BUREAU DE CHANGE LIMITED",
+              "internationalNumber": "RC-1066673"
+            },
+            {
+              "name": "CLARKSVILLE NIGERIA LIMITED",
+              "internationalNumber": "RC-1093489"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238593549,
+          "companyId": 60871465,
+          "personId": 67928753,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67928753,
+            "name": "alsec nominees ltd",
+            "countryId": 24,
+            "address": "ST. NICHOLAS HOUSE, 13TH CATHOLIC MISSION STREET LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238593562,
+          "companyId": 60871465,
+          "personId": 94188954,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 94188954,
+            "name": "alsec nominees limited",
+            "countryId": 24,
+            "address": "ST. NICHOLAS HOUSE (10TH FLOOR) CATHOLIC MISSION STREET LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "phone": "01-4622307                                        ",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [
+            {
+              "name": "BRANDTONE NIGERIA LIMITED",
+              "internationalNumber": "RC-1122748"
+            },
+            {
+              "name": "GAIA OIL AND GAS LIMITED",
+              "internationalNumber": "RC-1098822"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238593542,
+          "companyId": 60871465,
+          "personId": 97251203,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97251203,
+            "name": "buba mallam                                                                                          n/a",
+            "countryId": 24,
+            "address": "16, OLOFA WAY,  OFFA                                                                                                  KWARA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238593543,
+          "companyId": 60871465,
+          "personId": 97251204,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97251204,
+            "name": "okonkwo obumneme chukwumobi                                                                          n/a",
+            "countryId": 24,
+            "address": "16, OLOFA WAY,  OFFA                                                                                                  KWARA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238593561,
+          "companyId": 60871465,
+          "personId": 97251216,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "Ordinary",
+          "sharesCount": 48131159,
+          "person": {
+            "id": 97251216,
+            "name": "toparte nigeria limited",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "BLOCK 5, WATER CORPORATION ROAD, G.R.A IJORA",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238593563,
+          "companyId": 60871465,
+          "personId": 97251216,
+          "roleId": 60321,
+          "appointedOn": "2022-03-18",
+          "votingShares": "null%",
+          "sourceNum": 1,
+          "person": {
+            "id": 97251216,
+            "name": "toparte nigeria limited",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "BLOCK 5, WATER CORPORATION ROAD, G.R.A IJORA",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "20",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 1,
+        "2": 10,
+        "3": 7,
+        "null": 2
+      },
+      "personsWithRelatedCount": 5
+    }
+  }
+]

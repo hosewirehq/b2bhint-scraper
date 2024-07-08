@@ -1,0 +1,386 @@
+[
+  {
+    "year": "1982",
+    "title": "MUDI MICHELETTI & COMPANY LIMITED - RC-51267 - Nigeria",
+    "description": "MUDI MICHELETTI & COMPANY LIMITED Nigeria company, Company number: RC-51267, Incorporation Date Dec 6, 1982;, Address: 3, SAIDU YABAJI ROAD, MINNA, NIGER, MINNA, NIGER STATE",
+    "company": {
+      "id": 60869421,
+      "name": "MUDI MICHELETTI & COMPANY LIMITED",
+      "internationalNumber": "RC-51267",
+      "localNumber": "51267",
+      "countryId": 24,
+      "dateCreated": "1982-12-06T00:00:00.000Z",
+      "createdAt": "2021-05-15T10:52:30.542Z",
+      "updatedAt": "2024-06-15T16:44:40.758Z",
+      "alternateNames": [],
+      "address": "3, SAIDU YABAJI ROAD, MINNA, NIGER, MINNA, NIGER STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "216473",
+      "updatedAtSitemap": "2023-06-09T16:20:57.000Z",
+      "oldInternationalNumber": "51267",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 128,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6402787,
+          "providerId": "305766",
+          "providerName": "Social Club                                       ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T19:23:47.162513+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83315968,
+          "address": "3, SAIDU YABAJI ROAD, MINNA, NIGER, MINNA, NIGER STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238608741,
+          "companyId": 60869421,
+          "personId": 78691041,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 78691041,
+            "name": "ibrahim mudi                                                                                         n/a",
+            "countryId": 24,
+            "address": "24A, CLUB RD. KANO",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "GULU COMMERCIAL ENTERPRISES LIMITED",
+              "internationalNumber": "RC-130686"
+            },
+            {
+              "name": "SHAFIU & SONS LTD",
+              "internationalNumber": "RC-130682"
+            },
+            {
+              "name": "BALKOS LTD",
+              "internationalNumber": "RC-80208"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238608743,
+          "companyId": 60869421,
+          "personId": 78691042,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 78691042,
+            "name": "ibrahim mudi",
+            "countryId": 24,
+            "address": "NO 12 BATAGARAWA LOW COST  KATSINA                                                                                               KATSINA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GULU COMMERCIAL ENTERPRISES LIMITED",
+              "internationalNumber": "RC-130686"
+            },
+            {
+              "name": "NAMALAN VENTURES LTD",
+              "internationalNumber": "RC-1205457"
+            },
+            {
+              "name": "SHAFIU & SONS LTD",
+              "internationalNumber": "RC-130682"
+            },
+            {
+              "name": "BALKOS LTD",
+              "internationalNumber": "RC-80208"
+            },
+            {
+              "name": "AL- ISTI QAMAH NIG LTD",
+              "internationalNumber": "RC-682178"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238608742,
+          "companyId": 60869421,
+          "personId": 97257005,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97257005,
+            "name": "ali kano                                                                                             n/a",
+            "countryId": 24,
+            "address": "3, SAIDU YABAGI ROAD, MINNA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238608744,
+          "companyId": 60869421,
+          "personId": 97257006,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97257006,
+            "name": "ali kano",
+            "countryId": 24,
+            "address": "3, SAIDU YABAGI ROAD, MINNA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
