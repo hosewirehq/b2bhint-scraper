@@ -1,0 +1,513 @@
+[
+  {
+    "year": "1990",
+    "title": "A. C. EKWUGHA AND SONS BUSINESS ENT. NIG LTD - RC-159001 - Nigeria",
+    "description": "A. C. EKWUGHA AND SONS BUSINESS ENT. NIG LTD Nigeria company, Company number: RC-159001, Incorporation Date Dec 3, 1990;, Address: 16 ANOZONWU STR., ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+    "company": {
+      "id": 62485553,
+      "name": "A. C. EKWUGHA AND SONS BUSINESS ENT. NIG LTD",
+      "internationalNumber": "RC-159001",
+      "localNumber": "159001",
+      "countryId": 24,
+      "dateCreated": "1990-12-03T00:00:00.000Z",
+      "createdAt": "2021-05-30T10:37:14.257Z",
+      "updatedAt": "2024-06-15T15:30:19.046Z",
+      "alternateNames": [],
+      "address": "16 ANOZONWU STR., ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "250000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "323398",
+      "updatedAtSitemap": "2024-02-01T19:16:31.000Z",
+      "oldInternationalNumber": "159001",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 253,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100816165,
+          "address": "16 ANOZONWU STR., ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 231352408,
+          "companyId": 62485553,
+          "personId": 66192228,
+          "roleId": 60331,
+          "appointedOn": "2021-05-21",
+          "sourceNum": 1,
+          "person": {
+            "id": 66192228,
+            "name": "nuhu bello dogondaji",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1961,
+            "birthMonth": 11,
+            "birthDate": 10,
+            "address": "PLOT C 48, PHASE I I SITE 2, KUBWA",
+            "countryOfResidence": "NIGERIA",
+            "number": "A50438263",
+            "documentType": "International Passport",
+            "email": "bndogondaji1@gmail.com",
+            "phone": "08033142525",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [
+            {
+              "name": "SULTINI (NIGERIA) LTD",
+              "internationalNumber": "RC-156978"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231352403,
+          "companyId": 62485553,
+          "personId": 67401343,
+          "roleId": 60331,
+          "appointedOn": "2021-05-21",
+          "sourceNum": 1,
+          "person": {
+            "id": 67401343,
+            "name": "mohammad ali inname",
+            "countryId": 24,
+            "address": "NO. 5, DANCHADI ROAD, GAWON NAMA AREA  SOKOTO                                                                                                SOKOTO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [
+            {
+              "name": "GANZA MULTI PURPOSE SERVICES LTD",
+              "internationalNumber": "RC-780161"
+            },
+            {
+              "name": "SOFAN AGRO ALLIED SERVICES LTD",
+              "internationalNumber": "RC-1622898"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238213060,
+          "companyId": 62485553,
+          "personId": 74078476,
+          "roleId": 60320,
+          "appointedOn": "2021-06-07",
+          "sourceNum": 1,
+          "person": {
+            "id": 74078476,
+            "name": "olapo folorunso samuel",
+            "countryId": 24,
+            "address": "No. 3, Layi Oyekanmi Street, Mushin, Lagos",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "National Identification Number",
+            "email": "folusolapo@yahoo.com",
+            "phone": "2348055219813",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "TG AND Y NIGERIAN LTD",
+              "internationalNumber": "RC-114215"
+            },
+            {
+              "name": "DIRAX NIG LTD",
+              "internationalNumber": "RC-115662"
+            },
+            {
+              "name": "MUTINA COSTAL AGENCIES LTD",
+              "internationalNumber": "RC-159450"
+            },
+            {
+              "name": "JAMIL ENGINEERING COMPANY LIMITED",
+              "internationalNumber": "RC-115019"
+            },
+            {
+              "name": "DYANORA NIGERIA LTD",
+              "internationalNumber": "RC-115488"
+            },
+            {
+              "name": "INDO CONCEPTS LIMITED",
+              "internationalNumber": "RC-159317"
+            },
+            {
+              "name": "STEV-BEN INVESTMENT COMPANY LIMITED",
+              "internationalNumber": "RC-159402"
+            },
+            {
+              "name": "CHRISTON & EDSON AVIATION CONSULTANTS LIMITED",
+              "internationalNumber": "RC-159527"
+            },
+            {
+              "name": "LIVING PRAISE ASSOCIATES LTD",
+              "internationalNumber": "RC-114679"
+            },
+            {
+              "name": "BARTEL NIGERIA AIR SERVICES LIMITED",
+              "internationalNumber": "RC-114321"
+            },
+            {
+              "name": "OFFIN LIMITED",
+              "internationalNumber": "RC-159405"
+            },
+            {
+              "name": "RIENNE NIG LTD",
+              "internationalNumber": "RC-115564"
+            },
+            {
+              "name": "JAMALFA NIGERIA LTD",
+              "internationalNumber": "RC-115113"
+            },
+            {
+              "name": "UNITED COURIERS LIMITED",
+              "internationalNumber": "RC-159306"
+            },
+            {
+              "name": "ADEMSON ENTERPRISES NIG LTD",
+              "internationalNumber": "RC-113782"
+            },
+            {
+              "name": "ZEES COMMUNICATIONS LIMITED",
+              "internationalNumber": "RC-115690"
+            },
+            {
+              "name": "KINGEX INTERANTIONAL LTD",
+              "internationalNumber": "RC-159419"
+            },
+            {
+              "name": "DIGITAL REALM LIMITED",
+              "internationalNumber": "RC-113753"
+            },
+            {
+              "name": "CAPRICE FASHIONS LIMITED",
+              "internationalNumber": "RC-159260"
+            },
+            {
+              "name": "LEO CHIGBUNDU BROTHERS (WEST AFRICA) LTD",
+              "internationalNumber": "RC-159407"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238213058,
+          "companyId": 62485553,
+          "personId": 97133875,
+          "roleId": 60320,
+          "appointedOn": "2021-05-21",
+          "sourceNum": 1,
+          "person": {
+            "id": 97133875,
+            "name": "abiona raymond adegboyega",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "NO 7, Chinedu Achusi Street, Kubwa, Abuja, FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "raymond_abiona2000@yahoo.com",
+            "phone": "07057815634",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 243907131,
+          "companyId": 62485553,
+          "personId": 99689613,
+          "roleId": 114332,
+          "person": {
+            "id": 99689613,
+            "name": "raymond adegboyega abiona",
+            "countryId": 24,
+            "address": "NO 7, CHINEDU ACHUSI STREET, GBAZANGO EXTENSION, KUBWA,",
+            "documentNumber": "A08828476",
+            "email": "raymond_abiora2000@yahoo.com",
+            "phone": "07057815634",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "INFUSIONTECH LIMITED",
+              "internationalNumber": "RC-1354600"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "19",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 1,
+        "null": 16
+      },
+      "personsWithRelatedCount": 7
+    }
+  }
+]

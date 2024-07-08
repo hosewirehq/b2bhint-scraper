@@ -1,0 +1,499 @@
+[
+  {
+    "year": "1990",
+    "title": "ECLONA INSURANCE BROKER COMPANY LIMITED - RC-160193 - Nigeria",
+    "description": "ECLONA INSURANCE BROKER COMPANY LIMITED Nigeria company, Company number: RC-160193, Incorporation Date Dec 18, 1990;, Address: 8, SANNI ADEWALE STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62058708,
+      "name": "ECLONA INSURANCE BROKER COMPANY LIMITED",
+      "internationalNumber": "RC-160193",
+      "localNumber": "160193",
+      "countryId": 24,
+      "dateCreated": "1990-12-18T00:00:00.000Z",
+      "createdAt": "2021-05-28T02:15:51.897Z",
+      "updatedAt": "2024-06-15T15:30:25.010Z",
+      "alternateNames": [],
+      "address": "8, SANNI ADEWALE STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "324589",
+      "updatedAtSitemap": "2024-02-01T19:16:36.000Z",
+      "oldInternationalNumber": "160193",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 233,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82066420,
+          "address": "8, SANNI ADEWALE STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "DIABLO NIGERIA LTD",
+              "internationalNumber": "RC-100731"
+            },
+            {
+              "name": "FANZ CIVIL WORKS & ROADS LIMITED",
+              "internationalNumber": "RC-27748"
+            },
+            {
+              "name": "FACET FINANCE LTD",
+              "internationalNumber": "RC-66836"
+            },
+            {
+              "name": "CHARMOND SERVICES NIGERIA LIMITED",
+              "internationalNumber": "RC-240249"
+            },
+            {
+              "name": "SOLAR COMMUNICATIONS LTD",
+              "internationalNumber": "RC-47905"
+            },
+            {
+              "name": "PETCON LTD",
+              "internationalNumber": "RC-100777"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 245213435,
+          "companyId": 62058708,
+          "personId": 66134078,
+          "roleId": 114332,
+          "person": {
+            "id": 66134078,
+            "name": "muyiwa sikiru olaoye",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1961,
+            "birthMonth": 5,
+            "birthDate": 4,
+            "address": "NO. 1TAIWO HOUSE, YEMETU ROAD, BESIDE CORP, AFFAIRS COMM., TOTAL GARDEN, IBADAN, IBADAN, OYO STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1943631",
+            "documentType": "Driver's License",
+            "documentNumber": "NRK57295AA94",
+            "email": "omolaraadebayo242@gmail.com",
+            "phone": "+234 803 311 3366",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "TEELINE COUTURE",
+              "internationalNumber": "BN-2754252"
+            },
+            {
+              "name": "ABAKE HERITAGE FOUNDATION",
+              "internationalNumber": "IT-153186"
+            },
+            {
+              "name": "DANOLADIPS INT'L ENTERPRISES",
+              "internationalNumber": "BN-2771897"
+            },
+            {
+              "name": "TITAN IMAGE & MULTIPURPOSE VENTURES",
+              "internationalNumber": "BN-2972409"
+            },
+            {
+              "name": "CHOBIS BEAUTY COLLEGE",
+              "internationalNumber": "BN-3172598"
+            },
+            {
+              "name": "LEMISOL ENTERPRISES",
+              "internationalNumber": "BN-3283576"
+            },
+            {
+              "name": "VIRTUOUS VINE EDUCATIONAL SERVICES LTD",
+              "internationalNumber": "RC-1631216"
+            },
+            {
+              "name": "A TASTE OF WATER GLOBAL HERITAGE",
+              "internationalNumber": "BN-3015468"
+            },
+            {
+              "name": "ORNATE GLOBAL RESOURCES LIMITED",
+              "internationalNumber": "RC-1868868"
+            },
+            {
+              "name": "ENEME INTEGRATED SERVICES LIMITED",
+              "internationalNumber": "RC-1762016"
+            },
+            {
+              "name": "OLUWALONI GLOBAL RESOURCES",
+              "internationalNumber": "BN-3275487"
+            },
+            {
+              "name": "AKINFEM LOGISTIC VENTURE",
+              "internationalNumber": "BN-2991326"
+            },
+            {
+              "name": "FABRINET GREENLIGHT MULTI GLOBAL NIGERIA LIMITED",
+              "internationalNumber": "RC-1794495"
+            },
+            {
+              "name": "WILLFEM INVESTMENT & COMPANY NIG LIMITED",
+              "internationalNumber": "RC-1623088"
+            },
+            {
+              "name": "MS. AMA BUSINESS ENTERPRISE",
+              "internationalNumber": "BN-2738554"
+            },
+            {
+              "name": "MANI GLOBAL BOUTIQUE",
+              "internationalNumber": "BN-2803027"
+            },
+            {
+              "name": "ADE S AGRO SERVICES",
+              "internationalNumber": "BN-2993548"
+            },
+            {
+              "name": "CASAMA AGRO ALLIED LIMITED",
+              "internationalNumber": "RC-1619138"
+            },
+            {
+              "name": "HASFATSAQ INTERNATIONAL NIG. LTD",
+              "internationalNumber": "RC-1641925"
+            },
+            {
+              "name": "MELECH'S EDUCATIONAL FOUNDATION",
+              "internationalNumber": "IT-150591"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241600693,
+          "companyId": 62058708,
+          "personId": 98649816,
+          "roleId": 60320,
+          "appointedOn": "2021-06-15",
+          "sourceNum": 1,
+          "person": {
+            "id": 98649816,
+            "name": "olaoye muyiwa sikiru",
+            "countryId": 24,
+            "address": "TAIWO HOUSE, YEMETU ROAD, BESIDE CORP, AFFAIRS COMM., TOTAL GARDEN, IBADAN",
+            "countryOfResidence": "NIGERIA",
+            "email": "msolaoye@yahoo.co.uk",
+            "phone": "2348033113366",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "LANRECO & COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-157162"
+            },
+            {
+              "name": "IFG COMMODITIES LIMITED",
+              "internationalNumber": "RC-160495"
+            },
+            {
+              "name": "FIDEL - JIBUNOH ASSOCIATES LIMITED",
+              "internationalNumber": "RC-160711"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241600694,
+          "companyId": 62058708,
+          "personId": 98650355,
+          "roleId": 60331,
+          "appointedOn": "2021-06-15",
+          "sourceNum": 1,
+          "person": {
+            "id": 98650355,
+            "name": "amuda adejare isaiah",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "birthYear": 1969,
+            "birthMonth": 9,
+            "birthDate": 9,
+            "address": "1 PEACE AVENUE, LOMPEF COMMUNITY IBOGUN",
+            "countryOfResidence": "NIGERIA",
+            "number": "18736200881",
+            "documentType": "National ID Card",
+            "email": "lompef@gmail.com",
+            "phone": "08130665595",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241600695,
+          "companyId": 62058708,
+          "personId": 98650356,
+          "roleId": 60331,
+          "appointedOn": "2021-06-15",
+          "sourceNum": 1,
+          "person": {
+            "id": 98650356,
+            "name": "adejare adeyinka adewunmi",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "birthYear": 1978,
+            "birthMonth": 7,
+            "birthDate": 20,
+            "address": "1 PEACE AVENUE, LOMPEF COMMUNITY IBOGUN",
+            "countryOfResidence": "NIGERIA",
+            "number": "3226",
+            "documentType": "National ID Card",
+            "email": "adeyinkaadewunmi686@gmail.com",
+            "phone": "07063056302",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

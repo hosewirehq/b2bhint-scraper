@@ -1,0 +1,383 @@
+[
+  {
+    "year": "1990",
+    "title": "AJANI SOMOYE INDUSTRIES LTD - RC-158991 - Nigeria",
+    "description": "AJANI SOMOYE INDUSTRIES LTD Nigeria company, Company number: RC-158991, Incorporation Date Dec 3, 1990;, Address: 124, AKA RD., OKOMAIKO, LAGOS, OKOMAIKO, LAGOS STATE",
+    "company": {
+      "id": 62485505,
+      "name": "AJANI SOMOYE INDUSTRIES LTD",
+      "internationalNumber": "RC-158991",
+      "localNumber": "158991",
+      "countryId": 24,
+      "dateCreated": "1990-12-03T00:00:00.000Z",
+      "createdAt": "2021-05-30T10:37:02.624Z",
+      "updatedAt": "2024-06-15T15:30:22.370Z",
+      "alternateNames": [],
+      "address": "124, AKA RD., OKOMAIKO, LAGOS, OKOMAIKO, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "323388",
+      "updatedAtSitemap": "2024-02-01T19:16:33.000Z",
+      "oldInternationalNumber": "158991",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 253,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100816070,
+          "address": "124, AKA RD., OKOMAIKO, LAGOS, OKOMAIKO, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 231352716,
+          "companyId": 62485505,
+          "personId": 78755606,
+          "roleId": 60331,
+          "appointedOn": "2021-05-21",
+          "sourceNum": 1,
+          "person": {
+            "id": 78755606,
+            "name": "taiwo ahmed wasiu",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "birthYear": 1958,
+            "birthMonth": 4,
+            "birthDate": 22,
+            "address": "Continental Suites, Presidential Boulevard, Ibara, 1",
+            "countryOfResidence": "NIGERIA",
+            "number": "A09202264",
+            "documentType": "International Passport",
+            "email": "wessyjay@yahoo.com",
+            "phone": "08033312324",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231352715,
+          "companyId": 62485505,
+          "personId": 94558013,
+          "roleId": 60331,
+          "appointedOn": "2021-05-21",
+          "sourceNum": 1,
+          "person": {
+            "id": 94558013,
+            "name": "okauru ifueko marina, omoigui",
+            "countryId": 24,
+            "occupation": "Consultant ",
+            "nationality": "Nigeria",
+            "birthYear": 1962,
+            "birthMonth": 12,
+            "birthDate": 9,
+            "address": "10 RHINE STREET",
+            "countryOfResidence": "NIGERIA",
+            "number": "A50212248",
+            "documentType": "International Passport",
+            "email": "ifueko_Omoigui@yahoo.com",
+            "phone": "08033245689",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238213529,
+          "companyId": 62485505,
+          "personId": 97098750,
+          "roleId": 60320,
+          "appointedOn": "2021-05-21",
+          "sourceNum": 1,
+          "person": {
+            "id": 97098750,
+            "name": "adebayo temitope",
+            "countryId": 24,
+            "address": "3rd Floor, 79, Allen Avenue",
+            "countryOfResidence": "NIGERIA",
+            "email": "topeadebayo@yahoo.com",
+            "phone": "2348025426833",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "DONJOE CONTINENTAL VENTURES NIGERIA LTD",
+              "internationalNumber": "RC-161902"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242388507,
+          "companyId": 62485505,
+          "personId": 97377770,
+          "roleId": 114332,
+          "person": {
+            "id": 97377770,
+            "name": "temitope adebayo",
+            "countryId": 24,
+            "address": "NO 30, 24TH STREET BEHIND NNPC JUNIOR STAFF CLUB, DDPA ESTATE  EFFURUN                                                                                               DELTA",
+            "countryOfResidence": "NIGERIA",
+            "documentNumber": "B50058950",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "LAWAL IYANDA FARMS LIMITED",
+              "internationalNumber": "RC-808927"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 3
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

@@ -1,0 +1,399 @@
+[
+  {
+    "year": "1990",
+    "title": "LORENYKS NIGERIA LTD - RC-159509 - Nigeria",
+    "description": "LORENYKS NIGERIA LTD Nigeria company, Company number: RC-159509, Incorporation Date Dec 7, 1990;, Address: PLOT RP/99 GOVERNMENT STATION LAYOUT, OWERRI, IMO, OWERRI, IMO STATE",
+    "company": {
+      "id": 62488261,
+      "name": "LORENYKS NIGERIA LTD",
+      "internationalNumber": "RC-159509",
+      "localNumber": "159509",
+      "countryId": 24,
+      "dateCreated": "1990-12-07T00:00:00.000Z",
+      "createdAt": "2021-05-30T10:52:49.427Z",
+      "updatedAt": "2024-06-15T15:30:24.213Z",
+      "alternateNames": [],
+      "address": "PLOT RP/99 GOVERNMENT STATION LAYOUT, OWERRI, IMO, OWERRI, IMO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "323906",
+      "updatedAtSitemap": "2024-02-01T19:16:35.000Z",
+      "oldInternationalNumber": "159509",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 129,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100819994,
+          "address": "PLOT RP/99 GOVERNMENT STATION LAYOUT, OWERRI, IMO, OWERRI, IMO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 231334406,
+          "companyId": 62488261,
+          "personId": 66826365,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66826365,
+            "name": "george njoku                                                                                         n/a",
+            "countryId": 24,
+            "address": "NG 7 EXPRESS WAY, KADUNA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SILVER STALLION LIMITED",
+              "internationalNumber": "RC-194546"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231334410,
+          "companyId": 62488261,
+          "personId": 66826370,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66826370,
+            "name": "george njoku",
+            "countryId": 24,
+            "address": "NG 7 EXPRESS WAY, KADUNA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SILVER STALLION LIMITED",
+              "internationalNumber": "RC-194546"
+            },
+            {
+              "name": "WATSON GREK ASSOCIATED LIMITED",
+              "internationalNumber": "RC-1048398"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231334403,
+          "companyId": 62488261,
+          "personId": 66883091,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66883091,
+            "name": "emmanuel njoku                                                                                       n/a",
+            "countryId": 24,
+            "address": "25, KOSEH STR., BALOGUN, LAGOS.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "KIN-WISE LTD",
+              "internationalNumber": "RC-144018"
+            },
+            {
+              "name": "U. CHIMAN NIGERIA LIMITED",
+              "internationalNumber": "RC-884634"
+            },
+            {
+              "name": "MOTRADE PHARMACEUTICAL AND GENERAL ENT. LTD",
+              "internationalNumber": "RC-262180"
+            },
+            {
+              "name": "LAMARK ENTERPRISES LIMITED",
+              "internationalNumber": "RC-216828"
+            },
+            {
+              "name": "AKUBASON NIG LTD",
+              "internationalNumber": "RC-52194"
+            },
+            {
+              "name": "DEMAKSON MOTORS NIG LTD",
+              "internationalNumber": "RC-62750"
+            },
+            {
+              "name": "VONIC NIG LTD",
+              "internationalNumber": "RC-190250"
+            },
+            {
+              "name": "OSBARTH NIG LTD",
+              "internationalNumber": "RC-240722"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231334408,
+          "companyId": 62488261,
+          "personId": 94550858,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 94550858,
+            "name": "micholas n, njoku",
+            "countryId": 24,
+            "address": "PLOT RP/99 GOVT, STATION LAYOUT OWERRI.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5,
+        "3": 4
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

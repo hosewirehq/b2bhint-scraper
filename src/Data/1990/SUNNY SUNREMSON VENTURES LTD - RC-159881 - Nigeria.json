@@ -1,0 +1,629 @@
+[
+  {
+    "year": "1990",
+    "title": "SUNNY SUNREMSON VENTURES LTD - RC-159881 - Nigeria",
+    "description": "SUNNY SUNREMSON VENTURES LTD  Nigeria company, Company number: RC-159881, Incorporation Date Dec 9, 1990;, Address: 5A, KAROUNNI AVENUE, ITIRE, LAGOS, LAGOS",
+    "company": {
+      "id": 99898447,
+      "name": "SUNNY SUNREMSON VENTURES LTD ",
+      "internationalNumber": "RC-159881",
+      "localNumber": "159881",
+      "countryId": 24,
+      "dateCreated": "1990-12-09T00:00:00.000Z",
+      "createdAt": "2022-03-01T22:59:17.751Z",
+      "updatedAt": "2024-06-15T15:30:24.160Z",
+      "alternateNames": [],
+      "address": "5A, KAROUNNI AVENUE, ITIRE, LAGOS, LAGOS",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "2000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "2000000",
+      "historicalNames": [],
+      "activityDescription": "TO ESTABLISH AND CARRY ON THE BUSINESS OF IMPORT AND EXPORT MERCHANTS,BUILDING CONTRACTORS,CIVIL ENGINEERING CONTRACTORS",
+      "providerId": "324277",
+      "updatedAtSitemap": "2023-06-09T17:28:29.000Z",
+      "oldInternationalNumber": "159881",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 6,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196924,
+          "providerId": "199237",
+          "providerName": "General Contracts",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:13.437675+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100822672,
+          "address": "5A, KAROUNNI AVENUE, ITIRE, LAGOS, LAGOS",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 245292567,
+          "companyId": 99898447,
+          "personId": 98295873,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 98295873,
+            "name": "sunday banjoko                                                                                       n/a",
+            "countryId": 24,
+            "address": "12, ODUGBOLI STREET, AGUDA S/LERE, LAGOS.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "MICHEAL   INTER. AGENCIES LTD",
+              "internationalNumber": "RC-15842"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245292569,
+          "companyId": 99898447,
+          "personId": 98295875,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 98295875,
+            "name": "sunday banjoko",
+            "countryId": 24,
+            "address": "12, ODUGBOLI STREET, AGUDA S/LERE, LAGOS.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MICHEAL   INTER. AGENCIES LTD",
+              "internationalNumber": "RC-15842"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245292570,
+          "companyId": 99898447,
+          "personId": 100272593,
+          "roleId": 60320,
+          "appointedOn": "2021-11-27",
+          "sourceNum": 1,
+          "person": {
+            "id": 100272593,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "U. D. CONSTRUCTION COMPANY LIMITED",
+              "internationalNumber": "RC-263037"
+            },
+            {
+              "name": "JUNIOR INVEST. CO. LTD",
+              "internationalNumber": "RC-263038"
+            },
+            {
+              "name": "SOWEMIMO FARM PRODUCE CO. LTD",
+              "internationalNumber": "RC-263047"
+            },
+            {
+              "name": "JERTO ALUMINIUM PRODUCTS LTD",
+              "internationalNumber": "RC-263036"
+            },
+            {
+              "name": "LOCUUS  INTERGRATED  LTD",
+              "internationalNumber": "RC-263041"
+            },
+            {
+              "name": "WAJSAM VENTURES NIG LTD",
+              "internationalNumber": "RC-263034"
+            },
+            {
+              "name": "DISTRIBUTIVE  TRADING  STORES  LTD",
+              "internationalNumber": "RC-263015"
+            },
+            {
+              "name": "PRINCIPLE  INVESTMENTS  LTD",
+              "internationalNumber": "RC-263040"
+            },
+            {
+              "name": "BENAOLIN AND SONS CO. LTD",
+              "internationalNumber": "RC-263042"
+            },
+            {
+              "name": "GREENLAND FARMS AND FOOD PROC. CO. NIG LTD",
+              "internationalNumber": "RC-263048"
+            },
+            {
+              "name": "DUO-SOAKS NIG LTD",
+              "internationalNumber": "RC-263049"
+            },
+            {
+              "name": "GEORGE OGIAMIEN EMOKPAE AND SONS LTD",
+              "internationalNumber": "RC-263016"
+            },
+            {
+              "name": "LCB  INVESTMENTD  CO. LTD",
+              "internationalNumber": "RC-263050"
+            },
+            {
+              "name": "LANBOL INVESMENTS LTD",
+              "internationalNumber": "RC-263044"
+            },
+            {
+              "name": "DONATEX NIGERIA LTD",
+              "internationalNumber": "RC-263035"
+            },
+            {
+              "name": "YOMFIRST   NIG LTD",
+              "internationalNumber": "RC-263043"
+            },
+            {
+              "name": "STRONGLINK NIGERIA LIMITED ",
+              "internationalNumber": "RC-168485"
+            },
+            {
+              "name": "ABECCO INVESTMENT NIGERIA LTD",
+              "internationalNumber": "RC-263023"
+            },
+            {
+              "name": "FEMI-OJO TOURISM CONSULT AND SERVICES LTD",
+              "internationalNumber": "RC-263032"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245292566,
+          "companyId": 99898447,
+          "personId": 100272610,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 100272610,
+            "name": "oluremi banjoko                                                                                      n/a",
+            "countryId": 24,
+            "address": "5A, KAROUNWI AVENUE, ITIRE. LAGOS.",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245292571,
+          "companyId": 99898447,
+          "personId": 100272612,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 100272612,
+            "name": "debo adenuga",
+            "countryId": 24,
+            "address": "8 ADENUGA STREET,SURULERE,LAGOS.",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245292572,
+          "companyId": 99898447,
+          "personId": 100272613,
+          "roleId": 60323,
+          "appointedOn": "2021-05-20",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 100000,
+          "person": {
+            "id": 100272613,
+            "name": "banjoko  sunday",
+            "countryId": 24,
+            "address": "NO.5A KARUNWI AVENUE, ITIRE",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245292573,
+          "companyId": 99898447,
+          "personId": 100272614,
+          "roleId": 60323,
+          "appointedOn": "2021-05-20",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 1900000,
+          "person": {
+            "id": 100272614,
+            "name": "banjoko oluremi",
+            "countryId": 24,
+            "address": "NO.5A KARUNWI AVENUE, ITIRE",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245292574,
+          "companyId": 99898447,
+          "personId": 100272615,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 100272615,
+            "name": "aderemi akanni abimbola",
+            "countryId": 24,
+            "address": "6/8 DABARA STREET,LAGOS.",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "null": 2
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

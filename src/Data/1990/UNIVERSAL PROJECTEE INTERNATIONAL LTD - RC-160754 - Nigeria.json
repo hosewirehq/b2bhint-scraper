@@ -1,0 +1,382 @@
+[
+  {
+    "year": "1990",
+    "title": "UNIVERSAL PROJECTEE INTERNATIONAL LTD - RC-160754 - Nigeria",
+    "description": "UNIVERSAL PROJECTEE INTERNATIONAL LTD Nigeria company, Company number: RC-160754, Incorporation Date Dec 31, 1990;, Address: 84, CEMETERY ROAD, WARRI, DELTA, WARRI, DELTA STATE",
+    "company": {
+      "id": 62059010,
+      "name": "UNIVERSAL PROJECTEE INTERNATIONAL LTD",
+      "internationalNumber": "RC-160754",
+      "localNumber": "160754",
+      "countryId": 24,
+      "dateCreated": "1990-12-31T00:00:00.000Z",
+      "createdAt": "2021-05-28T02:17:27.937Z",
+      "updatedAt": "2024-06-15T16:44:05.003Z",
+      "alternateNames": [],
+      "address": "84, CEMETERY ROAD, WARRI, DELTA, WARRI, DELTA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "200000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "325146",
+      "updatedAtSitemap": "2024-02-01T18:17:08.000Z",
+      "oldInternationalNumber": "160754",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 84,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 91433565,
+          "address": "84, CEMETERY ROAD, WARRI, DELTA, WARRI, DELTA STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "PEMKO INTERNATIONAL COMPANY",
+              "internationalNumber": "BN-887180"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 241597800,
+          "companyId": 62059010,
+          "personId": 97272122,
+          "roleId": 60320,
+          "appointedOn": "2021-06-26",
+          "sourceNum": 1,
+          "person": {
+            "id": 97272122,
+            "name": "ezeani chukwuemeka",
+            "countryId": 24,
+            "address": "NO. 2, BIRIKO ROAD EBUBU ELEME  PORTHARCOURT                                                                                          RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241597801,
+          "companyId": 62059010,
+          "personId": 98649139,
+          "roleId": 60331,
+          "appointedOn": "2021-06-26",
+          "sourceNum": 1,
+          "person": {
+            "id": 98649139,
+            "name": "ola-aroyewun salimot",
+            "countryId": 24,
+            "occupation": "Retired assistant director of nursing",
+            "nationality": "Nigeria",
+            "birthYear": 1960,
+            "birthMonth": 1,
+            "birthDate": 16,
+            "address": "Egbado road, Dalemo, 136",
+            "countryOfResidence": "NIGERIA",
+            "number": "86310266385",
+            "documentType": "National ID Card",
+            "email": "ikselaoyewun@gmail.com",
+            "phone": "08026191594",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241597802,
+          "companyId": 62059010,
+          "personId": 98649140,
+          "roleId": 60331,
+          "appointedOn": "2021-06-26",
+          "sourceNum": 1,
+          "person": {
+            "id": 98649140,
+            "name": "ola-aroyewun satarat",
+            "countryId": 24,
+            "occupation": "Entrepreneur",
+            "nationality": "Nigeria",
+            "birthYear": 1992,
+            "birthMonth": 9,
+            "birthDate": 1,
+            "address": "Egbado road, Dalemo, 136",
+            "countryOfResidence": "NIGERIA",
+            "number": "74264647771",
+            "documentType": "National ID Card",
+            "email": "olaaroyewunsatarat@gmail.com",
+            "phone": "08096975080",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241625453,
+          "companyId": 62059010,
+          "personId": 98660338,
+          "roleId": 60318,
+          "person": {
+            "id": 98660338,
+            "name": "chukwuemeka ezeani",
+            "countryId": 24,
+            "address": "3 EGBEDA CLOSE, EFURAROJA IKORODU  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "documentNumber": "47361065490",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SIE TREASURE LINK LIMITED",
+              "internationalNumber": "RC-696366"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 3
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

@@ -1,0 +1,600 @@
+[
+  {
+    "year": "1990",
+    "title": "CANNAANS ENTERPRISES NIGERIA LIMITED - RC-159448 - Nigeria",
+    "description": "CANNAANS ENTERPRISES NIGERIA LIMITED Nigeria company, Company number: RC-159448, Incorporation Date Dec 6, 1990;, Address: 15, KINGSWAY ROAD IKOYI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62487934,
+      "name": "CANNAANS ENTERPRISES NIGERIA LIMITED",
+      "internationalNumber": "RC-159448",
+      "localNumber": "159448",
+      "countryId": 24,
+      "dateCreated": "1990-12-06T00:00:00.000Z",
+      "createdAt": "2021-05-30T10:51:04.016Z",
+      "updatedAt": "2024-06-15T15:30:21.241Z",
+      "alternateNames": [],
+      "address": "15, KINGSWAY ROAD IKOYI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "323845",
+      "updatedAtSitemap": "2024-02-01T19:16:33.000Z",
+      "oldInternationalNumber": "159448",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 254,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82084841,
+          "address": "15, KINGSWAY ROAD IKOYI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "GOLDENGATE INDUSTRIES LIMITED",
+              "internationalNumber": "RC-111312"
+            },
+            {
+              "name": "NOTABLE MUTUAL VENTURES LTD",
+              "internationalNumber": "RC-146083"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 245512682,
+          "companyId": 62487934,
+          "personId": 66778248,
+          "roleId": 114332,
+          "person": {
+            "id": 66778248,
+            "name": "omotejowho philomena asia",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1983,
+            "birthMonth": 5,
+            "birthDate": 10,
+            "address": "25 Alibaba crescent, jabi, Abuja, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1697905",
+            "documentType": "International Passport",
+            "documentNumber": "A000494534",
+            "email": "omotejowhoasia@yahoo.com",
+            "phone": "+234 803 200 8219",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "BEDEO BAKERY",
+              "internationalNumber": "BN-3071246"
+            },
+            {
+              "name": "LUECOMPLETEBEAUTY ENTERPRISE",
+              "internationalNumber": "BN-2522456"
+            },
+            {
+              "name": "VITA DI LUSSO",
+              "internationalNumber": "BN-2981747"
+            },
+            {
+              "name": "ICARE SECURITY AND SAFETY CONSULT LTD",
+              "internationalNumber": "RC-1500187"
+            },
+            {
+              "name": "HAEMOCARE CLINICAL PATHOLOGY AND DIAGNOSTIC SERVICES LTD",
+              "internationalNumber": "RC-1474515"
+            },
+            {
+              "name": "STRATAPRO NIGERIA LIMITED",
+              "internationalNumber": "RC-1426827"
+            },
+            {
+              "name": "MILLA IMPAKA MULTI-DYNAMIC",
+              "internationalNumber": "BN-2877749"
+            },
+            {
+              "name": "ZUMERA NIG LTD",
+              "internationalNumber": "RC-1377264"
+            },
+            {
+              "name": "STRONG TIES SYNERGY HUB LTD",
+              "internationalNumber": "RC-1674430"
+            },
+            {
+              "name": "KKPOSHEVENTS  GLOBAL RESOURCES LTD",
+              "internationalNumber": "RC-1567176"
+            },
+            {
+              "name": "SEALED WITH GOLD OIL AND GAS SERVICES LIMITED",
+              "internationalNumber": "RC-1426570"
+            },
+            {
+              "name": "NATREBIE APARIKIBA VENTURE",
+              "internationalNumber": "BN-2877779"
+            },
+            {
+              "name": "EPISO ONE GLOBAL RESOURCES",
+              "internationalNumber": "BN-2604412"
+            },
+            {
+              "name": "JOAT   LIMITLESS  SYNERGY",
+              "internationalNumber": "BN-2619764"
+            },
+            {
+              "name": "PAGE ONE DYNAMIC SYNERGY LTD",
+              "internationalNumber": "RC-1624225"
+            },
+            {
+              "name": "AKOKO EDO MIXED GRAMMAR SCHOOL OLD STUDENTS ASSOCIATION",
+              "internationalNumber": "IT-154063"
+            },
+            {
+              "name": "ITEE ENTERPRISES LTD",
+              "internationalNumber": "RC-120582"
+            },
+            {
+              "name": "PERFECTO FINIRE INTERNATIONAL HUB LTD",
+              "internationalNumber": "RC-1447252"
+            },
+            {
+              "name": "ARMA BIO PHARM TECHNOLOGIES LTD",
+              "internationalNumber": "RC-1534483"
+            },
+            {
+              "name": "J.TAG. HUBS",
+              "internationalNumber": "BN-2455387"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238183429,
+          "companyId": 62487934,
+          "personId": 69424503,
+          "roleId": 60331,
+          "appointedOn": "2021-06-02",
+          "sourceNum": 1,
+          "person": {
+            "id": 69424503,
+            "name": "orji ugochi ann",
+            "countryId": 24,
+            "occupation": "Entreprenuer",
+            "nationality": "Nigeria",
+            "birthYear": 1990,
+            "birthMonth": 1,
+            "birthDate": 21,
+            "address": "OLADUNNI AYANDIPO CLOSE, KATAMPE EXTENSION, NO. 1",
+            "countryOfResidence": "NIGERIA",
+            "number": "A11564325",
+            "documentType": "International Passport",
+            "email": "UGOCHIORJI@GMAIL.COM",
+            "phone": "08037766137",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238183430,
+          "companyId": 62487934,
+          "personId": 69424503,
+          "roleId": 60330,
+          "appointedOn": "2021-06-02",
+          "sourceNum": 1,
+          "person": {
+            "id": 69424503,
+            "name": "orji ugochi ann",
+            "countryId": 24,
+            "occupation": "Entreprenuer",
+            "nationality": "Nigeria",
+            "birthYear": 1990,
+            "birthMonth": 1,
+            "birthDate": 21,
+            "address": "OLADUNNI AYANDIPO CLOSE, KATAMPE EXTENSION, NO. 1",
+            "countryOfResidence": "NIGERIA",
+            "number": "A11564325",
+            "documentType": "International Passport",
+            "email": "UGOCHIORJI@GMAIL.COM",
+            "phone": "08037766137",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238183433,
+          "companyId": 62487934,
+          "personId": 74078476,
+          "roleId": 60320,
+          "appointedOn": "2021-06-07",
+          "sourceNum": 1,
+          "person": {
+            "id": 74078476,
+            "name": "olapo folorunso samuel",
+            "countryId": 24,
+            "address": "No. 3, Layi Oyekanmi Street, Mushin, Lagos",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "National Identification Number",
+            "email": "folusolapo@yahoo.com",
+            "phone": "2348055219813",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "TG AND Y NIGERIAN LTD",
+              "internationalNumber": "RC-114215"
+            },
+            {
+              "name": "DIRAX NIG LTD",
+              "internationalNumber": "RC-115662"
+            },
+            {
+              "name": "MUTINA COSTAL AGENCIES LTD",
+              "internationalNumber": "RC-159450"
+            },
+            {
+              "name": "JAMIL ENGINEERING COMPANY LIMITED",
+              "internationalNumber": "RC-115019"
+            },
+            {
+              "name": "DYANORA NIGERIA LTD",
+              "internationalNumber": "RC-115488"
+            },
+            {
+              "name": "INDO CONCEPTS LIMITED",
+              "internationalNumber": "RC-159317"
+            },
+            {
+              "name": "STEV-BEN INVESTMENT COMPANY LIMITED",
+              "internationalNumber": "RC-159402"
+            },
+            {
+              "name": "CHRISTON & EDSON AVIATION CONSULTANTS LIMITED",
+              "internationalNumber": "RC-159527"
+            },
+            {
+              "name": "LIVING PRAISE ASSOCIATES LTD",
+              "internationalNumber": "RC-114679"
+            },
+            {
+              "name": "BARTEL NIGERIA AIR SERVICES LIMITED",
+              "internationalNumber": "RC-114321"
+            },
+            {
+              "name": "OFFIN LIMITED",
+              "internationalNumber": "RC-159405"
+            },
+            {
+              "name": "RIENNE NIG LTD",
+              "internationalNumber": "RC-115564"
+            },
+            {
+              "name": "JAMALFA NIGERIA LTD",
+              "internationalNumber": "RC-115113"
+            },
+            {
+              "name": "UNITED COURIERS LIMITED",
+              "internationalNumber": "RC-159306"
+            },
+            {
+              "name": "ADEMSON ENTERPRISES NIG LTD",
+              "internationalNumber": "RC-113782"
+            },
+            {
+              "name": "ZEES COMMUNICATIONS LIMITED",
+              "internationalNumber": "RC-115690"
+            },
+            {
+              "name": "KINGEX INTERANTIONAL LTD",
+              "internationalNumber": "RC-159419"
+            },
+            {
+              "name": "DIGITAL REALM LIMITED",
+              "internationalNumber": "RC-113753"
+            },
+            {
+              "name": "CAPRICE FASHIONS LIMITED",
+              "internationalNumber": "RC-159260"
+            },
+            {
+              "name": "LEO CHIGBUNDU BROTHERS (WEST AFRICA) LTD",
+              "internationalNumber": "RC-159407"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238183427,
+          "companyId": 62487934,
+          "personId": 97127721,
+          "roleId": 60320,
+          "appointedOn": "2021-06-02",
+          "sourceNum": 1,
+          "person": {
+            "id": 97127721,
+            "name": "asia omotejowho philomena",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "Suit B10 Jabi Plaze,Jabi Abuja",
+            "countryOfResidence": "NIGERIA",
+            "email": "omotejowhoasia@yahoo.com",
+            "phone": "08032008219",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

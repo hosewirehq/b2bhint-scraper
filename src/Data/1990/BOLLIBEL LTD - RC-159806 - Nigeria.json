@@ -1,0 +1,404 @@
+[
+  {
+    "year": "1990",
+    "title": "BOLLIBEL LTD - RC-159806 - Nigeria",
+    "description": "BOLLIBEL  LTD Nigeria company, Company number: RC-159806, Incorporation Date Dec 6, 1990;, Address: 68A JEBBA STREET, EAST EBUTEMETTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62058170,
+      "name": "BOLLIBEL  LTD",
+      "internationalNumber": "RC-159806",
+      "localNumber": "159806",
+      "countryId": 24,
+      "dateCreated": "1990-12-06T00:00:00.000Z",
+      "createdAt": "2021-05-28T02:13:24.129Z",
+      "updatedAt": "2024-06-15T15:30:24.080Z",
+      "alternateNames": [],
+      "address": "68A JEBBA STREET, EAST EBUTEMETTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "324202",
+      "updatedAtSitemap": "2024-02-01T19:16:35.000Z",
+      "oldInternationalNumber": "159806",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 254,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100822176,
+          "address": "68A JEBBA STREET, EAST EBUTEMETTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 245123763,
+          "companyId": 62058170,
+          "personId": 68232389,
+          "roleId": 114349,
+          "person": {
+            "id": 68232389,
+            "name": "vincent olorunmola yusuf",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1979,
+            "birthMonth": 12,
+            "birthDate": 23,
+            "address": "4BUMUAHIA CLOSE, OFF EMEKA ANYOKU STREET, ABUJA, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1960724",
+            "documentType": "National ID Card",
+            "documentNumber": "10481137397",
+            "email": "vincentmore2016@gmail.com",
+            "phone": "+234 805 838 4118",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114349,
+            "name": "Legal Practice",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practice"
+            }
+          },
+          "companies": [
+            {
+              "name": "ANCIENT WORD GLOBAL MISSION",
+              "internationalNumber": "IT-135106"
+            },
+            {
+              "name": "HOLAS DELIGHT",
+              "internationalNumber": "BN-3473164"
+            },
+            {
+              "name": "BREXCELLENCE  NIG LTD",
+              "internationalNumber": "RC-1903438"
+            },
+            {
+              "name": "MIDAS TOUCH COMMERCIAL LIMITED",
+              "internationalNumber": "RC-169172"
+            },
+            {
+              "name": "BERACHAH CONSULTING LIMITED",
+              "internationalNumber": "RC-1577555"
+            },
+            {
+              "name": "YAKSFIELD NIG LTD",
+              "internationalNumber": "RC-1742820"
+            },
+            {
+              "name": "MOBRICK CONSTRUCTION NIG LTD",
+              "internationalNumber": "RC-1483394"
+            },
+            {
+              "name": "LEAEDGE CONSULTING LIMITED",
+              "internationalNumber": "RC-1559480"
+            },
+            {
+              "name": "ADETORO GLOBAL TECH VENTURES",
+              "internationalNumber": "BN-3609482"
+            },
+            {
+              "name": "DIGIPRO MEDIA ENTERPRISE",
+              "internationalNumber": "BN-2917483"
+            },
+            {
+              "name": "WORD-BASED DELIVERANCE OUTREACH MINISTRY",
+              "internationalNumber": "IT-109760"
+            },
+            {
+              "name": "KINGDOM WORD & POWER MISSION",
+              "internationalNumber": "IT-133133"
+            },
+            {
+              "name": "LEKADEREM INTEGRATED SERVICES LTD",
+              "internationalNumber": "RC-1594540"
+            },
+            {
+              "name": "AHIAZU AGRO ALLIED INDUSTRIES LIMITED",
+              "internationalNumber": "RC-109760"
+            },
+            {
+              "name": "LESLIEJANE CHIC LTD",
+              "internationalNumber": "RC-1494629"
+            },
+            {
+              "name": "WATERBRIDGE  ATTORNEYS",
+              "internationalNumber": "BN-2878069"
+            },
+            {
+              "name": "FIRSTSTORE VENTURES",
+              "internationalNumber": "BN-3198007"
+            },
+            {
+              "name": "SAMMYTEX  INTEGRATED SERVICES LIMITED",
+              "internationalNumber": "RC-1612817"
+            },
+            {
+              "name": "AJIMAJASAN  GLOBAL VENTURES LTD",
+              "internationalNumber": "RC-1805777"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241606366,
+          "companyId": 62058170,
+          "personId": 98652626,
+          "roleId": 60320,
+          "appointedOn": "2021-06-08",
+          "sourceNum": 1,
+          "person": {
+            "id": 98652626,
+            "name": "yusuf vincent olorunmola",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "No 4b, Umuahia Close\nOff Emeka Anyoku Street\nArea 11,\nGarki Abuja\n",
+            "countryOfResidence": "NIGERIA",
+            "email": "vincentmore2016@gmail.com",
+            "phone": "08058384118",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241606367,
+          "companyId": 62058170,
+          "personId": 98652627,
+          "roleId": 60331,
+          "appointedOn": "2021-06-08",
+          "sourceNum": 1,
+          "person": {
+            "id": 98652627,
+            "name": "salami adekunle peace",
+            "countryId": 24,
+            "occupation": "Clergy ",
+            "nationality": "Nigeria",
+            "birthYear": 1981,
+            "birthMonth": 9,
+            "birthDate": 17,
+            "address": "BLOCK 2, FLAT A  ROAD 371",
+            "countryOfResidence": "NIGERIA",
+            "number": "ABC947564411",
+            "documentType": "Driver's License",
+            "email": "kpeace1818@gmail.com",
+            "phone": "07035607067",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 6
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

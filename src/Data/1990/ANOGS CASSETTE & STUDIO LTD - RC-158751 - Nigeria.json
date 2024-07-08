@@ -1,0 +1,594 @@
+[
+  {
+    "year": "1990",
+    "title": "ANOGS CASSETTE & STUDIO LTD - RC-158751 - Nigeria",
+    "description": "ANOGS CASSETTE & STUDIO LTD Nigeria company, Company number: RC-158751, Incorporation Date Nov 23, 1990;, Address: 8, ANAZONWU STREET, ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+    "company": {
+      "id": 62484394,
+      "name": "ANOGS CASSETTE & STUDIO LTD",
+      "internationalNumber": "RC-158751",
+      "localNumber": "158751",
+      "countryId": 24,
+      "dateCreated": "1990-11-23T00:00:00.000Z",
+      "createdAt": "2021-05-30T10:31:29.170Z",
+      "updatedAt": "2024-06-15T15:30:21.529Z",
+      "alternateNames": [],
+      "address": "8, ANAZONWU STREET, ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "323149",
+      "updatedAtSitemap": "2024-02-01T19:16:32.000Z",
+      "oldInternationalNumber": "158751",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 367,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82046492,
+          "address": "8, ANAZONWU STREET, ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "PJJ OIL AND CHEMICALS NIG LIMITED",
+              "internationalNumber": "RC-284219"
+            },
+            {
+              "name": "SPEEDLINE COMPANY LIMITED",
+              "internationalNumber": "RC-20247"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 242071445,
+          "companyId": 62484394,
+          "personId": 66443871,
+          "roleId": 114332,
+          "person": {
+            "id": 66443871,
+            "name": "ranti mathew adeleye",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1986,
+            "birthMonth": 10,
+            "birthDate": 21,
+            "address": "14Oye Balogun Street, Off Freedom Way, Lekki Phase 1, Lekki, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1927318",
+            "documentType": "International Passport",
+            "documentNumber": "50737932227",
+            "email": "adeleye.ranti@yahoo.com",
+            "phone": "+234 807 173 0495",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "ALIBABA_SHOPPERS",
+              "internationalNumber": "BN-2740779"
+            },
+            {
+              "name": "KATTILDA COUTURE",
+              "internationalNumber": "BN-3512655"
+            },
+            {
+              "name": "DAMMYBEAUTIES MAKEOVER AND COSMETICS",
+              "internationalNumber": "BN-3516845"
+            },
+            {
+              "name": "LOTSAT FOUNDATION",
+              "internationalNumber": "IT-154886"
+            },
+            {
+              "name": "GLOWEE AKAI VENTURES",
+              "internationalNumber": "BN-2801322"
+            },
+            {
+              "name": "TIFE GIFTS AND MORE",
+              "internationalNumber": "BN-2825982"
+            },
+            {
+              "name": "TEDAHS MULTI BUSINESS ENTERPRISE",
+              "internationalNumber": "BN-2998885"
+            },
+            {
+              "name": "HALO STORE",
+              "internationalNumber": "BN-2737068"
+            },
+            {
+              "name": "TINABEN CREATIONS NIGERIA LIMITED",
+              "internationalNumber": "RC-154886"
+            },
+            {
+              "name": "SOLA'S IMPRINT DELICACIES",
+              "internationalNumber": "BN-3291098"
+            },
+            {
+              "name": "MARYG WORLD SIGNATURE",
+              "internationalNumber": "BN-2818041"
+            },
+            {
+              "name": "BEAUTY GLAM SKINCARE ENTERPRISE",
+              "internationalNumber": "BN-3137810"
+            },
+            {
+              "name": "AGROCHIN CHEMICALS LTD",
+              "internationalNumber": "RC-128477"
+            },
+            {
+              "name": "DEEJAH BUSINESS ENTERPRISES",
+              "internationalNumber": "BN-3065389"
+            },
+            {
+              "name": "FASHIUS ENTERPRISE",
+              "internationalNumber": "BN-2817944"
+            },
+            {
+              "name": "OPTRA PALACE HOTEL",
+              "internationalNumber": "BN-2568164"
+            },
+            {
+              "name": "WURA'S CLOTHING ENTERPRISE",
+              "internationalNumber": "BN-3086414"
+            },
+            {
+              "name": "ODIYAN VILLA APARTMENTS",
+              "internationalNumber": "BN-3452687"
+            },
+            {
+              "name": "PROPS AND SHOPS",
+              "internationalNumber": "BN-2825964"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231359912,
+          "companyId": 62484394,
+          "personId": 94560776,
+          "roleId": 60331,
+          "appointedOn": "2021-05-17",
+          "sourceNum": 1,
+          "person": {
+            "id": 94560776,
+            "name": "samuel oluranti sunday",
+            "countryId": 24,
+            "occupation": "Lecturing",
+            "nationality": "Nigeria",
+            "birthYear": 1964,
+            "birthMonth": 2,
+            "birthDate": 8,
+            "address": " Titus Akinkugbe Street, Igbekele Estate, 21",
+            "countryOfResidence": "NIGERIA",
+            "number": "FKJ36336AA02",
+            "documentType": "Driver's License",
+            "email": "oluranti02samuel@gmail.com",
+            "phone": "08023003929",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231359913,
+          "companyId": 62484394,
+          "personId": 94560777,
+          "roleId": 60331,
+          "appointedOn": "2021-05-17",
+          "sourceNum": 1,
+          "person": {
+            "id": 94560777,
+            "name": "olayemi wasiu ajani",
+            "countryId": 24,
+            "occupation": "Lecturing",
+            "nationality": "Nigeria",
+            "birthYear": 1972,
+            "birthMonth": 5,
+            "birthDate": 24,
+            "address": "Ife-Oluwa Street, Baba Bose Olomi, 1B",
+            "countryOfResidence": "NIGERIA",
+            "number": "TTD14757AA01",
+            "documentType": "Driver's License",
+            "email": "w_olayemi@yahoo.co.uk",
+            "phone": "08023671812",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238223336,
+          "companyId": 62484394,
+          "personId": 97133878,
+          "roleId": 60320,
+          "appointedOn": "2021-05-17",
+          "sourceNum": 1,
+          "person": {
+            "id": 97133878,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "KANGAMA CONSTRUCTION  CONCEPT",
+              "internationalNumber": "BN-4019680"
+            },
+            {
+              "name": "HOSEA NUHU AND SONS",
+              "internationalNumber": "BN-4019710"
+            },
+            {
+              "name": "H.A EXCLUSIVE COLLECTIONS",
+              "internationalNumber": "BN-4019714"
+            },
+            {
+              "name": "QUANA'A NIGERIA LIMITED",
+              "internationalNumber": "RC-158749"
+            },
+            {
+              "name": "SAMAEB VENTURE AND MULTI BUSINESS PARTNERS",
+              "internationalNumber": "BN-4019718"
+            },
+            {
+              "name": "Yarima fashion design",
+              "internationalNumber": "BN-4019713"
+            },
+            {
+              "name": "IKANREN ENGINEERING & CO. LTD",
+              "internationalNumber": "RC-158995"
+            },
+            {
+              "name": "AMLA GLOBAL RESOURCES",
+              "internationalNumber": "BN-4019707"
+            },
+            {
+              "name": "Abu Safiyyah Enterprises",
+              "internationalNumber": "BN-4019712"
+            },
+            {
+              "name": "INNAJO INTERIOR AND EXTERIOR DECORATION AND DESIGN",
+              "internationalNumber": "BN-4049338"
+            },
+            {
+              "name": "kabiru yakubu & sons",
+              "internationalNumber": "BN-4019717"
+            },
+            {
+              "name": "LINKS BUOYEX LTD",
+              "internationalNumber": "RC-158758"
+            },
+            {
+              "name": "Patient medicine store Provision  Hair cutting",
+              "internationalNumber": "BN-4019716"
+            },
+            {
+              "name": "HADE VENTURES",
+              "internationalNumber": "BN-4019665"
+            },
+            {
+              "name": "ABDULJABBAR USMAN ENTERPRISES",
+              "internationalNumber": "BN-4019711"
+            },
+            {
+              "name": "TROPIC VENTURES NIG LTD",
+              "internationalNumber": "RC-158999"
+            },
+            {
+              "name": "SPHANK NIGERIA LTD",
+              "internationalNumber": "RC-104680"
+            },
+            {
+              "name": "musa capinter enterprise",
+              "internationalNumber": "BN-4019673"
+            },
+            {
+              "name": "LEELA'S ENTERPRISES",
+              "internationalNumber": "BN-4019702"
+            },
+            {
+              "name": "chidimma farm and agro productions",
+              "internationalNumber": "BN-4019693"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238223335,
+          "companyId": 62484394,
+          "personId": 97135893,
+          "roleId": 60320,
+          "appointedOn": "2021-05-17",
+          "sourceNum": 1,
+          "person": {
+            "id": 97135893,
+            "name": "adeleye ranti mathew",
+            "countryId": 24,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "email": "adeleye.ranti@yahoo.com",
+            "phone": "08071730495",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 1,
+        "null": 6
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

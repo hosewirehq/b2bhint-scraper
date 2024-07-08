@@ -1,0 +1,546 @@
+[
+  {
+    "year": "1990",
+    "title": "NEKARIS LTD - RC-158950 - Nigeria",
+    "description": "NEKARIS LTD Nigeria company, Company number: RC-158950, Incorporation Date Nov 29, 1990;, Address: 68, THOMAS ANIMASHAUN STR., AGUDA, LAGOS, AGUDA, LAGOS STATE",
+    "company": {
+      "id": 62485311,
+      "name": "NEKARIS LTD",
+      "internationalNumber": "RC-158950",
+      "localNumber": "158950",
+      "countryId": 24,
+      "dateCreated": "1990-11-29T00:00:00.000Z",
+      "createdAt": "2021-05-30T10:36:08.960Z",
+      "updatedAt": "2024-06-15T15:30:18.686Z",
+      "alternateNames": [],
+      "address": "68, THOMAS ANIMASHAUN STR., AGUDA, LAGOS, AGUDA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "20000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "323347",
+      "updatedAtSitemap": "2024-02-01T19:16:30.000Z",
+      "oldInternationalNumber": "158950",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 257,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100815674,
+          "address": "68, THOMAS ANIMASHAUN STR., AGUDA, LAGOS, AGUDA, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 244171282,
+          "companyId": 62485311,
+          "personId": 67059968,
+          "roleId": 114332,
+          "person": {
+            "id": 67059968,
+            "name": "mark yilkaghan danung",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1984,
+            "birthMonth": 8,
+            "birthDate": 10,
+            "address": "no. 30, utan lane, jos, PLATEAU STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "3062913",
+            "documentType": "Driver's License",
+            "documentNumber": "BUU08311AA41",
+            "email": "danungmark@yahoo.com",
+            "phone": "+234 703 615 3578",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "JAK-JEG NIGERIA LIMITED",
+              "internationalNumber": "RC-1720420"
+            },
+            {
+              "name": "YOBA AGRICULTURAL SERVICES LTD",
+              "internationalNumber": "RC-1739743"
+            },
+            {
+              "name": "POSITIVE WORLD ENTERTAINMENT",
+              "internationalNumber": "BN-3569942"
+            },
+            {
+              "name": "QUICK CARE MEDICAL CONSULTING AND DIAGNOSTIC SERVICES LTD",
+              "internationalNumber": "RC-1760087"
+            },
+            {
+              "name": "GAP SALES AND AUCTIONS LTD",
+              "internationalNumber": "RC-1830230"
+            },
+            {
+              "name": "MWANRET CONSTRUCTION NIGERIA LTD",
+              "internationalNumber": "RC-1812436"
+            },
+            {
+              "name": "PAULA PWUL SERVICES",
+              "internationalNumber": "BN-3557318"
+            },
+            {
+              "name": "ANDEX AND ALLIED SERVICES LTD",
+              "internationalNumber": "RC-745364"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238215283,
+          "companyId": 62485311,
+          "personId": 74078476,
+          "roleId": 60320,
+          "appointedOn": "2021-06-07",
+          "sourceNum": 1,
+          "person": {
+            "id": 74078476,
+            "name": "olapo folorunso samuel",
+            "countryId": 24,
+            "address": "No. 3, Layi Oyekanmi Street, Mushin, Lagos",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "National Identification Number",
+            "email": "folusolapo@yahoo.com",
+            "phone": "2348055219813",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "TG AND Y NIGERIAN LTD",
+              "internationalNumber": "RC-114215"
+            },
+            {
+              "name": "DIRAX NIG LTD",
+              "internationalNumber": "RC-115662"
+            },
+            {
+              "name": "MUTINA COSTAL AGENCIES LTD",
+              "internationalNumber": "RC-159450"
+            },
+            {
+              "name": "JAMIL ENGINEERING COMPANY LIMITED",
+              "internationalNumber": "RC-115019"
+            },
+            {
+              "name": "DYANORA NIGERIA LTD",
+              "internationalNumber": "RC-115488"
+            },
+            {
+              "name": "INDO CONCEPTS LIMITED",
+              "internationalNumber": "RC-159317"
+            },
+            {
+              "name": "STEV-BEN INVESTMENT COMPANY LIMITED",
+              "internationalNumber": "RC-159402"
+            },
+            {
+              "name": "CHRISTON & EDSON AVIATION CONSULTANTS LIMITED",
+              "internationalNumber": "RC-159527"
+            },
+            {
+              "name": "LIVING PRAISE ASSOCIATES LTD",
+              "internationalNumber": "RC-114679"
+            },
+            {
+              "name": "BARTEL NIGERIA AIR SERVICES LIMITED",
+              "internationalNumber": "RC-114321"
+            },
+            {
+              "name": "OFFIN LIMITED",
+              "internationalNumber": "RC-159405"
+            },
+            {
+              "name": "RIENNE NIG LTD",
+              "internationalNumber": "RC-115564"
+            },
+            {
+              "name": "JAMALFA NIGERIA LTD",
+              "internationalNumber": "RC-115113"
+            },
+            {
+              "name": "UNITED COURIERS LIMITED",
+              "internationalNumber": "RC-159306"
+            },
+            {
+              "name": "ADEMSON ENTERPRISES NIG LTD",
+              "internationalNumber": "RC-113782"
+            },
+            {
+              "name": "ZEES COMMUNICATIONS LIMITED",
+              "internationalNumber": "RC-115690"
+            },
+            {
+              "name": "KINGEX INTERANTIONAL LTD",
+              "internationalNumber": "RC-159419"
+            },
+            {
+              "name": "DIGITAL REALM LIMITED",
+              "internationalNumber": "RC-113753"
+            },
+            {
+              "name": "CAPRICE FASHIONS LIMITED",
+              "internationalNumber": "RC-159260"
+            },
+            {
+              "name": "LEO CHIGBUNDU BROTHERS (WEST AFRICA) LTD",
+              "internationalNumber": "RC-159407"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231353982,
+          "companyId": 62485311,
+          "personId": 94558502,
+          "roleId": 60331,
+          "appointedOn": "2021-05-20",
+          "sourceNum": 1,
+          "person": {
+            "id": 94558502,
+            "name": "ugwu obinna joseph",
+            "countryId": 24,
+            "occupation": "Medical doctor",
+            "nationality": "Nigeria",
+            "birthYear": 1989,
+            "birthMonth": 2,
+            "birthDate": 14,
+            "address": "38a, tafawa balewwa street",
+            "countryOfResidence": "NIGERIA",
+            "number": "a50074993",
+            "documentType": "International Passport",
+            "email": "ojugwu@yahoo.com",
+            "phone": "09029088811",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231353983,
+          "companyId": 62485311,
+          "personId": 94558503,
+          "roleId": 60331,
+          "appointedOn": "2021-05-20",
+          "sourceNum": 1,
+          "person": {
+            "id": 94558503,
+            "name": "ugwu raluchukwu albert",
+            "countryId": 24,
+            "occupation": "Medical doctor",
+            "nationality": "Nigeria",
+            "birthYear": 1993,
+            "birthMonth": 8,
+            "birthDate": 29,
+            "address": "38a, tafawa balewa street",
+            "countryOfResidence": "NIGERIA",
+            "number": "rk0726107",
+            "documentType": "International Passport",
+            "email": "raluugwu@gmail.com",
+            "phone": "+4479-7940-5007",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238215282,
+          "companyId": 62485311,
+          "personId": 97112086,
+          "roleId": 60320,
+          "appointedOn": "2021-05-20",
+          "sourceNum": 1,
+          "person": {
+            "id": 97112086,
+            "name": "danung mark yilkaghan",
+            "countryId": 24,
+            "address": "JOS                                               ",
+            "email": "danungmark@yahoo.com                              ",
+            "phone": "07036153578         ",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SHANGKAT TEEJEE NIGERIA LIMITED",
+              "internationalNumber": "RC-1247762"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

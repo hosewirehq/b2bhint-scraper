@@ -1,0 +1,461 @@
+[
+  {
+    "year": "1990",
+    "title": "EBI NIG LTD - RC-161001 - Nigeria",
+    "description": "EBI NIG LTD Nigeria company, Company number: RC-161001, Incorporation Date Dec 28, 1990;, Address: 69 ADEBOLA ST., S/LERE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62496142,
+      "name": "EBI NIG LTD",
+      "internationalNumber": "RC-161001",
+      "localNumber": "161001",
+      "countryId": 24,
+      "dateCreated": "1990-12-28T00:00:00.000Z",
+      "createdAt": "2021-05-30T11:31:48.982Z",
+      "updatedAt": "2024-06-15T15:30:30.488Z",
+      "alternateNames": [],
+      "address": "69 ADEBOLA ST., S/LERE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "325393",
+      "updatedAtSitemap": "2024-02-01T19:16:41.000Z",
+      "oldInternationalNumber": "161001",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 929,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100830136,
+          "address": "69 ADEBOLA ST., S/LERE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 242812293,
+          "companyId": 62496142,
+          "personId": 66143060,
+          "roleId": 114332,
+          "person": {
+            "id": 66143060,
+            "name": "eme  effiong  daniel",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1981,
+            "birthMonth": 1,
+            "birthDate": 23,
+            "address": "SUITE E1 PENT HOUSE PLAZA GUDU, ABUJA, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1747177",
+            "documentType": "Permanent Voters' Card",
+            "documentNumber": "A14366150",
+            "email": "emedaniellaw@gmail.com",
+            "phone": "+234 806 461 7792",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "NUSANG JONUEL SERVICES",
+              "internationalNumber": "BN-2855688"
+            },
+            {
+              "name": "KUTIOUS GLOBAL VENTURES",
+              "internationalNumber": "BN-2995098"
+            },
+            {
+              "name": "END TIME TRUMPETS PUBLICATION",
+              "internationalNumber": "BN-3003770"
+            },
+            {
+              "name": "BUKAM COMMERCIAL ENTERPRISE",
+              "internationalNumber": "BN-2998927"
+            },
+            {
+              "name": "MY BRAINERY SERVICES",
+              "internationalNumber": "BN-2989888"
+            },
+            {
+              "name": "HENRY ADEYA NIGERIA ENTERPRISES",
+              "internationalNumber": "BN-3005728"
+            },
+            {
+              "name": "CHIMASCO DIGITAL TECHNOLOGY LIMITED",
+              "internationalNumber": "RC-1622601"
+            },
+            {
+              "name": "MIXEDJOY SERVICES NIG LIMITED",
+              "internationalNumber": "RC-1821742"
+            },
+            {
+              "name": "SALEM KING GLOBAL CHURCH",
+              "internationalNumber": "IT-150302"
+            },
+            {
+              "name": "NIKKOL LINKS COMMUNICATION",
+              "internationalNumber": "BN-2999535"
+            },
+            {
+              "name": "PRINCECHIKA GLOBAL SERVICES",
+              "internationalNumber": "BN-2796245"
+            },
+            {
+              "name": "INDUSTRIAL IDEAL CONCEPT VENTURES",
+              "internationalNumber": "BN-3293813"
+            },
+            {
+              "name": "LAWRESCUE PROPERTIES AND INVESTMENT COMPANY LIMITED",
+              "internationalNumber": "RC-1626650"
+            },
+            {
+              "name": "MAJESTY SOCCER INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-1633550"
+            },
+            {
+              "name": "PERFECT UNIQUE GIFT ACADEMY",
+              "internationalNumber": "BN-2998787"
+            },
+            {
+              "name": "HAJ MODERN HUTS",
+              "internationalNumber": "BN-2995819"
+            },
+            {
+              "name": "FRUITS ON WHEELS VENTURES",
+              "internationalNumber": "BN-3451532"
+            },
+            {
+              "name": "CFC LINKS INTEGRATED CONCEPT LTD",
+              "internationalNumber": "RC-1627025"
+            },
+            {
+              "name": "ARK OF COVENANT INTERNATIONAL MISSION",
+              "internationalNumber": "IT-156135"
+            },
+            {
+              "name": "DIABAS DIVINE STARS ACADEMY",
+              "internationalNumber": "BN-3010311"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231281660,
+          "companyId": 62496142,
+          "personId": 94530115,
+          "roleId": 60331,
+          "appointedOn": "2021-06-30",
+          "sourceNum": 1,
+          "person": {
+            "id": 94530115,
+            "name": "oladosu  peters  oluwale",
+            "countryId": 24,
+            "occupation": "Civil servant",
+            "nationality": "Nigeria",
+            "birthYear": 1968,
+            "birthMonth": 9,
+            "birthDate": 17,
+            "address": " Aprofim quarters, Life camp , House 8, Villa 35B",
+            "countryOfResidence": "NIGERIA",
+            "number": "ABC75420AA02",
+            "documentType": "Driver's License",
+            "email": "petyem2001@yahoo.co.uk",
+            "phone": "08035993159",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231281661,
+          "companyId": 62496142,
+          "personId": 94530115,
+          "roleId": 60330,
+          "appointedOn": "2021-06-30",
+          "sourceNum": 1,
+          "person": {
+            "id": 94530115,
+            "name": "oladosu  peters  oluwale",
+            "countryId": 24,
+            "occupation": "Civil servant",
+            "nationality": "Nigeria",
+            "birthYear": 1968,
+            "birthMonth": 9,
+            "birthDate": 17,
+            "address": " Aprofim quarters, Life camp , House 8, Villa 35B",
+            "countryOfResidence": "NIGERIA",
+            "number": "ABC75420AA02",
+            "documentType": "Driver's License",
+            "email": "petyem2001@yahoo.co.uk",
+            "phone": "08035993159",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238105014,
+          "companyId": 62496142,
+          "personId": 97109678,
+          "roleId": 60320,
+          "appointedOn": "2021-06-30",
+          "sourceNum": 1,
+          "person": {
+            "id": 97109678,
+            "name": " daniel eme  effiong",
+            "countryId": 24,
+            "address": "SUITE E1 PENT HOUSE PLAZA  GUDU",
+            "countryOfResidence": "NIGERIA",
+            "email": "emedaniellaw@gmail.com",
+            "phone": "2348064617792",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "10",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 8
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

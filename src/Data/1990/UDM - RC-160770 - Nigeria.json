@@ -1,0 +1,533 @@
+[
+  {
+    "year": "1990",
+    "title": "UDM - RC-160770 - Nigeria",
+    "description": "UDM Nigeria company, Company number: RC-160770, Incorporation Date Dec 31, 1990;, Address: MUNG UDOEUYO L.G.A., UYO, AKWA IBOM, UYO, AKWA IBOM STATE",
+    "company": {
+      "id": 62059082,
+      "name": "UDM",
+      "internationalNumber": "RC-160770",
+      "localNumber": "160770",
+      "countryId": 24,
+      "dateCreated": "1990-12-31T00:00:00.000Z",
+      "createdAt": "2021-05-28T02:17:46.728Z",
+      "updatedAt": "2024-06-15T15:36:01.363Z",
+      "alternateNames": [],
+      "address": "MUNG UDOEUYO L.G.A., UYO, AKWA IBOM, UYO, AKWA IBOM STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "325162",
+      "updatedAtSitemap": "2024-02-01T14:02:57.000Z",
+      "oldInternationalNumber": "160770",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 84,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82107173,
+          "address": "MUNG UDOEUYO L.G.A., UYO, AKWA IBOM, UYO, AKWA IBOM STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 244036053,
+          "companyId": 62059082,
+          "personId": 66137755,
+          "roleId": 116164,
+          "person": {
+            "id": 66137755,
+            "name": "khoni bobai",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1985,
+            "birthMonth": 4,
+            "birthDate": 14,
+            "address": "17MOSES MAJEKODUNMI CRESCENT UTAKO, Abuja, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1714928",
+            "documentType": "National ID Card",
+            "documentNumber": "58299833344",
+            "email": "khonibobai@gmail.com",
+            "phone": "+234 803 065 6004",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 116164,
+            "name": "Others",
+            "countryId": 24,
+            "translation": {
+              "en": ""
+            }
+          },
+          "companies": [
+            {
+              "name": "AIRSAFE AVIATION GLOBAL LIMITED",
+              "internationalNumber": "RC-1471493"
+            },
+            {
+              "name": "DARWILLS PHARMACY NIGERIA LIMITED",
+              "internationalNumber": "RC-1554765"
+            },
+            {
+              "name": "BOBCOOL VENTURES",
+              "internationalNumber": "BN-2558924"
+            },
+            {
+              "name": "SKETCH DESIGN CONCEPT",
+              "internationalNumber": "BN-2802087"
+            },
+            {
+              "name": "FOUNDATION FOR KATSINA COMMUNITY SCHOOLS",
+              "internationalNumber": "IT-153772"
+            },
+            {
+              "name": "ELYSIUM EVENTS LIMITED",
+              "internationalNumber": "RC-1564473"
+            },
+            {
+              "name": "NORD CLEANING SERVICES AND FACILITY MANAGEMENT LIMITED",
+              "internationalNumber": "RC-1538276"
+            },
+            {
+              "name": "LOG APARTMENT",
+              "internationalNumber": "BN-3070504"
+            },
+            {
+              "name": "SHUWANI & GRACE FOUNDATION",
+              "internationalNumber": "IT-152577"
+            },
+            {
+              "name": "O'SKI-ALIAMS ENTERPRISES",
+              "internationalNumber": "BN-3038901"
+            },
+            {
+              "name": "POLESTAR MEDIA LIMITED",
+              "internationalNumber": "RC-1844620"
+            },
+            {
+              "name": "SAVOURYGREEN SERVICES LIMITED",
+              "internationalNumber": "RC-1468166"
+            },
+            {
+              "name": "SPYDECK SOLUTIONS LIMITED",
+              "internationalNumber": "RC-1704599"
+            },
+            {
+              "name": "KHAIRY AGRO FARMS LIMITED",
+              "internationalNumber": "RC-1585866"
+            },
+            {
+              "name": "THE WELLNESS ROOMS LIMITED",
+              "internationalNumber": "RC-1683448"
+            },
+            {
+              "name": "CADOGAN OIL & GAS LIMITED",
+              "internationalNumber": "RC-1623509"
+            },
+            {
+              "name": "MOFAYO INTERNATIONAL SCHOOL",
+              "internationalNumber": "BN-2573806"
+            },
+            {
+              "name": "THE ADVOCACY FOR WELL-BEING DEVELOPMENT",
+              "internationalNumber": "IT-152619"
+            },
+            {
+              "name": "NOONU NIGERIA MINDSET FOUNDATION",
+              "internationalNumber": "IT-153054"
+            },
+            {
+              "name": "FARA TRAVELS LIMITED",
+              "internationalNumber": "RC-1642793"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241597103,
+          "companyId": 62059082,
+          "personId": 98647604,
+          "roleId": 60320,
+          "appointedOn": "2021-08-04",
+          "sourceNum": 1,
+          "person": {
+            "id": 98647604,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CHINDEZ ENTERPRISES LTD",
+              "internationalNumber": "RC-160722"
+            },
+            {
+              "name": "OVITEKEBS FOODS",
+              "internationalNumber": "BN-4043852"
+            },
+            {
+              "name": "IFYTECH ICT WORLD",
+              "internationalNumber": "BN-4046097"
+            },
+            {
+              "name": "M .A GLOBAL VENTURES",
+              "internationalNumber": "BN-4033889"
+            },
+            {
+              "name": "E B GOLD VENTURES",
+              "internationalNumber": "BN-4048699"
+            },
+            {
+              "name": "T DANIELS WORLD",
+              "internationalNumber": "BN-4048698"
+            },
+            {
+              "name": "KENAZ ENTERPRISE",
+              "internationalNumber": "BN-4046096"
+            },
+            {
+              "name": "PINECREST SERVICES NIGERIA",
+              "internationalNumber": "RC-160718"
+            },
+            {
+              "name": "H O UGWUANYI INDUSTRY",
+              "internationalNumber": "BN-4047367"
+            },
+            {
+              "name": "TANNEX LIMITED",
+              "internationalNumber": "RC-160800"
+            },
+            {
+              "name": "SNAZZY GOLD CONSTRUCTION AND GENERAL SERVICES",
+              "internationalNumber": "BN-4048219"
+            },
+            {
+              "name": "ABU MUS'AB ENTERPRISE",
+              "internationalNumber": "BN-4033886"
+            },
+            {
+              "name": "OSSAI DD FASHION WORLD",
+              "internationalNumber": "BN-4049276"
+            },
+            {
+              "name": "OLUGOD AGRO RESOURCES",
+              "internationalNumber": "BN-4042551"
+            },
+            {
+              "name": "JITAN NIGERIA LIMITED",
+              "internationalNumber": "RC-160189"
+            },
+            {
+              "name": "VAFFAH.Ng",
+              "internationalNumber": "BN-4039660"
+            },
+            {
+              "name": "ABU SUBASSAM  COMPUTERS",
+              "internationalNumber": "BN-4033888"
+            },
+            {
+              "name": "WONOV ENTERPRISES",
+              "internationalNumber": "BN-4048333"
+            },
+            {
+              "name": "OZAD AGRO VENTURES",
+              "internationalNumber": "BN-4033890"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241597095,
+          "companyId": 62059082,
+          "personId": 98648876,
+          "roleId": 60331,
+          "appointedOn": "2021-06-26",
+          "sourceNum": 1,
+          "person": {
+            "id": 98648876,
+            "name": "bungon joshua dauda",
+            "countryId": 24,
+            "address": "NO.3, YUSUF MOH'D ROAD, NARAYI HIGH COST, KADUNA  NARAYI HIGH COST                                                                                      KADUNA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [
+            {
+              "name": "BUN 16 NIGERIA LIMITED",
+              "internationalNumber": "RC-970505"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241597100,
+          "companyId": 62059082,
+          "personId": 98648881,
+          "roleId": 60320,
+          "appointedOn": "2021-06-26",
+          "sourceNum": 1,
+          "person": {
+            "id": 98648881,
+            "name": "bobai khoni",
+            "countryId": 24,
+            "address": "Plot 458, Ahmadu Bello Way, Garki 2, Abuja.",
+            "countryOfResidence": "NIGERIA",
+            "email": "khonibobai@gmail.com",
+            "phone": "08030656004",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MERION NIGERIA LIMITED",
+              "internationalNumber": "RC-157155"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "10",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "null": 8
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

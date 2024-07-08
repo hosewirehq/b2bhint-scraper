@@ -1,0 +1,336 @@
+[
+  {
+    "year": "1990",
+    "title": "JATACON NIGERIA LIMITED - RC-160706 - Nigeria",
+    "description": "JATACON NIGERIA LIMITED Nigeria company, Company number: RC-160706, Incorporation Date Dec 31, 1990;, Address: 9, FOLORUNSO STREET, IJAIYE-OGBA, AGEGE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62058808,
+      "name": "JATACON NIGERIA LIMITED",
+      "internationalNumber": "RC-160706",
+      "localNumber": "160706",
+      "countryId": 24,
+      "dateCreated": "1990-12-31T00:00:00.000Z",
+      "createdAt": "2021-05-28T02:16:28.587Z",
+      "updatedAt": "2024-06-15T15:36:04.121Z",
+      "alternateNames": [],
+      "address": "9, FOLORUNSO STREET, IJAIYE-OGBA, AGEGE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "activityDescription": "TO  PROVIDE A PLATFORM FOR CARE AND SUPPORT FOR THE LESS PRIVILEGE MEMBERS OF THE SOCIETY",
+      "providerId": "325098",
+      "updatedAtSitemap": "2024-02-01T14:03:02.000Z",
+      "oldInternationalNumber": "160706",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 84,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197044,
+          "providerId": "348594",
+          "providerName": "IT Others",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:09.448381+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82107077,
+          "address": "9, FOLORUNSO STREET, IJAIYE-OGBA, AGEGE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241599752,
+          "companyId": 62058808,
+          "personId": 98649936,
+          "roleId": 60320,
+          "appointedOn": "2021-06-25",
+          "sourceNum": 1,
+          "person": {
+            "id": 98649936,
+            "name": "aginde ezekiel a.",
+            "countryId": 24,
+            "occupation": "Clergy",
+            "nationality": "Nigeria",
+            "birthYear": 1979,
+            "birthMonth": 9,
+            "birthDate": 28,
+            "address": "BEHIND GSS NYANYA GBAGYI,, PLOT 650 APMA",
+            "countryOfResidence": "NIGERIA",
+            "number": "79034367584",
+            "documentType": "National ID Card",
+            "email": "agindeezekiel@gmail.com",
+            "phone": "08039426540",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241599753,
+          "companyId": 62058808,
+          "personId": 98649936,
+          "roleId": 60331,
+          "appointedOn": "2021-06-25",
+          "sourceNum": 1,
+          "person": {
+            "id": 98649936,
+            "name": "aginde ezekiel a.",
+            "countryId": 24,
+            "occupation": "Clergy",
+            "nationality": "Nigeria",
+            "birthYear": 1979,
+            "birthMonth": 9,
+            "birthDate": 28,
+            "address": "BEHIND GSS NYANYA GBAGYI,, PLOT 650 APMA",
+            "countryOfResidence": "NIGERIA",
+            "number": "79034367584",
+            "documentType": "National ID Card",
+            "email": "agindeezekiel@gmail.com",
+            "phone": "08039426540",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241599754,
+          "companyId": 62058808,
+          "personId": 98649937,
+          "roleId": 60330,
+          "appointedOn": "2021-06-25",
+          "sourceNum": 1,
+          "person": {
+            "id": 98649937,
+            "name": "okolie norbert ugochukwu",
+            "countryId": 24,
+            "occupation": "Civil servant",
+            "nationality": "Nigeria",
+            "birthYear": 1962,
+            "birthMonth": 2,
+            "birthDate": 6,
+            "address": "BY CATHOLIC CHURCH,NEWNYANYA, PHASE 4  ",
+            "countryOfResidence": "NIGERIA",
+            "number": "58838122887",
+            "documentType": "National ID Card",
+            "email": "okolieugo2020@gmail.com",
+            "phone": "08065319753",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]
