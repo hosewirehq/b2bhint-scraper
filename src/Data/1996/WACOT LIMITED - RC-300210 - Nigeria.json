@@ -1,0 +1,408 @@
+[
+  {
+    "year": "1996",
+    "title": "WACOT LIMITED - RC-300210 - Nigeria",
+    "description": "WACOT LIMITED Nigeria company, Company number: RC-300210, Incorporation Date Sep 14, 1996;, Address: 1, TGI CLOSE, ILUPEJU INDUSTRIAL ESTATE, APAPA-OWORONSHOKI EXPRESSWAY, LAGOS STATE",
+    "company": {
+      "id": 60452784,
+      "name": "WACOT LIMITED",
+      "internationalNumber": "RC-300210",
+      "localNumber": "300210",
+      "countryId": 24,
+      "dateCreated": "1996-09-14T00:00:00.000Z",
+      "createdAt": "2021-05-14T05:27:00.684Z",
+      "updatedAt": "2024-06-15T16:54:21.279Z",
+      "alternateNames": [],
+      "address": "1, TGI CLOSE, ILUPEJU INDUSTRIAL ESTATE, APAPA-OWORONSHOKI EXPRESSWAY, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000000000 NGN",
+      "sharesValue": "0.005 NGN",
+      "sharesIssued": "10000000000",
+      "historicalNames": [],
+      "activityDescription": "TO ENGAGE IN THE BUSINESS OF GROWERS, CULTIVATORS AND FATHERS OF COTTON IN ALL ITS SPHERES BUT NOT LIMITED TO THE GROWING, COLLECTION, BUYING AND SELLING OF ALL COTTON PRODUCTS AND BY-PRODUCTS, WITHIN OR OUTSIDE THE COUNTRY",
+      "providerId": "2062711",
+      "updatedAtSitemap": "2024-05-31T05:23:36.000Z",
+      "oldInternationalNumber": "300210",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 1,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6198349,
+          "providerId": "199107",
+          "providerName": "Livestock Feeds Production and Distribution",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:40:25.879912+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82320341,
+          "address": "1, TGI CLOSE, ILUPEJU INDUSTRIAL ESTATE, APAPA-OWORONSHOKI EXPRESSWAY, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "WASIL VEGETABLE OILS AND FATS LIMITED",
+              "internationalNumber": "RC-1226444"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 105747473,
+          "companyId": 60452784,
+          "personId": 44262108,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 44262108,
+            "name": " bank of industry limited",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "ROAD 56, HOUSE 136, VICTORIA GARDEN CITY",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 105747471,
+          "companyId": 60452784,
+          "personId": 46576621,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "person": {
+            "id": 46576621,
+            "name": " tropical general investments limited",
+            "countryId": 24,
+            "address": "NERINE CHAMBERS, P.O. BOX 905, ROAD TOWN  TORTOLA                                                                                               BRITISH VIRGIN ISLAND",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 105747474,
+          "companyId": 60452784,
+          "personId": 47260035,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 47260035,
+            "name": " savara rahul",
+            "countryId": 24,
+            "nationality": "Indian",
+            "address": "3/5, IKOYI CRESCENT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 105747472,
+          "companyId": 60452784,
+          "personId": 47365234,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "person": {
+            "id": 47365234,
+            "name": " shogbon jerome olagunju",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "ROAD 24, HOUSE G8, VICTORIA GARDEN CITY",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 105747468,
+          "companyId": 60452784,
+          "personId": 47865250,
+          "roleId": 60329,
+          "sourceNum": 1,
+          "person": {
+            "id": 47865250,
+            "name": " banwo & ighodalo",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "98, AWOLOWO ROAD",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60329,
+            "name": "Secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "10",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 4,
+        "2": 5,
+        "null": 1
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]
