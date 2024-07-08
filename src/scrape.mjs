@@ -42,7 +42,7 @@ async function scrapeCompany(browser, link) {
         const element = document.querySelector('.CompanyHeader_breadcrumb__h9kWp > a:nth-child(2)');
         return element ? element.innerText : null;
     });
-    let { title, description, company } = JSON.parse(nextData).props.pageProps;
+    let { title, description, company } = JSON.parse(nextData)?.props?.pageProps || {};
     title = title.replace(/\s+/g, ' ').trim();
 
     console.info(`processing: ${title}`)
