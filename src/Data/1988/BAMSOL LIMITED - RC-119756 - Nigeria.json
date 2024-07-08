@@ -1,0 +1,470 @@
+[
+  {
+    "year": "1988",
+    "title": "BAMSOL LIMITED - RC-119756 - Nigeria",
+    "description": "BAMSOL LIMITED Nigeria company, Company number: RC-119756, Incorporation Date Oct 28, 1988;, Address: 217/219, IKORODU RD., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61133259,
+      "name": "BAMSOL LIMITED",
+      "internationalNumber": "RC-119756",
+      "localNumber": "119756",
+      "countryId": 24,
+      "dateCreated": "1988-10-28T00:00:00.000Z",
+      "createdAt": "2021-05-23T00:38:55.754Z",
+      "updatedAt": "2024-06-15T15:26:11.719Z",
+      "alternateNames": [],
+      "address": "217/219, IKORODU RD., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "284575",
+      "updatedAtSitemap": "2024-01-15T16:07:06.000Z",
+      "oldInternationalNumber": "119756",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 232,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100268338,
+          "address": "217/219, IKORODU RD., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "GAB AIRLINES LTD",
+              "internationalNumber": "RC-135567"
+            },
+            {
+              "name": "WORLD OF COMPUTERS LTD",
+              "internationalNumber": "RC-195029"
+            },
+            {
+              "name": "GABISAL AUTO REFURBISH LIMITED",
+              "internationalNumber": "RC-139603"
+            },
+            {
+              "name": "WEST AFRICAN CANE & RATTAN CO. LTD",
+              "internationalNumber": "RC-96991"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 248835198,
+          "companyId": 61133259,
+          "personId": 66223944,
+          "roleId": 114332,
+          "person": {
+            "id": 66223944,
+            "name": " numa o. erakpofoke ",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1964,
+            "birthMonth": 10,
+            "birthDate": 12,
+            "address": "100MURITALA MOHAMMED WAY, EBUTE-METTA, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1721803",
+            "documentType": "National ID Card",
+            "documentNumber": "22789814410",
+            "email": "oghenecaro64@gmail.com",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "BOLUCAS SCHOOLS",
+              "internationalNumber": "BN-2564683"
+            },
+            {
+              "name": "CHRIST GREAT DIVINE HEALING INT'L  MINISTRY",
+              "internationalNumber": "IT-119756"
+            },
+            {
+              "name": "STAR FASHIONS LTD",
+              "internationalNumber": "RC-112335"
+            },
+            {
+              "name": "THE TRIUMPH BELIEVERS CHRISTIAN CHURCH INT'L",
+              "internationalNumber": "IT-151081"
+            },
+            {
+              "name": "IKWUANO UMUAHIA DEVELOPMENT COMPANY LTD",
+              "internationalNumber": "RC-1443302"
+            },
+            {
+              "name": "ETON LOGISTICS GLOBAL LTD",
+              "internationalNumber": "RC-1443370"
+            },
+            {
+              "name": "RFSS INTERNATIONAL CONSULTANCY SERVICES",
+              "internationalNumber": "BN-2860881"
+            },
+            {
+              "name": "BRIGHT FISHERIES AND SUPPLIES ENTERPRISES",
+              "internationalNumber": "BN-2962325"
+            },
+            {
+              "name": "HALLPOIN COMMERCE LTD",
+              "internationalNumber": "RC-1462364"
+            },
+            {
+              "name": "GRAFCON NIGERIA LIMITED",
+              "internationalNumber": "RC-140026"
+            },
+            {
+              "name": "OLUWAYOMI MERCY LAND ESTATE",
+              "internationalNumber": "BN-2963899"
+            },
+            {
+              "name": "ADAPT IT NIGERIA LIMITED",
+              "internationalNumber": "RC-1462143"
+            },
+            {
+              "name": "TRUST BANK OF AFRICA PLC",
+              "internationalNumber": "RC-151081"
+            },
+            {
+              "name": "KOLET INVESTMENTS NIGERIA LIMITED",
+              "internationalNumber": "RC-125008"
+            },
+            {
+              "name": "DW TRIPS N TOURS",
+              "internationalNumber": "BN-2860913"
+            },
+            {
+              "name": "BULLPEN SIGNATURES LTD",
+              "internationalNumber": "RC-1487948"
+            },
+            {
+              "name": "WELCOM HAVEN INT'L",
+              "internationalNumber": "BN-3535748"
+            },
+            {
+              "name": "MCZOD NIGERIA LIMITED",
+              "internationalNumber": "RC-110104"
+            },
+            {
+              "name": "BOKTIO LTD",
+              "internationalNumber": "RC-1440367"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231544857,
+          "companyId": 61133259,
+          "personId": 67857879,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67857879,
+            "name": "sola osituyo                                                                                         n/a",
+            "countryId": 24,
+            "address": "217/219, IKORODU RD. LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231544859,
+          "companyId": 61133259,
+          "personId": 67857881,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67857881,
+            "name": "sola osituyo",
+            "countryId": 24,
+            "address": "217/219, IKORODU RD. LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231544860,
+          "companyId": 61133259,
+          "personId": 67857882,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67857882,
+            "name": "bamidele dada",
+            "countryId": 24,
+            "address": "PLOT 24, BLK. VIII GRA AGODI IBADAN OYO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SAFEWAY FOODS LTD",
+              "internationalNumber": "RC-142415"
+            },
+            {
+              "name": "TAMDA MEDICAL MANAGEMENT LIMITED",
+              "internationalNumber": "RC-509488"
+            },
+            {
+              "name": "OLABISI MEDICAL LIMITED",
+              "internationalNumber": "RC-509508"
+            },
+            {
+              "name": "BANKOLE GLOBAL SERVICES LTD",
+              "internationalNumber": "RC-510568"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 3
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

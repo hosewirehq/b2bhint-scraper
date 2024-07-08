@@ -1,0 +1,481 @@
+[
+  {
+    "year": "1988",
+    "title": "MAJENTA LIMITED - RC-120358 - Nigeria",
+    "description": "MAJENTA LIMITED Nigeria company, Company number: RC-120358, Incorporation Date Nov 3, 1988;, Address: HOUSE 18C, CLOSE 711 RD 7TH AVE., FESTAC, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61133802,
+      "name": "MAJENTA LIMITED",
+      "internationalNumber": "RC-120358",
+      "localNumber": "120358",
+      "countryId": 24,
+      "dateCreated": "1988-11-03T00:00:00.000Z",
+      "createdAt": "2021-05-23T00:40:38.703Z",
+      "updatedAt": "2024-06-15T15:26:11.422Z",
+      "alternateNames": [],
+      "address": "HOUSE 18C, CLOSE 711 RD 7TH AVE., FESTAC, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "285176",
+      "updatedAtSitemap": "2024-01-15T16:07:01.000Z",
+      "oldInternationalNumber": "120358",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 202,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100388663,
+          "address": "HOUSE 18C, CLOSE 711 RD 7TH AVE., FESTAC, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 248825218,
+          "companyId": 61133802,
+          "personId": 66143188,
+          "roleId": 114349,
+          "person": {
+            "id": 66143188,
+            "name": "chima chiemezie obih",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "nationality": "NIGERIAN",
+            "birthYear": 1979,
+            "birthMonth": 6,
+            "birthDate": 11,
+            "address": " CITY PLAZA AREA 11 GARKI, SUITE 12B",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "documentNumber": "A12266787",
+            "email": "chima_obih@yahoo.com",
+            "phone": "2348034234084",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114349,
+            "name": "Legal Practice",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practice"
+            }
+          },
+          "companies": [
+            {
+              "name": "GABBY MOK VENTURES LTD",
+              "internationalNumber": "RC-168504"
+            },
+            {
+              "name": "DURGU AERONAUTICAL SYSTEMS AND MANAGEMENT CONSULTANTS LIMITED",
+              "internationalNumber": "RC-169401"
+            },
+            {
+              "name": "TORCHBEARERS NIGERIA LIMITED",
+              "internationalNumber": "RC-124926"
+            },
+            {
+              "name": "I . NEWSPAPER LIMITED",
+              "internationalNumber": "RC-1894720"
+            },
+            {
+              "name": "TEMIDARA FARMS LIMITED",
+              "internationalNumber": "RC-119820"
+            },
+            {
+              "name": "TECHNICAL MILLING SERVICES LTD",
+              "internationalNumber": "RC-158943"
+            },
+            {
+              "name": "PARIBAS INVESTMENT COMPANY LIMITED",
+              "internationalNumber": "RC-174743"
+            },
+            {
+              "name": "EMAC INTERNATIONAL LTD",
+              "internationalNumber": "RC-177005"
+            },
+            {
+              "name": "FURCHIV NIGERIA LIMITED",
+              "internationalNumber": "RC-91498"
+            },
+            {
+              "name": "E-NEWSPAPER LIMITED",
+              "internationalNumber": "RC-1896402"
+            },
+            {
+              "name": "NESAM NIG LTD",
+              "internationalNumber": "RC-120022"
+            },
+            {
+              "name": "MOSPE MOTORS NIGRIA LIMITED",
+              "internationalNumber": "RC-160011"
+            },
+            {
+              "name": "ABDULLAHI ZAKARIYA LIMAN AND CO. NIG LTD",
+              "internationalNumber": "RC-125846"
+            },
+            {
+              "name": "PHILUMONK NIGERIA LIMITED",
+              "internationalNumber": "RC-113489"
+            },
+            {
+              "name": "NNACO LTD",
+              "internationalNumber": "RC-118684"
+            },
+            {
+              "name": "APEX INDUSTRIES NIG LTD",
+              "internationalNumber": "RC-168486"
+            },
+            {
+              "name": "SALTECH NIGERIA LIMITED",
+              "internationalNumber": "RC-91793"
+            },
+            {
+              "name": "HOCHAY CO. NIG LTD",
+              "internationalNumber": "RC-107764"
+            },
+            {
+              "name": "ALADEEN NIGERIA LIMITED",
+              "internationalNumber": "RC-98735"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231533865,
+          "companyId": 61133802,
+          "personId": 67854927,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67854927,
+            "name": "eunice o. echemunor                                                                                  n/a",
+            "countryId": 24,
+            "address": "HOUSE 18, C CLOSE, 711 RD., FESTAC TOWN, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231533866,
+          "companyId": 61133802,
+          "personId": 67854928,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67854928,
+            "name": "cordelia o. idig                                                                                     n/a",
+            "countryId": 24,
+            "address": "5, MBANEFOR STR., NEW HAVEN, ENUGU",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231533867,
+          "companyId": 61133802,
+          "personId": 67854929,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67854929,
+            "name": "eunice o. echemunor",
+            "countryId": 24,
+            "address": "HOUSE 18, C CLOSE, 711 RD., FESTAC TOWN, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231533868,
+          "companyId": 61133802,
+          "personId": 67854930,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67854930,
+            "name": "cordelia o. idig",
+            "countryId": 24,
+            "address": "5, MBANEFOR STR., NEW HAVEN, ENUGU",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 2,
+        "null": 1
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
