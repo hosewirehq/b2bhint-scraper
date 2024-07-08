@@ -43,7 +43,8 @@ async function scrapeCompany(browser, link) {
         return element ? element.innerText : null;
     });
     let { title, description, company } = JSON.parse(nextData)?.props?.pageProps || {};
-    title = title.replace(/\s+/g, ' ').trim();
+    
+    title = title?.replace(/\s+/g, ' ').trim() || title;
 
     console.info(`processing: ${title}`)
     await processor.processItem({year, title, description, company });
