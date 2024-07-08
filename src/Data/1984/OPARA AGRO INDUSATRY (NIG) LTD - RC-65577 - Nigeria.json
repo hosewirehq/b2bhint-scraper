@@ -1,0 +1,395 @@
+[
+  {
+    "year": "1984",
+    "title": "OPARA AGRO INDUSATRY (NIG) LTD - RC-65577 - Nigeria",
+    "description": "OPARA AGRO INDUSATRY (NIG) LTD Nigeria company, Company number: RC-65577, Incorporation Date Sep 19, 1984;, Address: 3, PELEWURA WAY, APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60907209,
+      "name": "OPARA AGRO INDUSATRY (NIG) LTD",
+      "internationalNumber": "RC-65577",
+      "localNumber": "65577",
+      "countryId": 24,
+      "dateCreated": "1984-09-19T00:00:00.000Z",
+      "createdAt": "2021-05-19T03:47:17.650Z",
+      "updatedAt": "2024-06-15T16:44:13.586Z",
+      "alternateNames": [],
+      "address": "3, PELEWURA WAY, APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "230677",
+      "updatedAtSitemap": "2023-06-09T16:20:03.000Z",
+      "oldInternationalNumber": "65577",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 62,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6415753,
+          "providerId": "444080",
+          "providerName": "Foundation                                        ",
+          "countryId": 24,
+          "createdAt": "2022-08-21T01:09:50.698468+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83296561,
+          "address": "3, PELEWURA WAY, APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "EVERGREEN TRAVELS LTD",
+              "internationalNumber": "RC-240794"
+            },
+            {
+              "name": "OMONUA MOVING & STORAGE TRANSPORTER",
+              "internationalNumber": "BN-622473"
+            },
+            {
+              "name": "GODMON FOODS LTD",
+              "internationalNumber": "RC-42696"
+            },
+            {
+              "name": "BENSTEV & CO. LTD",
+              "internationalNumber": "RC-40192"
+            },
+            {
+              "name": "DON-OPARA & COY.",
+              "internationalNumber": "BN-549176"
+            },
+            {
+              "name": "CHARSTER CONSTRUCTION LIMITED",
+              "internationalNumber": "RC-87056"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 160657492,
+          "companyId": 60907209,
+          "personId": 68012933,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68012933,
+            "name": "donatus opara                                                                                        n/a",
+            "countryId": 24,
+            "address": "3, PELEWURA WAY, APAPA, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SATURN ENGINEERING WORKS NIG LTD",
+              "internationalNumber": "RC-82700"
+            },
+            {
+              "name": "DONOP INDUSTRIES LTD",
+              "internationalNumber": "RC-82693"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160657494,
+          "companyId": 60907209,
+          "personId": 68012935,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68012935,
+            "name": "donatus opara",
+            "countryId": 24,
+            "address": "3, PELEWURA WAY, APAPA, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SATURN ENGINEERING WORKS NIG LTD",
+              "internationalNumber": "RC-82700"
+            },
+            {
+              "name": "DONOP INDUSTRIES LTD",
+              "internationalNumber": "RC-82693"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160657493,
+          "companyId": 60907209,
+          "personId": 68063018,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68063018,
+            "name": "lucy opara                                                                                           n/a",
+            "countryId": 24,
+            "address": "3, PELEWURA WAY, APAPA, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160657495,
+          "companyId": 60907209,
+          "personId": 68063019,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68063019,
+            "name": "lucy opara",
+            "countryId": 24,
+            "address": "3, PELEWURA WAY, APAPA, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
