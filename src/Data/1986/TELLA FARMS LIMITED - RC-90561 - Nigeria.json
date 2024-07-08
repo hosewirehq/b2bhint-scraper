@@ -1,0 +1,417 @@
+[
+  {
+    "year": "1986",
+    "title": "TELLA FARMS LIMITED - RC-90561 - Nigeria",
+    "description": "TELLA FARMS LIMITED Nigeria company, Company number: RC-90561, Incorporation Date Oct 30, 1986;, Address: 8, AJIBOYE STR., AGEGE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61014021,
+      "name": "TELLA FARMS LIMITED",
+      "internationalNumber": "RC-90561",
+      "localNumber": "90561",
+      "countryId": 24,
+      "dateCreated": "1986-10-30T00:00:00.000Z",
+      "createdAt": "2021-05-20T16:41:58.034Z",
+      "updatedAt": "2024-06-15T15:37:26.939Z",
+      "alternateNames": [],
+      "address": "8, AJIBOYE STR., AGEGE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "255506",
+      "updatedAtSitemap": "2024-01-15T18:35:30.000Z",
+      "oldInternationalNumber": "90561",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 158,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82061297,
+          "address": "8, AJIBOYE STR., AGEGE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 160545577,
+          "companyId": 61014021,
+          "personId": 67977198,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 67977198,
+            "name": "agodi umeukeje",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigerian",
+            "birthYear": 1960,
+            "birthMonth": 7,
+            "birthDate": 31,
+            "address": "FLAT 6, NO. 47, YAOUNDE STREET ZONE 6",
+            "countryOfResidence": "NIGERIA",
+            "number": "PU009",
+            "documentType": "National ID Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160545579,
+          "companyId": 61014021,
+          "personId": 67977200,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 67977200,
+            "name": "frank umeukeje",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "nationality": "Nigerian",
+            "birthYear": 1984,
+            "birthMonth": 8,
+            "birthDate": 17,
+            "address": "FLAT 6, NO. 47, YAOUNDE STREET ZONE 6",
+            "countryOfResidence": "NIGERIA",
+            "number": "KJA10913AA",
+            "documentType": "Driver's License",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238311917,
+          "companyId": 61014021,
+          "personId": 96300965,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96300965,
+            "name": "ebeh patrick .u.",
+            "countryId": 24,
+            "address": "NO 47, YAOUNDE STREET, WUSE ZONE 6, ABUJA",
+            "email": "ebehpatrick@yahoo.com",
+            "phone": "08037910243",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ACCORD TANKERS LTD",
+              "internationalNumber": "RC-1317509"
+            },
+            {
+              "name": "2CEES GENERAL SERVICES",
+              "internationalNumber": "BN-2402174"
+            },
+            {
+              "name": "PRESTIGE FASHION DESIGNERS",
+              "internationalNumber": "BN-2364763"
+            },
+            {
+              "name": "EMS AGRO GREENFOODS",
+              "internationalNumber": "BN-2324418"
+            },
+            {
+              "name": "GRAPHIC WORKS  LTD",
+              "internationalNumber": "RC-95260"
+            },
+            {
+              "name": "OG - SIX TRADING COMPANY",
+              "internationalNumber": "BN-2320883"
+            },
+            {
+              "name": "ADEMOLA DOSUNMU FARMS",
+              "internationalNumber": "BN-2364691"
+            },
+            {
+              "name": "MEXENCO PROJECTS LIMITED",
+              "internationalNumber": "RC-1320336"
+            },
+            {
+              "name": "ADE AUTOMOBILE BUSINESS SOLUTIONS LIMITED",
+              "internationalNumber": "RC-1308136"
+            },
+            {
+              "name": "FIRMSPEED GLOBAL PROJECTS LIMITED",
+              "internationalNumber": "RC-1311298"
+            },
+            {
+              "name": "THONIAR'S TASTEE WORLD",
+              "internationalNumber": "BN-2320604"
+            },
+            {
+              "name": "HAYZED COUTURE",
+              "internationalNumber": "BN-2321591"
+            },
+            {
+              "name": "DETREASURE FOOD WORLDWIDE ENTERPRISES",
+              "internationalNumber": "BN-2402190"
+            },
+            {
+              "name": " PRINCO PHARMACEUTICAL LTD",
+              "internationalNumber": "RC-1423303"
+            },
+            {
+              "name": "CONFAB GLOBAL INDUSTRIES LTD",
+              "internationalNumber": "RC-1310322"
+            },
+            {
+              "name": "NONSMAC CHAMBERS",
+              "internationalNumber": "BN-2402967"
+            },
+            {
+              "name": "FRANADE NURSERY & PRIMARY SCHOOLS",
+              "internationalNumber": "BN-2322067"
+            },
+            {
+              "name": "KOLAWONUOLA SOLICITORS",
+              "internationalNumber": "BN-2398132"
+            },
+            {
+              "name": "MAI KANO CONTINENTAL SERVICES LIMITED",
+              "internationalNumber": "RC-1312831"
+            },
+            {
+              "name": "IECFOSTER PROFESSIONAL SERVICES",
+              "internationalNumber": "BN-2322492"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Bri**** K. Hul*",
+          "contacts": {
+            "email": [
+              "hbr****************"
+            ],
+            "phone": [
+              "803*******"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
