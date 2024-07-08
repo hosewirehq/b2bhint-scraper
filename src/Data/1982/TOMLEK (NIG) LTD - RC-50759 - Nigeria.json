@@ -1,0 +1,371 @@
+[
+  {
+    "year": "1982",
+    "title": "TOMLEK (NIG) LTD - RC-50759 - Nigeria",
+    "description": "TOMLEK (NIG) LTD Nigeria company, Company number: RC-50759, Incorporation Date Nov 22, 1982;, Address: A/304 MAPO RD., IBADAN, OYO, IBADAN, OYO STATE",
+    "company": {
+      "id": 60866073,
+      "name": "TOMLEK (NIG) LTD",
+      "internationalNumber": "RC-50759",
+      "localNumber": "50759",
+      "countryId": 24,
+      "dateCreated": "1982-11-22T00:00:00.000Z",
+      "createdAt": "2021-05-15T10:39:18.243Z",
+      "updatedAt": "2024-06-15T15:28:12.822Z",
+      "alternateNames": [],
+      "address": "A/304 MAPO RD., IBADAN, OYO, IBADAN, OYO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "215965",
+      "updatedAtSitemap": "2023-06-09T17:33:30.000Z",
+      "oldInternationalNumber": "50759",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 123,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6402323,
+          "providerId": "290886",
+          "providerName": "Organization                                      ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T19:11:26.122303+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83314843,
+          "address": "A/304 MAPO RD., IBADAN, OYO, IBADAN, OYO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238632400,
+          "companyId": 60866073,
+          "personId": 93664388,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 93664388,
+            "name": "joy onuche",
+            "countryId": 24,
+            "address": "PLOT 62, LAGOS STREET, GARKI VILLAGE, ABUJA  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MOJUJY NIG LTD",
+              "internationalNumber": "RC-963398"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238632402,
+          "companyId": 60866073,
+          "personId": 96644836,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 96644836,
+            "name": "olufunmilayo lawal",
+            "countryId": 24,
+            "address": "8, REMI AWODE CRESCENT OKO OBA RESIDENTIAL SCHEME 1  AGEGE                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CHARISDEW NIGERIA LIMITED",
+              "internationalNumber": "RC-705672"
+            },
+            {
+              "name": "TOMLEK (NIG) LTD",
+              "internationalNumber": "RC-50959"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238632398,
+          "companyId": 60866073,
+          "personId": 97262798,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97262798,
+            "name": "olufunmilayo lawal                                                                                   n/a",
+            "countryId": 24,
+            "address": "C1/304, MAPO RD. IBADAN",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "TOMLEK (NIG) LTD",
+              "internationalNumber": "RC-50959"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238632397,
+          "companyId": 60866073,
+          "personId": 97266529,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97266529,
+            "name": "robertson o. thomas                                                                                  n/a",
+            "countryId": 24,
+            "address": "C1/304, MAPO RD. IBADAN",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 3
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

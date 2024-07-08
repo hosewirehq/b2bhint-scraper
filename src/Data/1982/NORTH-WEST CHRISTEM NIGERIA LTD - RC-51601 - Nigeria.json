@@ -1,0 +1,379 @@
+[
+  {
+    "year": "1982",
+    "title": "NORTH-WEST CHRISTEM NIGERIA LTD - RC-51601 - Nigeria",
+    "description": "NORTH-WEST CHRISTEM NIGERIA LTD Nigeria company, Company number: RC-51601, Incorporation Date Dec 22, 1982;, Address: 6, MURTALA MOHAMMED INTER NATIONAL, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60871712,
+      "name": "NORTH-WEST CHRISTEM NIGERIA LTD",
+      "internationalNumber": "RC-51601",
+      "localNumber": "51601",
+      "countryId": 24,
+      "dateCreated": "1982-12-22T00:00:00.000Z",
+      "createdAt": "2021-05-15T11:02:00.927Z",
+      "updatedAt": "2024-06-15T16:44:40.480Z",
+      "alternateNames": [],
+      "address": "6, MURTALA MOHAMMED INTER NATIONAL, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "216807",
+      "updatedAtSitemap": "2023-06-09T16:20:56.000Z",
+      "oldInternationalNumber": "51601",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 101,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6403100,
+          "providerId": "315855",
+          "providerName": "Church                                            ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T19:32:06.463464+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83316438,
+          "address": "6, MURTALA MOHAMMED INTER NATIONAL, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238591720,
+          "companyId": 60871712,
+          "personId": 67968501,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67968501,
+            "name": "grace ekong",
+            "countryId": 24,
+            "address": "31/33 MARTINS STR. LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "G.R.G. TECHNICAL EQUIPMENT SERVICES NIG LTD",
+              "internationalNumber": "RC-51510"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238591718,
+          "companyId": 60871712,
+          "personId": 68062161,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68062161,
+            "name": "grace ekong                                                                                          n/a",
+            "countryId": 24,
+            "address": "31/33 MARTINS STR. LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "G.R.G. TECHNICAL EQUIPMENT SERVICES NIG LTD",
+              "internationalNumber": "RC-51510"
+            },
+            {
+              "name": "NEW HORIZON NIGERIA LTD",
+              "internationalNumber": "RC-65752"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238591719,
+          "companyId": 60871712,
+          "personId": 68271244,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68271244,
+            "name": "joseph menkiti ibegbu",
+            "countryId": 24,
+            "address": "SUITE 1D, TAFAWA BALEWA SQUARE COMPLEX SOUTH EAST PAVILLION  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "EMPIRE DEVELOPMENT AND PROJECT LIMITED",
+              "internationalNumber": "RC-691063"
+            },
+            {
+              "name": "MENVICE MARKETING AND SERVICES LIMITED",
+              "internationalNumber": "RC-735241"
+            },
+            {
+              "name": "SEA LOADING INTEGRATED SERVICES LIMITED",
+              "internationalNumber": "RC-642716"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238591717,
+          "companyId": 60871712,
+          "personId": 97250480,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97250480,
+            "name": "joseph menkiti ibegbu                                                                                n/a",
+            "countryId": 24,
+            "address": "27/29, MARTINS STR., LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

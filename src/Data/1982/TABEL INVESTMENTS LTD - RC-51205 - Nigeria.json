@@ -1,0 +1,404 @@
+[
+  {
+    "year": "1982",
+    "title": "TABEL INVESTMENTS LTD - RC-51205 - Nigeria",
+    "description": "TABEL INVESTMENTS LTD Nigeria company, Company number: RC-51205, Incorporation Date Dec 1, 1982;, Address: 69 TAFAWA BALEWA COMPLEX, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60869018,
+      "name": "TABEL INVESTMENTS LTD",
+      "internationalNumber": "RC-51205",
+      "localNumber": "51205",
+      "countryId": 24,
+      "dateCreated": "1982-12-01T00:00:00.000Z",
+      "createdAt": "2021-05-15T10:50:53.740Z",
+      "updatedAt": "2024-06-15T16:44:41.692Z",
+      "alternateNames": [],
+      "address": "69 TAFAWA BALEWA COMPLEX, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "216411",
+      "updatedAtSitemap": "2023-06-09T16:20:59.000Z",
+      "oldInternationalNumber": "51205",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 106,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6402739,
+          "providerId": "304909",
+          "providerName": "Church                                            ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T19:22:31.551869+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83315878,
+          "address": "69 TAFAWA BALEWA COMPLEX, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238611673,
+          "companyId": 60869018,
+          "personId": 68059091,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68059091,
+            "name": "olumuyiwa talabi                                                                                     n/a",
+            "countryId": 24,
+            "address": "91, APAPA RD., LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SAM TEREZ LTD",
+              "internationalNumber": "RC-66460"
+            },
+            {
+              "name": "ALCIDE PROJECTS LTD",
+              "internationalNumber": "RC-123144"
+            },
+            {
+              "name": "BENAKIN INTERNATIONAL LTD",
+              "internationalNumber": "RC-123441"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238611675,
+          "companyId": 60869018,
+          "personId": 68059093,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68059093,
+            "name": "olumuyiwa talabi",
+            "countryId": 24,
+            "address": "12, GBAJA STREET  SURULERE                                                                                              LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "TALAND HOTELS LIMITED",
+              "internationalNumber": "RC-443296"
+            },
+            {
+              "name": "SAM TEREZ LTD",
+              "internationalNumber": "RC-66460"
+            },
+            {
+              "name": "ALCIDE PROJECTS LTD",
+              "internationalNumber": "RC-123144"
+            },
+            {
+              "name": "TEN DOORS LIMITED",
+              "internationalNumber": "RC-504782"
+            },
+            {
+              "name": "TALABI DIABETES CENTER LTD/GTE",
+              "internationalNumber": "RC-706145"
+            },
+            {
+              "name": "UPPER CLASS BUSINESS VENTURES LIMITED",
+              "internationalNumber": "RC-807397"
+            },
+            {
+              "name": "BENAKIN INTERNATIONAL LTD",
+              "internationalNumber": "RC-123441"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238611676,
+          "companyId": 60869018,
+          "personId": 97073636,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97073636,
+            "name": "olatunji bello",
+            "countryId": 24,
+            "address": "9 MUSA YAR'ADUA STR., VCISTORIA ISLAND, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "RAB-LAWAL AND COMPANY LIMITED",
+              "internationalNumber": "RC-164470"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238611674,
+          "companyId": 60869018,
+          "personId": 97258161,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97258161,
+            "name": "olatunji bello                                                                                       n/a",
+            "countryId": 24,
+            "address": "9, MUSA YAR'ADUA STR, V/I LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "OKENE CHINESE CARPET NIG LTD",
+              "internationalNumber": "RC-50004"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

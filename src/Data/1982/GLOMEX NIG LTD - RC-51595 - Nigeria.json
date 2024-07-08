@@ -1,0 +1,372 @@
+[
+  {
+    "year": "1982",
+    "title": "GLOMEX NIG LTD - RC-51595 - Nigeria",
+    "description": "GLOMEX NIG LTD Nigeria company, Company number: RC-51595, Incorporation Date Dec 22, 1982;, Address: 7, MC.NEIL ROAD, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60871673,
+      "name": "GLOMEX NIG LTD",
+      "internationalNumber": "RC-51595",
+      "localNumber": "51595",
+      "countryId": 24,
+      "dateCreated": "1982-12-22T00:00:00.000Z",
+      "createdAt": "2021-05-15T11:01:52.225Z",
+      "updatedAt": "2024-06-15T16:39:45.990Z",
+      "alternateNames": [],
+      "address": "7, MC.NEIL ROAD, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "216801",
+      "updatedAtSitemap": "2023-06-09T16:09:20.000Z",
+      "oldInternationalNumber": "51595",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 101,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6402748,
+          "providerId": "305108",
+          "providerName": "Foundation                                        ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T19:22:42.813617+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83316419,
+          "address": "7, MC.NEIL ROAD, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238592030,
+          "companyId": 60871673,
+          "personId": 67047220,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67047220,
+            "name": "ovo c. majoroh                                                                                       n/a",
+            "countryId": 24,
+            "address": "7, MCNEIL ROAD, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SEALANDAIR LTD",
+              "internationalNumber": "RC-176499"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238592032,
+          "companyId": 60871673,
+          "personId": 67047222,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67047222,
+            "name": "ovo c. majoroh",
+            "countryId": 24,
+            "address": "7, MCNEIL ROAD, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SEALANDAIR LTD",
+              "internationalNumber": "RC-176499"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238592031,
+          "companyId": 60871673,
+          "personId": 95183697,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 95183697,
+            "name": "angela u. onyeagwa                                                                                   n/a",
+            "countryId": 24,
+            "address": "6, TRIMNELL STR., AGUDA S/LERE LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "GELIZ BALLONS AND PARTY DECORATORS LTD",
+              "internationalNumber": "RC-257543"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238592033,
+          "companyId": 60871673,
+          "personId": 95183700,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95183700,
+            "name": "angela u. onyeagwa",
+            "countryId": 24,
+            "address": "6, TRIMNELL STR., AGUDA S/LERE LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "GELIZ BALLONS AND PARTY DECORATORS LTD",
+              "internationalNumber": "RC-257543"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

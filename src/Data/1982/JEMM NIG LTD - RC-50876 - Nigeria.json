@@ -1,0 +1,362 @@
+[
+  {
+    "year": "1982",
+    "title": "JEMM NIG LTD - RC-50876 - Nigeria",
+    "description": "JEMM NIG LTD Nigeria company, Company number: RC-50876, Incorporation Date Nov 18, 1982;, Address: 15 OMOLERE IKUOMOLA STR., DOPEMU-AGEGE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60866863,
+      "name": "JEMM NIG LTD",
+      "internationalNumber": "RC-50876",
+      "localNumber": "50876",
+      "countryId": 24,
+      "dateCreated": "1982-11-18T00:00:00.000Z",
+      "createdAt": "2021-05-15T10:42:22.703Z",
+      "updatedAt": "2024-06-15T16:44:42.924Z",
+      "alternateNames": [],
+      "address": "15 OMOLERE IKUOMOLA STR., DOPEMU-AGEGE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "216082",
+      "updatedAtSitemap": "2023-06-09T16:21:00.000Z",
+      "oldInternationalNumber": "50876",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 131,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6402436,
+          "providerId": "296358",
+          "providerName": "Foundation                                        ",
+          "countryId": 24,
+          "createdAt": "2022-08-20T19:14:12.104605+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83315023,
+          "address": "15 OMOLERE IKUOMOLA STR., DOPEMU-AGEGE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238626847,
+          "companyId": 60866863,
+          "personId": 69122483,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 69122483,
+            "name": "olusegun s.                                                                                          n/a",
+            "countryId": 24,
+            "address": "29, MODUPE JOHNSON CREST S/L LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "CAASI COMMUNICATION LTD",
+              "internationalNumber": "RC-214384"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238626849,
+          "companyId": 60866863,
+          "personId": 69122484,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 69122484,
+            "name": "olusegun s.",
+            "countryId": 24,
+            "address": "29, MODUPE JOHNSON CREST S/L LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CAASI COMMUNICATION LTD",
+              "internationalNumber": "RC-214384"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238626848,
+          "companyId": 60866863,
+          "personId": 97264232,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97264232,
+            "name": "titilope s.                                                                                          n/a",
+            "countryId": 24,
+            "address": "15 OMOLERE IKUOMOLA STR., DOPEMU AGEGE, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238626850,
+          "companyId": 60866863,
+          "personId": 97264233,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97264233,
+            "name": "titilope s.",
+            "countryId": 24,
+            "address": "15 OMOLERE IKUOMOLA STR., DOPEMU AGEGE, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
