@@ -1,0 +1,381 @@
+[
+  {
+    "year": "1987",
+    "title": "FTB LIMITED - RC-103439 - Nigeria",
+    "description": "FTB LIMITED Nigeria company, Company number: RC-103439, Incorporation Date Nov 27, 1987;, Address: 46, ENERHEN ROAD EFFURUN WARRI, WARRI, DELTA, WARRI, DELTA STATE",
+    "company": {
+      "id": 61051635,
+      "name": "FTB LIMITED",
+      "internationalNumber": "RC-103439",
+      "localNumber": "103439",
+      "countryId": 24,
+      "dateCreated": "1987-11-27T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:34:52.874Z",
+      "updatedAt": "2024-06-15T16:41:10.910Z",
+      "alternateNames": [],
+      "address": "46, ENERHEN ROAD EFFURUN WARRI, WARRI, DELTA, WARRI, DELTA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "20000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "268354",
+      "updatedAtSitemap": "2024-01-15T18:55:43.000Z",
+      "oldInternationalNumber": "103439",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 236,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196942,
+          "providerId": "199095",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:29.578323+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82070917,
+          "address": "46, ENERHEN ROAD EFFURUN WARRI, WARRI, DELTA, WARRI, DELTA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238230204,
+          "companyId": 61051635,
+          "personId": 66671778,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 66671778,
+            "name": "mbasoh emeka basil",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigerian",
+            "birthYear": 1981,
+            "birthMonth": 9,
+            "birthDate": 27,
+            "address": "NO. 10, FINLAND STREET, EFAB QUEENS ESTATE, KARASANA, GWARIMPA",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06020866",
+            "documentType": "International Passport",
+            "email": "emekambasoh@gmail.com",
+            "phone": "09038763681",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [
+            {
+              "name": "MR E ENTERTAINMENT",
+              "internationalNumber": "BN-2689993"
+            },
+            {
+              "name": "DAVJAY BRICKS AND STONES CONSTRUCTION COMPANY LTD",
+              "internationalNumber": "RC-1542339"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238230200,
+          "companyId": 61051635,
+          "personId": 67526225,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 67526225,
+            "name": "aina adeleke",
+            "countryId": 24,
+            "address": "SUITE BI,ZONE D PLAZA APO                         ",
+            "email": "lekeaina@yahoo.com                                ",
+            "phone": "07055557434         ",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MEDWIN HOSPITAL LIMITED",
+              "internationalNumber": "RC-1469702"
+            },
+            {
+              "name": "AZALUK NIGERIA LTD",
+              "internationalNumber": "RC-1412052"
+            },
+            {
+              "name": "JUNOLIN NIGERIA LIMITED",
+              "internationalNumber": "RC-1249138"
+            },
+            {
+              "name": "SETHOL MULTI LINKS LTD",
+              "internationalNumber": "RC-1222401"
+            },
+            {
+              "name": "ESONGAHAM CONSULT LTD",
+              "internationalNumber": "RC-1218817"
+            },
+            {
+              "name": "TENO ENERGY RESOURCES LIMITED",
+              "internationalNumber": "RC-1395740"
+            },
+            {
+              "name": "MANNY HOMES LIMITED",
+              "internationalNumber": "RC-1384996"
+            },
+            {
+              "name": "NETTLE MULTI VENTURES LTD",
+              "internationalNumber": "RC-1220993"
+            },
+            {
+              "name": "DEONOS DYNAMIC SYSTEM LTD",
+              "internationalNumber": "RC-1443097"
+            },
+            {
+              "name": "ELLEN GAF SCHOOL OF HEALTH SCIENCE & TECHNOLOGIES LTD",
+              "internationalNumber": "RC-1403812"
+            },
+            {
+              "name": "MAHAGNOSE GLOBAL SERVICES LTD",
+              "internationalNumber": "RC-1218827"
+            },
+            {
+              "name": "DANCLO GLOBAL RESOURCES LTD",
+              "internationalNumber": "RC-1451006"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238230201,
+          "companyId": 61051635,
+          "personId": 78830883,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78830883,
+            "name": "dorcas maria jesu okere",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1965,
+            "birthMonth": 2,
+            "birthDate": 4,
+            "address": "NO.5, ALADEGOROYE LANE BEHIND NEPA HOUSE, IJEBU-OLALO, ONDO STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A34736376",
+            "documentType": "Permanent Voters' Card",
+            "email": "dorcasmaria@yahoo.com",
+            "phone": "08134085025",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

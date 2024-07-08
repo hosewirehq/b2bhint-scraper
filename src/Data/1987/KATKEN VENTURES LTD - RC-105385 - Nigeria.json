@@ -1,0 +1,352 @@
+[
+  {
+    "year": "1987",
+    "title": "KATKEN VENTURES LTD - RC-105385 - Nigeria",
+    "description": "KATKEN VENTURES LTD Nigeria company, Company number: RC-105385, Incorporation Date Dec 17, 1987;, Address: 21, ADEMOLA ST., KETU, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61077710,
+      "name": "KATKEN VENTURES LTD",
+      "internationalNumber": "RC-105385",
+      "localNumber": "105385",
+      "countryId": 24,
+      "dateCreated": "1987-12-17T00:00:00.000Z",
+      "createdAt": "2021-05-21T19:44:20.390Z",
+      "updatedAt": "2024-06-15T15:36:54.517Z",
+      "alternateNames": [],
+      "address": "21, ADEMOLA ST., KETU, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270287",
+      "updatedAtSitemap": "2024-01-15T18:36:08.000Z",
+      "oldInternationalNumber": "105385",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 380,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82074295,
+          "address": "21, ADEMOLA ST., KETU, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "AFOSIS NIG LTD",
+              "internationalNumber": "RC-168894"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 238203131,
+          "companyId": 61077710,
+          "personId": 78819500,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78819500,
+            "name": "chief lawal lateef",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1948,
+            "birthMonth": 4,
+            "birthDate": 11,
+            "address": "NO 1,LADE STREET,OLOKO VIA APATA",
+            "countryOfResidence": "NIGERIA",
+            "number": "BDJ2057AA01",
+            "documentType": "Driver's License",
+            "email": "lawallateef1948@yahoo.com",
+            "phone": "080335225667",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238203132,
+          "companyId": 61077710,
+          "personId": 78819501,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78819501,
+            "name": "elder olagunju isaac akinloye",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1958,
+            "birthMonth": 12,
+            "birthDate": 15,
+            "address": "LZ5/L/01,AKIN OLAGUNJU CLOSE LEO ZONE 5,OLOKO APATA",
+            "countryOfResidence": "NIGERIA",
+            "number": "BDJ20641AA06",
+            "documentType": "Driver's License",
+            "email": "isaacakinloye1958@yahoo.com",
+            "phone": "07037893621",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238203130,
+          "companyId": 61077710,
+          "personId": 94316835,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 94316835,
+            "name": "adeleke oluwakemi",
+            "countryId": 24,
+            "occupation": "Chartered accountant",
+            "address": "osuntokun avenue bodija, 31",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "kemiadeleke2000@yahoo.com",
+            "phone": "08065514888",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "DUNIK CO. NIG LTD",
+              "internationalNumber": "RC-104753"
+            },
+            {
+              "name": "ONWARD EVER ENTERPRISES LTD",
+              "internationalNumber": "RC-106104"
+            },
+            {
+              "name": "STARLITE INDUSTRIES NIGERIA LIMITED",
+              "internationalNumber": "RC-111733"
+            },
+            {
+              "name": "O. I. O. NIGERIA LIMITED",
+              "internationalNumber": "RC-105387"
+            },
+            {
+              "name": "GOKGEO VENTURES LTD",
+              "internationalNumber": "RC-105386"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "13",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 12
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

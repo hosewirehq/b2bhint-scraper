@@ -1,0 +1,464 @@
+[
+  {
+    "year": "1987",
+    "title": "SELWYN INDUSTRIES LTD - RC-105937 - Nigeria",
+    "description": "SELWYN INDUSTRIES LTD Nigeria company, Company number: RC-105937, Incorporation Date Dec 23, 1987;, Address: 22, AGGREY RD, P/HARCOURT, RIVERS, P/HARCOURT, RIVERS STATE",
+    "company": {
+      "id": 61092336,
+      "name": "SELWYN INDUSTRIES LTD",
+      "internationalNumber": "RC-105937",
+      "localNumber": "105937",
+      "countryId": 24,
+      "dateCreated": "1987-12-23T00:00:00.000Z",
+      "createdAt": "2021-05-22T06:23:32.563Z",
+      "updatedAt": "2024-06-15T15:36:49.592Z",
+      "alternateNames": [],
+      "address": "22, AGGREY RD, P/HARCOURT, RIVERS, P/HARCOURT, RIVERS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270837",
+      "updatedAtSitemap": "2024-01-15T18:36:10.000Z",
+      "oldInternationalNumber": "105937",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 280,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196942,
+          "providerId": "199095",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:29.578323+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82075265,
+          "address": "22, AGGREY RD, P/HARCOURT, RIVERS, P/HARCOURT, RIVERS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "HOLTON VENTURES",
+              "internationalNumber": "BN-877203"
+            },
+            {
+              "name": "ROI PHARMACEUTICAL  NIG  LTD",
+              "internationalNumber": "RC-217870"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 244035669,
+          "companyId": 61092336,
+          "personId": 66772562,
+          "roleId": 114332,
+          "person": {
+            "id": 66772562,
+            "name": "janet oyelade",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1987,
+            "birthMonth": 9,
+            "birthDate": 11,
+            "address": "6 Umme Street Wuse Zone 1Abuja, Fct, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1589866",
+            "documentType": "International Passport",
+            "documentNumber": "A08629877",
+            "email": "Janetoyelade@gmail.com",
+            "phone": "+234 703 833 5417",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "JOLLY JOLLY CHOPS",
+              "internationalNumber": "BN-2691369"
+            },
+            {
+              "name": "TRALERQUIS LUXURY",
+              "internationalNumber": "BN-2752715"
+            },
+            {
+              "name": "KADE FOUNDATION LTD/GTE",
+              "internationalNumber": "RC-1737812"
+            },
+            {
+              "name": "PEONY FEMININE CLINIC",
+              "internationalNumber": "BN-2548018"
+            },
+            {
+              "name": "LUMINARY GLOBAL RESOURCE ENTERPRISE",
+              "internationalNumber": "BN-2646938"
+            },
+            {
+              "name": "COMEVEST LTD",
+              "internationalNumber": "RC-1483635"
+            },
+            {
+              "name": "LIFECHOICE RÉVOLUTION LIMITED",
+              "internationalNumber": "RC-1497330"
+            },
+            {
+              "name": "FAVOURED PLACE",
+              "internationalNumber": "BN-2817420"
+            },
+            {
+              "name": "CASTWALL INVESTMENTS LIMITED",
+              "internationalNumber": "RC-1443604"
+            },
+            {
+              "name": "MAFRAN NIGERIA LIMITED",
+              "internationalNumber": "RC-111889"
+            },
+            {
+              "name": "ACEALLIANCE LIMITED",
+              "internationalNumber": "RC-1522924"
+            },
+            {
+              "name": "LANI-KUNLE NIG LTD",
+              "internationalNumber": "RC-100556"
+            },
+            {
+              "name": "NESA BY MAKERS LIMITED",
+              "internationalNumber": "RC-1446299"
+            },
+            {
+              "name": "LIARD GREY LIMITED",
+              "internationalNumber": "RC-1395264"
+            },
+            {
+              "name": "GUSAZO NIG LTD",
+              "internationalNumber": "RC-103096"
+            },
+            {
+              "name": "ONO-JEPP COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-111890"
+            },
+            {
+              "name": "HOSTRUCT AND ASSOCIATE LIMITED",
+              "internationalNumber": "RC-1375479"
+            },
+            {
+              "name": "HAWTHORN MEDIA LIMITED",
+              "internationalNumber": "RC-1522964"
+            },
+            {
+              "name": "CONZAC  [NIGERIA] LIMITED",
+              "internationalNumber": "RC-101861"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238194282,
+          "companyId": 61092336,
+          "personId": 96726806,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 96726806,
+            "name": "onwuzurumba chukwubuike",
+            "countryId": 24,
+            "address": "2 KINDA STREET, WUSE II,  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [
+            {
+              "name": "GREENSPARKS FERTILISER LIMITED",
+              "internationalNumber": "RC-1130649"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238194281,
+          "companyId": 61092336,
+          "personId": 97112381,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 97112381,
+            "name": "faluyi janet",
+            "countryId": 24,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "email": "Janetoyelade@gmail.com",
+            "phone": "07038335417",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MAFRAN NIGERIA LIMITED",
+              "internationalNumber": "RC-111889"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238194283,
+          "companyId": 61092336,
+          "personId": 97129881,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 97129881,
+            "name": "egopija oluwayemisi margaret",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1975,
+            "birthMonth": 6,
+            "birthDate": 9,
+            "address": "241 IJESHA ROAD ITIRE SURULERE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A05834763",
+            "documentType": "International Passport",
+            "email": "JANETOYELADE@GMAIL.COM",
+            "phone": "07038335417",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

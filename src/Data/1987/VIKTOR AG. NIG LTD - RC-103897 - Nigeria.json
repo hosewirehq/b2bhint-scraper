@@ -1,0 +1,464 @@
+[
+  {
+    "year": "1987",
+    "title": "VIKTOR AG. NIG LTD - RC-103897 - Nigeria",
+    "description": "VIKTOR AG. NIG LTD Nigeria company, Company number: RC-103897, Incorporation Date Dec 2, 1987;, Address: 164 IKWERRE ROAD, PORT HARCOURT, RIVERS STATE",
+    "company": {
+      "id": 61052135,
+      "name": "VIKTOR AG. NIG LTD",
+      "internationalNumber": "RC-103897",
+      "localNumber": "103897",
+      "countryId": 24,
+      "dateCreated": "1987-12-02T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:36:10.652Z",
+      "updatedAt": "2024-06-15T15:37:03.333Z",
+      "alternateNames": [],
+      "address": "164 IKWERRE ROAD, PORT HARCOURT, RIVERS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "10000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON BUSINESS,  AND TO ACT AS MERCHANTS, TRADERS, COMMISSION AGENTS, SHIPOWNERS, CARRIERS, OR IN ANY OTHER CAPACITY IN NIGERIA OR ELSE WHERE, AND TO IMPORT, EXPORT, BUY, SELL, BARTER, EXCHANGE, PLEDGE, MAKE ADVANCES UPON, ETC",
+      "providerId": "268806",
+      "updatedAtSitemap": "2024-01-15T18:35:59.000Z",
+      "oldInternationalNumber": "103897",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 219,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196948,
+          "providerId": "199238",
+          "providerName": "General Merchandise ",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:34.036647+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 126061300,
+          "address": "164 IKWERRE ROAD, PORT HARCOURT, RIVERS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 245560067,
+          "companyId": 61052135,
+          "personId": 66369929,
+          "roleId": 114332,
+          "person": {
+            "id": 66369929,
+            "name": "emmanuel kevin ejele",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1989,
+            "birthMonth": 5,
+            "birthDate": 6,
+            "address": "House 3, Block C, Akhnaton Estate, No. 2Akun Adawel Street, off Dunamis Church Road, Area 1, Garki, Abuja, Abuja, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1735235",
+            "documentType": "National ID Card",
+            "documentNumber": "74651640452",
+            "email": "kevinejele@gmail.com",
+            "phone": "+234 703 222 9890",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "NAFIATKAZ NIG LTD",
+              "internationalNumber": "RC-123783"
+            },
+            {
+              "name": "DIAMONDARK DATASPACE CO. LTD.",
+              "internationalNumber": "RC-1402323"
+            },
+            {
+              "name": "AKINBROWN'S FURNITURE GRID LTD",
+              "internationalNumber": "RC-1788211"
+            },
+            {
+              "name": "PENCHANT LEGAL",
+              "internationalNumber": "BN-2772627"
+            },
+            {
+              "name": "AFRICAN CENTRE FOR CONFLICT MANAGEMENT, ADVOCACY AND DEVELOPMENT.",
+              "internationalNumber": "IT-103220"
+            },
+            {
+              "name": "YOUNG ACHIEVERS CLUB OF EZIKE",
+              "internationalNumber": "IT-140701"
+            },
+            {
+              "name": "EAGLEX PREMIUM RESOURCE LIMITED",
+              "internationalNumber": "RC-1540228"
+            },
+            {
+              "name": "KCEE SLEYMAN GLOBAL LTD",
+              "internationalNumber": "RC-1799652"
+            },
+            {
+              "name": "UTOPIAN AGRO ENTERPRISE",
+              "internationalNumber": "BN-3269791"
+            },
+            {
+              "name": "LEUBECK AUTOMOBILE VENTURES LTD",
+              "internationalNumber": "RC-1531408"
+            },
+            {
+              "name": "SOGINEOS EAGLE INTERNATIONAL LTD.",
+              "internationalNumber": "RC-1383214"
+            },
+            {
+              "name": "INITIATIVE FOR BUILDING A RESOURCEFUL AND ETHICAL AFRICA THROUGH HUMAN EMPOWERMENT",
+              "internationalNumber": "IT-123783"
+            },
+            {
+              "name": "TEKON-ATA NIGERIA LIMITED",
+              "internationalNumber": "RC-103220"
+            },
+            {
+              "name": "SABON AFRICA DEVELOPMENT NETWORK",
+              "internationalNumber": "IT-103897"
+            },
+            {
+              "name": "DEASIL-MAN INVESTMENT LTD",
+              "internationalNumber": "RC-1576231"
+            },
+            {
+              "name": "MARA CREATIVES AND PUBLISHERS",
+              "internationalNumber": "BN-3439125"
+            },
+            {
+              "name": "A. O. AYILA & CO",
+              "internationalNumber": "BN-3426249"
+            },
+            {
+              "name": "DANIKAL MANAGEMENT CONSULT",
+              "internationalNumber": "BN-2919268"
+            },
+            {
+              "name": "NEXTTHRONE GLOBAL LIMITED",
+              "internationalNumber": "RC-1407042"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238224657,
+          "companyId": 61052135,
+          "personId": 67529418,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 67529418,
+            "name": "odekunle olubunmi joseph",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1988,
+            "birthMonth": 11,
+            "birthDate": 11,
+            "address": "24A, OLAWALE DAUDU STREET, SURULERE, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "number": "A03792383",
+            "documentType": "International Passport",
+            "email": "bunmisl@yahoo.com",
+            "phone": "08057818237",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [
+            {
+              "name": "ICLOUD IT AND FORENSIC SERVICES LIMITED",
+              "internationalNumber": "RC-1417149"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238224656,
+          "companyId": 61052135,
+          "personId": 78828185,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 78828185,
+            "name": "ejele emmanuel",
+            "countryId": 24,
+            "address": "No. 2, Okemesi crescent, Aro Ago Street, Garki II, Abuja.",
+            "countryOfResidence": "NIGERIA",
+            "email": "kevinejele@gmail.com",
+            "phone": "07032229890",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "TEKON-ATA NIGERIA LIMITED",
+              "internationalNumber": "RC-103220"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238224658,
+          "companyId": 61052135,
+          "personId": 78828186,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78828186,
+            "name": "manmina janet nendir",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1989,
+            "birthMonth": 10,
+            "birthDate": 11,
+            "address": "SATELITE QUATERS, KWALI, ABUJA, FCT.",
+            "countryOfResidence": "NIGERIA",
+            "number": "A39875730",
+            "documentType": "Permanent Voters' Card",
+            "email": "JANETMANMINA@GMAIL.COM",
+            "phone": "08060511501",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 6
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

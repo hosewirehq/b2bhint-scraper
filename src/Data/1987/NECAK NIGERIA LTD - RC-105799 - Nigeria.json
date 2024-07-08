@@ -1,0 +1,401 @@
+[
+  {
+    "year": "1987",
+    "title": "NECAK NIGERIA LTD - RC-105799 - Nigeria",
+    "description": "NECAK NIGERIA LTD Nigeria company, Company number: RC-105799, Incorporation Date Dec 22, 1987;, Address: 6, ATINUKE CLOSE AGUDA TITUN, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+    "company": {
+      "id": 61083841,
+      "name": "NECAK NIGERIA LTD",
+      "internationalNumber": "RC-105799",
+      "localNumber": "105799",
+      "countryId": 24,
+      "dateCreated": "1987-12-22T00:00:00.000Z",
+      "createdAt": "2021-05-22T01:15:43.634Z",
+      "updatedAt": "2024-06-15T15:36:52.410Z",
+      "alternateNames": [],
+      "address": "6, ATINUKE CLOSE AGUDA TITUN, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270699",
+      "updatedAtSitemap": "2024-01-15T18:36:08.000Z",
+      "oldInternationalNumber": "105799",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 391,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196942,
+          "providerId": "199095",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:29.578323+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82075008,
+          "address": "6, ATINUKE CLOSE AGUDA TITUN, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 245517268,
+          "companyId": 61083841,
+          "personId": 66147057,
+          "roleId": 114357,
+          "person": {
+            "id": 66147057,
+            "name": "stanley amagbor onyonyor ",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1976,
+            "birthMonth": 6,
+            "birthDate": 26,
+            "address": "SHOP D32GWARIMPA ULTRA MODERN MARKET KADO DISTRICT, ABUJA, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1320080",
+            "documentType": "Driver's License",
+            "documentNumber": "ABC46733AD38",
+            "email": "lawpratice@gmail.com",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114357,
+            "name": "Legal Practitioner ",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            }
+          },
+          "companies": [
+            {
+              "name": "HILUM FOODS",
+              "internationalNumber": "BN-2479880"
+            },
+            {
+              "name": "MR  ANDERSON OGHENERO NIGERIA ENTERPRISE",
+              "internationalNumber": "BN-2594210"
+            },
+            {
+              "name": "OMEDORO OIL AND GAS NIG LTD",
+              "internationalNumber": "RC-1566031"
+            },
+            {
+              "name": "BNT-BATECH INT'L LIMITED",
+              "internationalNumber": "RC-1376303"
+            },
+            {
+              "name": "DE OLLY-VIOL GLOBAL LTD",
+              "internationalNumber": "RC-1423797"
+            },
+            {
+              "name": "OASIS  OFFSHORE  LOGISTICS  LTD",
+              "internationalNumber": "RC-1656745"
+            },
+            {
+              "name": "PNUEL INVESTMENT INTERNATIONAL LTD",
+              "internationalNumber": "RC-1514979"
+            },
+            {
+              "name": "RHAPSODY INDUSTRIAL PAINTS COMPANY",
+              "internationalNumber": "BN-2549285"
+            },
+            {
+              "name": "EFERIC GLOBAL NIG LTD",
+              "internationalNumber": "RC-1480939"
+            },
+            {
+              "name": "KANPAKAND GLOBAL RESOURCES LIMITED",
+              "internationalNumber": "RC-1490854"
+            },
+            {
+              "name": "PIVOS-UYI ENTERPRISE LTD",
+              "internationalNumber": "RC-1684009"
+            },
+            {
+              "name": "FERG MATTHEW ENTERPRISE",
+              "internationalNumber": "BN-2822584"
+            },
+            {
+              "name": "N.ONYECHIMEREZE IMPORT AND EXPORT COMPANY LIMITED",
+              "internationalNumber": "RC-1473791"
+            },
+            {
+              "name": "ASTROBENSYL GLOBAL LIMITED",
+              "internationalNumber": "RC-1488381"
+            },
+            {
+              "name": "EL-NISI PROFOUND NIGERIA LTD",
+              "internationalNumber": "RC-1801836"
+            },
+            {
+              "name": "HIS GRACE SUPER STORES",
+              "internationalNumber": "BN-2598328"
+            },
+            {
+              "name": "KENNETHKENZITO NIG LTD",
+              "internationalNumber": "RC-1514961"
+            },
+            {
+              "name": "SCILIA CONSULT & SERVICES LTD",
+              "internationalNumber": "RC-1386784"
+            },
+            {
+              "name": "KENAS ELECTRICALS/ELECTRONICS INT'L VENTURES",
+              "internationalNumber": "BN-2832913"
+            },
+            {
+              "name": "QUEMPS SYSTEMS & SERVICES LIMITED",
+              "internationalNumber": "RC-1389282"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238196543,
+          "companyId": 61083841,
+          "personId": 78817168,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78817168,
+            "name": "igboanugo christian maduka",
+            "countryId": 24,
+            "address": "BEHIND MACDON EATERY ARROMA JUNCTION  AWKA                                                                                                  ANAMBRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [
+            {
+              "name": "MAXIMUM IMPACT IMPEX LIMITED",
+              "internationalNumber": "RC-1205366"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238196541,
+          "companyId": 61083841,
+          "personId": 97047185,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 97047185,
+            "name": "onyonyor  stanley",
+            "countryId": 24,
+            "address": "SHOP D32 GWARINPA ULTRA MODERN MARKET, KADO-DISTRICT, F.C.T, ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "email": "lawpratice@gmail.com",
+            "phone": "2348181116652",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 7
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

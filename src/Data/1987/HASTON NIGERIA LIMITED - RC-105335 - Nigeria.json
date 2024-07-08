@@ -1,0 +1,406 @@
+[
+  {
+    "year": "1987",
+    "title": "HASTON NIGERIA LIMITED - RC-105335 - Nigeria",
+    "description": "HASTON NIGERIA LIMITED Nigeria company, Company number: RC-105335, Incorporation Date Dec 17, 1987;, Address: 135, MCC ROAD, P. O. BOX 223, CALABAR, CROSS RIVER STATE",
+    "company": {
+      "id": 61053642,
+      "name": "HASTON NIGERIA LIMITED",
+      "internationalNumber": "RC-105335",
+      "localNumber": "105335",
+      "countryId": 24,
+      "dateCreated": "1987-12-17T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:40:02.294Z",
+      "updatedAt": "2024-06-15T16:39:44.738Z",
+      "alternateNames": [],
+      "address": "135, MCC ROAD, P. O. BOX 223, CALABAR, CROSS RIVER STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "",
+      "sharesIssued": "100000",
+      "historicalNames": [],
+      "activityDescription": "TO ENGAGE INDUSTRIAL PRODUCTION OF GOODS, TO MANUFACTURE, ACT AS MANUFACTURER REPRESENTATIVES BOTH HOME AND ABROAD.",
+      "providerId": "270237",
+      "updatedAtSitemap": "2024-04-26T04:01:45.000Z",
+      "oldInternationalNumber": "105335",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 380,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196948,
+          "providerId": "199238",
+          "providerName": "General Merchandise ",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:34.036647+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 154928364,
+          "address": "135, MCC ROAD, P. O. BOX 223, CALABAR, CROSS RIVER STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238205056,
+          "companyId": 61053642,
+          "personId": 78820059,
+          "roleId": 60330,
+          "sourceNum": 1,
+          "person": {
+            "id": 78820059,
+            "name": "jacob emem goodnews",
+            "countryId": 24,
+            "nationality": "131",
+            "birthYear": 1989,
+            "birthMonth": 11,
+            "birthDate": 10,
+            "address": "10, IBIAM STREET",
+            "countryOfResidence": "NIGERIA",
+            "number": "90F5B1B359497352709",
+            "documentType": "Permanent Voters' Card",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238205057,
+          "companyId": 61053642,
+          "personId": 78820060,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78820060,
+            "name": "jacob goodnews gospel",
+            "countryId": 24,
+            "occupation": "Clergy",
+            "nationality": "131",
+            "birthYear": 1977,
+            "birthMonth": 12,
+            "birthDate": 13,
+            "address": "10, IBIAM STREET",
+            "countryOfResidence": "NIGERIA",
+            "number": "A00717655",
+            "documentType": "International Passport",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238205055,
+          "companyId": 61053642,
+          "personId": 96259433,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96259433,
+            "name": "incorporated trustees - individual",
+            "countryId": 24,
+            "address": "N/A",
+            "countryOfResidence": "NIGERIA",
+            "email": "N/A",
+            "phone": "N/A",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SUMTEC NIGERIA LIMITED",
+              "internationalNumber": "RC-97525"
+            },
+            {
+              "name": "SULACHEM NIGERIA LIMITED",
+              "internationalNumber": "RC-97767"
+            },
+            {
+              "name": "FIRST CITY FISHING COMPANY LIMITED",
+              "internationalNumber": "RC-96553"
+            },
+            {
+              "name": "AMUCHE FARMING AND TRACTOR SERVICES LTD",
+              "internationalNumber": "RC-97342"
+            },
+            {
+              "name": "MANAN INTEK NIG LTD",
+              "internationalNumber": "RC-112246"
+            },
+            {
+              "name": "BUSINESS REPORTS LTD",
+              "internationalNumber": "RC-97922"
+            },
+            {
+              "name": "KADESMAT INVESTMENTS LIMITED (W.A.)",
+              "internationalNumber": "RC-95978"
+            },
+            {
+              "name": "FRAMAN ENTERPRISES NIGERIA LTD",
+              "internationalNumber": "RC-98222"
+            },
+            {
+              "name": "AGRIC BUSINESS & RESOURCES LTD",
+              "internationalNumber": "RC-97222"
+            },
+            {
+              "name": "SPAWS SYSTEMS LTD",
+              "internationalNumber": "RC-98776"
+            },
+            {
+              "name": "LEIGHTON ELECTRONIC & COMPUTER SERVICES LTD",
+              "internationalNumber": "RC-101039"
+            },
+            {
+              "name": "CLEARING & MOVEMENT COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-96556"
+            },
+            {
+              "name": "KARRIS NIGERIA LIMITED",
+              "internationalNumber": "RC-96045"
+            },
+            {
+              "name": "ADTRUST INSURANCE CONSULTANTS LIMITED",
+              "internationalNumber": "RC-96038"
+            },
+            {
+              "name": "OBANTA PRESS LTD",
+              "internationalNumber": "RC-96137"
+            },
+            {
+              "name": "J. TRADE LIMITED",
+              "internationalNumber": "RC-95366"
+            },
+            {
+              "name": "SOCIOECONOMIC DEVELOPMENT INITIATIVE",
+              "internationalNumber": "IT-86978"
+            },
+            {
+              "name": "AVIDAN NIGERIA COMPANY LIMITED",
+              "internationalNumber": "RC-95779"
+            },
+            {
+              "name": "KINGSTIME INTERNATIONAL LTD",
+              "internationalNumber": "RC-96298"
+            },
+            {
+              "name": "BUGI NIG LTD",
+              "internationalNumber": "RC-97810"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

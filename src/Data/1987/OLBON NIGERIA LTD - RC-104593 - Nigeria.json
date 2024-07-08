@@ -1,0 +1,317 @@
+[
+  {
+    "year": "1987",
+    "title": "OLBON NIGERIA LTD - RC-104593 - Nigeria",
+    "description": "OLBON NIGERIA LTD Nigeria company, Company number: RC-104593, Incorporation Date Dec 10, 1987;, Address: 26, DADDY ALAJE STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61052853,
+      "name": "OLBON NIGERIA LTD",
+      "internationalNumber": "RC-104593",
+      "localNumber": "104593",
+      "countryId": 24,
+      "dateCreated": "1987-12-10T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:38:01.504Z",
+      "updatedAt": "2024-06-15T15:36:58.555Z",
+      "alternateNames": [],
+      "address": "26, DADDY ALAJE STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "269496",
+      "updatedAtSitemap": "2024-01-15T18:36:03.000Z",
+      "oldInternationalNumber": "104593",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 260,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197040,
+          "providerId": "143250",
+          "providerName": "Other professional,Scientific and technical activities",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:01.548944+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82072912,
+          "address": "26, DADDY ALAJE STR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238216344,
+          "companyId": 61052853,
+          "personId": 97134508,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 97134508,
+            "name": "richard messiah",
+            "countryId": 24,
+            "address": "HOUSE 4 ROAD 112 EFAB ESTATE APO DISTRICT ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "email": "messiahrichard@yahoo.com",
+            "phone": "08039454003",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238216345,
+          "companyId": 61052853,
+          "personId": 97134508,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 97134508,
+            "name": "richard messiah",
+            "countryId": 24,
+            "address": "HOUSE 4 ROAD 112 EFAB ESTATE APO DISTRICT ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "email": "messiahrichard@yahoo.com",
+            "phone": "08039454003",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238216346,
+          "companyId": 61052853,
+          "personId": 97134509,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 97134509,
+            "name": "bassey oscar sylvester",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1985,
+            "birthMonth": 2,
+            "birthDate": 10,
+            "address": "222 IKOT EKPENE ROAD BY AFAHA UBE PRIMARY SCHOOL,ITU L.G.A",
+            "countryOfResidence": "NIGERIA",
+            "number": "20080373",
+            "documentType": "Permanent Voters' Card",
+            "email": "oscarsylvester5@gmail.com",
+            "phone": "08066775526",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "11",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 10
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]

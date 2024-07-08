@@ -1,0 +1,399 @@
+[
+  {
+    "year": "1987",
+    "title": "ALABA-PAARI NIGERIA LTD - RC-105828 - Nigeria",
+    "description": "ALABA-PAARI NIGERIA LTD Nigeria company, Company number: RC-105828, Incorporation Date Dec 22, 1987;, Address: 26, ASSOLAND ST., ALGOS, ALGOS, ALGOS, ALGOS STATE",
+    "company": {
+      "id": 61083881,
+      "name": "ALABA-PAARI NIGERIA LTD",
+      "internationalNumber": "RC-105828",
+      "localNumber": "105828",
+      "countryId": 24,
+      "dateCreated": "1987-12-22T00:00:00.000Z",
+      "createdAt": "2021-05-22T01:15:50.450Z",
+      "updatedAt": "2024-06-15T15:36:53.778Z",
+      "alternateNames": [],
+      "address": "26, ASSOLAND ST., ALGOS, ALGOS, ALGOS, ALGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270728",
+      "updatedAtSitemap": "2024-01-15T18:36:07.000Z",
+      "oldInternationalNumber": "105828",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 391,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82075065,
+          "address": "26, ASSOLAND ST., ALGOS, ALGOS, ALGOS, ALGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238195951,
+          "companyId": 61083881,
+          "personId": 78816936,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78816936,
+            "name": "bala salihu",
+            "countryId": 24,
+            "address": "AUDU MARIRI ROAD GYEDI -GYEDI KANO.",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [
+            {
+              "name": "UNITEN  SERVICES NIGERIA LTD",
+              "internationalNumber": "RC-55239"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238195952,
+          "companyId": 61083881,
+          "personId": 78816937,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78816937,
+            "name": "james anacha",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "131",
+            "birthYear": 1990,
+            "birthMonth": 9,
+            "birthDate": 17,
+            "address": "2ANDAHA-SOUTH",
+            "countryOfResidence": "NIGERIA",
+            "number": "L/NO LFA06111AA03",
+            "documentType": "Driver's License",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238195950,
+          "companyId": 61083881,
+          "personId": 96330906,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96330906,
+            "name": "mohammed garba haruna",
+            "countryId": 24,
+            "address": "LAFIA, NASARAWA",
+            "countryOfResidence": "NIGERIA",
+            "email": "mgharuna13@gmail.com",
+            "phone": "07039039231",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ZABHUSSAN VENTURES",
+              "internationalNumber": "BN-2568005"
+            },
+            {
+              "name": "J. JOLA NIGERIA LIMITED",
+              "internationalNumber": "RC-105177"
+            },
+            {
+              "name": "FARM NETWORK SERVICES",
+              "internationalNumber": "BN-2570813"
+            },
+            {
+              "name": "ASEMALSON GLOBAL VENTURES",
+              "internationalNumber": "BN-2570931"
+            },
+            {
+              "name": "CHUKWUEMEKA CANTEEN & CANTERING",
+              "internationalNumber": "BN-2574408"
+            },
+            {
+              "name": "ANGWAN WAJE NIG ENTERPRISES",
+              "internationalNumber": "BN-2567375"
+            },
+            {
+              "name": "EMIRANA NIG ENTERPRISES",
+              "internationalNumber": "BN-2582229"
+            },
+            {
+              "name": "ELIMORUE BENBEST GLOBAL VENTURES",
+              "internationalNumber": "BN-2564458"
+            },
+            {
+              "name": "ONUKSON VENTURES",
+              "internationalNumber": "BN-2568623"
+            },
+            {
+              "name": "SANWANSAM GLOBAL VENTURES",
+              "internationalNumber": "BN-2574409"
+            },
+            {
+              "name": "REBSLA BUSINESS CONCEPTS",
+              "internationalNumber": "BN-2565721"
+            },
+            {
+              "name": "A & G STORES ENTERPRISES",
+              "internationalNumber": "BN-2581759"
+            },
+            {
+              "name": "A.I NWOKOLO & CO",
+              "internationalNumber": "BN-2571815"
+            },
+            {
+              "name": "OMOYITI INTEGRATED ENTERPRESES",
+              "internationalNumber": "BN-2568625"
+            },
+            {
+              "name": "IDRISASHRAF NIG ENTERPRISES",
+              "internationalNumber": "BN-2581725"
+            },
+            {
+              "name": "ILMUDDEEN ACADEMY LAFIA",
+              "internationalNumber": "BN-2585239"
+            },
+            {
+              "name": "ALH SANI IBRAHIM STANDARD RATIO BLOCK FACTORY",
+              "internationalNumber": "BN-2579532"
+            },
+            {
+              "name": "VIETNAM-NIGERIA RICE FARMING SERVICES",
+              "internationalNumber": "BN-2567373"
+            },
+            {
+              "name": "FLORENDU UNIQUE ENTERPRISE",
+              "internationalNumber": "BN-2585587"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

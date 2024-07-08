@@ -1,0 +1,460 @@
+[
+  {
+    "year": "1987",
+    "title": "DOLSON NIG LTD - RC-104926 - Nigeria",
+    "description": "DOLSON NIG LTD Nigeria company, Company number: RC-104926, Incorporation Date Dec 14, 1987;, Address: 53A, LAWSON STR, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61053207,
+      "name": "DOLSON NIG LTD",
+      "internationalNumber": "RC-104926",
+      "localNumber": "104926",
+      "countryId": 24,
+      "dateCreated": "1987-12-14T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:38:48.405Z",
+      "updatedAt": "2024-06-15T15:36:58.695Z",
+      "alternateNames": [],
+      "address": "53A, LAWSON STR, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "269829",
+      "updatedAtSitemap": "2024-01-15T18:36:04.000Z",
+      "oldInternationalNumber": "104926",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 321,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197044,
+          "providerId": "348594",
+          "providerName": "IT Others",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:09.448381+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82073454,
+          "address": "53A, LAWSON STR, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "WAKOFSON LTD",
+              "internationalNumber": "RC-95583"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 238211954,
+          "companyId": 61053207,
+          "personId": 78822210,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78822210,
+            "name": "okechukwu valentine ekene",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1991,
+            "birthMonth": 1,
+            "birthDate": 22,
+            "address": "NO. 2, AGBAMA ESTATE, UMUAHIA, ABIA STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A 50288592",
+            "documentType": "International Passport",
+            "email": "valentine_ekene@gmail.com",
+            "phone": "08077549622",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238211955,
+          "companyId": 61053207,
+          "personId": 78822211,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78822211,
+            "name": "okechukwu glory chidiogo",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1987,
+            "birthMonth": 8,
+            "birthDate": 29,
+            "address": "NO. 11, AGBAMA ESTATE, UMUAHIA, ABIA STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A 03425214",
+            "documentType": "International Passport",
+            "email": "glory.okechukwu@yahoo.com",
+            "phone": "09067051540",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 245744846,
+          "companyId": 61053207,
+          "personId": 84638918,
+          "roleId": 114332,
+          "person": {
+            "id": 84638918,
+            "name": "joel akerigba",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1987,
+            "birthMonth": 7,
+            "birthDate": 21,
+            "address": "5, Awande Close, off Ajesa Street, Wuse II, Abuja, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1697865",
+            "documentType": "National ID Card",
+            "documentNumber": "19732940421",
+            "email": "akerigbajoel@gmail.com",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "INTEGRATED PERSONNEL RESOURCE INFORMATION MANAGEMENT SYSTEM LIMITED",
+              "internationalNumber": "RC-1539347"
+            },
+            {
+              "name": "ARMSTRONG SHELTER LIMITED",
+              "internationalNumber": "RC-1547405"
+            },
+            {
+              "name": "URBAN KONSULT LTD",
+              "internationalNumber": "RC-168220"
+            },
+            {
+              "name": "OLYMPO LOGISTICS SERVICES LIMITED",
+              "internationalNumber": "RC-1470687"
+            },
+            {
+              "name": "ALLIANCE FOR IMPROVEMENT OF MARRIAGES FOUNDATION",
+              "internationalNumber": "IT-153431"
+            },
+            {
+              "name": "M.C. UHALA & SONS NIGERIA LIMITED",
+              "internationalNumber": "RC-169680"
+            },
+            {
+              "name": "UNIVERSAL EXPEDIENCY AGENCY LIMITED",
+              "internationalNumber": "RC-1721551"
+            },
+            {
+              "name": "HAMMOND LAW & PARTNERS",
+              "internationalNumber": "BN-2680863"
+            },
+            {
+              "name": "BEN-SANCTUS GLOBAL LIMITED",
+              "internationalNumber": "RC-1899186"
+            },
+            {
+              "name": "JAY B ENTERPRISE",
+              "internationalNumber": "BN-3087451"
+            },
+            {
+              "name": "GORGEOUS IDENTITY LIMITED",
+              "internationalNumber": "RC-1531953"
+            },
+            {
+              "name": "WINDLINE FARMS LIMITED",
+              "internationalNumber": "RC-1465938"
+            },
+            {
+              "name": "TEKEMO AND T GLOBAL SERVICES LIMITED",
+              "internationalNumber": "RC-1474993"
+            },
+            {
+              "name": "ADAM EKONG FOUNDATION",
+              "internationalNumber": "IT-151462"
+            },
+            {
+              "name": "GREAT STEPS INTERNATIONAL SCHOOL LIMITED",
+              "internationalNumber": "RC-1544262"
+            },
+            {
+              "name": "HALLOWED CITY PROPERTIES LIMITED",
+              "internationalNumber": "RC-1803756"
+            },
+            {
+              "name": "NATHIVIAN LIMITED",
+              "internationalNumber": "RC-1904584"
+            },
+            {
+              "name": "BABA GAMES VILLAGE SHOP",
+              "internationalNumber": "BN-2589716"
+            },
+            {
+              "name": "YUGLO NIGERIA LIMITED",
+              "internationalNumber": "RC-1617182"
+            },
+            {
+              "name": "LEADERSHIP THINK-THANK FOUNDATION",
+              "internationalNumber": "IT-120056"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238211953,
+          "companyId": 61053207,
+          "personId": 96575322,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96575322,
+            "name": "akerigba joel",
+            "countryId": 24,
+            "address": "24, CONSTITUTION ROAD,",
+            "countryOfResidence": "NIGERIA",
+            "email": "akerigbajoel@gmail.com",
+            "phone": "2348073568843",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

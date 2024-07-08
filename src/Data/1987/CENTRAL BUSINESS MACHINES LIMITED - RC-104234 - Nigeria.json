@@ -1,0 +1,457 @@
+[
+  {
+    "year": "1987",
+    "title": "CENTRAL BUSINESS MACHINES LIMITED - RC-104234 - Nigeria",
+    "description": "CENTRAL BUSINESS MACHINES LIMITED Nigeria company, Company number: RC-104234, Incorporation Date Dec 7, 1987;, Address: 61, ODUNLEMI STREET, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61052479,
+      "name": "CENTRAL BUSINESS MACHINES LIMITED",
+      "internationalNumber": "RC-104234",
+      "localNumber": "104234",
+      "countryId": 24,
+      "dateCreated": "1987-12-07T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:37:00.478Z",
+      "updatedAt": "2024-06-15T15:37:01.489Z",
+      "alternateNames": [],
+      "address": "61, ODUNLEMI STREET, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesValue": "1 NGN",
+      "sharesIssued": "50000",
+      "historicalNames": [],
+      "providerId": "269141",
+      "updatedAtSitemap": "2024-01-15T18:36:01.000Z",
+      "oldInternationalNumber": "104234",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 186,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197198,
+          "providerId": "199149",
+          "providerName": "Import and Export of General Goods",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:05:50.796668+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82072293,
+          "address": "61, ODUNLEMI STREET, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 245452645,
+          "companyId": 61052479,
+          "personId": 67015561,
+          "roleId": 114332,
+          "person": {
+            "id": 67015561,
+            "name": "titu ijoma okam",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1975,
+            "birthMonth": 8,
+            "birthDate": 12,
+            "address": "NO.20ONA CRESCENT, MAITAMA, ABUJA, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1686500",
+            "documentType": "National ID Card",
+            "documentNumber": "90302775923",
+            "email": "okamtitu@gmail.com",
+            "phone": "+234 803 563 7146",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "BIO AFRICA ROSELLA  LIMITED",
+              "internationalNumber": "RC-1666732"
+            },
+            {
+              "name": "LINK EDUCATIONAL SERVICES LIMITED",
+              "internationalNumber": "RC-122573"
+            },
+            {
+              "name": "SIDAGOOE GLOBAL LIMITED",
+              "internationalNumber": "RC-1545320"
+            },
+            {
+              "name": "240G MULTI-MEDIA KONCEPTS LTD",
+              "internationalNumber": "RC-1560508"
+            },
+            {
+              "name": "ANGUJJA GLOBAL SERVICES LTD",
+              "internationalNumber": "RC-1642470"
+            },
+            {
+              "name": "MUNA-TOM ENTERPRISES",
+              "internationalNumber": "BN-3446431"
+            },
+            {
+              "name": "COUTURE CREATIVE TAILORS LTD",
+              "internationalNumber": "RC-1566036"
+            },
+            {
+              "name": "HAIG MULTI-FACETED COMPANY LTD",
+              "internationalNumber": "RC-1506252"
+            },
+            {
+              "name": "O'Bless Farms",
+              "internationalNumber": "BN-3252592"
+            },
+            {
+              "name": "LYNSER GLOBAL LTD",
+              "internationalNumber": "RC-1636303"
+            },
+            {
+              "name": "GREAT-GAINS GLOBAL RESOURCES LTD",
+              "internationalNumber": "RC-1439313"
+            },
+            {
+              "name": "PESS GOLD AND GLOBAL RESOURCES LIMITED",
+              "internationalNumber": "RC-1663657"
+            },
+            {
+              "name": "OKRAN OIL AND GAS LTD",
+              "internationalNumber": "RC-1381142"
+            },
+            {
+              "name": "U-TECH BLESSED KONCEPTS",
+              "internationalNumber": "BN-2984742"
+            },
+            {
+              "name": "EN-OSS PHARMACY AND STORES LTD",
+              "internationalNumber": "RC-1844713"
+            },
+            {
+              "name": "NEDFRANS PHARMACY AND CHEMICALS LTD",
+              "internationalNumber": "RC-1398478"
+            },
+            {
+              "name": "MOHDIBRA CONSULTS LTD",
+              "internationalNumber": "RC-1574181"
+            },
+            {
+              "name": "ALBAYAN INT'L CO. LTD",
+              "internationalNumber": "RC-1687605"
+            },
+            {
+              "name": "BABATIK 206 NIG LTD",
+              "internationalNumber": "RC-1616407"
+            },
+            {
+              "name": "ANDERSON H. GLOBAL LIMITED",
+              "internationalNumber": "RC-1514649"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238220420,
+          "companyId": 61052479,
+          "personId": 78826195,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 78826195,
+            "name": "okam titu",
+            "countryId": 24,
+            "address": "NO. 20, ONA CRESCENT, MAITAMA. ABUJA.",
+            "countryOfResidence": "NIGERIA",
+            "email": "okamtitu@gmail.com",
+            "phone": "2348035637146",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238220421,
+          "companyId": 61052479,
+          "personId": 78826196,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78826196,
+            "name": "president. ogboko emmanuel chukwudifu",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1975,
+            "birthMonth": 8,
+            "birthDate": 26,
+            "address": "NO. 6, EMMANUEL STREET, RUMUIGBO NEW LAYOUT, PORT HARCOURT, RIVERS STATE.",
+            "countryOfResidence": "NIGERIA",
+            "number": "A05354298",
+            "documentType": "International Passport",
+            "email": "ogboko@justice.com",
+            "phone": "08038706924",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238220422,
+          "companyId": 61052479,
+          "personId": 78826197,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78826197,
+            "name": "vice president. ogboko jane-frances onyinye",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1983,
+            "birthMonth": 12,
+            "birthDate": 5,
+            "address": "NO. 6, EMMANUEL STREET, RUMUIGBO NEW LAYOUT, PORT HARCOURT, RIVERS STATE.",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06065120",
+            "documentType": "International Passport",
+            "email": "onixxstone@yahoo.com",
+            "phone": "08096549060",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

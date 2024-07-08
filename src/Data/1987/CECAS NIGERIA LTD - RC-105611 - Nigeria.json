@@ -1,0 +1,475 @@
+[
+  {
+    "year": "1987",
+    "title": "CECAS NIGERIA LTD - RC-105611 - Nigeria",
+    "description": "CECAS NIGERIA LTD Nigeria company, Company number: RC-105611, Incorporation Date Dec 21, 1987;, Address: 278 IKORODU ROAD, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61083638,
+      "name": "CECAS NIGERIA LTD",
+      "internationalNumber": "RC-105611",
+      "localNumber": "105611",
+      "countryId": 24,
+      "dateCreated": "1987-12-21T00:00:00.000Z",
+      "createdAt": "2021-05-22T01:15:16.322Z",
+      "updatedAt": "2024-06-15T15:36:55.420Z",
+      "alternateNames": [],
+      "address": "278 IKORODU ROAD, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270511",
+      "updatedAtSitemap": "2024-01-15T18:36:06.000Z",
+      "oldInternationalNumber": "105611",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 342,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82074722,
+          "address": "278 IKORODU ROAD, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "SECURITY OPTIONS LIMITED",
+              "internationalNumber": "RC-158095"
+            },
+            {
+              "name": "KOMOPUTER NIGERIA SERVICES LTD",
+              "internationalNumber": "RC-105634"
+            },
+            {
+              "name": "ALANDAY & COMPANY (NIGERIA) LIMITED",
+              "internationalNumber": "RC-121473"
+            },
+            {
+              "name": "LATYMER INVESTMENT LIMITED",
+              "internationalNumber": "RC-1213799"
+            },
+            {
+              "name": "DELPHI EARTHWORKS LIMITED",
+              "internationalNumber": "RC-1169064"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 245663999,
+          "companyId": 61083638,
+          "personId": 66138027,
+          "roleId": 114332,
+          "person": {
+            "id": 66138027,
+            "name": "vitalis nnamdi eruo",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1960,
+            "birthMonth": 11,
+            "birthDate": 1,
+            "address": "SUITE D173RD FLOOR, DANZIYAL PLAZA, OPPOSITE NNPC MEGA FILLING STATION, OLUSEGUN OBASANJO WAY, CBD, ABUJA, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1829205",
+            "documentType": "National ID Card",
+            "documentNumber": "21479815414",
+            "email": "orbitlawyers@gmail.com",
+            "phone": "+234 803 321 8279",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "MININGANGEL SOLID MINERALS CO. LIMITED",
+              "internationalNumber": "RC-1496184"
+            },
+            {
+              "name": "JUFORD GLOBAL LINK LTD",
+              "internationalNumber": "RC-1497914"
+            },
+            {
+              "name": "ST. CLAVER HOSPITAL LTD",
+              "internationalNumber": "RC-101557"
+            },
+            {
+              "name": "PROUD VINTAGE CLOTHING INTERNATIONAL LTD",
+              "internationalNumber": "RC-1511549"
+            },
+            {
+              "name": "GAPBRIDGE REALTOR ENTERPRISES",
+              "internationalNumber": "BN-3439183"
+            },
+            {
+              "name": "FRANKDAB ENT",
+              "internationalNumber": "BN-3480530"
+            },
+            {
+              "name": "GREAT VISION POWER POINT MINISTRY INTERNATIONAL",
+              "internationalNumber": "IT-104386"
+            },
+            {
+              "name": "YABSOL NIGERIA LIMITED",
+              "internationalNumber": "RC-127639"
+            },
+            {
+              "name": "FAVOURED TRIUMPHANT INTERNATIONAL BIBLE CHURCH",
+              "internationalNumber": "IT-105611"
+            },
+            {
+              "name": "FIRSTSAB TOWERS LTD",
+              "internationalNumber": "RC-1511530"
+            },
+            {
+              "name": "OXFORD INTERIOR DECORATIONS LTD",
+              "internationalNumber": "RC-1519063"
+            },
+            {
+              "name": "IMARK ASSOCIATES LTD",
+              "internationalNumber": "RC-100506"
+            },
+            {
+              "name": "CHICUNDA STEEL ENTERPRISES",
+              "internationalNumber": "BN-3458471"
+            },
+            {
+              "name": "SOMMET WATER NIGERIA LIMITED",
+              "internationalNumber": "RC-1592156"
+            },
+            {
+              "name": "OHRAN LTD",
+              "internationalNumber": "RC-175409"
+            },
+            {
+              "name": "DABON INDUSTRIES LIMITED",
+              "internationalNumber": "RC-104386"
+            },
+            {
+              "name": "NELLY BROTHERS & CO. NIGERIA LIMITED",
+              "internationalNumber": "RC-129241"
+            },
+            {
+              "name": "MULTIPLE GRACE STAR ENTERPRISES",
+              "internationalNumber": "BN-3192624"
+            },
+            {
+              "name": "SOMMET HOLIDAY'S INN & RESORTS ENTERPRISES",
+              "internationalNumber": "BN-3470939"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238198887,
+          "companyId": 61083638,
+          "personId": 78818265,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78818265,
+            "name": "oyibe chukwuma ezekiel",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1970,
+            "birthMonth": 11,
+            "birthDate": 19,
+            "address": "504 AGAZANGO EXTENSION ANNEX, KUBWA, ABUJA-FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "A98056",
+            "documentType": "National ID Card",
+            "email": "coyibsystem@gmail.com",
+            "phone": "08036076342",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238198888,
+          "companyId": 61083638,
+          "personId": 78818266,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78818266,
+            "name": "eze simeon okpoto",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1963,
+            "birthMonth": 7,
+            "birthDate": 10,
+            "address": "NO. 4, OLISAEMEKA STREET, ABAKALIKI, EBONYI STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A60770318",
+            "documentType": "International Passport",
+            "email": "simoeze2004@yahoo.co.uk",
+            "phone": "08036199954",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238198886,
+          "companyId": 61083638,
+          "personId": 80387790,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 80387790,
+            "name": "eruo vitalis",
+            "countryId": 24,
+            "address": "3RD FLOOR, DANZIYAL PLAZA, OPPOSITE NNPC MEGA FILLING STATION,  OLUSEGUN OBASANJO WAY, CBD,  , SUITE D17",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "orbitlawyers@gmail.com",
+            "phone": "08033218279",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 6
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "year": "1987",
+    "title": "PARK PHARMACEUTICAL COMPANY LTD - RC-104649 - Nigeria",
+    "description": "PARK PHARMACEUTICAL COMPANY LTD Nigeria company, Company number: RC-104649, Incorporation Date Dec 10, 1987;, Address: 43, EREKO STR. IDUMOTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61052916,
+      "name": "PARK PHARMACEUTICAL COMPANY LTD",
+      "internationalNumber": "RC-104649",
+      "localNumber": "104649",
+      "countryId": 24,
+      "dateCreated": "1987-12-10T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:38:09.804Z",
+      "updatedAt": "2024-06-15T15:37:00.258Z",
+      "alternateNames": [],
+      "address": "43, EREKO STR. IDUMOTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "25000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "269552",
+      "updatedAtSitemap": "2024-01-15T18:36:02.000Z",
+      "oldInternationalNumber": "104649",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 260,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197311,
+          "providerId": "349626",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:08:37.748956+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82072987,
+          "address": "43, EREKO STR. IDUMOTA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 245128816,
+          "companyId": 61052916,
+          "personId": 66137405,
+          "roleId": 114332,
+          "person": {
+            "id": 66137405,
+            "name": "oladipupo  olawale ajayi ",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1986,
+            "birthMonth": 2,
+            "birthDate": 3,
+            "address": "NO 3REMILEKUN STREET, KETU, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1697093",
+            "documentType": "International Passport",
+            "documentNumber": "A048449",
+            "email": "dipix2007@yahoo.com",
+            "phone": "+234 808 325 2426",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "HORIZONTAL HOMES VENTURES",
+              "internationalNumber": "BN-2487174"
+            },
+            {
+              "name": "HABBAM GLOBAL SERVICES",
+              "internationalNumber": "BN-2986470"
+            },
+            {
+              "name": "OLARG ENTERPRISES",
+              "internationalNumber": "BN-2558740"
+            },
+            {
+              "name": "FABEEMUR CLOTHING ENTERPRISES",
+              "internationalNumber": "BN-2515885"
+            },
+            {
+              "name": "BEST HITS RECORD",
+              "internationalNumber": "BN-2661522"
+            },
+            {
+              "name": "SENSAMED HEALTH LOGISTICS LIMITED",
+              "internationalNumber": "RC-1618131"
+            },
+            {
+              "name": "DEYANGA COLLECTIONS",
+              "internationalNumber": "BN-2709449"
+            },
+            {
+              "name": "KING’S POULTRY LIMITED",
+              "internationalNumber": "RC-1693925"
+            },
+            {
+              "name": "CHARLES MONROE NIGERIA",
+              "internationalNumber": "BN-2517831"
+            },
+            {
+              "name": "REAL AT ONCE ENTERPRISES",
+              "internationalNumber": "BN-3266791"
+            },
+            {
+              "name": "ALTO SIEG NIGERIA LTD",
+              "internationalNumber": "RC-1626603"
+            },
+            {
+              "name": "FIRM NATIONS AUTOS COMPANY LIMITED",
+              "internationalNumber": "RC-1461170"
+            },
+            {
+              "name": "INNOVET SOLUTIONS AND TECHNOLOGIES",
+              "internationalNumber": "BN-2794731"
+            },
+            {
+              "name": "INKHORN MULTI CONCEPT SERVICES LTD",
+              "internationalNumber": "RC-1544364"
+            },
+            {
+              "name": "AN-NUJUM INTERNATIONAL VENTURES",
+              "internationalNumber": "BN-2520964"
+            },
+            {
+              "name": "HIGH BERRIES NIG LTD",
+              "internationalNumber": "RC-1457975"
+            },
+            {
+              "name": "TEMARIANA INTEGRATED SERVICE LTD",
+              "internationalNumber": "RC-1421742"
+            },
+            {
+              "name": "MOTRANS ENTERPRISES",
+              "internationalNumber": "BN-2547390"
+            },
+            {
+              "name": "SEM FEM GLOBAL LOGISTICS LTD",
+              "internationalNumber": "RC-1861869"
+            },
+            {
+              "name": "BODY LIVEN BRAND",
+              "internationalNumber": "BN-3378555"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238215554,
+          "companyId": 61052916,
+          "personId": 66196588,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 66196588,
+            "name": "ajayi  oladipupo ",
+            "countryId": 24,
+            "address": "3, REMILEKUN STREET, KETU",
+            "countryOfResidence": "NIGERIA",
+            "email": "dipix2007@yahoo.com",
+            "phone": "2348083252426",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "VETOBAP NIG LTD",
+              "internationalNumber": "RC-104861"
+            },
+            {
+              "name": "AKOGY FEED MILL LTD",
+              "internationalNumber": "RC-106395"
+            },
+            {
+              "name": "AMEHCO NIGERIA LIMITED",
+              "internationalNumber": "RC-102342"
+            },
+            {
+              "name": "QUBA LIMITED",
+              "internationalNumber": "RC-105082"
+            },
+            {
+              "name": "OLUA COMPANY LIMITED",
+              "internationalNumber": "RC-110909"
+            },
+            {
+              "name": "SADOLA CONTRACTORS NIG LTD",
+              "internationalNumber": "RC-105730"
+            },
+            {
+              "name": "SULEJA INDUSTRIES LIMITED",
+              "internationalNumber": "RC-105646"
+            },
+            {
+              "name": "UDEOGU ENTERPRISES NIGERIA LIMITED",
+              "internationalNumber": "RC-100112"
+            },
+            {
+              "name": "MOI ADVERTISING LTD",
+              "internationalNumber": "RC-103283"
+            },
+            {
+              "name": "MARIZU LTD",
+              "internationalNumber": "RC-104563"
+            },
+            {
+              "name": "SEANIA INVESTMENTS COMPANY LTD",
+              "internationalNumber": "RC-109373"
+            },
+            {
+              "name": "VSP BOTANICS LIMITED",
+              "internationalNumber": "RC-1487243"
+            },
+            {
+              "name": "WINIMEK INVESTMENTS NIGERIA LTD",
+              "internationalNumber": "RC-104286"
+            },
+            {
+              "name": "PIERRE JACQUES NIG LTD",
+              "internationalNumber": "RC-105510"
+            },
+            {
+              "name": "EMAGRADE NIGERIA LIMITED",
+              "internationalNumber": "RC-109865"
+            },
+            {
+              "name": "HADACO ENTERPRISES LIMITED",
+              "internationalNumber": "RC-102132"
+            },
+            {
+              "name": "ERIC GODRIC COMPANY LTD",
+              "internationalNumber": "RC-111443"
+            },
+            {
+              "name": "DANKOMA CONSTRUCTION NIGERIA LIMITED",
+              "internationalNumber": "RC-102756"
+            },
+            {
+              "name": "ARFO INTERNATIONAL LTD",
+              "internationalNumber": "RC-111268"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238215555,
+          "companyId": 61052916,
+          "personId": 78823759,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78823759,
+            "name": "samuel joseph eruviene",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1977,
+            "birthMonth": 10,
+            "birthDate": 27,
+            "address": "23, EMMANUEL AINA STREET, ODONGUYAN",
+            "countryOfResidence": "NIGERIA",
+            "number": "A05714218",
+            "documentType": "International Passport",
+            "email": "seruviene@yahoo.com",
+            "phone": "08068156781",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238215556,
+          "companyId": 61052916,
+          "personId": 78823760,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78823760,
+            "name": "adewumi ademiju adepele",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1978,
+            "birthMonth": 7,
+            "birthDate": 15,
+            "address": "86, OWORO ROAD, OWORONSHOKI",
+            "countryOfResidence": "NIGERIA",
+            "number": "A05259713",
+            "documentType": "International Passport",
+            "email": "talkto3aces@yahoo.com",
+            "phone": "08062250663",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 6
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

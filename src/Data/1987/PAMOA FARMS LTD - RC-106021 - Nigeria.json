@@ -1,0 +1,413 @@
+[
+  {
+    "year": "1987",
+    "title": "PAMOA FARMS LTD - RC-106021 - Nigeria",
+    "description": "PAMOA FARMS LTD Nigeria company, Company number: RC-106021, Incorporation Date Dec 23, 1987;, Address: 18A, SECOND IVBIORE STR, BENIN, EDO, BENIN, EDO STATE",
+    "company": {
+      "id": 61092450,
+      "name": "PAMOA FARMS LTD",
+      "internationalNumber": "RC-106021",
+      "localNumber": "106021",
+      "countryId": 24,
+      "dateCreated": "1987-12-23T00:00:00.000Z",
+      "createdAt": "2021-05-22T06:23:46.659Z",
+      "updatedAt": "2024-06-15T15:36:50.856Z",
+      "alternateNames": [],
+      "address": "18A, SECOND IVBIORE STR, BENIN, EDO, BENIN, EDO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270921",
+      "updatedAtSitemap": "2024-01-15T18:36:11.000Z",
+      "oldInternationalNumber": "106021",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 280,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196942,
+          "providerId": "199095",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:29.578323+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82075406,
+          "address": "18A, SECOND IVBIORE STR, BENIN, EDO, BENIN, EDO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 245358084,
+          "companyId": 61092450,
+          "personId": 66133822,
+          "roleId": 114349,
+          "person": {
+            "id": 66133822,
+            "name": "ehisuoria osagiede",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1986,
+            "birthMonth": 4,
+            "birthDate": 24,
+            "address": "SUITE C04, GOSTU PLAZA1ST AVENUE, GWARINPA, ABUJA, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1311612",
+            "documentType": "International Passport",
+            "documentNumber": "B00135412",
+            "email": "lawprinz_esq@yahoo.com",
+            "phone": "+234 814 277 3513",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114349,
+            "name": "Legal Practice",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practice"
+            }
+          },
+          "companies": [
+            {
+              "name": "BRIGHT SCOPE GLOBAL LTD",
+              "internationalNumber": "RC-1699030"
+            },
+            {
+              "name": "UDARA OMA ENTERPRISES",
+              "internationalNumber": "BN-3432073"
+            },
+            {
+              "name": "GODMIZU ENTERPRISE",
+              "internationalNumber": "BN-2985657"
+            },
+            {
+              "name": "ALMENDRA FASHION HOUSE",
+              "internationalNumber": "BN-3003369"
+            },
+            {
+              "name": "EMMADAVINA GLOBAL VENTURES",
+              "internationalNumber": "BN-3444189"
+            },
+            {
+              "name": "NATHYGOLD INTEGRATED SERVICE",
+              "internationalNumber": "BN-3321237"
+            },
+            {
+              "name": "VYLUX INTERNATIONAL CONCEPT",
+              "internationalNumber": "BN-2558579"
+            },
+            {
+              "name": "DM LOUNGE",
+              "internationalNumber": "BN-2993303"
+            },
+            {
+              "name": "STEVE BENSON HOTEL & SUITES LTD",
+              "internationalNumber": "RC-1696617"
+            },
+            {
+              "name": "DEKINGS LANDSCAPE  LTD",
+              "internationalNumber": "RC-1553876"
+            },
+            {
+              "name": "ENELG CONTRACTORS",
+              "internationalNumber": "BN-2992966"
+            },
+            {
+              "name": "AUGUSTINE-CHY IBE ENTERPRISES",
+              "internationalNumber": "BN-3182485"
+            },
+            {
+              "name": "HEMS TOUCH INTIATIVE",
+              "internationalNumber": "IT-117509"
+            },
+            {
+              "name": "CHARLESMECCA GLOBAL",
+              "internationalNumber": "BN-2678989"
+            },
+            {
+              "name": "BLOSSOM CHEMISTS",
+              "internationalNumber": "BN-2993661"
+            },
+            {
+              "name": "VNL CAPITAL LTD",
+              "internationalNumber": "RC-1860025"
+            },
+            {
+              "name": "BEZALEEL OFFSHORE TRANSPORTATION LTD",
+              "internationalNumber": "RC-1596122"
+            },
+            {
+              "name": "ANTHONY  IDONIJE OKHAIDE NIG ENTERPRISE",
+              "internationalNumber": "BN-3440225"
+            },
+            {
+              "name": "EGHOMON NURSERY PRIMARY & SECONDARY SCHOOLS",
+              "internationalNumber": "BN-2995881"
+            },
+            {
+              "name": "QUEENDARA SKINCARE & SPA",
+              "internationalNumber": "BN-2998793"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238192802,
+          "companyId": 61092450,
+          "personId": 78662320,
+          "roleId": 60330,
+          "sourceNum": 1,
+          "person": {
+            "id": 78662320,
+            "name": "asuru sunday nickson",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1968,
+            "birthMonth": 5,
+            "birthDate": 13,
+            "address": "992, DAWAKI EXTENSION RELOCATION, SAPLAST LAYOUT",
+            "countryOfResidence": "NIGERIA",
+            "number": "ABC07908AC02",
+            "documentType": "Driver's License",
+            "email": "asunickson@gmail.com",
+            "phone": "08036081591",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238192795,
+          "companyId": 61092450,
+          "personId": 97081745,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 97081745,
+            "name": "osagiede ehisuoria",
+            "countryId": 24,
+            "address": "4, YAKUBU JANG STREET",
+            "countryOfResidence": "NIGERIA",
+            "email": "starlionlegal@yahoo.com",
+            "phone": "08130953118",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "H. KALU MADUKA COMPANY LIMITED",
+              "internationalNumber": "RC-161401"
+            },
+            {
+              "name": "SYDAL NIG LTD",
+              "internationalNumber": "RC-163528"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 8
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

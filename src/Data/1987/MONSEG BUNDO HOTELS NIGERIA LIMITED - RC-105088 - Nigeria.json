@@ -1,0 +1,328 @@
+[
+  {
+    "year": "1987",
+    "title": "MONSEG BUNDO HOTELS NIGERIA LIMITED - RC-105088 - Nigeria",
+    "description": "MONSEG BUNDO HOTELS NIGERIA LIMITED Nigeria company, Company number: RC-105088, Incorporation Date Dec 15, 1987;, Address: 4, ADEBAYO ADEKOYA STR., OREMGI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61053381,
+      "name": "MONSEG BUNDO HOTELS NIGERIA LIMITED",
+      "internationalNumber": "RC-105088",
+      "localNumber": "105088",
+      "countryId": 24,
+      "dateCreated": "1987-12-15T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:39:26.950Z",
+      "updatedAt": "2024-06-15T15:36:58.240Z",
+      "alternateNames": [],
+      "address": "4, ADEBAYO ADEKOYA STR., OREMGI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "269991",
+      "updatedAtSitemap": "2024-01-15T18:36:05.000Z",
+      "oldInternationalNumber": "105088",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 358,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197311,
+          "providerId": "349626",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:08:37.748956+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82073746,
+          "address": "4, ADEBAYO ADEKOYA STR., OREMGI, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238209363,
+          "companyId": 61053381,
+          "personId": 78821404,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78821404,
+            "name": "obidiya olaniyi abolade",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1974,
+            "birthMonth": 8,
+            "birthDate": 17,
+            "address": "64, OMOLARA BUS STOP, OJODU",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06453864",
+            "documentType": "International Passport",
+            "email": "Obidiyaabolade@yahoo.com",
+            "phone": "08067156038",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238209364,
+          "companyId": 61053381,
+          "personId": 78821405,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78821405,
+            "name": "adebola olayemi sanyaolu",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1971,
+            "birthMonth": 11,
+            "birthDate": 14,
+            "address": "80, UNITED ESTATE , ALAGBOLE,",
+            "countryOfResidence": "NIGERIA",
+            "number": "KJA90746AA22",
+            "documentType": "National ID Card",
+            "email": "sanyaoluyemi@yahoo.com",
+            "phone": "08065554234",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238209361,
+          "companyId": 61053381,
+          "personId": 97031478,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 97031478,
+            "name": "iroro itohan",
+            "countryId": 24,
+            "address": "81, Awolowo way, Ikeja , Lagos",
+            "countryOfResidence": "NIGERIA",
+            "email": "itohaniroro@yahoo.com",
+            "phone": "2348068156039",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "IN' DECOR NIGERIA  LIMITED",
+              "internationalNumber": "RC-1463945"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 6
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

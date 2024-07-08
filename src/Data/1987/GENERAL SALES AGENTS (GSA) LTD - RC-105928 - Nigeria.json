@@ -1,0 +1,332 @@
+[
+  {
+    "year": "1987",
+    "title": "GENERAL SALES AGENTS (GSA) LTD - RC-105928 - Nigeria",
+    "description": "GENERAL SALES AGENTS (GSA) LTD Nigeria company, Company number: RC-105928, Incorporation Date Dec 23, 1987;, Address: 27, FAGGE TAKUDU, KANO, KANO, KANO, KANO STATE",
+    "company": {
+      "id": 61092349,
+      "name": "GENERAL SALES AGENTS (GSA) LTD",
+      "internationalNumber": "RC-105928",
+      "localNumber": "105928",
+      "countryId": 24,
+      "dateCreated": "1987-12-23T00:00:00.000Z",
+      "createdAt": "2021-05-22T06:23:33.104Z",
+      "updatedAt": "2024-06-15T15:36:52.771Z",
+      "alternateNames": [],
+      "address": "27, FAGGE TAKUDU, KANO, KANO, KANO, KANO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "150000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270828",
+      "updatedAtSitemap": "2024-01-15T18:36:12.000Z",
+      "oldInternationalNumber": "105928",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 280,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196992,
+          "providerId": "143259",
+          "providerName": "Education",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:01:13.51935+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82073702,
+          "address": "27, FAGGE TAKUDU, KANO, KANO, KANO, KANO STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "INNOVATIVE VENTURE NIGERIA LIMITED",
+              "internationalNumber": "RC-105062"
+            },
+            {
+              "name": "SHEIK BASHIL  EL. RAYAH SCHOOL COMPLEX LTD",
+              "internationalNumber": "RC-259843"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 238194110,
+          "companyId": 61092349,
+          "personId": 78816343,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78816343,
+            "name": "ishola mojisola margaret",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1960,
+            "birthMonth": 4,
+            "birthDate": 15,
+            "address": "No 23 Parakin Street, Ile Ife.",
+            "countryOfResidence": "NIGERIA",
+            "number": "A06830825",
+            "documentType": "International Passport",
+            "email": "mojitwo2000@yahoo.com",
+            "phone": "09036644963",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238194111,
+          "companyId": 61092349,
+          "personId": 78816344,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78816344,
+            "name": "oyewobi richard oluwatoyin-bello",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1962,
+            "birthMonth": 4,
+            "birthDate": 12,
+            "address": "No 103, Wanjiei Ngbokwere Street, Zone A, Apo Resettlement, Abuja, Nigeria",
+            "countryOfResidence": "NIGERIA",
+            "number": "ABC69982AB28",
+            "documentType": "Driver's License",
+            "email": "richardoyewobi@gmail.com",
+            "phone": "08036651516",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238194109,
+          "companyId": 61092349,
+          "personId": 96637835,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 96637835,
+            "name": "abdurrahman abdullahi",
+            "countryId": 24,
+            "address": "No 13b, Olowo Street, Sunnyvale Homes, Dakwo, Abuja ",
+            "countryOfResidence": "NIGERIA",
+            "email": "a4abdullahi5@gmail.com",
+            "phone": "08065916907",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 7
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

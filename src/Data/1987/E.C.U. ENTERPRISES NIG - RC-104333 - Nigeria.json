@@ -1,0 +1,323 @@
+[
+  {
+    "year": "1987",
+    "title": "E.C.U. ENTERPRISES NIG - RC-104333 - Nigeria",
+    "description": "E.C.U. ENTERPRISES NIG Nigeria company, Company number: RC-104333, Incorporation Date Dec 8, 1987;, Address: 2B, 3RD STR. ELEAHIA HOUSING ESTATE, P/H, RIVERS, P/H, RIVERS STATE",
+    "company": {
+      "id": 61052572,
+      "name": "E.C.U. ENTERPRISES NIG",
+      "internationalNumber": "RC-104333",
+      "localNumber": "104333",
+      "countryId": 24,
+      "dateCreated": "1987-12-08T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:37:15.034Z",
+      "updatedAt": "2024-06-15T15:37:00.131Z",
+      "alternateNames": [],
+      "address": "2B, 3RD STR. ELEAHIA HOUSING ESTATE, P/H, RIVERS, P/H, RIVERS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "269239",
+      "updatedAtSitemap": "2024-01-15T18:36:03.000Z",
+      "oldInternationalNumber": "104333",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 273,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6201139,
+          "providerId": "143262",
+          "providerName": "Social work activities without accommodation",
+          "countryId": 24,
+          "createdAt": "2021-11-07T16:07:40.388956+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82072465,
+          "address": "2B, 3RD STR. ELEAHIA HOUSING ESTATE, P/H, RIVERS, P/H, RIVERS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238219355,
+          "companyId": 61052572,
+          "personId": 78825730,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78825730,
+            "name": "adeyemi alaba",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1987,
+            "birthMonth": 5,
+            "birthDate": 17,
+            "address": "45, Ilotin Quarters, Ijoka, Akure",
+            "countryOfResidence": "NIGERIA",
+            "number": "A21080297",
+            "documentType": "Permanent Voters' Card",
+            "email": "ebenlexy@yahoo.com",
+            "phone": "08060706174",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238219358,
+          "companyId": 61052572,
+          "personId": 78825730,
+          "roleId": 60330,
+          "sourceNum": 1,
+          "person": {
+            "id": 78825730,
+            "name": "adeyemi alaba",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1987,
+            "birthMonth": 5,
+            "birthDate": 17,
+            "address": "45, Ilotin Quarters, Ijoka, Akure",
+            "countryOfResidence": "NIGERIA",
+            "number": "A21080297",
+            "documentType": "Permanent Voters' Card",
+            "email": "ebenlexy@yahoo.com",
+            "phone": "08060706174",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238219354,
+          "companyId": 61052572,
+          "personId": 97135068,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 97135068,
+            "name": "adeoye rotimi",
+            "countryId": 24,
+            "address": "23, Oke ibukun Street Akure. ",
+            "countryOfResidence": "NIGERIA",
+            "email": "ebenlexy@yahoo.com",
+            "phone": "2348037688675",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]

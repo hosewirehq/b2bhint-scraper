@@ -1,0 +1,454 @@
+[
+  {
+    "year": "1987",
+    "title": "LOTEK NIGERIA LTD - RC-104708 - Nigeria",
+    "description": "LOTEK NIGERIA LTD Nigeria company, Company number: RC-104708, Incorporation Date Dec 11, 1987;, Address: 1, ANG. DODO, GWAGWALADA, ABUJA, GWAGWALADA, ABUJA STATE",
+    "company": {
+      "id": 61052975,
+      "name": "LOTEK NIGERIA LTD",
+      "internationalNumber": "RC-104708",
+      "localNumber": "104708",
+      "countryId": 24,
+      "dateCreated": "1987-12-11T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:38:17.660Z",
+      "updatedAt": "2024-06-15T15:37:03.555Z",
+      "alternateNames": [],
+      "address": "1, ANG. DODO, GWAGWALADA, ABUJA, GWAGWALADA, ABUJA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "269611",
+      "updatedAtSitemap": "2024-01-15T18:36:00.000Z",
+      "oldInternationalNumber": "104708",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 235,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196942,
+          "providerId": "199095",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:29.578323+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82073070,
+          "address": "1, ANG. DODO, GWAGWALADA, ABUJA, GWAGWALADA, ABUJA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238214914,
+          "companyId": 61052975,
+          "personId": 78823483,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78823483,
+            "name": "emezue peace",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigerian",
+            "birthYear": 1981,
+            "birthMonth": 4,
+            "birthDate": 1,
+            "address": "19, EMEKA ANYAOKU STREET AREA 11, GARKI ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "number": "A12938434",
+            "documentType": "Permanent Voters' Card",
+            "email": "peecies@gmail.com",
+            "phone": "08033493698",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238214915,
+          "companyId": 61052975,
+          "personId": 78823484,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78823484,
+            "name": "abbas hauwa chidi",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1983,
+            "birthMonth": 12,
+            "birthDate": 31,
+            "address": "11, YALINGA STREET, OFF ADETOKUNBO ADEMOLA STREET, ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "number": "ABC413226AC16",
+            "documentType": "Driver's License",
+            "email": "hauwaabbas1@gmail.com",
+            "phone": "08052026123",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238214913,
+          "companyId": 61052975,
+          "personId": 92697187,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 92697187,
+            "name": "acho mase",
+            "countryId": 24,
+            "address": "PLOT 2005, BUKOBA STREET WUSE ZONE 5, ABUJA",
+            "phone": "07032668504",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 262758240,
+          "companyId": 61052975,
+          "personId": 101034451,
+          "roleId": 114332,
+          "person": {
+            "id": 101034451,
+            "name": "mase daphne acho",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1981,
+            "birthMonth": 4,
+            "birthDate": 27,
+            "address": "NO. 17MOSES MAJEKODUNMI CRESCENT, UTAKO, Abuja, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1309466",
+            "documentType": "Permanent Voters' Card",
+            "documentNumber": "A13572073",
+            "email": "daphne_mase@yahoo.com",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "IORTEX SMITH LTD",
+              "internationalNumber": "RC-1625206"
+            },
+            {
+              "name": "BRUXY CONCEPTS LIMITED",
+              "internationalNumber": "RC-1394325"
+            },
+            {
+              "name": "ACUMEN MARKETING SERVICES LIMITED",
+              "internationalNumber": "RC-1489512"
+            },
+            {
+              "name": "ROYAL BUBBLES PROFESSIONAL SERVICES LIMITED",
+              "internationalNumber": "RC-1462366"
+            },
+            {
+              "name": "VALSIGNAD FASHION ACADEMY LTD",
+              "internationalNumber": "RC-1400078"
+            },
+            {
+              "name": "LITTLE LEAGUE FOOTBALL ACADEMY LTD",
+              "internationalNumber": "RC-1403274"
+            },
+            {
+              "name": "BROOAA LIMITED",
+              "internationalNumber": "RC-1867006"
+            },
+            {
+              "name": "ARIVONFORT BUSINESS SERVICES",
+              "internationalNumber": "BN-2758004"
+            },
+            {
+              "name": "HAIR BY ENI PRODUCTS AND SERVICES",
+              "internationalNumber": "BN-3450271"
+            },
+            {
+              "name": "GOY INVESTMENTS LIMITED",
+              "internationalNumber": "RC-1697321"
+            },
+            {
+              "name": "PIP MASTERS INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-1507970"
+            },
+            {
+              "name": "DARVIEWS SOLUTIONS LIMITED",
+              "internationalNumber": "RC-1587073"
+            },
+            {
+              "name": "ATLANTIC PESCA ENTERPRISE",
+              "internationalNumber": "BN-2621413"
+            },
+            {
+              "name": "VELERITAS SOLUTIONS SERVICES",
+              "internationalNumber": "BN-2673166"
+            },
+            {
+              "name": "DERNIER CRI COLLECTIONS",
+              "internationalNumber": "BN-2943282"
+            },
+            {
+              "name": "ARCHIMEDE HOUSE SOLUTION LTD",
+              "internationalNumber": "RC-1682913"
+            },
+            {
+              "name": "ETCETERA RESTAURANT",
+              "internationalNumber": "BN-2528588"
+            },
+            {
+              "name": "PENSIL NIGERIA",
+              "internationalNumber": "BN-3123954"
+            },
+            {
+              "name": "WHOLEPURPLE LIMITED",
+              "internationalNumber": "RC-1683968"
+            },
+            {
+              "name": "WORKRAVEN LTD",
+              "internationalNumber": "RC-1563490"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

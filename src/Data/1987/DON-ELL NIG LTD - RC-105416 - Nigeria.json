@@ -1,0 +1,457 @@
+[
+  {
+    "year": "1987",
+    "title": "DON-ELL NIG LTD - RC-105416 - Nigeria",
+    "description": "DON-ELL NIG LTD Nigeria company, Company number: RC-105416, Incorporation Date Dec 17, 1987;, Address: 7, OLA OLU DRIVE AWODI - ORA EST. OLIDI, APAPA, LAGOS, APAPA, LAGOS STATE",
+    "company": {
+      "id": 61077746,
+      "name": "DON-ELL NIG LTD",
+      "internationalNumber": "RC-105416",
+      "localNumber": "105416",
+      "countryId": 24,
+      "dateCreated": "1987-12-17T00:00:00.000Z",
+      "createdAt": "2021-05-21T19:44:24.736Z",
+      "updatedAt": "2024-06-15T15:25:37.145Z",
+      "alternateNames": [],
+      "address": "7, OLA OLU DRIVE AWODI - ORA EST. OLIDI, APAPA, LAGOS, APAPA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270318",
+      "updatedAtSitemap": "2024-01-15T16:09:01.000Z",
+      "oldInternationalNumber": "105416",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 380,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100325823,
+          "address": "7, OLA OLU DRIVE AWODI - ORA EST. OLIDI, APAPA, LAGOS, APAPA, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 245742917,
+          "companyId": 61077746,
+          "personId": 66147638,
+          "roleId": 114332,
+          "person": {
+            "id": 66147638,
+            "name": "sohni madagua",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1990,
+            "birthMonth": 4,
+            "birthDate": 22,
+            "address": "Lake Chad Crescent 4 Lake Alau Close, Maitama, Abuja, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1685505",
+            "documentType": "International Passport",
+            "documentNumber": "A10113245",
+            "email": "sohnimadagua@yahoo.com",
+            "phone": "+234 806 898 4640",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "DANDA DEE ENTERPRISES LTD",
+              "internationalNumber": "RC-111204"
+            },
+            {
+              "name": "DISRUPT OUTDOOR LIMITED",
+              "internationalNumber": "RC-1824911"
+            },
+            {
+              "name": "S.H.E WOMEN COACHING AND TRAINING CONSULTANTS",
+              "internationalNumber": "BN-3555443"
+            },
+            {
+              "name": "FORTE DEE-O NIGERIA LIMITED",
+              "internationalNumber": "RC-1487727"
+            },
+            {
+              "name": "SORFIS INTEGRATED SERVICES",
+              "internationalNumber": "BN-2874505"
+            },
+            {
+              "name": "LAMPSTAND BY RAGE LIMITED",
+              "internationalNumber": "RC-1827592"
+            },
+            {
+              "name": "GOTZAIN GLOBAL LIMITED",
+              "internationalNumber": "RC-1501066"
+            },
+            {
+              "name": "TIMJEN NIGERIA LIMITED",
+              "internationalNumber": "RC-122216"
+            },
+            {
+              "name": "LI-CENTRAL SERVICES",
+              "internationalNumber": "BN-2528992"
+            },
+            {
+              "name": "ESTY DIOR ENTERPRISE",
+              "internationalNumber": "BN-2576360"
+            },
+            {
+              "name": "SHAMS GEOTEK (NIG) LTD",
+              "internationalNumber": "RC-159919"
+            },
+            {
+              "name": "PURPLE HUNDRED & TEMILALA SERVICES LIMITED",
+              "internationalNumber": "RC-1468149"
+            },
+            {
+              "name": "RHOJAR GLOBAL LIMITED",
+              "internationalNumber": "RC-1492581"
+            },
+            {
+              "name": "RHEMA CHAMPIONS MONTESSORI SCHOOL",
+              "internationalNumber": "BN-2593017"
+            },
+            {
+              "name": "UZOCHINAOBI AGRIC INDUSTRIES LTD",
+              "internationalNumber": "RC-100831"
+            },
+            {
+              "name": "EMUVWIE R'URHOBO ASSOCIATION",
+              "internationalNumber": "IT-100831"
+            },
+            {
+              "name": "NENJOVIC LIMITED",
+              "internationalNumber": "RC-1473456"
+            },
+            {
+              "name": "CLASSY CINDY VENTURES",
+              "internationalNumber": "BN-2713346"
+            },
+            {
+              "name": "THE RAGE ACADEMY LIMITED",
+              "internationalNumber": "RC-1825550"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238202519,
+          "companyId": 61077746,
+          "personId": 78819300,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78819300,
+            "name": "onwochei emmanuella mayoma",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1983,
+            "birthMonth": 4,
+            "birthDate": 15,
+            "address": "22, OKUMAGBA AVENUE, WARRI, DELTA STATE.",
+            "countryOfResidence": "NIGERIA",
+            "number": "A17601542",
+            "documentType": "Permanent Voters' Card",
+            "email": "onwocheemmanuel@gmail.com",
+            "phone": "09025463885",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238202520,
+          "companyId": 61077746,
+          "personId": 78819301,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78819301,
+            "name": "ekeruche amalachukwu mmakamma",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1992,
+            "birthMonth": 10,
+            "birthDate": 18,
+            "address": "FLAT 1, HOUSE 2, KUJAMA STREET, GARKI,",
+            "countryOfResidence": "NIGERIA",
+            "number": "A05014755",
+            "documentType": "Permanent Voters' Card",
+            "email": "ekerucheamalachukwu@gmail.com",
+            "phone": "08025412541",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238202518,
+          "companyId": 61077746,
+          "personId": 97122067,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 97122067,
+            "name": "madagua sohni",
+            "countryId": 24,
+            "address": "6 OWENA STREET SUN CITY ESTATE ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "email": "sohnimadagua@yahoo.com",
+            "phone": "2348068984640",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SHAMS GEOTEK (NIG) LTD",
+              "internationalNumber": "RC-159919"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

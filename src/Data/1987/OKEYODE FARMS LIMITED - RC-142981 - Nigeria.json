@@ -1,0 +1,381 @@
+[
+  {
+    "year": "1987",
+    "title": "OKEYODE FARMS LIMITED - RC-142981 - Nigeria",
+    "description": "OKEYODE FARMS LIMITED Nigeria company, Company number: RC-142981, Incorporation Date Dec 20, 1987;, Address: N6A/386, POLYTECHNIC ROAD, IBADAN, OYO, IBADAN, OYO STATE",
+    "company": {
+      "id": 60773929,
+      "name": "OKEYODE FARMS LIMITED",
+      "internationalNumber": "RC-142981",
+      "localNumber": "142981",
+      "countryId": 24,
+      "dateCreated": "1987-12-20T00:00:00.000Z",
+      "createdAt": "2021-05-15T04:14:03.322Z",
+      "updatedAt": "2024-06-15T15:27:48.391Z",
+      "alternateNames": [],
+      "address": "N6A/386, POLYTECHNIC ROAD, IBADAN, OYO, IBADAN, OYO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "307689",
+      "updatedAtSitemap": "2024-02-01T19:12:25.000Z",
+      "oldInternationalNumber": "142981",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 3,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100664084,
+          "address": "N6A/386, POLYTECHNIC ROAD, IBADAN, OYO, IBADAN, OYO STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 239342588,
+          "companyId": 60773929,
+          "personId": 94772506,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 94772506,
+            "name": "oluwakayode okeyode                                                                                  n/a",
+            "countryId": 24,
+            "address": "6A, 386, POLYTECH ROAD OPP. OLUYOLE IBADAN OYO",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SAMWALEXKEY LIMITED",
+              "internationalNumber": "RC-138648"
+            },
+            {
+              "name": "SAM-KEY & CO. (NIG) LTD",
+              "internationalNumber": "RC-138636"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239342590,
+          "companyId": 60773929,
+          "personId": 94772508,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 94772508,
+            "name": "oluwakayode okeyode",
+            "countryId": 24,
+            "address": "6A, 386, POLYTECH ROAD OPP. OLUYOLE IBADAN OYO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SAMWALEXKEY LIMITED",
+              "internationalNumber": "RC-138648"
+            },
+            {
+              "name": "SAM-KEY & CO. (NIG) LTD",
+              "internationalNumber": "RC-138636"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239342591,
+          "companyId": 60773929,
+          "personId": 97554844,
+          "roleId": 60320,
+          "appointedOn": "2021-11-25",
+          "sourceNum": 1,
+          "person": {
+            "id": 97554844,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "PRINCIPE HOLDINGS LTD",
+              "internationalNumber": "RC-143887"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239342587,
+          "companyId": 60773929,
+          "personId": 97554898,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97554898,
+            "name": "oyawale okeyode                                                                                      n/a",
+            "countryId": 24,
+            "address": "",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 2
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

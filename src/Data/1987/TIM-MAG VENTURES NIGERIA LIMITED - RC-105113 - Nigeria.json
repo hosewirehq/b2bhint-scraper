@@ -1,0 +1,340 @@
+[
+  {
+    "year": "1987",
+    "title": "TIM-MAG VENTURES NIGERIA LIMITED - RC-105113 - Nigeria",
+    "description": "TIM-MAG VENTURES NIGERIA LIMITED Nigeria company, Company number: RC-105113, Incorporation Date Dec 15, 1987;, Address: 3, AYABADEJO STR, IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61053409,
+      "name": "TIM-MAG VENTURES NIGERIA LIMITED",
+      "internationalNumber": "RC-105113",
+      "localNumber": "105113",
+      "countryId": 24,
+      "dateCreated": "1987-12-15T00:00:00.000Z",
+      "createdAt": "2021-05-21T04:39:30.029Z",
+      "updatedAt": "2024-06-15T15:36:57.368Z",
+      "alternateNames": [],
+      "address": "3, AYABADEJO STR, IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "20000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "270016",
+      "updatedAtSitemap": "2024-01-15T18:36:05.000Z",
+      "oldInternationalNumber": "105113",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 358,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197311,
+          "providerId": "349626",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:08:37.748956+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82073790,
+          "address": "3, AYABADEJO STR, IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 238208855,
+          "companyId": 61053409,
+          "personId": 78821252,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78821252,
+            "name": "nwaobilor morgan",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1975,
+            "birthMonth": 12,
+            "birthDate": 11,
+            "address": "9 UMUALOZIE CLOSE, UMULU IGBO, ETCHE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A26586275",
+            "documentType": "Permanent Voters' Card",
+            "email": "MN@YAHOO.COM",
+            "phone": "0803742667",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238208856,
+          "companyId": 61053409,
+          "personId": 78821253,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 78821253,
+            "name": "nwaobilor nkeiruka",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1982,
+            "birthMonth": 2,
+            "birthDate": 6,
+            "address": "9 UMUALOZIE CLOSE, UMULU IGBO, ETCHE",
+            "countryOfResidence": "NIGERIA",
+            "number": "A26686437",
+            "documentType": "Permanent Voters' Card",
+            "email": "NKUFAITH@YAHOO.COM",
+            "phone": "08093528278",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238208854,
+          "companyId": 61053409,
+          "personId": 94757561,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 94757561,
+            "name": "omoaka onyinyechi ",
+            "countryId": 24,
+            "address": "1 Berger quarry road, mpape",
+            "countryOfResidence": "NIGERIA",
+            "email": "Lydamventuresltd@gmail.com",
+            "phone": "2347056206936",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CHINELULU HOLDINGS LTD",
+              "internationalNumber": "RC-105209"
+            },
+            {
+              "name": "SUPCONS NIG LTD",
+              "internationalNumber": "RC-104920"
+            },
+            {
+              "name": "DEM D'JON NIG LTD",
+              "internationalNumber": "RC-114445"
+            },
+            {
+              "name": "SAMBABA PADDLE GROUP LIMITED",
+              "internationalNumber": "RC-110480"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
