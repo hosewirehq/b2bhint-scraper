@@ -1,0 +1,580 @@
+[
+  {
+    "year": "1990",
+    "title": "AKFOREM (NIGERIA) LTD - RC-157544 - Nigeria",
+    "description": "AKFOREM (NIGERIA) LTD Nigeria company, Company number: RC-157544, Incorporation Date 7. Nov. 1990;, Address: 49, OBA ADESIDA ROAD, AKURE, ONDO, AKURE, ONDO STATE",
+    "company": {
+      "id": 60868179,
+      "name": "AKFOREM (NIGERIA) LTD",
+      "internationalNumber": "RC-157544",
+      "localNumber": "157544",
+      "countryId": 24,
+      "dateCreated": "1990-11-07T00:00:00.000Z",
+      "createdAt": "2021-05-15T10:47:34.712Z",
+      "updatedAt": "2024-06-15T15:30:15.341Z",
+      "alternateNames": [],
+      "address": "49, OBA ADESIDA ROAD, AKURE, ONDO, AKURE, ONDO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "321958",
+      "updatedAtSitemap": "2024-02-01T19:16:25.000Z",
+      "oldInternationalNumber": "157544",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 227,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 88989041,
+          "address": "49, OBA ADESIDA ROAD, AKURE, ONDO, AKURE, ONDO STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "DIP-TOT INTERNATIONAL EDUCATION CONSULT LTD",
+              "internationalNumber": "RC-1101931"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 242604793,
+          "companyId": 60868179,
+          "personId": 66138890,
+          "roleId": 114332,
+          "person": {
+            "id": 66138890,
+            "name": "babawale abayomi gbadeyan",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1981,
+            "birthMonth": 8,
+            "birthDate": 25,
+            "address": "SUITE 3018 ANBEEZ PLAZAOPP. OLD CAC WUSE ZONE 5, ABUJA, FCT, ABUJA, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "1876797",
+            "documentType": "Driver's License",
+            "documentNumber": "ABC34499AB28",
+            "email": "ELAW1904@YAHOO.COM",
+            "phone": "+234 805 874 2329",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "EMJJAB CONSULTING LIMITED",
+              "internationalNumber": "RC-1758437"
+            },
+            {
+              "name": "PURPLE CHILL INTEGRATED SYSTEM  LTD",
+              "internationalNumber": "RC-1463919"
+            },
+            {
+              "name": "DATABAZE ENTERPRISES",
+              "internationalNumber": "BN-3487159"
+            },
+            {
+              "name": "DOYENNE CIRCLE",
+              "internationalNumber": "BN-2892360"
+            },
+            {
+              "name": "JASTRA TECHNOLOGIES SOLUTION",
+              "internationalNumber": "BN-3239845"
+            },
+            {
+              "name": "SETMARP PROJECTS AND INVESTMENTS LIMITED",
+              "internationalNumber": "RC-1509255"
+            },
+            {
+              "name": "1 OAK STUDIOS & ENTERTAINMENT  LIMITED",
+              "internationalNumber": "RC-1651324"
+            },
+            {
+              "name": "GLOSSY  HAIRDOM",
+              "internationalNumber": "BN-3411618"
+            },
+            {
+              "name": "ELOLAM AFFAIRS CONSULTING NIGERIA LIMITED",
+              "internationalNumber": "RC-1835484"
+            },
+            {
+              "name": "PROBITY TRADING",
+              "internationalNumber": "BN-3554207"
+            },
+            {
+              "name": "KEMISPHERE CONCEPTS",
+              "internationalNumber": "BN-2809594"
+            },
+            {
+              "name": "A.A OMOBORIOWO ENTERPRISES",
+              "internationalNumber": "BN-2569168"
+            },
+            {
+              "name": "HOMESMITHS BUILDING TECHNOLOGIES LTD",
+              "internationalNumber": "RC-1596539"
+            },
+            {
+              "name": "G-HARVEST GLOBAL SERVICES LTD",
+              "internationalNumber": "RC-1606603"
+            },
+            {
+              "name": "MEGADOM INTEGRATED SERVICES LIMITED",
+              "internationalNumber": "RC-1604345"
+            },
+            {
+              "name": "THE OTHER ROOM LIMITED",
+              "internationalNumber": "RC-1498221"
+            },
+            {
+              "name": "XTA'S EMPIRE",
+              "internationalNumber": "BN-3485000"
+            },
+            {
+              "name": "PROBITY.COM GLOBAL SOLUTIONS LIMITED",
+              "internationalNumber": "RC-1473368"
+            },
+            {
+              "name": "JOSEY AUTOMOBILE",
+              "internationalNumber": "BN-2976861"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238617766,
+          "companyId": 60868179,
+          "personId": 70886978,
+          "roleId": 60320,
+          "appointedOn": "2021-04-13",
+          "sourceNum": 1,
+          "person": {
+            "id": 70886978,
+            "name": "gbadeyan babawale abayomi",
+            "countryId": 24,
+            "address": "No 21, Onitsha Crescent, Off Gimbiya Street, Area 11, Abuja",
+            "countryOfResidence": "NIGERIA",
+            "email": "elaw1904@yahoo.com",
+            "phone": "2348058742329",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "O. R. S. VENTURES NIGERIA LIMITED",
+              "internationalNumber": "RC-157299"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238617771,
+          "companyId": 60868179,
+          "personId": 97259381,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 97259381,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "RUTH ITSE POULTRY",
+              "internationalNumber": "BN-4050338"
+            },
+            {
+              "name": "JAMETO GLOBAL FARMS & AGRO ALLIED ENTREPRISE",
+              "internationalNumber": "BN-4063883"
+            },
+            {
+              "name": "ALIYU MUBARAK BINDAWA ENTERPRISE",
+              "internationalNumber": "BN-4016409"
+            },
+            {
+              "name": "jamaladdeen medicine store",
+              "internationalNumber": "BN-4040048"
+            },
+            {
+              "name": "RUKAYYA I.H VENTURES",
+              "internationalNumber": "BN-4016408"
+            },
+            {
+              "name": "BYKEN LIMITED",
+              "internationalNumber": "RC-157645"
+            },
+            {
+              "name": "DE-GREAT TOMA BONJI FARMS",
+              "internationalNumber": "BN-4049985"
+            },
+            {
+              "name": "Ni'ima medicine store",
+              "internationalNumber": "BN-4016399"
+            },
+            {
+              "name": "JJ2 ENTERPRISES",
+              "internationalNumber": "BN-4050340"
+            },
+            {
+              "name": "al-mumaik exclusive ventures",
+              "internationalNumber": "BN-4040034"
+            },
+            {
+              "name": "PRIVATE TREASURE VENTURES NIGERIA LTD",
+              "internationalNumber": "RC-138469"
+            },
+            {
+              "name": "hullus multi services nexus",
+              "internationalNumber": "BN-4016397"
+            },
+            {
+              "name": "Amina Water Resources",
+              "internationalNumber": "BN-4016411"
+            },
+            {
+              "name": "SOLO DE-DATONG BATURE'S VENTURE",
+              "internationalNumber": "BN-4055073"
+            },
+            {
+              "name": "Orkuma piggery farm",
+              "internationalNumber": "BN-4049625"
+            },
+            {
+              "name": "NAJEEB POP & PAINT ENTERPRISES",
+              "internationalNumber": "BN-4016407"
+            },
+            {
+              "name": "A.H JARMAI",
+              "internationalNumber": "BN-4016391"
+            },
+            {
+              "name": "Hauwau Abdullahi Farms",
+              "internationalNumber": "BN-4016404"
+            },
+            {
+              "name": "KRISTOP XLS IMIL VENTURES",
+              "internationalNumber": "BN-4049134"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238617765,
+          "companyId": 60868179,
+          "personId": 97260593,
+          "roleId": 60331,
+          "appointedOn": "2021-04-13",
+          "sourceNum": 1,
+          "person": {
+            "id": 97260593,
+            "name": "haruna john etubi",
+            "countryId": 24,
+            "address": "PLOT 110 GIDADO IDRIS STREET WUYE  ABUJA                                                                                                 FCT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238617767,
+          "companyId": 60868179,
+          "personId": 97260594,
+          "roleId": 60331,
+          "appointedOn": "2021-04-13",
+          "sourceNum": 1,
+          "person": {
+            "id": 97260594,
+            "name": "kolade oluwatosin olaniyi",
+            "countryId": 24,
+            "address": "AREA 2, ROAD 2, OBIWALE CLOSE, HARMONY ESTATE, ELEYELE,  IBADAN                                                                                                OYO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [
+            {
+              "name": "SAGES SYNERGY INTEGRATED SERVICES LTD",
+              "internationalNumber": "RC-950009"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

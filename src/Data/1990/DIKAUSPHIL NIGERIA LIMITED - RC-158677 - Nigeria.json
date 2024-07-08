@@ -1,0 +1,521 @@
+[
+  {
+    "year": "1990",
+    "title": "DIKAUSPHIL NIGERIA LIMITED - RC-158677 - Nigeria",
+    "description": "DIKAUSPHIL NIGERIA LIMITED Nigeria company, Company number: RC-158677, Incorporation Date Nov 22, 1990;, Address: 60, OSHO DRIVE OLODI, APAPA, LAGOS, APAPA, LAGOS STATE",
+    "company": {
+      "id": 62484135,
+      "name": "DIKAUSPHIL NIGERIA LIMITED",
+      "internationalNumber": "RC-158677",
+      "localNumber": "158677",
+      "countryId": 24,
+      "dateCreated": "1990-11-22T00:00:00.000Z",
+      "createdAt": "2021-05-30T10:29:57.113Z",
+      "updatedAt": "2024-06-15T15:30:20.896Z",
+      "alternateNames": [],
+      "address": "60, OSHO DRIVE OLODI, APAPA, LAGOS, APAPA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "323076",
+      "updatedAtSitemap": "2024-02-01T19:16:31.000Z",
+      "oldInternationalNumber": "158677",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 234,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100813162,
+          "address": "60, OSHO DRIVE OLODI, APAPA, LAGOS, APAPA, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 231361537,
+          "companyId": 62484135,
+          "personId": 94561361,
+          "roleId": 60331,
+          "appointedOn": "2021-05-11",
+          "sourceNum": 1,
+          "person": {
+            "id": 94561361,
+            "name": "ayuba  anas chinoko",
+            "countryId": 24,
+            "occupation": "Business ",
+            "nationality": "Nigeria",
+            "birthYear": 2000,
+            "birthMonth": 5,
+            "birthDate": 15,
+            "address": "NO. 59, FLAT 2  Younde Street",
+            "countryOfResidence": "NIGERIA",
+            "number": "70910792003",
+            "documentType": "National ID Card",
+            "email": "anasayubachinoko7037@gmail.com",
+            "phone": " 07056689946",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231361538,
+          "companyId": 62484135,
+          "personId": 94561362,
+          "roleId": 60331,
+          "appointedOn": "2021-05-11",
+          "sourceNum": 1,
+          "person": {
+            "id": 94561362,
+            "name": "salim   ayuba   chinoko",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "birthYear": 1998,
+            "birthMonth": 5,
+            "birthDate": 13,
+            "address": " YAOUNDE STREET , NO. 59 FLAT 2",
+            "countryOfResidence": "NIGERIA",
+            "number": "70910792003",
+            "documentType": "National ID Card",
+            "email": "saleemayuba72@gmail.com",
+            "phone": "08104857052",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238225596,
+          "companyId": 62484135,
+          "personId": 96555384,
+          "roleId": 60320,
+          "appointedOn": "2021-05-11",
+          "sourceNum": 1,
+          "person": {
+            "id": 96555384,
+            "name": "shuaibu isiaku",
+            "countryId": 24,
+            "address": "Suit 8-10 ZM Plaza Area 11 Garki",
+            "documentType": "National Identification Number",
+            "email": "isiakus25@yahoo.com",
+            "phone": "2348062659270",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ECSTACY INTERNATIONAL  ACADEMY",
+              "internationalNumber": "BN-3107635"
+            },
+            {
+              "name": "OZONIX TECHNOLOGY LTD",
+              "internationalNumber": "RC-1404511"
+            },
+            {
+              "name": "SARJAMEN  FASHION DESIGN & COMPUTER TRAINING CENTRE",
+              "internationalNumber": "BN-3304835"
+            },
+            {
+              "name": "SUPER JOSSY SERVICES LTD",
+              "internationalNumber": "RC-1552200"
+            },
+            {
+              "name": "KING RICHARDZ KONZULTZ",
+              "internationalNumber": "BN-2870366"
+            },
+            {
+              "name": "HAMDANA FOOTBALL CLUB LTD",
+              "internationalNumber": "RC-1633370"
+            },
+            {
+              "name": "MUSAZMAH GLOBAL ENTERPRISES",
+              "internationalNumber": "BN-2600073"
+            },
+            {
+              "name": "MUHAAL GLOBAL FARMS",
+              "internationalNumber": "BN-3349309"
+            },
+            {
+              "name": "BIZONAL SUCCESS NIGERIA LIMITED  ",
+              "internationalNumber": "RC-1545853"
+            },
+            {
+              "name": "PAIDIT RESOURCES LIMITED",
+              "internationalNumber": "RC-1582848"
+            },
+            {
+              "name": "ABDULLAHI GAMBO GLOBAL",
+              "internationalNumber": "BN-2885592"
+            },
+            {
+              "name": "T - FLUX LTD",
+              "internationalNumber": "RC-1446645"
+            },
+            {
+              "name": "SMARTWORLD INNOVATIONS LTD",
+              "internationalNumber": "RC-1780769"
+            },
+            {
+              "name": "SYNERGY FURNITURE LIMITED",
+              "internationalNumber": "RC-1548036"
+            },
+            {
+              "name": "GEREESH MEDICAL FACILITATION SERVICES LTD",
+              "internationalNumber": "RC-1451631"
+            },
+            {
+              "name": "WALLMARK LIFECARE CENTER LIMITED",
+              "internationalNumber": "RC-1469766"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238225597,
+          "companyId": 62484135,
+          "personId": 97136032,
+          "roleId": 60320,
+          "appointedOn": "2021-05-17",
+          "sourceNum": 1,
+          "person": {
+            "id": 97136032,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "DLO NIGERIA LIMITED",
+              "internationalNumber": "RC-158716"
+            },
+            {
+              "name": "ROSALIE KOLAPO VENTURES LIMITED",
+              "internationalNumber": "RC-158694"
+            },
+            {
+              "name": "O'GIN-FAME LIMITED",
+              "internationalNumber": "RC-158693"
+            },
+            {
+              "name": "WONGKWAI ENTERPRISE",
+              "internationalNumber": "BN-4019655"
+            },
+            {
+              "name": "Yadu INVESTMENTs",
+              "internationalNumber": "BN-4019661"
+            },
+            {
+              "name": "gashaka poultry farm",
+              "internationalNumber": "BN-4019658"
+            },
+            {
+              "name": "DOFRAT NIGERIA LIMITED",
+              "internationalNumber": "RC-158698"
+            },
+            {
+              "name": "PANCO AGRO-ALLIEED INDUSTRIES LIMITED",
+              "internationalNumber": "RC-158667"
+            },
+            {
+              "name": "ASPEL NIGERIA LIMITED",
+              "internationalNumber": "RC-158702"
+            },
+            {
+              "name": "HAFAB VENTURES LIMITED",
+              "internationalNumber": "RC-158691"
+            },
+            {
+              "name": "JIMMY BELLO INVESTMENT COMPANY LTD",
+              "internationalNumber": "RC-158699"
+            },
+            {
+              "name": "ABBA SELE TAILORING & DESIGN VENTURES",
+              "internationalNumber": "BN-4019659"
+            },
+            {
+              "name": "DAUDA UMAR OIL MILLING",
+              "internationalNumber": "BN-4019660"
+            },
+            {
+              "name": "T. WILSON SCIENTIFIC AND INDUSTRIAL T/CO/LTD",
+              "internationalNumber": "RC-158695"
+            },
+            {
+              "name": "MAMMAN HASSAN ENTERPRISE",
+              "internationalNumber": "BN-4019662"
+            },
+            {
+              "name": "FRANK REM ENTERPRISES LIMITED",
+              "internationalNumber": "RC-158673"
+            },
+            {
+              "name": "CAS ABOKOJI CONTRACTS LIMITED",
+              "internationalNumber": "RC-158697"
+            },
+            {
+              "name": "GAZETTE PRESS LIMITED",
+              "internationalNumber": "RC-158701"
+            },
+            {
+              "name": "ADADE VENTURES LIMITED",
+              "internationalNumber": "RC-158672"
+            },
+            {
+              "name": "MATONY NIGERIA LIMITED",
+              "internationalNumber": "RC-158696"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "null": 4
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

@@ -1,0 +1,438 @@
+[
+  {
+    "year": "1990",
+    "title": "TOTAL-POINT INVESTMENTS LIMITED - RC-157643 - Nigeria",
+    "description": "TOTAL-POINT INVESTMENTS LIMITED Nigeria company, Company number: RC-157643, Incorporation Date Nov 12, 1990;, Address: 38, IWEKA ROAD, ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+    "company": {
+      "id": 60452928,
+      "name": "TOTAL-POINT INVESTMENTS LIMITED",
+      "internationalNumber": "RC-157643",
+      "localNumber": "157643",
+      "countryId": 24,
+      "dateCreated": "1990-11-12T00:00:00.000Z",
+      "createdAt": "2021-05-14T05:27:39.788Z",
+      "updatedAt": "2024-06-15T16:41:18.735Z",
+      "alternateNames": [],
+      "address": "38, IWEKA ROAD, ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "322057",
+      "updatedAtSitemap": "2024-02-01T18:10:29.000Z",
+      "oldInternationalNumber": "157643",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 219,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83348121,
+          "address": "38, IWEKA ROAD, ONITSHA, ANAMBRA, ONITSHA, ANAMBRA STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "TONY AND SYLVA STORES LTD",
+              "internationalNumber": "RC-64802"
+            },
+            {
+              "name": "MIMOSA NIGERIA LIMITED",
+              "internationalNumber": "RC-188646"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 242658189,
+          "companyId": 60452928,
+          "personId": 78688488,
+          "roleId": 60331,
+          "appointedOn": "2021-04-15",
+          "sourceNum": 1,
+          "person": {
+            "id": 78688488,
+            "name": "fanaike adewunmi olabisi",
+            "countryId": 24,
+            "occupation": "Businesswoman",
+            "nationality": "Nigeria",
+            "birthYear": 1992,
+            "birthMonth": 2,
+            "birthDate": 23,
+            "address": "BENNIE IKHENA CLOSE, GRACELAND ESTATE, 13B",
+            "countryOfResidence": "NIGERIA",
+            "number": "FFF38593AA98",
+            "documentType": "Driver's License",
+            "email": "AYENIOLABISI@YAHOO.COM",
+            "phone": "08120245936",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242658190,
+          "companyId": 60452928,
+          "personId": 78688488,
+          "roleId": 60330,
+          "appointedOn": "2021-04-15",
+          "sourceNum": 1,
+          "person": {
+            "id": 78688488,
+            "name": "fanaike adewunmi olabisi",
+            "countryId": 24,
+            "occupation": "Businesswoman",
+            "nationality": "Nigeria",
+            "birthYear": 1992,
+            "birthMonth": 2,
+            "birthDate": 23,
+            "address": "BENNIE IKHENA CLOSE, GRACELAND ESTATE, 13B",
+            "countryOfResidence": "NIGERIA",
+            "number": "FFF38593AA98",
+            "documentType": "Driver's License",
+            "email": "AYENIOLABISI@YAHOO.COM",
+            "phone": "08120245936",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242658191,
+          "companyId": 60452928,
+          "personId": 99079459,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 99079459,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "OPTIMISTIC VENTURES NIGERIA LIMITED",
+              "internationalNumber": "RC-240868"
+            },
+            {
+              "name": "OTHUKE OKORO AND SONS ENTERPRISE",
+              "internationalNumber": "BN-4045901"
+            },
+            {
+              "name": "EVIS ELECTRICAL STORE",
+              "internationalNumber": "BN-4040928"
+            },
+            {
+              "name": "Lynahs Collectibles",
+              "internationalNumber": "BN-4046802"
+            },
+            {
+              "name": "haja welding company",
+              "internationalNumber": "BN-4031375"
+            },
+            {
+              "name": "JAYIN VENTURES",
+              "internationalNumber": "BN-4031376"
+            },
+            {
+              "name": "GAVIN PRINTING PRESS",
+              "internationalNumber": "BN-4040189"
+            },
+            {
+              "name": "IFEJAPHSON (NIGERIA) LIMITED",
+              "internationalNumber": "RC-157543"
+            },
+            {
+              "name": "KESBASH OIL NIGERIA LIMITED",
+              "internationalNumber": "RC-249599"
+            },
+            {
+              "name": "b-star",
+              "internationalNumber": "BN-4031379"
+            },
+            {
+              "name": "BUMAR NIGLTD",
+              "internationalNumber": "RC-138672"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242658192,
+          "companyId": 60452928,
+          "personId": 99082092,
+          "roleId": 60320,
+          "appointedOn": "2021-11-29",
+          "sourceNum": 1,
+          "person": {
+            "id": 99082092,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "VALID OIL LIMITED",
+              "internationalNumber": "RC-345866"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "null": 3
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

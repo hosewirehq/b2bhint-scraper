@@ -1,0 +1,456 @@
+[
+  {
+    "year": "1990",
+    "title": "BONNTEX NIG LTD - RC-157890 - Nigeria",
+    "description": "BONNTEX NIG LTD Nigeria company, Company number: RC-157890, Incorporation Date Nov 6, 1990;, Address: 61, OYEDEJI STR., APAPA, LAGOS, APAPA, LAGOS STATE",
+    "company": {
+      "id": 60461058,
+      "name": "BONNTEX NIG LTD",
+      "internationalNumber": "RC-157890",
+      "localNumber": "157890",
+      "countryId": 24,
+      "dateCreated": "1990-11-06T00:00:00.000Z",
+      "createdAt": "2021-05-14T06:06:23.689Z",
+      "updatedAt": "2024-06-15T15:30:13.482Z",
+      "alternateNames": [],
+      "address": "61, OYEDEJI STR., APAPA, LAGOS, APAPA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "322301",
+      "updatedAtSitemap": "2023-06-09T17:28:56.000Z",
+      "oldInternationalNumber": "157890",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 160,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100806157,
+          "address": "61, OYEDEJI STR., APAPA, LAGOS, APAPA, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 242573241,
+          "companyId": 60461058,
+          "personId": 98454920,
+          "roleId": 60331,
+          "appointedOn": "2021-04-22",
+          "sourceNum": 1,
+          "person": {
+            "id": 98454920,
+            "name": "olajide aladepe ajibola",
+            "countryId": 24,
+            "occupation": "Business executive",
+            "nationality": "Nigeria",
+            "birthYear": 1970,
+            "birthMonth": 12,
+            "birthDate": 27,
+            "address": "DANIEL’S COURT, 11, T Y DANJUMA STREET DIDEOLU ESTATE, LAGOS, 5",
+            "countryOfResidence": "NIGERIA",
+            "number": "A09733930",
+            "documentType": "International Passport",
+            "email": "pstdepsy@gmail.com",
+            "phone": "07034109734",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242573246,
+          "companyId": 60461058,
+          "personId": 99044873,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 99044873,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SAMMAJ VENTURES",
+              "internationalNumber": "BN-4031666"
+            },
+            {
+              "name": "ZAZZAU CLOTHING",
+              "internationalNumber": "BN-4031670"
+            },
+            {
+              "name": "ADAMU ISIYAKU AGROVET",
+              "internationalNumber": "BN-4031654"
+            },
+            {
+              "name": "A.Y.I FARMS",
+              "internationalNumber": "BN-4031665"
+            },
+            {
+              "name": "SAVIOUR AND FAVOUR VENTURES",
+              "internationalNumber": "BN-4031667"
+            },
+            {
+              "name": "FRANKWISE PARADISE PRODUCTION",
+              "internationalNumber": "BN-4031737"
+            },
+            {
+              "name": "SPECIAL LOAF SUPER TASTE",
+              "internationalNumber": "BN-4031736"
+            },
+            {
+              "name": "A-MUSA SHOES",
+              "internationalNumber": "BN-4031656"
+            },
+            {
+              "name": "ABDULRASHID CONSTRUCTION ENTERPRISE",
+              "internationalNumber": "BN-4031677"
+            },
+            {
+              "name": "ETROUS ENTERPRISE",
+              "internationalNumber": "BN-4031652"
+            },
+            {
+              "name": "URANGPAULO ENTERPRISE",
+              "internationalNumber": "BN-4031658"
+            },
+            {
+              "name": "BLESSED CHI VENTURES",
+              "internationalNumber": "BN-4031739"
+            },
+            {
+              "name": "DANBIYA FISH FARMING",
+              "internationalNumber": "BN-4031650"
+            },
+            {
+              "name": "DOYFORT NIGERIA LTD",
+              "internationalNumber": "RC-158051"
+            },
+            {
+              "name": "DANDY GEORGE FARM AND GENERAL SERVICES",
+              "internationalNumber": "BN-4031660"
+            },
+            {
+              "name": "DE BRIM ENTERPRISE",
+              "internationalNumber": "BN-4031657"
+            },
+            {
+              "name": "HCTI TECHNOLOGY CENTRE",
+              "internationalNumber": "BN-4031669"
+            },
+            {
+              "name": "DENSCO ENTERPRISES",
+              "internationalNumber": "BN-4031659"
+            },
+            {
+              "name": "DELICE GLOBAL SERVCES",
+              "internationalNumber": "BN-4031653"
+            },
+            {
+              "name": "ABDUL-ABBAS JEWELRY VENTURES",
+              "internationalNumber": "BN-4031662"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242573240,
+          "companyId": 60461058,
+          "personId": 99045742,
+          "roleId": 60320,
+          "appointedOn": "2021-04-22",
+          "sourceNum": 1,
+          "person": {
+            "id": 99045742,
+            "name": "adeusi olusola adetunji",
+            "countryId": 24,
+            "address": "24 Moore Road Sabo",
+            "countryOfResidence": "NIGERIA",
+            "email": "adetunjiadeusi@yahoo.com",
+            "phone": "8037032004",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242573242,
+          "companyId": 60461058,
+          "personId": 99045743,
+          "roleId": 60331,
+          "appointedOn": "2021-04-22",
+          "sourceNum": 1,
+          "person": {
+            "id": 99045743,
+            "name": "olutunla grace tola",
+            "countryId": 24,
+            "occupation": "Business executive",
+            "nationality": "Nigeria",
+            "birthYear": 1946,
+            "birthMonth": 4,
+            "birthDate": 26,
+            "address": "DANIEL’S COURT, 11, T Y DANJUMA STREET DIDEOLU ESTATE, 5",
+            "countryOfResidence": "NIGERIA",
+            "number": "LSR8053AA7",
+            "documentType": "Driver's License",
+            "email": "mrsolutunla@yahoo.com",
+            "phone": "08033033365",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "null": 5
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

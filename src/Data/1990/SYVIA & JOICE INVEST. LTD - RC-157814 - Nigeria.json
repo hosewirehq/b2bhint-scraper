@@ -1,0 +1,456 @@
+[
+  {
+    "year": "1990",
+    "title": "SYVIA & JOICE INVEST. LTD - RC-157814 - Nigeria",
+    "description": "SYVIA & JOICE INVEST. LTD Nigeria company, Company number: RC-157814, Incorporation Date Nov 5, 1990;, Address: 2, FAITHWAY, ADESINA, DELTA, DELTA, DELTA, DELTA STATE",
+    "company": {
+      "id": 60707590,
+      "name": "SYVIA & JOICE INVEST. LTD",
+      "internationalNumber": "RC-157814",
+      "localNumber": "157814",
+      "countryId": 24,
+      "dateCreated": "1990-11-05T00:00:00.000Z",
+      "createdAt": "2021-05-14T23:14:09.759Z",
+      "updatedAt": "2024-06-15T15:30:14.901Z",
+      "alternateNames": [],
+      "address": "2, FAITHWAY, ADESINA, DELTA, DELTA, DELTA, DELTA STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "322226",
+      "updatedAtSitemap": "2024-02-01T19:16:24.000Z",
+      "oldInternationalNumber": "157814",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 274,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100805727,
+          "address": "2, FAITHWAY, ADESINA, DELTA, DELTA, DELTA, DELTA STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 240101669,
+          "companyId": 60707590,
+          "personId": 93351936,
+          "roleId": 60331,
+          "appointedOn": "2021-04-20",
+          "sourceNum": 1,
+          "person": {
+            "id": 93351936,
+            "name": "ekun abisola olufunke",
+            "countryId": 24,
+            "occupation": "Businesswoman",
+            "nationality": "Nigeria",
+            "birthYear": 1978,
+            "birthMonth": 6,
+            "birthDate": 16,
+            "address": "GRACE LANE, COOPERATIVE VILLA ESTATE, BADORE, R234",
+            "countryOfResidence": "NIGERIA",
+            "number": "A11091372",
+            "documentType": "International Passport",
+            "email": "funkeekun@gmail.com",
+            "phone": "08121552623",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240101670,
+          "companyId": 60707590,
+          "personId": 93351936,
+          "roleId": 60330,
+          "appointedOn": "2021-04-20",
+          "sourceNum": 1,
+          "person": {
+            "id": 93351936,
+            "name": "ekun abisola olufunke",
+            "countryId": 24,
+            "occupation": "Businesswoman",
+            "nationality": "Nigeria",
+            "birthYear": 1978,
+            "birthMonth": 6,
+            "birthDate": 16,
+            "address": "GRACE LANE, COOPERATIVE VILLA ESTATE, BADORE, R234",
+            "countryOfResidence": "NIGERIA",
+            "number": "A11091372",
+            "documentType": "International Passport",
+            "email": "funkeekun@gmail.com",
+            "phone": "08121552623",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240101667,
+          "companyId": 60707590,
+          "personId": 97888988,
+          "roleId": 60320,
+          "appointedOn": "2021-04-20",
+          "sourceNum": 1,
+          "person": {
+            "id": 97888988,
+            "name": "adebayo priscilla temitayo",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1993,
+            "birthMonth": 4,
+            "birthDate": 21,
+            "address": "44, Sholape Oworu Street, Ago-Palace way, Okota, Lagos",
+            "countryOfResidence": "NIGERIA",
+            "email": "adebayopriscillatemitayo@gmail.com",
+            "phone": "07035969988",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240101672,
+          "companyId": 60707590,
+          "personId": 97940721,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 97940721,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "KOL FINANCE LTD",
+              "internationalNumber": "RC-144259"
+            },
+            {
+              "name": "ZION STATIONERY AND ACCESSORIES",
+              "internationalNumber": "BN-4037555"
+            },
+            {
+              "name": "de game collections",
+              "internationalNumber": "BN-4043005"
+            },
+            {
+              "name": "TEJUMOLA BANJOKO INDUSTRIES NIG LTD",
+              "internationalNumber": "RC-158423"
+            },
+            {
+              "name": "DECELIS NIGERIA",
+              "internationalNumber": "BN-4037557"
+            },
+            {
+              "name": "BLESSED PLUMBING CENTER",
+              "internationalNumber": "BN-4037559"
+            },
+            {
+              "name": "T. A. AMUSSAH & SONS LTD",
+              "internationalNumber": "RC-158366"
+            },
+            {
+              "name": "JOMADEC GLOBAL RESOURCES",
+              "internationalNumber": "BN-4037564"
+            },
+            {
+              "name": "NESZY OIL AND GAS",
+              "internationalNumber": "BN-4037565"
+            },
+            {
+              "name": "C-GREEN EYECARE General Concept",
+              "internationalNumber": "BN-4047061"
+            },
+            {
+              "name": "MINIKONZULT INTERNATIONAL HOSPITAL NIGERIA LIMITED",
+              "internationalNumber": "RC-157297"
+            },
+            {
+              "name": "BLINK BYTES",
+              "internationalNumber": "BN-4037562"
+            },
+            {
+              "name": "SAMBO BABAYARO  ENTERPRISE",
+              "internationalNumber": "BN-4037558"
+            },
+            {
+              "name": "USAMA COSMETIC COMPANY",
+              "internationalNumber": "BN-4040797"
+            },
+            {
+              "name": "LEMAHSAM ENTERPRISE",
+              "internationalNumber": "BN-4037556"
+            },
+            {
+              "name": "OLARY VENTURE",
+              "internationalNumber": "BN-4037566"
+            },
+            {
+              "name": "halas business enterprise",
+              "internationalNumber": "BN-4037563"
+            },
+            {
+              "name": "SAMIFOGHALE INTERNATIONAL TRADING LTD",
+              "internationalNumber": "RC-157924"
+            },
+            {
+              "name": "childofgrace globals",
+              "internationalNumber": "BN-4046788"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "null": 5
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

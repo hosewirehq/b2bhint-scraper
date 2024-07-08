@@ -1,0 +1,469 @@
+[
+  {
+    "year": "1990",
+    "title": "AJINDE MOSAN MOTORS LIMITED - RC-158052 - Nigeria",
+    "description": "AJINDE MOSAN MOTORS LIMITED Nigeria company, Company number: RC-158052, Incorporation Date 12 Nov. 1990;, Address: 2 AINA ROAD, ISOLO, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60682782,
+      "name": "AJINDE MOSAN MOTORS LIMITED",
+      "internationalNumber": "RC-158052",
+      "localNumber": "158052",
+      "countryId": 24,
+      "dateCreated": "1990-11-12T00:00:00.000Z",
+      "createdAt": "2021-05-14T21:26:51.575Z",
+      "updatedAt": "2024-06-15T15:30:15.419Z",
+      "alternateNames": [],
+      "address": "2 AINA ROAD, ISOLO, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "322461",
+      "updatedAtSitemap": "2024-02-01T19:16:26.000Z",
+      "oldInternationalNumber": "158052",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 219,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100807545,
+          "address": "2 AINA ROAD, ISOLO, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241839122,
+          "companyId": 60682782,
+          "personId": 67765150,
+          "roleId": 114356,
+          "person": {
+            "id": 67765150,
+            "name": "magnus tochi iwuji",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 10,
+            "address": "PLOT 1, MARIA ASSUMPTA CATHEDRAL, ASSUMPTA AVENUE, CONTROL POST, OWERRI MUNICIPAL L.G.A., OWERRI, IMO STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "3567595",
+            "documentType": "Driver's License",
+            "documentNumber": "WER66095AA97",
+            "email": "stpeterclaverseminaryokpala99set@yahoo.com",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114356,
+            "name": "Business",
+            "countryId": 24,
+            "translation": {
+              "en": "Business"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240382590,
+          "companyId": 60682782,
+          "personId": 71879246,
+          "roleId": 60320,
+          "appointedOn": "2021-04-26",
+          "sourceNum": 1,
+          "person": {
+            "id": 71879246,
+            "name": "iwuji magnus tochi",
+            "countryId": 24,
+            "occupation": "Farmer",
+            "nationality": "Nigeria",
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 10,
+            "address": "OKPUALA EMEABIAM OWERRI WEST LGA, IMO STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "WER66095AA97",
+            "documentType": "Driver's License",
+            "email": "farmers4God@gmail.com",
+            "phone": "08123599904",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "Divine providence Agro services Nig",
+              "internationalNumber": "BN-4096751"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240382596,
+          "companyId": 60682782,
+          "personId": 71879246,
+          "roleId": 60331,
+          "appointedOn": "2021-04-26",
+          "sourceNum": 1,
+          "person": {
+            "id": 71879246,
+            "name": "iwuji magnus tochi",
+            "countryId": 24,
+            "occupation": "Farmer",
+            "nationality": "Nigeria",
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 10,
+            "address": "OKPUALA EMEABIAM OWERRI WEST LGA, IMO STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "WER66095AA97",
+            "documentType": "Driver's License",
+            "email": "farmers4God@gmail.com",
+            "phone": "08123599904",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [
+            {
+              "name": "Divine providence Agro services Nig",
+              "internationalNumber": "BN-4096751"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240382597,
+          "companyId": 60682782,
+          "personId": 98079553,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 98079553,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "address": ", SUITE A, 305, GLOBAL PLAZA ",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "UMNAZ POULTRY GENERAL ENTERPRISES",
+              "internationalNumber": "BN-4004962"
+            },
+            {
+              "name": "NASIHA MULTIPLE SERVICE AND INVESTMENT ENTERPRISES",
+              "internationalNumber": "BN-4004942"
+            },
+            {
+              "name": "BIN ABDULLAH BUILDING MATERIALS",
+              "internationalNumber": "BN-4004944"
+            },
+            {
+              "name": "MACFOREIN AZINI'S",
+              "internationalNumber": "BN-4004951"
+            },
+            {
+              "name": "Hussaini Abubakar and sons",
+              "internationalNumber": "BN-4004929"
+            },
+            {
+              "name": "abu huraira global ventures",
+              "internationalNumber": "BN-4004949"
+            },
+            {
+              "name": "EL-SALISU VENTURES AND SERVICES",
+              "internationalNumber": "BN-4004943"
+            },
+            {
+              "name": "KHIRNEN ENTERPRISE",
+              "internationalNumber": "BN-4036908"
+            },
+            {
+              "name": "KAMAT GLOBAL VENTURES",
+              "internationalNumber": "BN-4004965"
+            },
+            {
+              "name": "DEINY FUTURE BUILDERS HOME CARE",
+              "internationalNumber": "BN-4004941"
+            },
+            {
+              "name": "Hammada cattle enterprises",
+              "internationalNumber": "BN-4004956"
+            },
+            {
+              "name": "JOHN ALALE MOTTO REPAIRS",
+              "internationalNumber": "BN-4036915"
+            },
+            {
+              "name": "MAINSTREAM MONTISOORI",
+              "internationalNumber": "BN-4004959"
+            },
+            {
+              "name": "Salida global resources",
+              "internationalNumber": "BN-4004910"
+            },
+            {
+              "name": "IDOKO LIVESTOCKS NIGERIA ENTERPRISES",
+              "internationalNumber": "BN-4004947"
+            },
+            {
+              "name": "abba na SHEHU BIZNESS VENTURES.",
+              "internationalNumber": "BN-4044772"
+            },
+            {
+              "name": "Tonexx Concept",
+              "internationalNumber": "BN-4036914"
+            },
+            {
+              "name": "CHIPRE'S  HAIRSALONS",
+              "internationalNumber": "BN-4004919"
+            },
+            {
+              "name": "VANNARY'S BEAUTY TOUCH",
+              "internationalNumber": "BN-4004921"
+            },
+            {
+              "name": "MEERA'S FOOTY AND ELEGANCE",
+              "internationalNumber": "BN-4036907"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "null": 7
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

@@ -1,0 +1,586 @@
+[
+  {
+    "year": "1990",
+    "title": "ZEEBEST COMPANY LIMITED - RC-158503 - Nigeria",
+    "description": "ZEEBEST COMPANY LIMITED Nigeria company, Company number: RC-158503, Incorporation Date Nov 16, 1990;, Address: 5, FAGBEMI SQUARE SURULERE, LAGOS., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62483370,
+      "name": "ZEEBEST COMPANY LIMITED",
+      "internationalNumber": "RC-158503",
+      "localNumber": "158503",
+      "countryId": 24,
+      "dateCreated": "1990-11-16T00:00:00.000Z",
+      "createdAt": "2021-05-30T10:25:53.116Z",
+      "updatedAt": "2024-06-15T15:30:18.501Z",
+      "alternateNames": [],
+      "address": "5, FAGBEMI SQUARE SURULERE, LAGOS., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "322902",
+      "updatedAtSitemap": "2024-02-01T19:16:29.000Z",
+      "oldInternationalNumber": "158503",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 223,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100811715,
+          "address": "5, FAGBEMI SQUARE SURULERE, LAGOS., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 243135929,
+          "companyId": 62483370,
+          "personId": 66136620,
+          "roleId": 114332,
+          "person": {
+            "id": 66136620,
+            "name": "izuchukwu malachi chinedo",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1991,
+            "birthMonth": 6,
+            "birthDate": 20,
+            "address": "7Kolda Street, Wuse 2, Abuja, FCT",
+            "countryOfResidence": "NIGERIA",
+            "number": "2087122",
+            "documentType": "International Passport",
+            "documentNumber": "A10160801",
+            "email": "izchinedo@gmail.com",
+            "phone": "+234 806 877 6637",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "LEGSFORDAYS",
+              "internationalNumber": "BN-2663058"
+            },
+            {
+              "name": "MIRAFLORES",
+              "internationalNumber": "BN-3243517"
+            },
+            {
+              "name": "m.bursar's general catering services",
+              "internationalNumber": "BN-3252622"
+            },
+            {
+              "name": "CRAWFORD REYS",
+              "internationalNumber": "BN-3398723"
+            },
+            {
+              "name": "WESTKING CAKES AND RESTAURANTS LTD",
+              "internationalNumber": "RC-1797960"
+            },
+            {
+              "name": "URBAN ELITE EXPRESS LOGISTICS LTD",
+              "internationalNumber": "RC-1726027"
+            },
+            {
+              "name": "FABB GLOBAL CONCEPTS LTD",
+              "internationalNumber": "RC-1707233"
+            },
+            {
+              "name": "QUOVE MODEL MANAGEMENT",
+              "internationalNumber": "BN-2978377"
+            },
+            {
+              "name": "DEC-CAM HUB NIG LIMITED",
+              "internationalNumber": "RC-1762603"
+            },
+            {
+              "name": "HILLS INFUSION LIMITED",
+              "internationalNumber": "RC-1642175"
+            },
+            {
+              "name": "AIRAND TECHNOLOGIES LTD",
+              "internationalNumber": "RC-1762179"
+            },
+            {
+              "name": "PRESHMANNY INTERGRATED CONCEPT ",
+              "internationalNumber": "BN-3372176"
+            },
+            {
+              "name": "ARAOLUWA EVENTS AND CATERING SERVICES",
+              "internationalNumber": "BN-3194708"
+            },
+            {
+              "name": "AKOMOD8 TECHNOLOGIES LIMITED",
+              "internationalNumber": "RC-1792479"
+            },
+            {
+              "name": "DE GLORY WOOD ENTERPRISES",
+              "internationalNumber": "BN-3009979"
+            },
+            {
+              "name": "ENCOMPASSING LOVE INITIATIVES",
+              "internationalNumber": "IT-157247"
+            },
+            {
+              "name": "GEDONI CONCEPT AND LIFESTYLE LTD",
+              "internationalNumber": "RC-1618859"
+            },
+            {
+              "name": "BROWNWELL EPC LIMITED",
+              "internationalNumber": "RC-1533605"
+            },
+            {
+              "name": "PMS & GOSHEN IP",
+              "internationalNumber": "BN-3313097"
+            },
+            {
+              "name": "PRIMELINKS EDUCATIONAL CONSULTS",
+              "internationalNumber": "BN-3273917"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231365791,
+          "companyId": 62483370,
+          "personId": 91456865,
+          "roleId": 60331,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 91456865,
+            "name": "john joshua sunday",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1987,
+            "birthMonth": 8,
+            "birthDate": 1,
+            "address": "14, Alaafia Street, ",
+            "countryOfResidence": "NIGERIA",
+            "email": "havilahproduction@gmail.com",
+            "phone": "08064801407",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231365787,
+          "companyId": 62483370,
+          "personId": 94563036,
+          "roleId": 60331,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 94563036,
+            "name": "boniface jude ugochukwu",
+            "countryId": 24,
+            "occupation": "Importer",
+            "nationality": "Nigeria",
+            "birthYear": 1981,
+            "birthMonth": 12,
+            "birthDate": 4,
+            "address": "NO. 7 ARIBIOKE BOLADE, NO. 7",
+            "countryOfResidence": "NIGERIA",
+            "number": "A07984540",
+            "documentType": "International Passport",
+            "email": "bonifacejude75@gmail.com",
+            "phone": "08022738836",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238232041,
+          "companyId": 62483370,
+          "personId": 97137048,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 97137048,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "AGMO SOLARITE NIG LIMITED",
+              "internationalNumber": "RC-158536"
+            },
+            {
+              "name": "CHRIGEN VENTURES LIMITED",
+              "internationalNumber": "RC-158548"
+            },
+            {
+              "name": "PHID JACOBS & COMPANY WEST AFRICA LTD",
+              "internationalNumber": "RC-158542"
+            },
+            {
+              "name": "J.M.O.P NIGERIA LIMITED",
+              "internationalNumber": "RC-158554"
+            },
+            {
+              "name": "FAIHA GLOBAL ENTERPRISES",
+              "internationalNumber": "BN-4019623"
+            },
+            {
+              "name": "TIMZIES DESIGNS LIMITED",
+              "internationalNumber": "RC-158549"
+            },
+            {
+              "name": "ALCHEM INDUSTRIES LIMITED",
+              "internationalNumber": "RC-158541"
+            },
+            {
+              "name": "FAMILY HEALTH COMMUNICATION LIMITED",
+              "internationalNumber": "RC-158535"
+            },
+            {
+              "name": "SAMAILA MOHAMMED",
+              "internationalNumber": "BN-4019631"
+            },
+            {
+              "name": "SAMAILA MUSA ENTERPRISE",
+              "internationalNumber": "BN-4019628"
+            },
+            {
+              "name": "JAMES COMPUTER & ACCESSORIES NIG LTD",
+              "internationalNumber": "RC-158546"
+            },
+            {
+              "name": "ESCON ENTERPRISES LIMITED",
+              "internationalNumber": "RC-158550"
+            },
+            {
+              "name": "yakubs general enterprise",
+              "internationalNumber": "BN-4019632"
+            },
+            {
+              "name": "PATTO PLASTICS INDUSTRIES LIMITED",
+              "internationalNumber": "RC-158537"
+            },
+            {
+              "name": "KILLMACK MERCHANTS NIG LTD",
+              "internationalNumber": "RC-158543"
+            },
+            {
+              "name": "MUANTAI VENTURES",
+              "internationalNumber": "BN-4019627"
+            },
+            {
+              "name": "OLATUNDE AYO NIGERIA LIMITED",
+              "internationalNumber": "RC-158533"
+            },
+            {
+              "name": "WOLFOL VENTURES LIMITED",
+              "internationalNumber": "RC-158545"
+            },
+            {
+              "name": "A.rahama Enterprise",
+              "internationalNumber": "BN-4019629"
+            },
+            {
+              "name": "TRANSLINK FINANCE & INVESTMENT COMPANY",
+              "internationalNumber": "RC-158531"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238232040,
+          "companyId": 62483370,
+          "personId": 97137577,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 97137577,
+            "name": "chinedo izuchukwu malachi",
+            "countryId": 24,
+            "address": "7 KOLDA STREET WUSE 2,",
+            "countryOfResidence": "NIGERIA",
+            "email": "izchinedo@gmail.com",
+            "phone": "08068776637",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "8",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
