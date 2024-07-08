@@ -1,0 +1,333 @@
+[
+  {
+    "year": "1997",
+    "title": "SNECOTECH CO. LTD - RC-301440 - Nigeria",
+    "description": "SNECOTECH CO. LTD Nigeria company, Company number: RC-301440, Incorporation Date Oct 18, 1997;, Address: 25B, CIRCULARRD, ELEKAHIAEST, PORTHARCOURT, RIVERS, PORTHARCOURT, RIVERS STATE",
+    "company": {
+      "id": 62108375,
+      "name": "SNECOTECH CO. LTD",
+      "internationalNumber": "RC-301440",
+      "localNumber": "301440",
+      "countryId": 24,
+      "dateCreated": "1997-10-18T00:00:00.000Z",
+      "createdAt": "2021-05-28T07:30:45.064Z",
+      "updatedAt": "2024-06-15T16:16:54.998Z",
+      "alternateNames": [],
+      "address": "25B, CIRCULARRD, ELEKAHIAEST, PORTHARCOURT, RIVERS, PORTHARCOURT, RIVERS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "463295",
+      "updatedAtSitemap": "2023-06-09T19:16:55.000Z",
+      "oldInternationalNumber": "301440",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 7,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 92585826,
+          "address": "25B, CIRCULARRD, ELEKAHIAEST, PORTHARCOURT, RIVERS, PORTHARCOURT, RIVERS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241111758,
+          "companyId": 62108375,
+          "personId": 95230389,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95230389,
+            "name": "egharevba samuel",
+            "countryId": 24,
+            "address": "KM REFINERY ROAD EFFURUN  EFFURUN                                                                                               DELTA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SAMOSA HOTELS LIMITED",
+              "internationalNumber": "RC-740387"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241111764,
+          "companyId": 62108375,
+          "personId": 98466394,
+          "roleId": 60320,
+          "appointedOn": "2021-12-08",
+          "sourceNum": 1,
+          "person": {
+            "id": 98466394,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "SYLVA ULTIMATE BUSINESS  LTD",
+              "internationalNumber": "RC-301764"
+            },
+            {
+              "name": "VASKA INTERNATIONAL COMPANY LTD",
+              "internationalNumber": "RC-301771"
+            },
+            {
+              "name": "HEDGE-WELL LTD",
+              "internationalNumber": "RC-301772"
+            },
+            {
+              "name": "MULTIWAY TRADE LIMITED",
+              "internationalNumber": "RC-301770"
+            },
+            {
+              "name": "RIJALU NAS  PUBLICATIONS   LIMITED",
+              "internationalNumber": "RC-301438"
+            },
+            {
+              "name": "ALARIBE INDUSTRIES LTD",
+              "internationalNumber": "RC-301442"
+            },
+            {
+              "name": "ARAMIDE  AJOGBE  NIG LTD",
+              "internationalNumber": "RC-301765"
+            },
+            {
+              "name": "PABOD PETROLEUM DEVELOPMENT CO. PLC",
+              "internationalNumber": "RC-301443"
+            },
+            {
+              "name": "X-MAY NIGERIA ENTERPRISES LIMITED",
+              "internationalNumber": "RC-301767"
+            },
+            {
+              "name": "KORE NIG LTD",
+              "internationalNumber": "RC-129809"
+            },
+            {
+              "name": "ELECTRO-LOGIC SYSTEMS LTD",
+              "internationalNumber": "RC-301769"
+            },
+            {
+              "name": "USMAN ADAMU INTEGRATED BUSINESS",
+              "internationalNumber": "BN-3967587"
+            },
+            {
+              "name": "TOJAC NIGERIA LIMITED",
+              "internationalNumber": "RC-301437"
+            },
+            {
+              "name": "ZEETECH NIG LTD",
+              "internationalNumber": "RC-301441"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 6
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "year": "1997",
+    "title": "MAMRE TREASURES LIMITED - RC-323621 - Nigeria",
+    "description": "MAMRE TREASURES LIMITED Nigeria company, Company number: RC-323621, Incorporation Date Nov 5, 1997;, Address: 30, BOMBAYCRESCENT, APAPA, LAGOS, APAPA, LAGOS STATE",
+    "company": {
+      "id": 63539655,
+      "name": "MAMRE TREASURES LIMITED",
+      "internationalNumber": "RC-323621",
+      "localNumber": "323621",
+      "countryId": 24,
+      "dateCreated": "1997-11-05T00:00:00.000Z",
+      "createdAt": "2021-06-04T21:24:56.261Z",
+      "updatedAt": "2024-06-15T16:14:51.504Z",
+      "alternateNames": [],
+      "address": "30, BOMBAYCRESCENT, APAPA, LAGOS, APAPA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "484864",
+      "updatedAtSitemap": "2023-06-09T19:12:11.000Z",
+      "oldInternationalNumber": "323621",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 97,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 89169851,
+          "address": "30, BOMBAYCRESCENT, APAPA, LAGOS, APAPA, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "LAST HOPE INVESTMENT COMPANY",
+              "internationalNumber": "RC-402703"
+            },
+            {
+              "name": "SANDBURG NIG LTD",
+              "internationalNumber": "RC-728040"
+            },
+            {
+              "name": "CASNA DECOR & CLEANING SERVICES LTD",
+              "internationalNumber": "RC-1009342"
+            },
+            {
+              "name": "Q & P TREASURE IDEAS LIMITED",
+              "internationalNumber": "RC-1151534"
+            },
+            {
+              "name": "LAST HOPE INVESTMENT COMPANY",
+              "internationalNumber": "BN-402703"
+            },
+            {
+              "name": "REAL GIFT NIGERIA LIMITED",
+              "internationalNumber": "RC-461847"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 227827278,
+          "companyId": 63539655,
+          "personId": 93583635,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 93583635,
+            "name": "imafidon blessing i.",
+            "countryId": 24,
+            "address": "30, BOMBAY CRESCENT, APAPA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 227827279,
+          "companyId": 63539655,
+          "personId": 93583636,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 93583636,
+            "name": "imafidon clement",
+            "countryId": 24,
+            "address": "30, BOMBAY CRESCENT, APAPA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
