@@ -1,0 +1,406 @@
+[
+  {
+    "year": "1978",
+    "title": "NEMNA ACRES NIG LTD - RC-26668 - Nigeria",
+    "description": "NEMNA ACRES NIG LTD Nigeria company, Company number: RC-26668, Incorporation Date Oct 31, 1978;, Address: 81 ABA ROAD, PORT HARCOURT, RIVERS, PORT HARCOURT, RIVERS STATE",
+    "company": {
+      "id": 60715810,
+      "name": "NEMNA ACRES NIG LTD",
+      "internationalNumber": "RC-26668",
+      "localNumber": "26668",
+      "countryId": 24,
+      "dateCreated": "1978-10-31T00:00:00.000Z",
+      "createdAt": "2021-05-14T23:50:24.375Z",
+      "updatedAt": "2024-06-15T14:10:26.479Z",
+      "alternateNames": [],
+      "address": "81 ABA ROAD, PORT HARCOURT, RIVERS, PORT HARCOURT, RIVERS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "191939",
+      "updatedAtSitemap": "2023-06-09T15:22:19.000Z",
+      "oldInternationalNumber": "26668",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 77,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82670130,
+          "address": "81 ABA ROAD, PORT HARCOURT, RIVERS, PORT HARCOURT, RIVERS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 240002197,
+          "companyId": 60715810,
+          "personId": 67215318,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67215318,
+            "name": "emmanuel udoh                                                                                        n/a",
+            "countryId": 24,
+            "address": "31, LIVERPOOLS EKET, A/IBOM",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "GORPIU VENTURES LTD",
+              "internationalNumber": "RC-202659"
+            },
+            {
+              "name": "RICE MILL COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-136800"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240002203,
+          "companyId": 60715810,
+          "personId": 96754391,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 96754391,
+            "name": "emmanuel udoh",
+            "countryId": 24,
+            "address": "NO 5, AKPAN ESSIEN LANE  UYO                                                                                                   AKWA IBOM",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "LIFE PROCUREMENT & OFFSHORE LIMITED",
+              "internationalNumber": "RC-1135638"
+            },
+            {
+              "name": "PYRASOFT (NIG) LIMITED",
+              "internationalNumber": "RC-982902"
+            },
+            {
+              "name": "ANOINTED SPRINGS LOGISTICS LTD",
+              "internationalNumber": "RC-1145457"
+            },
+            {
+              "name": "GORPIU VENTURES LTD",
+              "internationalNumber": "RC-202659"
+            },
+            {
+              "name": "ONUTEX GLOBAL RESOURCES LIMITED",
+              "internationalNumber": "RC-791369"
+            },
+            {
+              "name": "GREAT HILLCREST MULTI LINK LTD",
+              "internationalNumber": "RC-1032727"
+            },
+            {
+              "name": "EM-CATECH GLOBAL SERVICES LTD",
+              "internationalNumber": "RC-1123790"
+            },
+            {
+              "name": "BLUE FOUNTAIN HOTEL LIMITED",
+              "internationalNumber": "RC-770511"
+            },
+            {
+              "name": "CHOSEN BUREAU DE CHANGE LTD",
+              "internationalNumber": "RC-1192523"
+            },
+            {
+              "name": "CAMPDE TRAVELS AND TOURS LTD",
+              "internationalNumber": "RC-1151642"
+            },
+            {
+              "name": "RICE MILL COMPANY NIGERIA LIMITED",
+              "internationalNumber": "RC-136800"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240002192,
+          "companyId": 60715810,
+          "personId": 97889082,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97889082,
+            "name": "eshett emmanuel p.                                                                                   n/a",
+            "countryId": 24,
+            "address": "ORON RD. P.O.BOX UYO IKWA IBOM",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240002205,
+          "companyId": 60715810,
+          "personId": 97889086,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97889086,
+            "name": "angela udosen",
+            "countryId": 24,
+            "address": "81 ABA ROAD, PORT HARCOURT",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "10",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5,
+        "3": 5
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

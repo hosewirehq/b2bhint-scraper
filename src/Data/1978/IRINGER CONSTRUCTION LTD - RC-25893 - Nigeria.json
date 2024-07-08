@@ -1,0 +1,405 @@
+[
+  {
+    "year": "1978",
+    "title": "IRINGER CONSTRUCTION LTD - RC-25893 - Nigeria",
+    "description": "IRINGER CONSTRUCTION LTD Nigeria company, Company number: RC-25893, Incorporation Date Aug 22, 1978;, Address: 51/55 BROAD STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60710724,
+      "name": "IRINGER CONSTRUCTION LTD",
+      "internationalNumber": "RC-25893",
+      "localNumber": "25893",
+      "countryId": 24,
+      "dateCreated": "1978-08-22T00:00:00.000Z",
+      "createdAt": "2021-05-14T23:27:58.354Z",
+      "updatedAt": "2024-06-15T16:45:07.754Z",
+      "alternateNames": [],
+      "address": "51/55 BROAD STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "500000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "191164",
+      "updatedAtSitemap": "2023-06-09T16:21:59.000Z",
+      "oldInternationalNumber": "25893",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 52,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82668914,
+          "address": "51/55 BROAD STREET, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "FUNDS & FINANCES",
+              "internationalNumber": "RC-50833"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 240062874,
+          "companyId": 60710724,
+          "personId": 66252909,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66252909,
+            "name": "simeon m. olakunri                                                                                   n/a",
+            "countryId": 24,
+            "address": "51/55 BROAD STR, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "KOKO PLASTICS LTD",
+              "internationalNumber": "RC-52019"
+            },
+            {
+              "name": "TECHNICAL SERVICES MANPOWER INTERNATIONAL LTD",
+              "internationalNumber": "RC-48769"
+            },
+            {
+              "name": "RUNYMEDE PETROLEUM LIMITED",
+              "internationalNumber": "RC-121500"
+            },
+            {
+              "name": "HIGHLAND INVESTMENT & TRADING LIMITED",
+              "internationalNumber": "RC-121503"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240062879,
+          "companyId": 60710724,
+          "personId": 66252911,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66252911,
+            "name": "simeon m. olakunri",
+            "countryId": 24,
+            "address": "51/55 BROAD STR, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "KOKO PLASTICS LTD",
+              "internationalNumber": "RC-52019"
+            },
+            {
+              "name": "1932 COMMUNICATIONS LIMITED",
+              "internationalNumber": "RC-623719"
+            },
+            {
+              "name": "TECHNICAL SERVICES MANPOWER INTERNATIONAL LTD",
+              "internationalNumber": "RC-48769"
+            },
+            {
+              "name": "RUNYMEDE PETROLEUM LIMITED",
+              "internationalNumber": "RC-121500"
+            },
+            {
+              "name": "HIGHLAND INVESTMENT & TRADING LIMITED",
+              "internationalNumber": "RC-121503"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240062873,
+          "companyId": 60710724,
+          "personId": 68019965,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68019965,
+            "name": "samuel o. ogunrinde                                                                                  n/a",
+            "countryId": 24,
+            "address": "36 AWANOTU STR, PAPA AJAO, MUSHIN LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "NIGERLINK PAPER & SUPPLIES COMPANY LIMITED",
+              "internationalNumber": "RC-79881"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240062878,
+          "companyId": 60710724,
+          "personId": 68019967,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68019967,
+            "name": "samuel o. ogunrinde",
+            "countryId": 24,
+            "address": "36 AWANOTU STR, PAPA AJAO, MUSHIN LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "NIGERLINK PAPER & SUPPLIES COMPANY LIMITED",
+              "internationalNumber": "RC-79881"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "10",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5,
+        "3": 5
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]
