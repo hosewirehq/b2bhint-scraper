@@ -1,0 +1,370 @@
+[
+  {
+    "year": "1989",
+    "title": "AMASY PHARMACENTICAL CHEMIST LTD - RC-142334 - Nigeria",
+    "description": "AMASY PHARMACENTICAL CHEMIST LTD Nigeria company, Company number: RC-142334, Incorporation Date Dec 11, 1989;, Address: S.E 155, SABON GARI, MINNA, NIGER, MINNA, NIGER STATE",
+    "company": {
+      "id": 62418246,
+      "name": "AMASY PHARMACENTICAL CHEMIST LTD",
+      "internationalNumber": "RC-142334",
+      "localNumber": "142334",
+      "countryId": 24,
+      "dateCreated": "1989-12-11T00:00:00.000Z",
+      "createdAt": "2021-05-30T04:32:36.177Z",
+      "updatedAt": "2024-06-15T15:27:48.129Z",
+      "alternateNames": [],
+      "address": "S.E 155, SABON GARI, MINNA, NIGER, MINNA, NIGER STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "307043",
+      "updatedAtSitemap": "2024-02-01T19:12:23.000Z",
+      "oldInternationalNumber": "142334",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 91,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100658817,
+          "address": "S.E 155, SABON GARI, MINNA, NIGER, MINNA, NIGER STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 231916828,
+          "companyId": 62418246,
+          "personId": 67078987,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67078987,
+            "name": "felix onodu                                                                                          n/a",
+            "countryId": 24,
+            "address": "AS ABOVE",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "EZUGWU PHARMACY LIMITED",
+              "internationalNumber": "RC-226665"
+            },
+            {
+              "name": "TOP PHARMACY LTD",
+              "internationalNumber": "RC-173874"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231916832,
+          "companyId": 62418246,
+          "personId": 67078989,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67078989,
+            "name": "felix onodu",
+            "countryId": 24,
+            "address": "AS ABOVE",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "EZUGWU PHARMACY LIMITED",
+              "internationalNumber": "RC-226665"
+            },
+            {
+              "name": "TOP PHARMACY LTD",
+              "internationalNumber": "RC-173874"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231916825,
+          "companyId": 62418246,
+          "personId": 94746062,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 94746062,
+            "name": "sylvester anemeke                                                                                    n/a",
+            "countryId": 24,
+            "address": "S.E 155, S/GARI, MINNA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231916829,
+          "companyId": 62418246,
+          "personId": 94746065,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 94746065,
+            "name": "sylvester anemeke",
+            "countryId": 24,
+            "address": "S.E 155, S/GARI, MINNA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5,
+        "3": 4
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

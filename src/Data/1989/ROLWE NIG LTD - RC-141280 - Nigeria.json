@@ -1,0 +1,456 @@
+[
+  {
+    "year": "1989",
+    "title": "ROLWE NIG LTD - RC-141280 - Nigeria",
+    "description": "ROLWE NIG LTD Nigeria company, Company number: RC-141280, Incorporation Date Nov 27, 1989;, Address: 41, KING GEORGE RD, ONIKAN, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60631626,
+      "name": "ROLWE NIG LTD",
+      "internationalNumber": "RC-141280",
+      "localNumber": "141280",
+      "countryId": 24,
+      "dateCreated": "1989-11-27T00:00:00.000Z",
+      "createdAt": "2021-05-14T18:07:51.344Z",
+      "updatedAt": "2024-06-15T15:27:42.290Z",
+      "alternateNames": [],
+      "address": "41, KING GEORGE RD, ONIKAN, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "305992",
+      "updatedAtSitemap": "2024-02-01T19:12:16.000Z",
+      "oldInternationalNumber": "141280",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 266,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100643529,
+          "address": "41, KING GEORGE RD, ONIKAN, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 240872522,
+          "companyId": 60631626,
+          "personId": 66171211,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 66171211,
+            "name": "lawretta eze chinelo",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1972,
+            "birthMonth": 8,
+            "birthDate": 8,
+            "address": "NO 65 OBOLLO EKE ROAD",
+            "countryOfResidence": "NIGERIA",
+            "email": "ezelawrettachinelo@yahoo.com",
+            "phone": "08064112241",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240872526,
+          "companyId": 60631626,
+          "personId": 98320219,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 98320219,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "AISHA ABDULLAHI GENERAL  ENTERPRICESES",
+              "internationalNumber": "BN-4002704"
+            },
+            {
+              "name": "KADIRIYa muhammed business global venture",
+              "internationalNumber": "BN-4002718"
+            },
+            {
+              "name": "OGIDI'HENRY VENTURE",
+              "internationalNumber": "BN-4002705"
+            },
+            {
+              "name": "THE QUEEN'S COURT",
+              "internationalNumber": "BN-4035631"
+            },
+            {
+              "name": "TURAWA GENERAL TAILORING SERVICES",
+              "internationalNumber": "BN-4002710"
+            },
+            {
+              "name": "ONIZI'FRANK VENTURES",
+              "internationalNumber": "BN-4002713"
+            },
+            {
+              "name": "ANNROSI ENTERPRISE",
+              "internationalNumber": "BN-4002715"
+            },
+            {
+              "name": "Oluwasola Farms VENTURE",
+              "internationalNumber": "BN-4035621"
+            },
+            {
+              "name": "ISUZA ELECTRICAL WIRING",
+              "internationalNumber": "BN-4002716"
+            },
+            {
+              "name": "ACI A KARA BAKERY",
+              "internationalNumber": "BN-4035629"
+            },
+            {
+              "name": "HOLY AFRICA AGRO-FIELD VENTURES",
+              "internationalNumber": "BN-4035630"
+            },
+            {
+              "name": "EMMA RICH FARM",
+              "internationalNumber": "BN-4039890"
+            },
+            {
+              "name": "whitewand ventures",
+              "internationalNumber": "BN-4035633"
+            },
+            {
+              "name": "TARFA MOLIMA KINS FORUM",
+              "internationalNumber": "IT-158231"
+            },
+            {
+              "name": "umar hamza patent and proprietary medicine vendo",
+              "internationalNumber": "BN-4035628"
+            },
+            {
+              "name": "AL-HASSAN FARMING ENTERPRISE",
+              "internationalNumber": "BN-4044622"
+            },
+            {
+              "name": "BEMERLUV GLOBAL VENTURES",
+              "internationalNumber": "BN-4035624"
+            },
+            {
+              "name": "EKEMI'B VENTURES",
+              "internationalNumber": "BN-4002682"
+            },
+            {
+              "name": "Maxberkry Nig",
+              "internationalNumber": "BN-4035632"
+            },
+            {
+              "name": "ALRAYYAN GLOBAL VENTURES",
+              "internationalNumber": "BN-4035622"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240872523,
+          "companyId": 60631626,
+          "personId": 98342649,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 98342649,
+            "name": "anyim agatha nnenna",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigerian",
+            "birthYear": 1990,
+            "birthMonth": 4,
+            "birthDate": 22,
+            "address": "18 AGWU STREET",
+            "countryOfResidence": "NIGERIA",
+            "number": "A18341137",
+            "documentType": "Permanent Voters' Card",
+            "email": "emmanueldivineempowermentfnd19@outlook.com",
+            "phone": "08036943306",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240872524,
+          "companyId": 60631626,
+          "personId": 98342650,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 98342650,
+            "name": "anyim henry chigozie",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1988,
+            "birthMonth": 4,
+            "birthDate": 21,
+            "address": "18 AGWU STREET",
+            "countryOfResidence": "NIGERIA",
+            "number": "A10992087",
+            "documentType": "International Passport",
+            "email": "emmanueldivineempowermentfnd19@outlook.com",
+            "phone": "08036943306",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "null": 3
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
