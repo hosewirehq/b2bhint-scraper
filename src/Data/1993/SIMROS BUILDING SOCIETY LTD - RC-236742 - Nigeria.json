@@ -1,0 +1,415 @@
+[
+  {
+    "year": "1993",
+    "title": "SIMROS BUILDING SOCIETY LTD - RC-236742 - Nigeria",
+    "description": "SIMROS BUILDING SOCIETY LTD Nigeria company, Company number: RC-236742, Incorporation Date Dec 17, 1993;, Address: 4, CAULCRICK RD., APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62964407,
+      "name": "SIMROS BUILDING SOCIETY LTD",
+      "internationalNumber": "RC-236742",
+      "localNumber": "236742",
+      "countryId": 24,
+      "dateCreated": "1993-12-17T00:00:00.000Z",
+      "createdAt": "2021-06-01T00:07:49.593Z",
+      "updatedAt": "2024-06-15T16:09:39.757Z",
+      "alternateNames": [],
+      "address": "4, CAULCRICK RD., APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "5000000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "400563",
+      "updatedAtSitemap": "2023-06-09T19:28:05.000Z",
+      "oldInternationalNumber": "236742",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 124,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 89631315,
+          "address": "4, CAULCRICK RD., APAPA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "MJF NIGERIA LTD",
+              "internationalNumber": "RC-257250"
+            },
+            {
+              "name": "MINKUS INDUSTRIES LTD",
+              "internationalNumber": "RC-196459"
+            },
+            {
+              "name": "BARMANI EXPRESS VENTS.",
+              "internationalNumber": "BN-788972"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 178308898,
+          "companyId": 62964407,
+          "personId": 66820758,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66820758,
+            "name": "yemi adegoke                                                                                         n/a",
+            "countryId": 24,
+            "address": "72, SUENU STR., SURULERE, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "PROVINCIAL & CITY PROPERTY LTD",
+              "internationalNumber": "RC-190891"
+            },
+            {
+              "name": "FOJODAM LTD",
+              "internationalNumber": "RC-195047"
+            },
+            {
+              "name": "PROSOLVE SHIPPING CO. LTD",
+              "internationalNumber": "RC-190091"
+            },
+            {
+              "name": "CITY & PROVINCIAL SERVICES LIMITED",
+              "internationalNumber": "RC-190590"
+            },
+            {
+              "name": "SUPER CHEM. AND STORES LTD",
+              "internationalNumber": "RC-247177"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 178308904,
+          "companyId": 62964407,
+          "personId": 66820762,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66820762,
+            "name": "yemi adegoke",
+            "countryId": 24,
+            "address": "PLOT 1622 ALHAJI MASHA ROAD SURULERE  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "PROVINCIAL & CITY PROPERTY LTD",
+              "internationalNumber": "RC-190891"
+            },
+            {
+              "name": "FOJODAM LTD",
+              "internationalNumber": "RC-195047"
+            },
+            {
+              "name": "PROSOLVE SHIPPING CO. LTD",
+              "internationalNumber": "RC-190091"
+            },
+            {
+              "name": "CHESTLINK PHARMACY LTD",
+              "internationalNumber": "RC-1172308"
+            },
+            {
+              "name": "BANCTRUST BUREAU DE CHANGE LIMITED",
+              "internationalNumber": "RC-661018"
+            },
+            {
+              "name": "CITY & PROVINCIAL SERVICES LIMITED",
+              "internationalNumber": "RC-190590"
+            },
+            {
+              "name": "SUPER CHEM. AND STORES LTD",
+              "internationalNumber": "RC-247177"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 178308897,
+          "companyId": 62964407,
+          "personId": 72276913,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 72276913,
+            "name": "olubukuola osomo                                                                                     n/a",
+            "countryId": 24,
+            "address": "4, CAULCRICK RD., APAPA-LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 178308903,
+          "companyId": 62964407,
+          "personId": 72276918,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 72276918,
+            "name": "olubukuola osomo",
+            "countryId": 24,
+            "address": "4, CAULCRICK RD., APAPA-LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "12",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 6,
+        "3": 6
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]
