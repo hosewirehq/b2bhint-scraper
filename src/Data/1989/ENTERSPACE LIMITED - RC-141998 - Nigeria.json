@@ -1,0 +1,405 @@
+[
+  {
+    "year": "1989",
+    "title": "ENTERSPACE LIMITED - RC-141998 - Nigeria",
+    "description": "ENTERSPACE LIMITED Nigeria company, Company number: RC-141998, Incorporation Date Dec 6, 1989;, Address: 57/588 CHALLENGE AREA, IBADAN, OYO, IBADAN, OYO STATE",
+    "company": {
+      "id": 60857825,
+      "name": "ENTERSPACE LIMITED",
+      "internationalNumber": "RC-141998",
+      "localNumber": "141998",
+      "countryId": 24,
+      "dateCreated": "1989-12-06T00:00:00.000Z",
+      "createdAt": "2021-05-15T10:06:56.331Z",
+      "updatedAt": "2024-06-15T15:27:46.384Z",
+      "alternateNames": [],
+      "address": "57/588 CHALLENGE AREA, IBADAN, OYO, IBADAN, OYO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "306707",
+      "updatedAtSitemap": "2024-02-01T19:12:22.000Z",
+      "oldInternationalNumber": "141998",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 281,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 91376482,
+          "address": "57/588 CHALLENGE AREA, IBADAN, OYO, IBADAN, OYO STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "STEPHEN ORIADE VENTS.",
+              "internationalNumber": "BN-728948"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 238693296,
+          "companyId": 60857825,
+          "personId": 67845046,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67845046,
+            "name": "bukola afolabi                                                                                       n/a",
+            "countryId": 24,
+            "address": "NO. 15B, IDEJO STREET,  VICTORIA ISLAND LAGOS                                                                                 LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "LAFOL LIMITED",
+              "internationalNumber": "RC-124014"
+            },
+            {
+              "name": "FORELAND LIMITED",
+              "internationalNumber": "RC-141990"
+            },
+            {
+              "name": "HAG GLOBAL RESOURCES LIMITED",
+              "internationalNumber": "RC-889738"
+            },
+            {
+              "name": "INNERJOY LTD",
+              "internationalNumber": "RC-140864"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238693298,
+          "companyId": 60857825,
+          "personId": 68048768,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68048768,
+            "name": "kunle afolabi                                                                                        n/a",
+            "countryId": 24,
+            "address": "16, LANTORO RD., ABEOKUTA - OGUN STATE",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "LAMRAZ VENTURES LTD",
+              "internationalNumber": "RC-69909"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238693300,
+          "companyId": 60857825,
+          "personId": 73604978,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 73604978,
+            "name": "bukola afolabi",
+            "countryId": 24,
+            "address": "BLOCK 3, PLOT 24, G.R.A. OLD IFE ROAD  IBADAN                                                                                                OYO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "FORELAND LIMITED",
+              "internationalNumber": "RC-141990"
+            },
+            {
+              "name": "T.O.T EVENTS ARCADE LIMITED",
+              "internationalNumber": "RC-856658"
+            },
+            {
+              "name": "BANKDAD SERVICES NIGERIA LIMITED",
+              "internationalNumber": "RC-668449"
+            },
+            {
+              "name": "BENBUK GLOBAL LINKS LIMITED",
+              "internationalNumber": "RC-675530"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238693302,
+          "companyId": 60857825,
+          "personId": 84536084,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 84536084,
+            "name": "kunle afolabi",
+            "countryId": 24,
+            "address": "6 CO-OP VILLAS BODORE AJAH  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "LAMRAZ VENTURES LTD",
+              "internationalNumber": "RC-69909"
+            },
+            {
+              "name": "GROWTH POTENTIALS LIMITED",
+              "internationalNumber": "RC-693432"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "9",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5,
+        "3": 4
+      },
+      "personsWithRelatedCount": 7
+    }
+  }
+]

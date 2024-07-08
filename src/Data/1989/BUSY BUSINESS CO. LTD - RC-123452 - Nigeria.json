@@ -1,0 +1,418 @@
+[
+  {
+    "year": "1989",
+    "title": "BUSY BUSINESS CO. LTD - RC-123452 - Nigeria",
+    "description": "BUSY BUSINESS CO. LTD Nigeria company, Company number: RC-123452, Incorporation Date Dec 28, 1989;, Address: 61, A/OGUNSANYA S/LERE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 61135459,
+      "name": "BUSY BUSINESS CO. LTD",
+      "internationalNumber": "RC-123452",
+      "localNumber": "123452",
+      "countryId": 24,
+      "dateCreated": "1989-12-28T00:00:00.000Z",
+      "createdAt": "2021-05-23T00:48:38.816Z",
+      "updatedAt": "2024-06-15T15:26:20.846Z",
+      "alternateNames": [],
+      "address": "61, A/OGUNSANYA S/LERE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "288258",
+      "updatedAtSitemap": "2024-01-15T16:06:20.000Z",
+      "oldInternationalNumber": "123452",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 174,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100397895,
+          "address": "61, A/OGUNSANYA S/LERE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 250973919,
+          "companyId": 61135459,
+          "personId": 66140011,
+          "roleId": 114332,
+          "person": {
+            "id": 66140011,
+            "name": "abdulkadir rilwan gidado",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "nationality": "NIGERIAN",
+            "birthYear": 1971,
+            "birthMonth": 4,
+            "birthDate": 14,
+            "address": "SUITE 111-113, THEODAK PLAZA, CBD",
+            "countryOfResidence": "NIGERIA",
+            "documentNumber": "ABC86922AC16",
+            "email": "ragdamallam@gmail.com",
+            "phone": "08038498744",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "NEXUS VASCULAR SOLUTIONS LTD",
+              "internationalNumber": "RC-1899271"
+            },
+            {
+              "name": "MULTI MOMENT CONSTRUCTION & ENGINEERING SOLUTIONS LTD",
+              "internationalNumber": "RC-1903550"
+            },
+            {
+              "name": "HEALIUM SURGICALS LTD",
+              "internationalNumber": "RC-1907732"
+            },
+            {
+              "name": "SERENE VILLE NIGERIA LTD",
+              "internationalNumber": "RC-1909489"
+            },
+            {
+              "name": "MUJIBAUNA ROYAL INVESTMENT LTD",
+              "internationalNumber": "RC-1917631"
+            },
+            {
+              "name": "RIH INTERNATIONAL ASSOCIATES LTD",
+              "internationalNumber": "RC-114993"
+            },
+            {
+              "name": "TREASURE IN THE BUSH AGRO INT'L LTD",
+              "internationalNumber": "RC-1905572"
+            },
+            {
+              "name": "FURSA GLOBAL INVESTMENT LTD",
+              "internationalNumber": "RC-1898761"
+            },
+            {
+              "name": "BASMALA UNIQUE INVESTMENTS & MORE LTD",
+              "internationalNumber": "RC-1910028"
+            },
+            {
+              "name": "SILVER THREAD MULTI COLLECTIONS LTD",
+              "internationalNumber": "RC-1900211"
+            },
+            {
+              "name": "URBAN SHORTLET APARTMENTS LTD",
+              "internationalNumber": "RC-1907990"
+            },
+            {
+              "name": "MULTI MOMENT EXPLORATION LTD",
+              "internationalNumber": "RC-1899825"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231492023,
+          "companyId": 61135459,
+          "personId": 67843681,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 67843681,
+            "name": "gabriel a. oyelakin                                                                                  n/a",
+            "countryId": 24,
+            "address": "9, BURAIMO STR. OBANIKORO LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "RICH-GAP NIGERIA LTD",
+              "internationalNumber": "RC-124480"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231492025,
+          "companyId": 61135459,
+          "personId": 67843683,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67843683,
+            "name": "gabriel a. oyelakin",
+            "countryId": 24,
+            "address": "9, BURAIMO STR. OBANIKORO LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "RICH-GAP NIGERIA LTD",
+              "internationalNumber": "RC-124480"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231492024,
+          "companyId": 61135459,
+          "personId": 67846326,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67846326,
+            "name": "adetunji oyelakin",
+            "countryId": 24,
+            "address": "9, BURAIMO STR. OBANIKORO LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 3
+      },
+      "personsWithRelatedCount": 4
+    }
+  }
+]

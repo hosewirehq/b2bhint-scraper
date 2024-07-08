@@ -1,0 +1,418 @@
+[
+  {
+    "year": "1989",
+    "title": "HARGAN LYOHAS INVESTMENT LTD - RC-141154 - Nigeria",
+    "description": "HARGAN LYOHAS INVESTMENT LTD Nigeria company, Company number: RC-141154, Incorporation Date Nov 24, 1989;, Address: BLCK 380, FLT 1, JAKANDE (LCHS) EST., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60745045,
+      "name": "HARGAN LYOHAS INVESTMENT LTD",
+      "internationalNumber": "RC-141154",
+      "localNumber": "141154",
+      "countryId": 24,
+      "dateCreated": "1989-11-24T00:00:00.000Z",
+      "createdAt": "2021-05-15T01:52:54.164Z",
+      "updatedAt": "2024-06-15T15:27:42.239Z",
+      "alternateNames": [],
+      "address": "BLCK 380, FLT 1, JAKANDE (LCHS) EST., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "305867",
+      "updatedAtSitemap": "2024-02-01T19:12:17.000Z",
+      "oldInternationalNumber": "141154",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 352,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100642272,
+          "address": "BLCK 380, FLT 1, JAKANDE (LCHS) EST., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 239672641,
+          "companyId": 60745045,
+          "personId": 94285039,
+          "roleId": 60320,
+          "sourceNum": 1,
+          "person": {
+            "id": 94285039,
+            "name": "enegela  sandra ikwubiela",
+            "countryId": 24,
+            "address": "53 B FHA CLINIC KUBWA ABUJA",
+            "countryOfResidence": "NIGERIA",
+            "email": "sandycac234@gmail.com",
+            "phone": "2347034972128",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "KINGHENRY SOLARTECH LTD",
+              "internationalNumber": "RC-1645097"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239672646,
+          "companyId": 60745045,
+          "personId": 97716482,
+          "roleId": 60320,
+          "appointedOn": "2021-05-06",
+          "sourceNum": 1,
+          "person": {
+            "id": 97716482,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "EMESCO FURNITURE",
+              "internationalNumber": "BN-4038763"
+            },
+            {
+              "name": "Abby & Flakes Enterprise",
+              "internationalNumber": "BN-4038762"
+            },
+            {
+              "name": "GET IT PURE CLEANING SERVICES",
+              "internationalNumber": "BN-4008297"
+            },
+            {
+              "name": "GLADIES'PROVISION VENTURES",
+              "internationalNumber": "BN-4008294"
+            },
+            {
+              "name": "UBAHAFEEZ ENTERPRISES",
+              "internationalNumber": "BN-4008295"
+            },
+            {
+              "name": "FAVOUR TRADER",
+              "internationalNumber": "BN-4039740"
+            },
+            {
+              "name": "BRIGHT'GIFT VENTURES",
+              "internationalNumber": "BN-4008298"
+            },
+            {
+              "name": "DIVINE PHARMACEUTICAL SERVICE",
+              "internationalNumber": "BN-4043892"
+            },
+            {
+              "name": "ROSEBAZ'S VENTURE",
+              "internationalNumber": "BN-4008293"
+            },
+            {
+              "name": "CAF-JEBEDS NIG LTD",
+              "internationalNumber": "RC-157762"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239672642,
+          "companyId": 60745045,
+          "personId": 97718127,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 97718127,
+            "name": "mohammed  abubakar ",
+            "countryId": 24,
+            "occupation": "Estate surveyor",
+            "nationality": "Nigerian",
+            "birthYear": 1971,
+            "birthMonth": 10,
+            "birthDate": 29,
+            "address": "NO. 80 SHIYAR SARAKUNA",
+            "countryOfResidence": "NIGERIA",
+            "number": "A10435814",
+            "documentType": "International Passport",
+            "email": "madawakiau@gmail.com",
+            "phone": "08023136822",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 239672643,
+          "companyId": 60745045,
+          "personId": 97718128,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 97718128,
+            "name": "umar  ibrahim madawaki",
+            "countryId": 24,
+            "occupation": "Civil servant",
+            "nationality": "Nigerian",
+            "birthYear": 1980,
+            "birthMonth": 1,
+            "birthDate": 31,
+            "address": "NO. 80 SHIYAR SARAKUNA ",
+            "countryOfResidence": "NIGERIA",
+            "number": "A2032191",
+            "documentType": "International Passport",
+            "email": "ibrahimmadawaki@gmail.com",
+            "phone": "08035971748",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "null": 4
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
