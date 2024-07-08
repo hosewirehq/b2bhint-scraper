@@ -1,0 +1,332 @@
+[
+  {
+    "year": "1990",
+    "title": "DAPU JOE LTD - RC-159828 - Nigeria",
+    "description": "DAPU JOE LTD Nigeria company, Company number: RC-159828, Incorporation Date Dec 6, 1990;, Address: 8, EMINA CRS., IKEJA, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+    "company": {
+      "id": 62058253,
+      "name": "DAPU JOE LTD",
+      "internationalNumber": "RC-159828",
+      "localNumber": "159828",
+      "countryId": 24,
+      "dateCreated": "1990-12-06T00:00:00.000Z",
+      "createdAt": "2021-05-28T02:13:46.210Z",
+      "updatedAt": "2024-06-15T15:30:24.958Z",
+      "alternateNames": [],
+      "address": "8, EMINA CRS., IKEJA, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "324224",
+      "updatedAtSitemap": "2024-02-01T19:16:36.000Z",
+      "oldInternationalNumber": "159828",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 254,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100822317,
+          "address": "8, EMINA CRS., IKEJA, IKEJA, LAGOS, IKEJA, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241605375,
+          "companyId": 62058253,
+          "personId": 98441451,
+          "roleId": 60320,
+          "appointedOn": "2021-06-09",
+          "sourceNum": 1,
+          "person": {
+            "id": 98441451,
+            "name": "chibuike precious chisom",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1994,
+            "birthMonth": 2,
+            "birthDate": 2,
+            "address": "No 4 Nonyelum Estate,  New Haven,  Enugu",
+            "countryOfResidence": "NIGERIA",
+            "email": "barrpreciouschisom@gmail.com",
+            "phone": "07034213057",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241605376,
+          "companyId": 62058253,
+          "personId": 98652256,
+          "roleId": 60331,
+          "appointedOn": "2021-06-09",
+          "sourceNum": 1,
+          "person": {
+            "id": 98652256,
+            "name": "edeh ifeanyi stephen",
+            "countryId": 24,
+            "occupation": "Evangelist",
+            "nationality": "Nigeria",
+            "birthYear": 1993,
+            "birthMonth": 12,
+            "birthDate": 24,
+            "address": "NO.1 STANCHULLY STREET BY AKAMA AMORJI NIKE",
+            "countryOfResidence": "NIGERIA",
+            "number": "90F5B22987515575067",
+            "documentType": "Permanent Voters' Card",
+            "email": "abundantgraceadorationministry@gmail.com",
+            "phone": "09080099780",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241605377,
+          "companyId": 62058253,
+          "personId": 98652257,
+          "roleId": 60330,
+          "appointedOn": "2021-06-09",
+          "sourceNum": 1,
+          "person": {
+            "id": 98652257,
+            "name": "azike adaobi jennifer",
+            "countryId": 24,
+            "occupation": "Entrepreneur",
+            "nationality": "Nigeria",
+            "birthYear": 1988,
+            "birthMonth": 12,
+            "birthDate": 31,
+            "address": " STANCHULLY STREET BY AKAMA AMORJI NIKE, NO.1",
+            "countryOfResidence": "NIGERIA",
+            "number": "81003993540",
+            "documentType": "National ID Card",
+            "email": "agudesert@gmail.com",
+            "phone": "08067408853",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60330,
+            "name": "Trustee secretary",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee secretary"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 3
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]

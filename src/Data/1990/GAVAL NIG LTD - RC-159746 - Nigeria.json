@@ -1,0 +1,590 @@
+[
+  {
+    "year": "1990",
+    "title": "GAVAL NIG LTD - RC-159746 - Nigeria",
+    "description": "GAVAL NIG LTD Nigeria company, Company number: RC-159746, Incorporation Date Dec 5, 1990;, Address: 51, OLUKOLE ST S/LERE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62489577,
+      "name": "GAVAL NIG LTD",
+      "internationalNumber": "RC-159746",
+      "localNumber": "159746",
+      "countryId": 24,
+      "dateCreated": "1990-12-05T00:00:00.000Z",
+      "createdAt": "2021-05-30T10:59:44.576Z",
+      "updatedAt": "2024-06-15T15:30:23.906Z",
+      "alternateNames": [],
+      "address": "51, OLUKOLE ST S/LERE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "324142",
+      "updatedAtSitemap": "2024-02-01T19:16:35.000Z",
+      "oldInternationalNumber": "159746",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 243,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100821765,
+          "address": "51, OLUKOLE ST S/LERE, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 245107773,
+          "companyId": 62489577,
+          "personId": 66902570,
+          "roleId": 114332,
+          "person": {
+            "id": 66902570,
+            "name": "ifeyinwa adaeze ufondu",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1980,
+            "birthMonth": 10,
+            "birthDate": 1,
+            "address": "Plot 6, Block 5Site G, Satellite Town, Lagos, LAGOS STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1747422",
+            "documentType": "International Passport",
+            "documentNumber": "A07786821",
+            "email": "mavinsage@gmail.com",
+            "phone": "+234 803 359 0271",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "JUNE BY DEBBIE",
+              "internationalNumber": "BN-3288936"
+            },
+            {
+              "name": "KAICRAIG NIGERIA LIMITED",
+              "internationalNumber": "RC-1489895"
+            },
+            {
+              "name": "D' FIRST GARDEN FARM & INTERGRATED SERVICES LIMITED",
+              "internationalNumber": "RC-1490288"
+            },
+            {
+              "name": "JAYNE INTERIORS",
+              "internationalNumber": "BN-2708406"
+            },
+            {
+              "name": "FEZAB PROPERTIES LIMITED",
+              "internationalNumber": "RC-1491157"
+            },
+            {
+              "name": "DULIX FARMS AND AGRO SUPPLIES LIMITED",
+              "internationalNumber": "RC-1469711"
+            },
+            {
+              "name": "BUKANA MOTION PICTURES",
+              "internationalNumber": "BN-2708643"
+            },
+            {
+              "name": "GLAMSHIRE INVESTMENTS LIMITED",
+              "internationalNumber": "RC-1448928"
+            },
+            {
+              "name": "MAVIN & SAGE LEGAL",
+              "internationalNumber": "BN-2812415"
+            },
+            {
+              "name": "HANXHOSA INDUSTRY NIGERIA COMPANY LIMITED",
+              "internationalNumber": "RC-1583860"
+            },
+            {
+              "name": "PAULA'S TREAT CONFECTIONERY",
+              "internationalNumber": "BN-2607228"
+            },
+            {
+              "name": "SKID  GLOBAL  DESIGNS",
+              "internationalNumber": "BN-3261339"
+            },
+            {
+              "name": "SPOONFUL OF BEAUTY",
+              "internationalNumber": "BN-3261900"
+            },
+            {
+              "name": "DENICS ENTERPRISES LTD",
+              "internationalNumber": "RC-101438"
+            },
+            {
+              "name": "OMALICHA STUDIO",
+              "internationalNumber": "BN-2708652"
+            },
+            {
+              "name": "GR8JOBSNG FOUNDATION FOR EMPLOYMENT AND SKILLS DEVELOPMENT",
+              "internationalNumber": "IT-101438"
+            },
+            {
+              "name": "FABULOUSMEDIA COMPANY LIMITED",
+              "internationalNumber": "RC-160423"
+            },
+            {
+              "name": "BETAIREN GLOBAL SERVICES LIMITED",
+              "internationalNumber": "RC-1527453"
+            },
+            {
+              "name": "SOONKA ENTERTAINMENT",
+              "internationalNumber": "BN-2708380"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238163751,
+          "companyId": 62489577,
+          "personId": 68599768,
+          "roleId": 60331,
+          "appointedOn": "2021-06-08",
+          "sourceNum": 1,
+          "person": {
+            "id": 68599768,
+            "name": "adebiyi michael bamidele",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "birthYear": 1962,
+            "birthMonth": 8,
+            "birthDate": 1,
+            "address": "Road 12, House 3,\nVictoria Garden City\n\n \n",
+            "countryOfResidence": "NIGERIA",
+            "number": "A08885519",
+            "documentType": "International Passport",
+            "email": "micadebiyi@gmail.com",
+            "phone": "08066298816",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238163750,
+          "companyId": 62489577,
+          "personId": 97116565,
+          "roleId": 60320,
+          "appointedOn": "2021-06-08",
+          "sourceNum": 1,
+          "person": {
+            "id": 97116565,
+            "name": "ufondu ifeyinwa adaeze",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "Site G, Plot 6, Block 5, Satellite Town, Lagos",
+            "countryOfResidence": "NIGERIA",
+            "email": "iau@benchmacince.net",
+            "phone": "08033590271",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "FABULOUSMEDIA COMPANY LIMITED",
+              "internationalNumber": "RC-160423"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238163754,
+          "companyId": 62489577,
+          "personId": 97121333,
+          "roleId": 60320,
+          "appointedOn": "2021-07-05",
+          "sourceNum": 1,
+          "person": {
+            "id": 97121333,
+            "name": "odo chidiebere romanus",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "4 HARLEY STREET OLD GRA",
+            "countryOfResidence": "NIGERIA",
+            "email": "rommyodo@yahoo.com",
+            "phone": "08036755729",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MSHATTIMA POULTRY FARMING",
+              "internationalNumber": "BN-4019922"
+            },
+            {
+              "name": "EMMANUELLA TRAVELS AND TOURS LIMITED",
+              "internationalNumber": "RC-159927"
+            },
+            {
+              "name": "USMAN ALHAJI BUBA PROVISION STORES",
+              "internationalNumber": "BN-4019920"
+            },
+            {
+              "name": "SEAWAVES NIG LTD",
+              "internationalNumber": "RC-159925"
+            },
+            {
+              "name": "SHUWAMA FASHION DESIGN AND TAILORING  SERVICES",
+              "internationalNumber": "BN-4019907"
+            },
+            {
+              "name": "ODUHDU-SHOTEH AGRO ENTERPRISES",
+              "internationalNumber": "BN-4048722"
+            },
+            {
+              "name": "naiza global aluminium NIG. ENTERPRISES",
+              "internationalNumber": "BN-4048133"
+            },
+            {
+              "name": "JOSEPH (SIR) HOLDINGS LTD",
+              "internationalNumber": "RC-159876"
+            },
+            {
+              "name": "US AKWE CONCEPTS",
+              "internationalNumber": "BN-4049905"
+            },
+            {
+              "name": "HALA FARMS & CONSULTATION SERVICES",
+              "internationalNumber": "BN-4019901"
+            },
+            {
+              "name": "STANFAB GLOBAL ENTERPRISES",
+              "internationalNumber": "BN-4049234"
+            },
+            {
+              "name": "ABUBAKAR ADAM & SONS BUSINESS ENTERPRISES",
+              "internationalNumber": "BN-4019913"
+            },
+            {
+              "name": "FOMWAN QUR'ANIC NURSERY AND PRIMARY SCHOOL DOMA",
+              "internationalNumber": "BN-4049384"
+            },
+            {
+              "name": "BASHMINNAT GENERAL ENTEPRISES",
+              "internationalNumber": "BN-4019909"
+            },
+            {
+              "name": "BK JUMBAM MULTI-BUSINESS VENTURES",
+              "internationalNumber": "BN-4019918"
+            },
+            {
+              "name": "H.T KHALIFA MULTI-COMMUNICATION CENTER",
+              "internationalNumber": "BN-4019921"
+            },
+            {
+              "name": "YUZASSIF GLOBAL ENTERPRISE",
+              "internationalNumber": "BN-4049298"
+            },
+            {
+              "name": "NASSARAWA GLOBAL RESOURCES",
+              "internationalNumber": "BN-4019917"
+            },
+            {
+              "name": "INNERWAYS NIGERIAN LIMITED",
+              "internationalNumber": "RC-159967"
+            },
+            {
+              "name": "MAIJIRGI FARM",
+              "internationalNumber": "BN-4019915"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238163752,
+          "companyId": 62489577,
+          "personId": 97123767,
+          "roleId": 60331,
+          "appointedOn": "2021-06-08",
+          "sourceNum": 1,
+          "person": {
+            "id": 97123767,
+            "name": "adebiyi adenike olanrewaju",
+            "countryId": 24,
+            "occupation": "Clergy",
+            "nationality": "Nigeria",
+            "birthYear": 1962,
+            "birthMonth": 3,
+            "birthDate": 9,
+            "address": "House 3 Road 12",
+            "countryOfResidence": "NIGERIA",
+            "number": "A09825585",
+            "documentType": "International Passport",
+            "email": "nikebiyi2001@yahoo.com",
+            "phone": "08066298816",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 1,
+        "null": 3
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "year": "1990",
+    "title": "LABOUR-GATE COMPANY LTD - RC-159857 - Nigeria",
+    "description": "LABOUR-GATE COMPANY LTD Nigeria company, Company number: RC-159857, Incorporation Date Dec 7, 1990;, Address: 12, UNITY ROAD, IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62490144,
+      "name": "LABOUR-GATE COMPANY LTD",
+      "internationalNumber": "RC-159857",
+      "localNumber": "159857",
+      "countryId": 24,
+      "dateCreated": "1990-12-07T00:00:00.000Z",
+      "createdAt": "2021-05-30T11:02:49.773Z",
+      "updatedAt": "2024-06-15T15:30:22.680Z",
+      "alternateNames": [],
+      "address": "12, UNITY ROAD, IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "324253",
+      "updatedAtSitemap": "2024-02-01T19:16:36.000Z",
+      "oldInternationalNumber": "159857",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 129,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100822523,
+          "address": "12, UNITY ROAD, IKEJA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 244921112,
+          "companyId": 62490144,
+          "personId": 85623724,
+          "roleId": 114332,
+          "person": {
+            "id": 85623724,
+            "name": "kelechi philip ezediegwu",
+            "countryId": 24,
+            "nationality": "NIGERIAN",
+            "birthYear": 1984,
+            "birthMonth": 9,
+            "birthDate": 11,
+            "address": "14 / Valid House14 COLLIERY AVENUE, BEHIND MODOTELS, G.R.A, ENUGU, ENUGU STATE",
+            "countryOfResidence": "NIGERIA",
+            "number": "1879141",
+            "documentType": "Permanent Voters' Card",
+            "documentNumber": "A11430838",
+            "email": "kelechiezediegwu@gmail.com",
+            "phone": "+234 806 543 0576",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 114332,
+            "name": "Legal Practitioner",
+            "countryId": 24,
+            "translation": {
+              "en": "Legal Practitioner"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "SAMSTANLYET EARTH SERVICES LIMITED",
+              "internationalNumber": "RC-1499746"
+            },
+            {
+              "name": "SHOPPERS GATE STORES",
+              "internationalNumber": "BN-3428389"
+            },
+            {
+              "name": "ZUBIX GODEC TAILORING",
+              "internationalNumber": "BN-2616674"
+            },
+            {
+              "name": "COAL CITY INTERNATIONAL CLUB",
+              "internationalNumber": "IT-156558"
+            },
+            {
+              "name": "RISAB EMPIRE",
+              "internationalNumber": "BN-3382261"
+            },
+            {
+              "name": "KINGIFYBEST ENTERPRISES",
+              "internationalNumber": "BN-3404209"
+            },
+            {
+              "name": "DESTINY TEXTILES AMBURSA",
+              "internationalNumber": "BN-3244227"
+            },
+            {
+              "name": "NGOZI FARMS & AGRO SERVICES",
+              "internationalNumber": "BN-3407038"
+            },
+            {
+              "name": "JOSPERK ENTERPRISE",
+              "internationalNumber": "BN-3434066"
+            },
+            {
+              "name": "FISH SHOP OWNERS ASSOCIATION ENUGU",
+              "internationalNumber": "IT-154743"
+            },
+            {
+              "name": "MEGA-TECH MULTINATIONAL EMPIRE",
+              "internationalNumber": "BN-3441958"
+            },
+            {
+              "name": "DOMINIC OZOKPARA MEMORIAL FOUNDATION",
+              "internationalNumber": "IT-154741"
+            },
+            {
+              "name": "ADIEL PHARMACY & STORES LTD",
+              "internationalNumber": "RC-1892797"
+            },
+            {
+              "name": "WINSCTECH TECHNOLOGY COMPANY LTD",
+              "internationalNumber": "RC-1766070"
+            },
+            {
+              "name": "CHIBUKING POWER ENGINEERING",
+              "internationalNumber": "BN-3251632"
+            },
+            {
+              "name": "BONNELL HOMES LTD",
+              "internationalNumber": "RC-1816079"
+            },
+            {
+              "name": "SANTA360 ORGANIZATION",
+              "internationalNumber": "IT-155334"
+            },
+            {
+              "name": "MOROKAL DATA MATRIX CONSULT",
+              "internationalNumber": "BN-3456305"
+            },
+            {
+              "name": "DE-CREAMIES MULTI RESOURCES ENTERPRISES",
+              "internationalNumber": "BN-3575880"
+            },
+            {
+              "name": "ENUGU SEWAGE DISPOSAL ASSOCIATION",
+              "internationalNumber": "IT-165388"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231322517,
+          "companyId": 62490144,
+          "personId": 94546077,
+          "roleId": 60331,
+          "appointedOn": "2021-06-09",
+          "sourceNum": 1,
+          "person": {
+            "id": 94546077,
+            "name": "agbowo  cletus  chukwuemeka",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "birthYear": 1968,
+            "birthMonth": 2,
+            "birthDate": 28,
+            "address": "1 Institute of management and Technology road",
+            "countryOfResidence": "NIGERIA",
+            "number": "85555857519",
+            "documentType": "International Passport",
+            "email": "piusagbowoc@gmail.com",
+            "phone": "08064774467",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231322519,
+          "companyId": 62490144,
+          "personId": 94546079,
+          "roleId": 60331,
+          "appointedOn": "2021-06-09",
+          "sourceNum": 1,
+          "person": {
+            "id": 94546079,
+            "name": "nweze anthony ahannamefuna",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "birthYear": 1985,
+            "birthMonth": 10,
+            "birthDate": 25,
+            "address": "Late Michael Nweze's Compound  Umuakpo village, Lejja Nsukka",
+            "countryOfResidence": "NIGERIA",
+            "number": "97472064851",
+            "documentType": "National ID Card",
+            "email": "Anthonynweze82@gmail.com",
+            "phone": "07063045254",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238158648,
+          "companyId": 62490144,
+          "personId": 97076069,
+          "roleId": 60320,
+          "appointedOn": "2021-06-09",
+          "sourceNum": 1,
+          "person": {
+            "id": 97076069,
+            "name": "ezediegwu kelechi philip",
+            "countryId": 24,
+            "address": "ZONE A, BLOCK 4, SHOP 33, ASPAMDA TRADE FAIR COMPLEX    LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "JOMAG-MAF INVESTMENT NIG LTD",
+              "internationalNumber": "RC-164225"
+            },
+            {
+              "name": "BOLTLINKS INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-1134916"
+            },
+            {
+              "name": "E.T. INTERNATIONAL LTD",
+              "internationalNumber": "RC-162274"
+            },
+            {
+              "name": "MIKE MOSES AND SIMON NIGERIA LIMITED",
+              "internationalNumber": "RC-161455"
+            },
+            {
+              "name": "CANNON NOMINEES LTD",
+              "internationalNumber": "RC-161226"
+            },
+            {
+              "name": "ATOSKO BROTHERS NIGERIA LIMITED",
+              "internationalNumber": "RC-159284"
+            },
+            {
+              "name": "PAY-LESS STORES LIMITED",
+              "internationalNumber": "RC-158592"
+            },
+            {
+              "name": "WASCO NIGERIA LTD",
+              "internationalNumber": "RC-163016"
+            },
+            {
+              "name": "SIMCO IBIDA VENTURES LTD",
+              "internationalNumber": "RC-158343"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "3": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]

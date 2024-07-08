@@ -1,0 +1,333 @@
+[
+  {
+    "year": "1990",
+    "title": "GODYQUE HOLDINGS - RC-161083 - Nigeria",
+    "description": "GODYQUE HOLDINGS Nigeria company, Company number: RC-161083, Incorporation Date Dec 28, 1990;, Address: 344, HERBERT MACAULAY ST., YABA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 62496592,
+      "name": "GODYQUE HOLDINGS",
+      "internationalNumber": "RC-161083",
+      "localNumber": "161083",
+      "countryId": 24,
+      "dateCreated": "1990-12-28T00:00:00.000Z",
+      "createdAt": "2021-05-30T11:33:51.628Z",
+      "updatedAt": "2024-06-15T15:30:29.639Z",
+      "alternateNames": [],
+      "address": "344, HERBERT MACAULAY ST., YABA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "325475",
+      "updatedAtSitemap": "2024-02-01T19:16:41.000Z",
+      "oldInternationalNumber": "161083",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007878,
+          "providerId": "STRUCK-OFF",
+          "providerName": "STRUCK-OFF",
+          "countryId": 24,
+          "translation": {
+            "en": "Struck-off"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 929,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 100830715,
+          "address": "344, HERBERT MACAULAY ST., YABA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "XANTHNS LTD",
+              "internationalNumber": "RC-166342"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 231278503,
+          "companyId": 62496592,
+          "personId": 78761307,
+          "roleId": 60331,
+          "appointedOn": "2021-07-01",
+          "sourceNum": 1,
+          "person": {
+            "id": 78761307,
+            "name": "adelola idowu toyin",
+            "countryId": 24,
+            "occupation": " business",
+            "nationality": "Nigeria",
+            "birthYear": 1979,
+            "birthMonth": 11,
+            "birthDate": 28,
+            "address": "1 Aafin Quarters Olootunja’s Palace Ootunja ",
+            "countryOfResidence": "NIGERIA",
+            "number": "A-344-329-799-911",
+            "documentType": "Driver's License",
+            "email": "aitdudu2002@yahoo.com",
+            "phone": "+1 4109171009",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 231278501,
+          "companyId": 62496592,
+          "personId": 94528805,
+          "roleId": 60331,
+          "appointedOn": "2021-07-01",
+          "sourceNum": 1,
+          "person": {
+            "id": 94528805,
+            "name": "adelola   olubukola   mubo",
+            "countryId": 24,
+            "occupation": " business",
+            "nationality": "Nigeria",
+            "birthYear": 1988,
+            "birthMonth": 8,
+            "birthDate": 10,
+            "address": "1  AAFIN QUARTERS OLOOTUNJA’S PALACE OOTUNJA ",
+            "countryOfResidence": "NIGERIA",
+            "number": "A-344-66-615-858",
+            "documentType": "Driver's License",
+            "email": "Jigidk@yahoo.com",
+            "phone": "+14436551579",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 238101355,
+          "companyId": 62496592,
+          "personId": 97108668,
+          "roleId": 60320,
+          "appointedOn": "2021-07-01",
+          "sourceNum": 1,
+          "person": {
+            "id": 97108668,
+            "name": "atotileto taiye",
+            "countryId": 24,
+            "address": "SUITE 112 JINIFA PLAZA, CENTRAL BUSINESS DISTRICT,",
+            "countryOfResidence": "NIGERIA",
+            "email": "atotiletoandco@gmail.com",
+            "phone": "08036076137",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "12",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 11
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]
