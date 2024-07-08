@@ -1,0 +1,382 @@
+[
+  {
+    "year": "1980",
+    "title": "KUGIBA & CO. (NIG) LTD - RC-35434 - Nigeria",
+    "description": "KUGIBA & CO. (NIG) LTD Nigeria company, Company number: RC-35434, Incorporation Date Oct 6, 1980;, Address: KASHIM IBRAHIM RD., MAIDUGURI, BORNO, MAIDUGURI, BORNO STATE",
+    "company": {
+      "id": 60704197,
+      "name": "KUGIBA & CO. (NIG) LTD",
+      "internationalNumber": "RC-35434",
+      "localNumber": "35434",
+      "countryId": 24,
+      "dateCreated": "1980-10-06T00:00:00.000Z",
+      "createdAt": "2021-05-14T22:59:59.168Z",
+      "updatedAt": "2024-06-15T16:45:01.166Z",
+      "alternateNames": [],
+      "address": "KASHIM IBRAHIM RD., MAIDUGURI, BORNO, MAIDUGURI, BORNO STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "20000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "200688",
+      "updatedAtSitemap": "2023-06-09T16:21:38.000Z",
+      "oldInternationalNumber": "35434",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 81,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82110559,
+          "address": "KASHIM IBRAHIM RD., MAIDUGURI, BORNO, MAIDUGURI, BORNO STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "BA-BAFOSONS NIG LTD",
+              "internationalNumber": "RC-164833"
+            },
+            {
+              "name": "C.A. UBACO NIG LTD",
+              "internationalNumber": "RC-139057"
+            },
+            {
+              "name": "ASCON VENTURES  NIGERIA LIMITED",
+              "internationalNumber": "RC-180374"
+            },
+            {
+              "name": "PETOLAM MERCHANDISE LTD",
+              "internationalNumber": "RC-244591"
+            },
+            {
+              "name": "PELICAN-BILS (NIG) LTD",
+              "internationalNumber": "RC-174231"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 240143174,
+          "companyId": 60704197,
+          "personId": 95241653,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95241653,
+            "name": "badisa ba'aba",
+            "countryId": 24,
+            "address": "NO 5, OLD GRA MAIDUGURI  MAIDUGURI                                                                                             BORNO",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "PROMPT CLEANING AND HYGIENE SERVICES NIGERIA LIMIT",
+              "internationalNumber": "RC-488409"
+            },
+            {
+              "name": "ADABAWA INVESTMENT LTD",
+              "internationalNumber": "RC-749215"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240143171,
+          "companyId": 60704197,
+          "personId": 97962587,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97962587,
+            "name": "baba b. kura                                                                                         n/a",
+            "countryId": 24,
+            "address": "KASHIM IBRAHIM RD. MAIDUGURI",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240143172,
+          "companyId": 60704197,
+          "personId": 97962588,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 97962588,
+            "name": "badisa ba'aba                                                                                        n/a",
+            "countryId": 24,
+            "address": "KASHIM IBRAHIM RD. MAIDUGURI",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 240143173,
+          "companyId": 60704197,
+          "personId": 97962589,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 97962589,
+            "name": "baba b. kura",
+            "countryId": 24,
+            "address": "KASHIM IBRAHIM RD. MAIDUGURI",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2,
+        "3": 2
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
