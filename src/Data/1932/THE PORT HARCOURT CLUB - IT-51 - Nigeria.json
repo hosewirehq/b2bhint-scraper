@@ -1,0 +1,368 @@
+[
+  {
+    "year": "1932",
+    "title": "THE PORT HARCOURT CLUB - IT-51 - Nigeria",
+    "description": "THE PORT HARCOURT CLUB Nigeria company, Company number: IT-51, Incorporation Date Jul 9, 1932;, Address: P.O.BOXNO.29, PORTHARCOURT, RIVERS",
+    "company": {
+      "id": 61771220,
+      "name": "THE PORT HARCOURT CLUB",
+      "internationalNumber": "IT-51",
+      "localNumber": "51",
+      "countryId": 24,
+      "dateCreated": "1932-07-09T00:00:00.000Z",
+      "createdAt": "2021-05-26T05:34:15.468Z",
+      "updatedAt": "2024-06-15T15:35:32.234Z",
+      "alternateNames": [],
+      "address": "P.O.BOXNO.29, PORTHARCOURT, RIVERS",
+      "additionalData": {},
+      "typeId": 99333,
+      "historicalNames": [],
+      "activityDescription": "REAL ESTATE INVESTMENT, CONSTRUCTION, REAL ESTATE MARKETING ",
+      "providerId": "964969",
+      "updatedAtSitemap": "2023-06-09T16:32:45.000Z",
+      "oldInternationalNumber": "51",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99333,
+        "type": "Incorporated trustee",
+        "countryId": 24,
+        "translation": {
+          "en": "Incorporated trustee"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 1,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197314,
+          "providerId": "143244",
+          "providerName": "Real estate activities.",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:08:42.830882+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82175859,
+          "address": "P.O.BOXNO.29, PORTHARCOURT, RIVERS",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 251552969,
+          "companyId": 61771220,
+          "personId": 98401819,
+          "roleId": 60324,
+          "appointedOn": "2021-12-23",
+          "sourceNum": 1,
+          "person": {
+            "id": 98401819,
+            "name": "mbanefo nnamdi",
+            "countryId": 24,
+            "occupation": "Legal practice",
+            "address": "Felix Oriarewo Street, Treasure Estate, 35",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "mbanefonnamdi@yahoo.com",
+            "phone": "08034800288",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [
+            {
+              "name": "FLOVEDA LIMITED",
+              "internationalNumber": "RC-1209120"
+            },
+            {
+              "name": "WTU NIGERIA LIMITED",
+              "internationalNumber": "RC-1887320"
+            },
+            {
+              "name": "LIFE BREWERIES COMPANY LIMITED",
+              "internationalNumber": "RC-12643"
+            },
+            {
+              "name": "FIRST MKB-IT LIMITED",
+              "internationalNumber": "RC-1897416"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 251552966,
+          "companyId": 61771220,
+          "personId": 101043182,
+          "roleId": 60320,
+          "appointedOn": "2021-12-23",
+          "sourceNum": 1,
+          "person": {
+            "id": 101043182,
+            "name": "wariya osedebame theodora",
+            "countryId": 24,
+            "occupation": "Legal practitioner ",
+            "nationality": "Nigeria",
+            "birthYear": 1982,
+            "birthMonth": 5,
+            "birthDate": 30,
+            "address": "Apricot Avenue,  cooperative villa estate, badore, N120",
+            "countryOfResidence": "NIGERIA",
+            "number": "KSF04880AA24",
+            "documentType": "Driver's License",
+            "email": "bamemartins@gmail.com",
+            "phone": "08187726171",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "WTU NIGERIA LIMITED",
+              "internationalNumber": "RC-1887320"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 251552968,
+          "companyId": 61771220,
+          "personId": 101849368,
+          "roleId": 60321,
+          "percentage": 90,
+          "appointedOn": "2021-12-23",
+          "votingShares": "90%",
+          "sourceNum": 1,
+          "sharesType": "OTHER THAN CASH ",
+          "sharesCount": 950000,
+          "person": {
+            "id": 101849368,
+            "name": "uba  obinna chisom ",
+            "countryId": 24,
+            "occupation": "Real estate developer ",
+            "nationality": "Nigeria",
+            "birthYear": 1993,
+            "birthMonth": 4,
+            "birthDate": 22,
+            "address": "ALHAJI YEKINI BAKARE AVENUE, AGUNGI , 2",
+            "countryOfResidence": "NIGERIA",
+            "number": "EKY57666AB03",
+            "documentType": "Driver's License",
+            "email": "OBINNAUBA.C@GMAIL.COM",
+            "phone": "08165920863",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Ose****** The***** War***",
+          "contacts": {
+            "phone": [
+              "081********"
+            ],
+            "email": [
+              "bam******************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 5
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

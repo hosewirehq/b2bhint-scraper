@@ -1,0 +1,377 @@
+[
+  {
+    "year": "1940",
+    "title": "GREIF NIGERIA PLC - RC-501 - Nigeria",
+    "description": "GREIF NIGERIA PLC Nigeria company, Company number: RC-501, Incorporation Date Jan 19, 1940;, Address: 2ND FLOOR PLOT 5, CHIEF YESUF ABIODUN STREET, ONIRU ROAD, IKOYI, VICTORIA ISLAND, LAGOS STATE",
+    "company": {
+      "id": 103828464,
+      "name": "GREIF NIGERIA PLC",
+      "internationalNumber": "RC-501",
+      "localNumber": "501",
+      "countryId": 24,
+      "dateCreated": "1940-01-19T00:00:00.000Z",
+      "createdAt": "2022-03-15T07:09:08.934Z",
+      "updatedAt": "2024-06-15T14:31:59.049Z",
+      "alternateNames": [],
+      "address": "2ND FLOOR PLOT 5, CHIEF YESUF ABIODUN STREET, ONIRU ROAD, IKOYI, VICTORIA ISLAND, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99350,
+      "paidShareCapital": "30000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "30000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS OF MANUFACTURERS OF AND DEALERS IN METAL AND OTHER DRUMS, CONTAINERS, BOXES AND RECEPTACLES FOR CONTAINING BITUMINOUS EMULSION ASPHALT, OIL AND OTHER SUBSTANCES OF ALL KINDS.",
+      "providerId": "668072",
+      "updatedAtSitemap": "2023-06-09T18:46:22.000Z",
+      "oldInternationalNumber": "501",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99350,
+        "type": "Public company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Public company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007876,
+          "providerId": "IN LIQUIDATION",
+          "providerName": "IN LIQUIDATION",
+          "countryId": 24,
+          "translation": {
+            "en": "In liquidation"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 1,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196959,
+          "providerId": "143215",
+          "providerName": "Other manufacturing",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:00:42.189883+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 94164846,
+          "address": "2ND FLOOR PLOT 5, CHIEF YESUF ABIODUN STREET, ONIRU ROAD, IKOYI, VICTORIA ISLAND, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 232698101,
+          "companyId": 103828464,
+          "personId": 95149334,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 95149334,
+            "name": "omotayo gaius  adetayo",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "Nigeria",
+            "address": "5, BATHURST ROAD,  APAPA      ",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232698103,
+          "companyId": 103828464,
+          "personId": 95149336,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 95149336,
+            "name": "j. stanley hughes",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "address": "BARCLAYS BANK CHAMBERS",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232698104,
+          "companyId": 103828464,
+          "personId": 95149338,
+          "roleId": 60317,
+          "appointedOn": "2018-11-01",
+          "sourceNum": 1,
+          "person": {
+            "id": 95149338,
+            "name": "erik maarten 't sas",
+            "countryId": 24,
+            "occupation": "Business",
+            "nationality": "South africa",
+            "address": "C/O GRIEF SOUTH AFRICA (PTY) LIMITED, MARTEN BOULEVARD VANDERBIJLPARK 1911 ",
+            "countryOfResidence": "SOUTH AFRICA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 232698109,
+          "companyId": 103828464,
+          "personId": 95149342,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 95149342,
+            "name": "john stanley hughes",
+            "countryId": 24,
+            "address": "BARCLAYS BANK CHAMBERS",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [
+            {
+              "name": "IDOFIAN GRAMMAR SCHOOL-ILORIN",
+              "internationalNumber": "RC-976"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 4,
+        "null": 2
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

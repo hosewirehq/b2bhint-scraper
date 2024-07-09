@@ -1,0 +1,347 @@
+[
+  {
+    "year": "1930",
+    "title": "APAPA CLUB - IT-29 - Nigeria",
+    "description": "APAPA CLUB Nigeria company, Company number: IT-29, Incorporation Date Feb 21, 1930;, Address: 13, PARKLANE, APAPA, LAGOS, LAGOS",
+    "company": {
+      "id": 61771138,
+      "name": "APAPA CLUB",
+      "internationalNumber": "IT-29",
+      "localNumber": "29",
+      "countryId": 24,
+      "dateCreated": "1930-02-21T00:00:00.000Z",
+      "createdAt": "2021-05-26T05:33:46.058Z",
+      "updatedAt": "2024-06-15T15:35:32.242Z",
+      "alternateNames": [],
+      "address": "13, PARKLANE, APAPA, LAGOS, LAGOS",
+      "additionalData": {},
+      "typeId": 99333,
+      "historicalNames": [],
+      "providerId": "966244",
+      "updatedAtSitemap": "2023-06-09T16:32:45.000Z",
+      "oldInternationalNumber": "29",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99333,
+        "type": "Incorporated trustee",
+        "countryId": 24,
+        "translation": {
+          "en": "Incorporated trustee"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 1,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82176133,
+          "address": "13, PARKLANE, APAPA, LAGOS, LAGOS",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 251553834,
+          "companyId": 61771138,
+          "personId": 70049121,
+          "roleId": 60320,
+          "appointedOn": "2022-03-11",
+          "sourceNum": 1,
+          "person": {
+            "id": 70049121,
+            "name": "adeloye oluwafemi samuel",
+            "countryId": 24,
+            "occupation": "Chartered accountant",
+            "nationality": "Nigeria",
+            "birthYear": 1995,
+            "birthMonth": 10,
+            "birthDate": 17,
+            "address": "Benin Street, Area 10, Garki, 15/Flat 1",
+            "countryOfResidence": "NIGERIA",
+            "number": "76665567868",
+            "documentType": "National ID Card",
+            "email": "oluwafemiadeloye@gmail.com",
+            "phone": "07037574294",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 251553836,
+          "companyId": 61771138,
+          "personId": 70049121,
+          "roleId": 171701,
+          "appointedOn": "2022-03-11",
+          "sourceNum": 1,
+          "sharesCount": 200000,
+          "person": {
+            "id": 70049121,
+            "name": "adeloye oluwafemi samuel",
+            "countryId": 24,
+            "occupation": "Chartered accountant",
+            "nationality": "Nigeria",
+            "birthYear": 1995,
+            "birthMonth": 10,
+            "birthDate": 17,
+            "address": "Benin Street, Area 10, Garki, 15/Flat 1",
+            "countryOfResidence": "NIGERIA",
+            "number": "76665567868",
+            "documentType": "National ID Card",
+            "email": "oluwafemiadeloye@gmail.com",
+            "phone": "07037574294",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 171701,
+            "name": "General partner - limited partnhership",
+            "countryId": 24,
+            "translation": {
+              "en": ""
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 251553835,
+          "companyId": 61771138,
+          "personId": 101849628,
+          "roleId": 171701,
+          "appointedOn": "2022-03-11",
+          "sourceNum": 1,
+          "sharesCount": 200000,
+          "person": {
+            "id": 101849628,
+            "name": "ilufoye micheal oluwaseun",
+            "countryId": 24,
+            "occupation": "Chartered accountant",
+            "nationality": "Nigeria",
+            "birthYear": 1990,
+            "birthMonth": 1,
+            "birthDate": 9,
+            "address": "OBA ONPETU HOUSE, ALONG OGBOMOSO-IWO ROAD, No1",
+            "countryOfResidence": "NIGERIA",
+            "number": "17925112869",
+            "documentType": "National ID Card",
+            "email": "ilufoyemicheal90@gmail.com",
+            "phone": "08035220148",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 171701,
+            "name": "General partner - limited partnhership",
+            "countryId": 24,
+            "translation": {
+              "en": ""
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Olu****** Ade****",
+          "contacts": {
+            "email": [
+              "olu***********************"
+            ],
+            "phone": [
+              "070********"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 4
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

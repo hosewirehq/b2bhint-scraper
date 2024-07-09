@@ -1,0 +1,444 @@
+[
+  {
+    "year": "1960",
+    "title": "STERLING BANK LTD - RC-2392 - Nigeria",
+    "description": "STERLING BANK  LTD Nigeria company, Company number: RC-2392, Incorporation Date Nov 25, 1960;, Address: 20, MARINA, LAGOS STATE",
+    "company": {
+      "id": 60547713,
+      "name": "STERLING BANK  LTD",
+      "internationalNumber": "RC-2392",
+      "localNumber": "2392",
+      "countryId": 24,
+      "dateCreated": "1960-11-25T00:00:00.000Z",
+      "createdAt": "2021-05-14T12:44:32.146Z",
+      "updatedAt": "2024-06-15T16:45:17.926Z",
+      "alternateNames": [],
+      "address": "20, MARINA, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "14395209063 NGN",
+      "sharesValue": "0.005 NGN",
+      "sharesIssued": "28790418126",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON IN NIGERIA AND OTHER PARTS OF THE WORLD, THE BUSINESS OF BANKING IN ALL ITS RESPECTS AND TO TRANSACT AND DO ALL MATTERS AND THINGS INCIDENTAL THERETO ON WHICH MAY AT ANY TIME HEREAFTER,AT ANY PLACE WHERE THE COMPANY CARRIES ON ITS BUSINESS,BE USUALLY CARRIED ON IN CONNECTION WITH THE BUSINESS OF BANKING OR THE DEALINGS IN MONEY OR SECURITIES, THE RECEIPT OF DEPOSITS ON CURRENT, SAVINGS OR OTHER Accounts with or without allowance OF INTEREST:PAY OR COLLECT CHEQUES DRAWN OR PAID IN BY CUSTOMERS, PROVIDE FINANCE, CONSULTANCY AND ADVISORY SERVICES RELATING TO CORPORATE AND INVESTMENT MATTERS:MAKE AND OR MANAGE INVESTMENT ON BEHALF OF ANY PERSON;BORROW, RAISE OR TAKE UP MONEY AND LEAD OR ADVANCE MONEY OR GRANT OR PROVIDE CREDIT OR FINANCIAL ACCOMMODATION WITH SECURITY TO SUCH PERSONS AND ON SUCH TERMS AS MAY BE DEEMED EXPEDIENT AND PROVIDE INSURANCE MARKETING SERVERS AND CAPITAL MARKET BUSINESS OR SUCH OTHER SERVICES AS THE APPROPRIATE REGULATORY AGENCIES OR MAY FROM TIME TIME BY CIRCULAR , GAZETTE OR OTHERWISE, DESIGNATE AS BANKING BUSINESS.\n",
+      "providerId": "168157",
+      "updatedAtSitemap": "2023-06-09T16:22:18.000Z",
+      "oldInternationalNumber": "2392",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 1,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197051,
+          "providerId": "143241",
+          "providerName": "Financial services activities, except insurance and pension funding",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:15.008256+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82647878,
+          "address": "20, MARINA, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 102331668,
+          "companyId": 60547713,
+          "personId": 45377332,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "person": {
+            "id": 45377332,
+            "name": " state bank of india",
+            "countryId": 24,
+            "address": "BOMBAY 400 021, INDIA INDIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 102331651,
+          "companyId": 60547713,
+          "personId": 45403612,
+          "roleId": 60317,
+          "appointedOn": "2019-04-25",
+          "sourceNum": 1,
+          "person": {
+            "id": 45403612,
+            "name": " emmanuel emefienim",
+            "countryId": 24,
+            "address": "NO. 4, KAKO CLOSE, ENERHEN ROAD,  ENERHEN                                                                                               DELTA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 102331661,
+          "companyId": 60547713,
+          "personId": 45748172,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 45748172,
+            "name": " jituboh michael",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "1, MIKE ADENUGA CLOSE",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 106775762,
+          "companyId": 60547713,
+          "personId": 46111507,
+          "roleId": 60322,
+          "appointedOn": "2019-05-28",
+          "sourceNum": 1,
+          "person": {
+            "id": 46111507,
+            "name": " adegoke temitayo",
+            "countryId": 24,
+            "address": "23 MOLONEY ST.  LAGOS                                                                                                 LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60322,
+            "name": "Secretary company",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary company"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 102331653,
+          "companyId": 60547713,
+          "personId": 46535346,
+          "roleId": 60328,
+          "appointedOn": "2015-12-02",
+          "sourceNum": 1,
+          "person": {
+            "id": 46535346,
+            "name": " ikezahu stephen ",
+            "countryId": 24,
+            "address": "SUITE B16, REAL TOWER CENTRE UTAKO ABUJA FCT",
+            "email": "STEVEZALU@GMAIL.COM",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 102331663,
+          "companyId": 60547713,
+          "personId": 46535352,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "person": {
+            "id": 46535352,
+            "name": " other individuals and institutions",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "20, MARINA STREET,",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "28",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 6,
+        "2": 17,
+        "null": 5
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

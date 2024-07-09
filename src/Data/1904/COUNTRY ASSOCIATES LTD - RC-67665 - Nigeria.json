@@ -1,0 +1,387 @@
+[
+  {
+    "year": "1904",
+    "title": "COUNTRY ASSOCIATES LTD - RC-67665 - Nigeria",
+    "description": "COUNTRY ASSOCIATES LTD Nigeria company, Company number: RC-67665, Incorporation Date Dec 17, 1904;, Address: 22, MONTGOMERY ROAD YABA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60909263,
+      "name": "COUNTRY ASSOCIATES LTD",
+      "internationalNumber": "RC-67665",
+      "localNumber": "67665",
+      "countryId": 24,
+      "dateCreated": "1904-12-17T00:00:00.000Z",
+      "createdAt": "2021-05-19T03:52:19.089Z",
+      "updatedAt": "2024-06-15T16:43:52.200Z",
+      "alternateNames": [],
+      "address": "22, MONTGOMERY ROAD YABA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "232759",
+      "updatedAtSitemap": "2023-06-09T16:19:14.000Z",
+      "oldInternationalNumber": "67665",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 1,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6416991,
+          "providerId": "187729",
+          "providerName": "Association                                       ",
+          "countryId": 24,
+          "createdAt": "2022-08-21T01:43:06.646024+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 83321257,
+          "address": "22, MONTGOMERY ROAD YABA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "CONTINENTAL HARVEST NIG LTD",
+              "internationalNumber": "RC-64611"
+            },
+            {
+              "name": "SANTAI PROPERTIES LIMITED",
+              "internationalNumber": "RC-148846"
+            },
+            {
+              "name": "BANKY FOOD INDUSTRIES NIGERIA LIMITED",
+              "internationalNumber": "RC-54601"
+            },
+            {
+              "name": "INRI JOINTHERS INVESTMENT NIGERIA LIMITED",
+              "internationalNumber": "RC-152039"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 160646232,
+          "companyId": 60909263,
+          "personId": 66306803,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 66306803,
+            "name": "bamidele o. olutunji                                                                                 n/a",
+            "countryId": 24,
+            "address": "223, IPAJA RD. AGEGE, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "METBOOKS & PUBLISHING LTD",
+              "internationalNumber": "RC-61062"
+            },
+            {
+              "name": "MANAGEMENT EDUCATION AND TRAINING LTD",
+              "internationalNumber": "RC-48483"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160646235,
+          "companyId": 60909263,
+          "personId": 66306805,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66306805,
+            "name": "bamidele o. olutunji",
+            "countryId": 24,
+            "address": "223, IPAJA RD. AGEGE, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "METBOOKS & PUBLISHING LTD",
+              "internationalNumber": "RC-61062"
+            },
+            {
+              "name": "MANAGEMENT EDUCATION AND TRAINING LTD",
+              "internationalNumber": "RC-48483"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160646233,
+          "companyId": 60909263,
+          "personId": 68053919,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 68053919,
+            "name": "david a. amevor                                                                                      n/a",
+            "countryId": 24,
+            "address": "22, MONTGOMERY ROAD YABA LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160646236,
+          "companyId": 60909263,
+          "personId": 68053921,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 68053921,
+            "name": "david a. amevor",
+            "countryId": 24,
+            "address": "22, MONTGOMERY ROAD YABA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 3,
+        "3": 3
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]

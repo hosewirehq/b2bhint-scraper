@@ -1,0 +1,348 @@
+[
+  {
+    "year": "1928",
+    "title": "THE AFRICAN GAMES CLUB - IT-21 - Nigeria",
+    "description": "THE AFRICAN GAMES CLUB Nigeria company, Company number: IT-21, Incorporation Date Sep 7, 1928;, Address: C/OMRF.O.MUNIS, MEDICALDEPT, ZARIA, KADUNA",
+    "company": {
+      "id": 61771108,
+      "name": "THE AFRICAN GAMES CLUB",
+      "internationalNumber": "IT-21",
+      "localNumber": "21",
+      "countryId": 24,
+      "dateCreated": "1928-09-07T00:00:00.000Z",
+      "createdAt": "2021-05-26T05:33:37.618Z",
+      "updatedAt": "2024-06-15T15:35:31.972Z",
+      "alternateNames": [],
+      "address": "C/OMRF.O.MUNIS, MEDICALDEPT, ZARIA, KADUNA",
+      "additionalData": {},
+      "typeId": 99333,
+      "historicalNames": [],
+      "providerId": "986410",
+      "updatedAtSitemap": "2023-06-09T16:32:45.000Z",
+      "oldInternationalNumber": "21",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99333,
+        "type": "Incorporated trustee",
+        "countryId": 24,
+        "translation": {
+          "en": "Incorporated trustee"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 1,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82180454,
+          "address": "C/OMRF.O.MUNIS, MEDICALDEPT, ZARIA, KADUNA",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 264415212,
+          "companyId": 61771108,
+          "personId": 100065149,
+          "roleId": 60324,
+          "appointedOn": "2022-02-21",
+          "sourceNum": 1,
+          "person": {
+            "id": 100065149,
+            "name": "emmanuel joy",
+            "countryId": 24,
+            "occupation": "Business woman",
+            "address": "Court of Appeal quarters kubwa, No 7",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "Joyemmanuel496@gmail.com",
+            "phone": "08135937538",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [
+            {
+              "name": "EMMAJOY'S VENTURE",
+              "internationalNumber": "BN-3984898"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 251554078,
+          "companyId": 61771108,
+          "personId": 101849713,
+          "roleId": 171701,
+          "appointedOn": "2022-02-21",
+          "sourceNum": 1,
+          "sharesType": "Cash",
+          "sharesCount": 1000000,
+          "person": {
+            "id": 101849713,
+            "name": "akpan bright.  jacob",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "nationality": "Nigeria",
+            "birthYear": 1990,
+            "birthMonth": 4,
+            "birthDate": 16,
+            "address": "Godwin Okoh Street off Lucky Izobo Street, No 3",
+            "countryOfResidence": "NIGERIA",
+            "number": "5298202101369413",
+            "documentType": "National ID Card",
+            "email": "brightakpan83@gmail.com",
+            "phone": "08067232727",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 171701,
+            "name": "General partner - limited partnhership",
+            "countryId": 24,
+            "translation": {
+              "en": ""
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 251554076,
+          "companyId": 61771108,
+          "personId": 101798562,
+          "roleId": 60320,
+          "appointedOn": "2022-02-21",
+          "sourceNum": 1,
+          "person": {
+            "id": 101798562,
+            "name": "akpan  bright  jacob ",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "nationality": "Nigeria",
+            "birthYear": 1990,
+            "birthMonth": 4,
+            "birthDate": 16,
+            "address": "lamido Street phase 2 site 2 kubwa Abuja, Block 136, flat 9",
+            "countryOfResidence": "NIGERIA",
+            "number": "39056646681",
+            "documentType": "National ID Card",
+            "email": "brightakpan83@gmail.com",
+            "phone": "08067232727",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Bri***  Jac**  Akp**",
+          "contacts": {
+            "phone": [
+              "080********"
+            ],
+            "email": [
+              "bri********************"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "4",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "2": 1,
+        "null": 3
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
