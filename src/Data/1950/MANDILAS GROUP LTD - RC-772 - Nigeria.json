@@ -1,0 +1,277 @@
+[
+  {
+    "year": "1950",
+    "title": "MANDILAS GROUP LTD - RC-772 - Nigeria",
+    "description": "MANDILAS GROUP LTD Nigeria company, Company number: RC-772, Incorporation Date Apr 29, 1950;, Address: 96/102, BROAD STREET, LAGOS., LAGOS",
+    "company": {
+      "id": 60538883,
+      "name": "MANDILAS GROUP LTD",
+      "internationalNumber": "RC-772",
+      "localNumber": "772",
+      "countryId": 24,
+      "dateCreated": "1950-04-29T00:00:00.000Z",
+      "createdAt": "2021-05-14T12:11:51.199Z",
+      "updatedAt": "2024-06-15T16:45:18.153Z",
+      "alternateNames": [],
+      "address": "96/102, BROAD STREET, LAGOS., LAGOS",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "50000000 NGN",
+      "sharesValue": "0.02 NGN",
+      "sharesIssued": "25000000",
+      "historicalNames": [],
+      "activityDescription": "RENTAL OF COMMERCIAL PROPERTY",
+      "providerId": "166935",
+      "updatedAtSitemap": "2024-04-29T19:37:53.000Z",
+      "oldInternationalNumber": "772",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 3,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197314,
+          "providerId": "143244",
+          "providerName": "Real estate activities.",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:08:42.830882+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 155191584,
+          "address": "96/102, BROAD STREET, LAGOS., LAGOS",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241729389,
+          "companyId": 60538883,
+          "personId": 67996659,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67996659,
+            "name": "gregory okeke ezeokafor",
+            "countryId": 24,
+            "address": "51 ALHAJA AGBEKE STREET  AGO OKOTA",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MANDILAS VENTURES LTD",
+              "internationalNumber": "RC-86547"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241729391,
+          "companyId": 60538883,
+          "personId": 98503738,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 98503738,
+            "name": "williams akintola",
+            "countryId": 24,
+            "address": "17 ILABERE AVENUE,SOUTH-EAST,IKOYI  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "CITY CENTRE PROPERTIES NIG LTD",
+              "internationalNumber": "RC-9322"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 7
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
