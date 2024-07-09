@@ -1,0 +1,278 @@
+[
+  {
+    "year": "1972",
+    "title": "NASCO RICE AND CEREALS PROCESSING COMPANY LIMITED - RC-10929 - Nigeria",
+    "description": "NASCO RICE AND CEREALS PROCESSING COMPANY LIMITED Nigeria company, Company number: RC-10929, Incorporation Date Dec 7, 1972;, Address: NO. 1, OLD AIRPORT ROAD, JOS, PLATEAU",
+    "company": {
+      "id": 60606217,
+      "name": "NASCO RICE AND CEREALS PROCESSING COMPANY LIMITED",
+      "internationalNumber": "RC-10929",
+      "localNumber": "10929",
+      "countryId": 24,
+      "dateCreated": "1972-12-07T00:00:00.000Z",
+      "createdAt": "2021-05-14T16:29:34.230Z",
+      "updatedAt": "2024-06-15T16:45:17.734Z",
+      "alternateNames": [],
+      "address": "NO. 1, OLD AIRPORT ROAD, JOS, PLATEAU",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "100000000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "100000000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON THE BUSINESS OF RICE MILLING IN ALL ITS FORMS INCLUDING MARKETING, STORING, PARBOILING, CLEANING, DEHUSKING, POLISHING, GRADING, PACKAGING, DISTRIBUTION AND SELLING AND TO CARRY ON ALL OR ANY OF THE BY-PRODUCT INDUSTRIES AND ACTIVITIES ARISING FROM OR CONNECTED WITH THE RICE MILLING INDUSTRIY.",
+      "providerId": "176414",
+      "updatedAtSitemap": "2023-06-09T16:22:06.000Z",
+      "oldInternationalNumber": "10929",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007874,
+          "providerId": "ACTIVE",
+          "providerName": "ACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Active"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 5,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197208,
+          "providerId": "199108",
+          "providerName": "Milling and Grinding Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:06:04.264267+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82659080,
+          "address": "NO. 1, OLD AIRPORT ROAD, JOS, PLATEAU",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "NASCO MARKETING COMPANY LIMITED",
+              "internationalNumber": "RC-155333"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 241095221,
+          "companyId": 60606217,
+          "personId": 98458174,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 98458174,
+            "name": "bro. jonas maduka",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "53/55, TIMBER STREET",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241095222,
+          "companyId": 60606217,
+          "personId": 98458175,
+          "roleId": 60331,
+          "sourceNum": 1,
+          "person": {
+            "id": 98458175,
+            "name": "bro. dan onwukwe",
+            "countryId": 24,
+            "nationality": "Nigerian",
+            "address": "53/55, TIMBER STREET, MILE 2, DIOBU,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "null": 7
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]
