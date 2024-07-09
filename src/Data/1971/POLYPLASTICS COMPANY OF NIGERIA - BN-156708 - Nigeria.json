@@ -1,0 +1,485 @@
+[
+  {
+    "year": "1971",
+    "title": "POLYPLASTICS COMPANY OF NIGERIA - BN-156708 - Nigeria",
+    "description": "POLYPLASTICS COMPANY OF NIGERIA Nigeria company, Company number: BN-156708, Incorporation Date Jun 24, 1971;, Address: 22B, SALAWU STREET, SURULERE, LAGOS STATE",
+    "company": {
+      "id": 61936327,
+      "name": "POLYPLASTICS COMPANY OF NIGERIA",
+      "internationalNumber": "BN-156708",
+      "localNumber": "156708",
+      "countryId": 24,
+      "dateCreated": "1971-06-24T00:00:00.000Z",
+      "createdAt": "2021-05-27T04:16:27.657Z",
+      "updatedAt": "2024-06-15T15:42:09.253Z",
+      "alternateNames": [],
+      "address": "22B, SALAWU STREET, SURULERE, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99331,
+      "historicalNames": [],
+      "providerId": "4889150",
+      "updatedAtSitemap": "2023-06-09T16:51:02.000Z",
+      "oldInternationalNumber": "156708",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99331,
+        "type": "Business name - sole proprietor",
+        "countryId": 24,
+        "translation": {
+          "en": "Sole proprietor"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 21,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197311,
+          "providerId": "349626",
+          "providerName": "FOUNDATION BASED ASSOCIATION",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:08:37.748956+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 102016142,
+          "address": "22B, SALAWU STREET, SURULERE, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 242396491,
+          "companyId": 61936327,
+          "personId": 97316772,
+          "roleId": 60321,
+          "percentage": 0,
+          "appointedOn": "2022-03-01",
+          "votingShares": "0%",
+          "sourceNum": 1,
+          "person": {
+            "id": 97316772,
+            "name": "bebeyi emmanuel ade",
+            "countryId": 24,
+            "address": "1, ZARIA ROAD, FARINGADA, JOS",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [
+            {
+              "name": "BEBEYI GROUP OF COMPANIES LTD",
+              "internationalNumber": "RC-1236008"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242396497,
+          "companyId": 61936327,
+          "personId": 97316772,
+          "roleId": 60323,
+          "appointedOn": "2020-02-24",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 50000,
+          "person": {
+            "id": 97316772,
+            "name": "bebeyi emmanuel ade",
+            "countryId": 24,
+            "address": "1, ZARIA ROAD, FARINGADA, JOS",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "BEBEYI GROUP OF COMPANIES LTD",
+              "internationalNumber": "RC-1236008"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242396500,
+          "companyId": 61936327,
+          "personId": 98869495,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 98869495,
+            "name": "femi funsho mathew",
+            "countryId": 24,
+            "address": "SUITE 006, TRANSPHARM PLAZA, JABI, FCT-ABUJA",
+            "phone": "08033498110",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [
+            {
+              "name": "SOCIETYCARS NIGERIA LIMITED",
+              "internationalNumber": "RC-1218768"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242396490,
+          "companyId": 61936327,
+          "personId": 98974376,
+          "roleId": 60320,
+          "appointedOn": "2021-11-27",
+          "sourceNum": 1,
+          "person": {
+            "id": 98974376,
+            "name": "okoroafor reliance",
+            "countryId": 24,
+            "birthYear": 1980,
+            "birthMonth": 2,
+            "birthDate": 9,
+            "address": "",
+            "countryOfResidence": "NIGERIA",
+            "documentType": "National Identification Number",
+            "email": "relianceeke@gmail.com",
+            "phone": "08038900441",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60320,
+            "name": "Presenter",
+            "countryId": 24,
+            "translation": {
+              "en": "Presenter"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242396492,
+          "companyId": 61936327,
+          "personId": 98974377,
+          "roleId": 60317,
+          "appointedOn": "2022-01-19",
+          "sourceNum": 1,
+          "person": {
+            "id": 98974377,
+            "name": "bebeyi  olufunmilayo janet",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "birthYear": 1957,
+            "birthMonth": 11,
+            "birthDate": 29,
+            "address": "1, ZARIA ROAD, FARINGADA, JOS",
+            "countryOfResidence": "NIGERIA",
+            "number": "F 000336593",
+            "documentType": "International Passport",
+            "email": "bebeyimerchants@yahoo.com",
+            "phone": "08036366868",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 242396498,
+          "companyId": 61936327,
+          "personId": 98974382,
+          "roleId": 60323,
+          "appointedOn": "2020-02-24",
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 25000,
+          "person": {
+            "id": 98974382,
+            "name": "bebeyi albert gbalade",
+            "countryId": 24,
+            "address": "1, ZARIA ROAD, FARINGADA, JOS",
+            "countryOfResidence": "NIGERIA",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [
+        {
+          "name": "Isi*** Shu****",
+          "contacts": {
+            "email": [
+              "isi****************"
+            ],
+            "phone": [
+              "234**********"
+            ]
+          }
+        }
+      ],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "11",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 2,
+      "personsCountByPriority": {
+        "1": 3,
+        "2": 4,
+        "null": 4
+      },
+      "personsWithRelatedCount": 3
+    }
+  }
+]
