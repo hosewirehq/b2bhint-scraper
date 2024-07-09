@@ -1,0 +1,431 @@
+[
+  {
+    "year": "1948",
+    "title": "AFRICAN DEVELOPEMENT CORPORATION LTD - RC-691 - Nigeria",
+    "description": "AFRICAN DEVELOPEMENT CORPORATION LTD Nigeria company, Company number: RC-691, Incorporation Date 13 oct. 1948;, Address: 3, IBADAN STR. (EAST) E/METTA, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60538566,
+      "name": "AFRICAN DEVELOPEMENT CORPORATION LTD",
+      "internationalNumber": "RC-691",
+      "localNumber": "691",
+      "countryId": 24,
+      "dateCreated": "1948-10-13T00:00:00.000Z",
+      "createdAt": "2021-05-14T12:10:40.556Z",
+      "updatedAt": "2024-06-15T15:21:05.504Z",
+      "alternateNames": [],
+      "address": "3, IBADAN STR. (EAST) E/METTA, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "250000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "250000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON BUSINESS AS MANUFACTURERS OF ANY PRODUCT OF COMMERCIAL OR INDUSTRIAL VALUE, WHETHER THE PRODUCT IS FINISHED OR SEMI-FINISHED; ESPECIALLY TO MANUFACTURE ANY KIND OF TEXTILE PRODUCTS AND FABRICS INCLUDING GINNING, SPINNING, WEAVING, BLEACHING, DYEING, PRINTING AND OTHER MANUFACTURING AND FINISHING OPERATIONS THROUGH WHICH TEXTILE FABRIC MAY UNDERGO.  ",
+      "providerId": "166890",
+      "updatedAtSitemap": "2023-06-09T17:48:05.000Z",
+      "oldInternationalNumber": "691",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 2,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6196919,
+          "providerId": "143269",
+          "providerName": "Other personal services activities",
+          "countryId": 24,
+          "createdAt": "2021-11-07T13:47:47.959002+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 99768853,
+          "address": "3, IBADAN STR. (EAST) E/METTA, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241732635,
+          "companyId": 60538566,
+          "personId": 72149434,
+          "roleId": 60317,
+          "appointedOn": "2021-12-15",
+          "sourceNum": 1,
+          "person": {
+            "id": 72149434,
+            "name": "nwazue emmanuel chika",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "birthYear": 1982,
+            "birthMonth": 10,
+            "birthDate": 27,
+            "address": "Bamgbopa Street Abule Ijesha yaba",
+            "countryOfResidence": "NIGERIA",
+            "number": "A08851915",
+            "documentType": "International Passport",
+            "email": "Chika.nwazue@gmail.com",
+            "phone": "08023070037",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241732637,
+          "companyId": 60538566,
+          "personId": 75303430,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 50000,
+          "person": {
+            "id": 75303430,
+            "name": "edmond okafor",
+            "countryId": 24,
+            "address": "NO 26 SADIKU OLODI APAPA  APAPA                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [
+            {
+              "name": "EDMOND OKAFOR NIGERIA LIMITED",
+              "internationalNumber": "RC-736734"
+            },
+            {
+              "name": "FIZ MAYOR HOTEL LTD",
+              "internationalNumber": "RC-982249"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241732636,
+          "companyId": 60538566,
+          "personId": 98703230,
+          "roleId": 60323,
+          "sourceNum": 1,
+          "sharesType": "ORDINARY",
+          "sharesCount": 50000,
+          "person": {
+            "id": 98703230,
+            "name": "nwazue silas",
+            "countryId": 24,
+            "address": "3/5 IBADAN STREET, EBUTTE-META, LAGOS.",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60323,
+            "name": "Shareholder",
+            "countryId": 24,
+            "translation": {
+              "en": "Shareholder"
+            },
+            "priority": 1
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241732639,
+          "companyId": 60538566,
+          "personId": 98703232,
+          "roleId": 60328,
+          "sourceNum": 1,
+          "person": {
+            "id": 98703232,
+            "name": "ibijaye isaac a",
+            "countryId": 24,
+            "address": "SUITE 11B SABODALE COMPLEX",
+            "countryOfResidence": "NIGERIA",
+            "email": "ibitayeissaacs@yahoo.com",
+            "phone": "08056071350",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60328,
+            "name": "Deponent",
+            "countryId": 24,
+            "translation": {
+              "en": "Deponent"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241732640,
+          "companyId": 60538566,
+          "personId": 98703233,
+          "roleId": 60321,
+          "percentage": 100,
+          "appointedOn": "2022-02-24",
+          "votingShares": "100%",
+          "sourceNum": 1,
+          "person": {
+            "id": 98703233,
+            "name": "chika  nwazue  emmanuel",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "Victoria Bay Estate Nike Art gallery Road,, House Number 45",
+            "countryOfResidence": "NIGERIA",
+            "number": "A09475858",
+            "documentType": "PREFERENCE",
+            "email": "Chika.nwazue@gmail.com ",
+            "phone": "08023070037",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60321,
+            "name": "Persons with significant control",
+            "countryId": 24,
+            "translation": {
+              "en": "Persons with significant control"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "6",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "1": 3,
+        "2": 1,
+        "null": 2
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

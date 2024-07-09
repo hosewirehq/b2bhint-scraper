@@ -1,0 +1,386 @@
+[
+  {
+    "year": "1960",
+    "title": "AERO CONTRACTORS COMPANY OF NIGERIA LIMITED - RC-2182 - Nigeria",
+    "description": "AERO CONTRACTORS COMPANY OF NIGERIA LIMITED Nigeria company, Company number: RC-2182, Incorporation Date May 10, 1960;, Address: PRIVATE TERMINAL DOMESTIC WING MURTALA MOHAMMED AIRPORT, LAGOS STATE",
+    "company": {
+      "id": 81976222,
+      "name": "AERO CONTRACTORS COMPANY OF NIGERIA LIMITED",
+      "internationalNumber": "RC-2182",
+      "localNumber": "2182",
+      "countryId": 24,
+      "dateCreated": "1960-05-10T00:00:00.000Z",
+      "createdAt": "2021-11-28T09:44:43.280Z",
+      "updatedAt": "2024-06-15T16:43:39.784Z",
+      "alternateNames": [],
+      "address": "PRIVATE TERMINAL DOMESTIC WING MURTALA MOHAMMED AIRPORT, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1250000000 NGN",
+      "sharesValue": "0.005 NGN",
+      "sharesIssued": "2500000000",
+      "historicalNames": [],
+      "activityDescription": "TO COMPANY IS ENGAGED IN AVIATION SERVICES TO OIL COMPANIES AND ADHOC AIR CHARTERS",
+      "providerId": "752404",
+      "updatedAtSitemap": "2024-04-29T00:21:34.000Z",
+      "oldInternationalNumber": "2182",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 2,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6202321,
+          "providerId": "143230",
+          "providerName": "Air transport",
+          "countryId": 24,
+          "createdAt": "2021-11-07T16:58:06.2288+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 155134271,
+          "address": "PRIVATE TERMINAL DOMESTIC WING MURTALA MOHAMMED AIRPORT, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 160816063,
+          "companyId": 81976222,
+          "personId": 66221608,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 66221608,
+            "name": "ambakederemo eniye",
+            "countryId": 24,
+            "address": "3 DAN ORJI CLOSE, OFF ADA-GEORGE ROAD  PORT HARCOURT                                                                                         RIVERS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "ENKEDER INTERNATIONAL COMPANY LIMITED",
+              "internationalNumber": "RC-771410"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160816066,
+          "companyId": 81976222,
+          "personId": 67034306,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 67034306,
+            "name": "ibru oboden valentine",
+            "countryId": 24,
+            "address": "57 BOURDILLON ROAD  IKOYI                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "AHDEL INTER. INSURANCE BROKERS",
+              "internationalNumber": "RC-177707"
+            },
+            {
+              "name": "CLOCKWORK INDUSTRIES LIMITED",
+              "internationalNumber": "RC-260446"
+            },
+            {
+              "name": "SCHWARZ KAMUCHI LIMITED",
+              "internationalNumber": "RC-414385"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 160816068,
+          "companyId": 81976222,
+          "personId": 68162250,
+          "roleId": 60324,
+          "sourceNum": 1,
+          "person": {
+            "id": 68162250,
+            "name": "john  paul okwor",
+            "countryId": 24,
+            "occupation": "Legal practitioner",
+            "address": "OBUM PLACE, ADETOKUMBO ADEMOLA CRESCENT WUSE 2, SUITE 206,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60324,
+            "name": "Witness",
+            "countryId": 24,
+            "translation": {
+              "en": "Witness"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 246268747,
+          "companyId": 81976222,
+          "personId": 97727290,
+          "roleId": 60322,
+          "appointedOn": "2013-04-18",
+          "sourceNum": 1,
+          "person": {
+            "id": 97727290,
+            "name": "austen-peters and company",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "OSBORNE ROAD, 2A,",
+            "countryOfResidence": "NIGERIA",
+            "number": "",
+            "documentType": "",
+            "email": "",
+            "phone": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60322,
+            "name": "Secretary company",
+            "countryId": 24,
+            "translation": {
+              "en": "Secretary company"
+            }
+          },
+          "companies": [
+            {
+              "name": "MAJESTIC VILLAS LIMITED",
+              "internationalNumber": "RC-1332290"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "10",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 7,
+        "null": 3
+      },
+      "personsWithRelatedCount": 5
+    }
+  }
+]
