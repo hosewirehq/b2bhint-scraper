@@ -1,0 +1,289 @@
+[
+  {
+    "year": "1957",
+    "title": "CHAUTARD & CO. NIG LTD - RC-1514 - Nigeria",
+    "description": "CHAUTARD & CO. NIG LTD Nigeria company, Company number: RC-1514, Incorporation Date May 13, 1957;, Address: MARINAHOUSE, 63, MARINA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60542558,
+      "name": "CHAUTARD & CO. NIG LTD",
+      "internationalNumber": "RC-1514",
+      "localNumber": "1514",
+      "countryId": 24,
+      "dateCreated": "1957-05-13T00:00:00.000Z",
+      "createdAt": "2021-05-14T12:25:47.365Z",
+      "updatedAt": "2024-06-15T14:10:20.097Z",
+      "alternateNames": [],
+      "address": "MARINAHOUSE, 63, MARINA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "167445",
+      "updatedAtSitemap": "2023-06-09T15:23:23.000Z",
+      "oldInternationalNumber": "1514",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 3,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 81941411,
+          "address": "MARINAHOUSE, 63, MARINA, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "HUNSBURY MACHINERY NIG LTD",
+              "internationalNumber": "RC-2289"
+            },
+            {
+              "name": "$$C.T.C. NIGERIA LTD",
+              "internationalNumber": "RC-6334"
+            },
+            {
+              "name": "SCANSHIP NIGERIA LIMITED",
+              "internationalNumber": "RC-11024"
+            },
+            {
+              "name": "PEST CONTROL (NIG) LTD",
+              "internationalNumber": "RC-1144"
+            },
+            {
+              "name": "A & M YDLIBI CO. NIG LTD",
+              "internationalNumber": "RC-899"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 102439964,
+          "companyId": 60542558,
+          "personId": 46562099,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 46562099,
+            "name": " robert h. parker",
+            "countryId": 24,
+            "address": "MARINA HOUSE, 63, MARINA, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "BURA COMMUNITY IN LAGOS",
+              "internationalNumber": "RC-1936"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 102439959,
+          "companyId": 60542558,
+          "personId": 46586753,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 46586753,
+            "name": " percy galzer",
+            "countryId": 24,
+            "address": "MIVENG LANE, LONDON",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "7",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 7
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
