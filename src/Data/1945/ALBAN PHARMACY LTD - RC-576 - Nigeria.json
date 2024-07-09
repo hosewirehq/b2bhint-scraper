@@ -1,0 +1,272 @@
+[
+  {
+    "year": "1945",
+    "title": "ALBAN PHARMACY LTD - RC-576 - Nigeria",
+    "description": "ALBAN PHARMACY LTD Nigeria company, Company number: RC-576, Incorporation Date 23 Mai 1945;, Address: NO. 2, VICTORIA STREET, LAGOS",
+    "company": {
+      "id": 60538065,
+      "name": "ALBAN PHARMACY LTD",
+      "internationalNumber": "RC-576",
+      "localNumber": "576",
+      "countryId": 24,
+      "dateCreated": "1945-05-23T00:00:00.000Z",
+      "createdAt": "2021-05-14T12:08:53.782Z",
+      "updatedAt": "2024-06-15T15:21:04.981Z",
+      "alternateNames": [],
+      "address": "NO. 2, VICTORIA STREET, LAGOS",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "10000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "10000",
+      "historicalNames": [],
+      "activityDescription": "TO ACQUIRE AND TAKE OVER AS A GOING CONCERN THE UNDERTAKING AND ALL OR ANY OF THE ASSETS AND LIABILITIES OF THE ALBAN PHARMACY AND WITH A VIEW THERETO TO ADOPT THE AGREEMENT REFERRED TO IN CLAUSE 4 OF THE COMPANY'S ARTICLES OF ASSOCIATION AND TO CARRY THE SAME INTO EFFECT WITH OR WITHOUT MODIFICATION.",
+      "providerId": "166820",
+      "updatedAtSitemap": "2024-01-08T05:29:34.000Z",
+      "oldInternationalNumber": "576",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 1,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6197068,
+          "providerId": "199207",
+          "providerName": "Pharmaceutical Services",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:02:37.392032+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 144368909,
+          "address": "NO. 2, VICTORIA STREET, LAGOS",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241737315,
+          "companyId": 60538065,
+          "personId": 96518034,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 96518034,
+            "name": "adedapo adekeye",
+            "countryId": 24,
+            "address": "55, AKINWUNMI STR., YABA LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "MAINSTREAM MEDIA LTD",
+              "internationalNumber": "RC-373718"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241737316,
+          "companyId": 60538065,
+          "personId": 98705117,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 98705117,
+            "name": "michael a. banjo",
+            "countryId": 24,
+            "address": "37, ALASA STR. ONIKE, YABA, LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "2",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 2
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]
