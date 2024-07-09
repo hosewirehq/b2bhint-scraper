@@ -1,0 +1,379 @@
+[
+  {
+    "year": "1970",
+    "title": "ANCHOR INN LIMITED - RC-7563 - Nigeria",
+    "description": "ANCHOR INN LIMITED Nigeria company, Company number: RC-7563, Incorporation Date Sep 17, 1970;, Address: 11, ABIBUOKISTR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60581795,
+      "name": "ANCHOR INN LIMITED",
+      "internationalNumber": "RC-7563",
+      "localNumber": "7563",
+      "countryId": 24,
+      "dateCreated": "1970-09-17T00:00:00.000Z",
+      "createdAt": "2021-05-14T14:58:04.180Z",
+      "updatedAt": "2024-06-15T16:45:18.169Z",
+      "alternateNames": [],
+      "address": "11, ABIBUOKISTR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "173097",
+      "updatedAtSitemap": "2023-06-09T16:22:10.000Z",
+      "oldInternationalNumber": "7563",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 8,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82652307,
+          "address": "11, ABIBUOKISTR., LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "INTERCONTINENTAL MERCHANTS LTD",
+              "internationalNumber": "RC-8941"
+            },
+            {
+              "name": "BROSBAN LIMITED",
+              "internationalNumber": "RC-7971"
+            },
+            {
+              "name": "AWOFEKUN INVESTMENT & PROPERTIES LTD",
+              "internationalNumber": "RC-14550"
+            },
+            {
+              "name": "NIGERIA OXYGEN & ALLIED GASES LTD",
+              "internationalNumber": "RC-8805"
+            },
+            {
+              "name": "FOIN  TRADES LIMITED",
+              "internationalNumber": "RC-7243"
+            },
+            {
+              "name": "MONO INTERNATIONAL LIMITED",
+              "internationalNumber": "RC-7864"
+            },
+            {
+              "name": "SECURE INSURANCE BROKERS LTD",
+              "internationalNumber": "RC-12243"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 101271912,
+          "companyId": 60581795,
+          "personId": 45975618,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 45975618,
+            "name": " emmanuel mfon okon",
+            "countryId": 24,
+            "address": "NO. 19, NDUONYI STREET, EYO-ABASI  ORON                                                                                                  AKWA IBOM",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 101271913,
+          "companyId": 60581795,
+          "personId": 45975619,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 45975619,
+            "name": " emmanuel kingsley okon",
+            "countryId": 24,
+            "address": "NDIYA IKOT AKPA EDET IKONO AKWA IBOM                                                                                             A",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 101271919,
+          "companyId": 60581795,
+          "personId": 45975624,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 45975624,
+            "name": " monday akpadiaha jack                                                                                n/a",
+            "countryId": 24,
+            "address": "20,  ABIBU OKI STREET, LAGOS LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 101271920,
+          "companyId": 60581795,
+          "personId": 45975625,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 45975625,
+            "name": " isong nyah                                                                                           n/a",
+            "countryId": 24,
+            "address": "7, OLUFEMI ROAD, SURULERE",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "12",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 6,
+        "3": 6
+      },
+      "personsWithRelatedCount": 0
+    }
+  }
+]

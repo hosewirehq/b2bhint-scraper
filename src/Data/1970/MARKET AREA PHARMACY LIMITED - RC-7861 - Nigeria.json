@@ -1,0 +1,276 @@
+[
+  {
+    "year": "1970",
+    "title": "MARKET AREA PHARMACY LIMITED - RC-7861 - Nigeria",
+    "description": "MARKET AREA PHARMACY LIMITED Nigeria company, Company number: RC-7861, Incorporation Date 2 дек. 1970 г.;, Address: P.O.BOX3065, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60584013,
+      "name": "MARKET AREA PHARMACY LIMITED",
+      "internationalNumber": "RC-7861",
+      "localNumber": "7861",
+      "countryId": 24,
+      "dateCreated": "1970-12-02T00:00:00.000Z",
+      "createdAt": "2021-05-14T15:06:00.243Z",
+      "updatedAt": "2024-06-15T16:45:17.373Z",
+      "alternateNames": [],
+      "address": "P.O.BOX3065, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "600000 NGN",
+      "sharesValue": "0.01 NGN",
+      "sharesIssued": "600000",
+      "historicalNames": [],
+      "activityDescription": "TO CARRY ON BUSINESS AS DEALERS IN AND PRODUCERS OF ,DAIRY,FARM,AND GARDEN PRODUCE OF ALL KINDS,AND IN PARTICULAR MILK,CREAM,BUTTER,CHEESE,PONTRY AND EGGS,FRUIT AND VEGETABLES; AND AS COW KEEPERS,FARMERS,MILLERS AND MARKET GARDENERS,AND AS MANUFACTURERS OF ALL KINDS OF CONDENSED MILK,JAM,PICKLES,CIDERS,AND PRESERVED PROVISIONS OF ALL KINDS.",
+      "providerId": "173393",
+      "updatedAtSitemap": "2023-06-09T16:22:10.000Z",
+      "oldInternationalNumber": "7861",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 5,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 6198082,
+          "providerId": "199113",
+          "providerName": "Sale of Diary Products",
+          "countryId": 24,
+          "createdAt": "2021-11-07T14:31:25.702748+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82655257,
+          "address": "P.O.BOX3065, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": []
+        }
+      ],
+      "persons": [
+        {
+          "id": 241275320,
+          "companyId": 60584013,
+          "personId": 98541165,
+          "roleId": 60331,
+          "appointedOn": "2021-01-19",
+          "sourceNum": 1,
+          "person": {
+            "id": 98541165,
+            "name": "oguntokun john tunji",
+            "countryId": 24,
+            "address": "16, ABIMBOLA ODUNSI STREET, IFAKO AGEGE,  LAGOS                                                                                                 LAGOS",
+            "countryOfResidence": "NIGERIA",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [
+            {
+              "name": "EMIS ENGINEERING LIMITED",
+              "internationalNumber": "RC-425400"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 241275321,
+          "companyId": 60584013,
+          "personId": 98541166,
+          "roleId": 60331,
+          "appointedOn": "2021-01-19",
+          "sourceNum": 1,
+          "person": {
+            "id": 98541166,
+            "name": "onwuka emmanuel chike",
+            "countryId": 24,
+            "nationality": "Nigeria",
+            "address": "OJUELEGBA ROAD",
+            "countryOfResidence": "NIGERIA",
+            "number": "A09057151",
+            "documentType": "International Passport",
+            "email": "emmanuelonwuka42@yahoo.co.uk",
+            "phone": "08072210448",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60331,
+            "name": "Trustee",
+            "countryId": 24,
+            "translation": {
+              "en": "Trustee"
+            }
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "5",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "null": 5
+      },
+      "personsWithRelatedCount": 1
+    }
+  }
+]

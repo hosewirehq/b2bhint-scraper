@@ -1,0 +1,393 @@
+[
+  {
+    "year": "1970",
+    "title": "A. EDU LIMITED - RC-7832 - Nigeria",
+    "description": "A. EDU LIMITED Nigeria company, Company number: RC-7832, Incorporation Date Nov 26, 1970;, Address: 8/10, BROADSTR, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+    "company": {
+      "id": 60583815,
+      "name": "A. EDU LIMITED",
+      "internationalNumber": "RC-7832",
+      "localNumber": "7832",
+      "countryId": 24,
+      "dateCreated": "1970-11-26T00:00:00.000Z",
+      "createdAt": "2021-05-14T15:05:15.352Z",
+      "updatedAt": "2024-06-15T16:45:20.879Z",
+      "alternateNames": [],
+      "address": "8/10, BROADSTR, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+      "additionalData": {},
+      "typeId": 99330,
+      "paidShareCapital": "1000 NGN",
+      "sharesIssued": "2",
+      "historicalNames": [],
+      "providerId": "173364",
+      "updatedAtSitemap": "2023-06-09T16:22:10.000Z",
+      "oldInternationalNumber": "7832",
+      "claimCompanyData": {},
+      "country": {
+        "id": 24,
+        "name": "Nigeria",
+        "deadCompanyStatus": [
+          3995958,
+          3995963,
+          3995977,
+          4007873,
+          4007877,
+          4007875
+        ],
+        "liquidatedCompanyStatus": [
+          3995962,
+          4007878
+        ],
+        "liquidationCompanyStatus": [
+          4002573,
+          4006402,
+          4007876,
+          4007879,
+          4007881
+        ],
+        "bankruptcyProcessCompanyStatus": [],
+        "reservationCompanyStatus": [],
+        "formationCompanyStatus": [],
+        "code": "ng",
+        "currency": "NGN",
+        "sources": [
+          {
+            "url": "https://www.cac.gov.ng/",
+            "name": "Corporate Affairs Commission"
+          }
+        ],
+        "translation": {
+          "en": "Nigeria"
+        },
+        "fromCountry": {
+          "en": "Nigeria"
+        },
+        "companiesCount": 4517406,
+        "activeCompaniesCount": 690055,
+        "restrictedData": {},
+        "languages": [
+          "en"
+        ]
+      },
+      "type": {
+        "id": 99330,
+        "type": "Private company limited by shares",
+        "countryId": 24,
+        "translation": {
+          "en": "Private company limited by shares"
+        },
+        "isIndividual": false
+      },
+      "statuses": [
+        {
+          "id": 4007873,
+          "providerId": "INACTIVE",
+          "providerName": "INACTIVE",
+          "countryId": 24,
+          "translation": {
+            "en": "Inactive"
+          }
+        }
+      ],
+      "accounts": [],
+      "tags": [],
+      "LEI": [],
+      "CIK": [],
+      "CAGE": [],
+      "companiesRegisteredSameDate": 11,
+      "reviews": [],
+      "allReviewsCount": "0",
+      "allReviewsRating": "0",
+      "categories": [],
+      "activities": [
+        {
+          "id": 5888487,
+          "providerId": "1",
+          "providerName": "UNSPECIFIED",
+          "countryId": 24,
+          "createdAt": "2021-05-18T17:09:50.60028+00:00",
+          "translation": {},
+          "type": {
+            "id": 1,
+            "name": "Primary",
+            "translation": {
+              "en": "Primary activities"
+            }
+          }
+        }
+      ],
+      "addresses": [
+        {
+          "id": 82079375,
+          "address": "8/10, BROADSTR, LAGOS, LAGOS, LAGOS, LAGOS STATE",
+          "countryId": 24,
+          "companies": [
+            {
+              "name": "EQUITY NIG LTD",
+              "internationalNumber": "RC-6424"
+            },
+            {
+              "name": "EQUATOR GROUP LTD",
+              "internationalNumber": "RC-4282"
+            },
+            {
+              "name": "KOKS INDUSTRIES LTD",
+              "internationalNumber": "RC-108241"
+            },
+            {
+              "name": "PALMEX NIG LTD",
+              "internationalNumber": "RC-6347"
+            },
+            {
+              "name": "COMMODITIES EXCHANGE AND TRADING CENTRE NIG LTD",
+              "internationalNumber": "RC-355728"
+            },
+            {
+              "name": "AIRCOOL METAL INDUSTRIES NIG LTD",
+              "internationalNumber": "RC-5823"
+            }
+          ]
+        }
+      ],
+      "persons": [
+        {
+          "id": 101197253,
+          "companyId": 60583815,
+          "personId": 42793764,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 42793764,
+            "name": " abayomi edu",
+            "countryId": 24,
+            "address": "11, MARTINS STR, LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [
+            {
+              "name": "NIGER PARTICIPANTS COMPANY LIMITED",
+              "internationalNumber": "RC-16280"
+            },
+            {
+              "name": "TAY ENTERPRISES LIMITED",
+              "internationalNumber": "RC-5967"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 101197258,
+          "companyId": 60583815,
+          "personId": 43233923,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 43233923,
+            "name": " abayomi edu                                                                                          n/a",
+            "countryId": 24,
+            "address": "5, WILLIAMS STREET,LAGOS STATE",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [
+            {
+              "name": "NIGER PARTICIPANTS COMPANY LIMITED",
+              "internationalNumber": "RC-16280"
+            },
+            {
+              "name": "AFCOTT NIGERIA LIMITED",
+              "internationalNumber": "RC-75289"
+            }
+          ],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 101197257,
+          "companyId": 60583815,
+          "personId": 44588276,
+          "roleId": 60318,
+          "sourceNum": 1,
+          "person": {
+            "id": 44588276,
+            "name": " andrey edu                                                                                           n/a",
+            "countryId": 24,
+            "address": "7A, YEMPLE RD, IKOYI LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60318,
+            "name": "Lawyer",
+            "countryId": 24,
+            "translation": {
+              "en": "Lawyer"
+            },
+            "priority": 3
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        },
+        {
+          "id": 101197252,
+          "companyId": 60583815,
+          "personId": 44588277,
+          "roleId": 60317,
+          "sourceNum": 1,
+          "person": {
+            "id": 44588277,
+            "name": " andrey edu",
+            "countryId": 24,
+            "address": "7A, YEMPLE RD, IKOYI LAGOS",
+            "email": "",
+            "countryCode": "ng",
+            "countryTranslation": {
+              "cs": "Nigeria",
+              "de": "Nigeria",
+              "en": "Nigeria",
+              "es": "Nigeria",
+              "fr": "Nigeria",
+              "lt": "Nigerija",
+              "lv": "Nigērija",
+              "nl": "Nigeria",
+              "pl": "Nigeria",
+              "ro": "Nigeria",
+              "ru": "Нигерия",
+              "tr": "Nijerya",
+              "uk": "Нігерія",
+              "zh": "尼日利亚"
+            }
+          },
+          "role": {
+            "id": 60317,
+            "name": "Director",
+            "countryId": 24,
+            "translation": {
+              "en": "Director"
+            },
+            "priority": 2
+          },
+          "companies": [],
+          "naturesOfControl": [],
+          "personShares": []
+        }
+      ],
+      "companyContacts": {},
+      "companyContactPersons": [],
+      "shares": [],
+      "financialReports": "[]",
+      "permits": [],
+      "licenses": [],
+      "inspections": [],
+      "subdivisions": [],
+      "insolvencies": [],
+      "events": [],
+      "history": [],
+      "links": [],
+      "vehicles": [],
+      "restrictions": [],
+      "courtCases": [],
+      "acquisitions": [],
+      "securityMeasures": [],
+      "companyDocuments": [],
+      "filings": [],
+      "charges": [],
+      "affiliates": [],
+      "listTags": [],
+      "inspectionsCount": 0,
+      "permitsCount": 0,
+      "licensesCount": 0,
+      "subdivisionsCount": 0,
+      "insolvenciesCount": 0,
+      "eventsCount": 0,
+      "historyCount": 0,
+      "linksCount": 0,
+      "companyVehiclesCount": 0,
+      "restrictionsCount": 0,
+      "courtCasesCount": 0,
+      "acquisitionsCount": 0,
+      "securityMeasuresCount": 0,
+      "companyDocumentsCount": 0,
+      "filingsCount": 0,
+      "chargesCount": 0,
+      "affiliatesCount": "0",
+      "personsCount": "10",
+      "companyContactsCount": 0,
+      "companyContactPersonsCount": 0,
+      "personsCountByPriority": {
+        "2": 5,
+        "3": 5
+      },
+      "personsWithRelatedCount": 2
+    }
+  }
+]
