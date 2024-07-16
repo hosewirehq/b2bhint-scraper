@@ -44,7 +44,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git checkout -b ${{ env.BRANCH_NAME }}
-          git add output_${{ github.event.inputs.year }}.csv
+          git add output.csv
           git commit -m "chore: transform JSON to CSV for year ${{ github.event.inputs.year }}"
 
       - name: Create Pull Request
