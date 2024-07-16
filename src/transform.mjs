@@ -6,6 +6,7 @@ import { $ } from 'zx';
 import csvWriter from 'csv-writer';
 
 const baseDir = 'Data';
+const outputFile = 'output.csv';
 
 const getCategories = () => {
     return 'Professional Services';
@@ -82,11 +83,14 @@ const main = async () => {
         return stats.isDirectory();
     });
 
+    const allRecords = [];
     for (const year of years) {
         const yearFolderPath = path.join(baseDir, year);
         const records = await processFolder(yearFolderPath);
-        await writeCsv(records, `output.csv`);
+        allRecords.push(...records);
     }
+
+    await writeCsv(allRecords, outputFile);
 };
 
 await main();
