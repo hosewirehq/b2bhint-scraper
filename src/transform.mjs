@@ -6,7 +6,8 @@ import { $ } from 'zx';
 import csvWriter from 'csv-writer';
 
 const baseDir = 'src/Data';
-const outputFile = 'src/output.csv';
+const outputFile1 = 'src/output1.csv';
+const outputFile2 = 'src/output2.csv';
 
 const getCategories = () => {
     return 'Professional Services';
@@ -90,7 +91,13 @@ const main = async () => {
         allRecords.push(...records);
     }
 
-    await writeCsv(allRecords, outputFile);
+    // Split records into two files based on their index
+    const midIndex = Math.ceil(allRecords.length / 2);
+    const recordsFile1 = allRecords.slice(0, midIndex);
+    const recordsFile2 = allRecords.slice(midIndex);
+
+    await writeCsv(recordsFile1, outputFile1);
+    await writeCsv(recordsFile2, outputFile2);
 };
 
 await main();
