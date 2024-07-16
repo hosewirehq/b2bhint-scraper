@@ -5,8 +5,8 @@ import path from 'path';
 import { $ } from 'zx';
 import csvWriter from 'csv-writer';
 
-const baseDir = './Data';
-const outputFile = './output.csv';
+const baseDir = './src/Data';
+const outputFile = './src/output.csv';
 
 const getCategories = () => {
     return 'Professional Services';
