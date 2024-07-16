@@ -5,7 +5,9 @@ import path from 'path';
 import { $ } from 'zx';
 import csvWriter from 'csv-writer';
 
-const baseDir = 'Data';
+const baseDir = 'src/Data';
+const outputFile1 = 'src/output1.csv';
+const outputFile2 = 'src/output2.csv';
 
 const getCategories = () => {
     return 'Professional Services';
@@ -15,7 +17,7 @@ const processFile = async (filePath) => {
     const data = JSON.parse(await fs.readFile(filePath, 'utf8'));
     const company = data[0].company;
 
-    const addressParts = company.address.split(',').map(part => part.trim());
+    const addressParts = company.address?.split(',').map(part => part.trim()) ?? [];
 
     return {
         name: company.name,
@@ -82,11 +84,20 @@ const main = async () => {
         return stats.isDirectory();
     });
 
+    const allRecords = [];
     for (const year of years) {
         const yearFolderPath = path.join(baseDir, year);
         const records = await processFolder(yearFolderPath);
-        await writeCsv(records, `output_${year}.csv`);
+        allRecords.push(...records);
     }
+
+    // Split records into two files based on their index
+    const midIndex = Math.ceil(allRecords.length / 2);
+    const recordsFile1 = allRecords.slice(0, midIndex);
+    const recordsFile2 = allRecords.slice(midIndex);
+
+    await writeCsv(recordsFile1, outputFile1);
+    await writeCsv(recordsFile2, outputFile2);
 };
 
-main().catch(err => console.error(err));
+await main();

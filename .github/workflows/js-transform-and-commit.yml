@@ -28,24 +28,16 @@ jobs:
         run: npm install -global zx
 
       - name: Make script executable
-        run: chmod +x ./transform.js
+        run: chmod +x ./src/transform.mjs
 
       - name: Run transform script
-        run: zx ./transform.js
+        run: zx ./src/transform.mjs
 
       - name: Create unique branch
         id: create_branch
         run: |
-          BRANCH_NAME=transform/${{ github.event.inputs.year }}-${{ github.run_id }}
+          BRANCH_NAME=transform-${{ github.run_id }}
           echo "BRANCH_NAME=${BRANCH_NAME}" >> $GITHUB_ENV
-
-      - name: Commit transformed CSV
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git checkout -b ${{ env.BRANCH_NAME }}
-          git add output_${{ github.event.inputs.year }}.csv
-          git commit -m "chore: transform JSON to CSV for year ${{ github.event.inputs.year }}"
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
