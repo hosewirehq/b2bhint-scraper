@@ -16,7 +16,7 @@ const processFile = async (filePath) => {
     const data = JSON.parse(await fs.readFile(filePath, 'utf8'));
     const company = data[0].company;
 
-    const addressParts = company.address.split(',').map(part => part.trim());
+    const addressParts = company.address?.split(',').map(part => part.trim()) ?? [];
 
     return {
         name: company.name,
