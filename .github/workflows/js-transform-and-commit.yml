@@ -39,14 +39,6 @@ jobs:
           BRANCH_NAME=transform-${{ github.run_id }}
           echo "BRANCH_NAME=${BRANCH_NAME}" >> $GITHUB_ENV
 
-      - name: Commit transformed CSV
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git checkout -b ${{ env.BRANCH_NAME }}
-          git add .
-          git commit -m "chore: transform JSON to CSV for year ${{ github.event.inputs.year }}"
-
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
