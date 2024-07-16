@@ -2,10 +2,6 @@ name: Transform JSON to CSV
 
 on:
   workflow_dispatch:  # This allows you to manually trigger the workflow
-    inputs:
-      year:
-        description: 'The year to transform'
-        required: true
 
 jobs:
   transform:
