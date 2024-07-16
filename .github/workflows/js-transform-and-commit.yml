@@ -28,10 +28,10 @@ jobs:
         run: npm install -global zx
 
       - name: Make script executable
-        run: chmod +x ./transform.js
+        run: chmod +x ./src/transform.mjs
 
       - name: Run transform script
-        run: zx ./transform.js
+        run: zx ./src/transform.mjs
 
       - name: Create unique branch
         id: create_branch
