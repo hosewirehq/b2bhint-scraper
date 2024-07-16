@@ -1,0 +1,62 @@
+name: Transform JSON to CSV
+
+on:
+  workflow_dispatch:  # This allows you to manually trigger the workflow
+    inputs:
+      year:
+        description: 'The year to transform'
+        required: true
+
+jobs:
+  transform:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write           # 'write' access to repository contents
+      pull-requests: write      # 'write' access to pull requests
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # This allows us to set up a personal access token for committing
+
+      - name: Install Node.js and npm
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'  # Specify your Node.js version
+
+      - name: Install dependencies
+        run: npm install  # This will install dependencies including zx if defined in package.json
+      
+      - name: Install ZX Globally
+        run: npm install -global zx
+
+      - name: Make script executable
+        run: chmod +x ./transform.js
+
+      - name: Run transform script
+        run: zx ./transform.js
+
+      - name: Create unique branch
+        id: create_branch
+        run: |
+          BRANCH_NAME=transform/${{ github.event.inputs.year }}-${{ github.run_id }}
+          echo "BRANCH_NAME=${BRANCH_NAME}" >> $GITHUB_ENV
+
+      - name: Commit transformed CSV
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git checkout -b ${{ env.BRANCH_NAME }}
+          git add output_${{ github.event.inputs.year }}.csv
+          git commit -m "chore: transform JSON to CSV for year ${{ github.event.inputs.year }}"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          commit-message: "chore: transform JSON to CSV for year ${{ github.event.inputs.year }}"
+          branch: ${{ env.BRANCH_NAME }}
+          delete-branch: true
+          title: "Transform Data: ${{ github.event.inputs.year }}"
+          body: "This PR contains the transformed CSV data for year ${{ github.event.inputs.year }}."
