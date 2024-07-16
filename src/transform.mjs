@@ -85,7 +85,7 @@ const main = async () => {
     for (const year of years) {
         const yearFolderPath = path.join(baseDir, year);
         const records = await processFolder(yearFolderPath);
-        await writeCsv(records, `output_${year}.csv`);
+        await writeCsv(records, `output.csv`);
     }
 };
 
