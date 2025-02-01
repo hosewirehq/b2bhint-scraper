@@ -1,0 +1,207 @@
+{
+  "id": 236752813,
+  "name": "MERRY VITA GLOBAL LTD",
+  "internationalNumber": "RC-7281777",
+  "countryId": 24,
+  "dateCreated": "2024-01-01T00:00:00.000Z",
+  "createdAt": "2024-08-08T06:18:22.661Z",
+  "updatedAt": "2024-09-03T03:29:25.668Z",
+  "alternateNames": [],
+  "address": "Ashogbon Idumota LAGOS",
+  "additionalData": {},
+  "historicalNames": [],
+  "providerId": "9000725",
+  "updatedAtSitemap": "2024-09-03T03:29:26.000Z",
+  "claimCompanyData": {},
+  "country": {
+    "id": 24,
+    "name": "Nigeria",
+    "deadCompanyStatus": [
+      3995958,
+      3995963,
+      3995977,
+      4007873,
+      4007877,
+      4007875
+    ],
+    "liquidatedCompanyStatus": [
+      3995962,
+      4007878
+    ],
+    "liquidationCompanyStatus": [
+      4002573,
+      4006402,
+      4007876,
+      4007879,
+      4007881
+    ],
+    "bankruptcyProcessCompanyStatus": [],
+    "reservationCompanyStatus": [],
+    "formationCompanyStatus": [],
+    "code": "ng",
+    "currency": "NGN",
+    "sources": [
+      {
+        "url": "https://www.cac.gov.ng/",
+        "name": "Corporate Affairs Commission"
+      }
+    ],
+    "translation": {
+      "en": "Nigeria"
+    },
+    "fromCountry": {
+      "en": "Nigeria"
+    },
+    "companiesCount": 5425877,
+    "activeCompaniesCount": 917261,
+    "restrictedData": {},
+    "languages": [
+      "en"
+    ]
+  },
+  "statuses": [
+    {
+      "id": 3995959,
+      "providerId": "Active",
+      "providerName": "Active",
+      "countryId": 24,
+      "translation": {
+        "en": "Active"
+      }
+    }
+  ],
+  "accounts": [],
+  "tags": [],
+  "LEI": [],
+  "CIK": [],
+  "CAGE": [],
+  "companiesRegisteredSameDate": 64,
+  "reviews": [],
+  "allReviewsCount": "0",
+  "allReviewsRating": "0",
+  "categories": [],
+  "activities": [],
+  "addresses": [
+    {
+      "id": 157867691,
+      "address": "Ashogbon Idumota LAGOS",
+      "countryId": 24,
+      "companies": []
+    }
+  ],
+  "persons": [
+    {
+      "id": 502718595,
+      "companyId": 236752813,
+      "personId": 191533805,
+      "roleId": 174045,
+      "percentage": 100,
+      "appointedOn": "2024-01-01",
+      "votingShares": "100%",
+      "sourceNum": 2,
+      "person": {
+        "id": 191533805,
+        "name": "kalu stephen ikechukwu",
+        "countryId": 24,
+        "occupation": "BUSINESS",
+        "nationality": "NIGERIA",
+        "birthYear": 1978,
+        "birthMonth": 9,
+        "birthDate": 0,
+        "address": "43, Ashogbon, Idumota, Lagos Island, LAGOS, NIGERIA",
+        "number": "20449",
+        "documentType": "Driver's License",
+        "documentNumber": "EkY65060AA02",
+        "countryCode": "ng",
+        "countryTranslation": {
+          "ar": "نيجيريا",
+          "cs": "Nigeria",
+          "de": "Nigeria",
+          "en": "Nigeria",
+          "es": "Nigeria",
+          "fr": "Nigeria",
+          "lt": "Nigerija",
+          "lv": "Nigērija",
+          "nl": "Nigeria",
+          "pl": "Nigeria",
+          "ro": "Nigeria",
+          "ru": "Нигерия",
+          "tr": "Nijerya",
+          "uk": "Нігерія",
+          "zh": "尼日利亚"
+        }
+      },
+      "role": {
+        "id": 174045,
+        "name": "Person with significant control",
+        "countryId": 24,
+        "translation": {
+          "en": "Person with significant control\n"
+        },
+        "priority": 1
+      },
+      "companies": [],
+      "naturesOfControl": [
+        {
+          "id": 6173,
+          "name": "Directly or indirectly hold the right to appoint or remove a majority of the directors or partners",
+          "countryId": 24,
+          "translation": {
+            "en": ""
+          }
+        }
+      ],
+      "personShares": []
+    }
+  ],
+  "companyContacts": {
+    "email": [
+      "ste************************"
+    ]
+  },
+  "companyContactPersons": [],
+  "shares": [],
+  "financialReports": "[]",
+  "permits": [],
+  "licenses": [],
+  "inspections": [],
+  "subdivisions": [],
+  "insolvencies": [],
+  "events": [],
+  "history": [],
+  "links": [],
+  "vehicles": [],
+  "restrictions": [],
+  "courtCases": [],
+  "acquisitions": [],
+  "securityMeasures": [],
+  "companyDocuments": [],
+  "filings": [],
+  "charges": [],
+  "affiliates": [],
+  "listTags": [],
+  "inspectionsCount": 0,
+  "permitsCount": 0,
+  "licensesCount": 0,
+  "subdivisionsCount": 0,
+  "insolvenciesCount": 0,
+  "eventsCount": 0,
+  "historyCount": 0,
+  "linksCount": 0,
+  "companyVehiclesCount": 0,
+  "restrictionsCount": 0,
+  "courtCasesCount": 0,
+  "acquisitionsCount": 0,
+  "securityMeasuresCount": 0,
+  "companyDocumentsCount": 0,
+  "filingsCount": 0,
+  "chargesCount": 0,
+  "affiliatesCount": "0",
+  "personsCount": "1",
+  "companyContactsCount": 1,
+  "companyContactPersonsCount": 0,
+  "personsCountByPriority": {
+    "1": 1
+  },
+  "personsWithRelatedCount": 0
+}

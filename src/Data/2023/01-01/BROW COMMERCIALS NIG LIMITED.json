@@ -1,0 +1,236 @@
+{
+  "id": 82048186,
+  "name": "BROW COMMERCIALS NIG LIMITED",
+  "internationalNumber": "RC-2015931",
+  "localNumber": "2015931",
+  "countryId": 24,
+  "dateCreated": "2023-01-01T00:00:00.000Z",
+  "createdAt": "2021-11-28T21:42:11.726Z",
+  "updatedAt": "2024-09-19T23:30:26.605Z",
+  "alternateNames": [],
+  "address": "6, BABASHOLASTREET, OFFOSENISTREET, LAWANSON, SURULERE, LAGOS., LAGOS.",
+  "additionalData": {},
+  "typeId": 99330,
+  "historicalNames": [],
+  "providerId": "8429963",
+  "updatedAtSitemap": "2024-07-29T11:26:28.000Z",
+  "oldInternationalNumber": "2015931",
+  "claimCompanyData": {},
+  "country": {
+    "id": 24,
+    "name": "Nigeria",
+    "deadCompanyStatus": [
+      3995958,
+      3995963,
+      3995977,
+      4007873,
+      4007877,
+      4007875
+    ],
+    "liquidatedCompanyStatus": [
+      3995962,
+      4007878
+    ],
+    "liquidationCompanyStatus": [
+      4002573,
+      4006402,
+      4007876,
+      4007879,
+      4007881
+    ],
+    "bankruptcyProcessCompanyStatus": [],
+    "reservationCompanyStatus": [],
+    "formationCompanyStatus": [],
+    "code": "ng",
+    "currency": "NGN",
+    "sources": [
+      {
+        "url": "https://www.cac.gov.ng/",
+        "name": "Corporate Affairs Commission"
+      }
+    ],
+    "translation": {
+      "en": "Nigeria"
+    },
+    "fromCountry": {
+      "en": "Nigeria"
+    },
+    "companiesCount": 5425877,
+    "activeCompaniesCount": 917261,
+    "restrictedData": {},
+    "languages": [
+      "en"
+    ]
+  },
+  "type": {
+    "id": 99330,
+    "type": "Private company limited by shares",
+    "countryId": 24,
+    "translation": {
+      "en": "Private company limited by shares"
+    },
+    "isIndividual": false
+  },
+  "statuses": [
+    {
+      "id": 3995959,
+      "providerId": "Active",
+      "providerName": "Active",
+      "countryId": 24,
+      "translation": {
+        "en": "Active"
+      }
+    }
+  ],
+  "accounts": [],
+  "tags": [],
+  "LEI": [],
+  "CIK": [],
+  "CAGE": [],
+  "companiesRegisteredSameDate": 51,
+  "reviews": [],
+  "allReviewsCount": "0",
+  "allReviewsRating": "0",
+  "categories": [],
+  "activities": [
+    {
+      "id": 5888487,
+      "providerId": "1",
+      "providerName": "UNSPECIFIED",
+      "countryId": 24,
+      "createdAt": "2021-05-18T17:09:50.60028+00:00",
+      "translation": {},
+      "type": {
+        "id": 1,
+        "name": "Primary",
+        "translation": {
+          "en": "Primary activities"
+        }
+      }
+    }
+  ],
+  "addresses": [
+    {
+      "id": 101607780,
+      "address": "6, BABASHOLASTREET, OFFOSENISTREET, LAWANSON, SURULERE, LAGOS., LAGOS.",
+      "countryId": 24,
+      "companies": [
+        {
+          "name": "RAINBOW-OPTIMUM NIGERIA ENTERPRISES",
+          "internationalNumber": "BN-2015931"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "id": 501608696,
+      "companyId": 82048186,
+      "personId": 190806664,
+      "roleId": 174045,
+      "percentage": 100,
+      "appointedOn": "2023-01-01",
+      "votingShares": "100%",
+      "sourceNum": 2,
+      "person": {
+        "id": 190806664,
+        "name": "ahmed tajudeen",
+        "countryId": 24,
+        "occupation": "HAULAGE SERVICE",
+        "nationality": "NIGERIA",
+        "birthYear": 1970,
+        "birthMonth": 1,
+        "birthDate": 6,
+        "address": "Km 9, Lagos-Ibadan expressway   tollgate ibadan, Ibadan , Ibadan Central, OYO, NIGERIA",
+        "number": "131254",
+        "documentType": "National ID Card",
+        "documentNumber": "41839690334",
+        "countryCode": "ng",
+        "countryTranslation": {
+          "ar": "نيجيريا",
+          "cs": "Nigeria",
+          "de": "Nigeria",
+          "en": "Nigeria",
+          "es": "Nigeria",
+          "fr": "Nigeria",
+          "lt": "Nigerija",
+          "lv": "Nigērija",
+          "nl": "Nigeria",
+          "pl": "Nigeria",
+          "ro": "Nigeria",
+          "ru": "Нигерия",
+          "tr": "Nijerya",
+          "uk": "Нігерія",
+          "zh": "尼日利亚"
+        }
+      },
+      "role": {
+        "id": 174045,
+        "name": "Person with significant control",
+        "countryId": 24,
+        "translation": {
+          "en": "Person with significant control\n"
+        },
+        "priority": 1
+      },
+      "companies": [],
+      "naturesOfControl": [
+        {
+          "id": 6173,
+          "name": "Directly or indirectly hold the right to appoint or remove a majority of the directors or partners",
+          "countryId": 24,
+          "translation": {
+            "en": ""
+          }
+        }
+      ],
+      "personShares": []
+    }
+  ],
+  "companyContacts": {},
+  "companyContactPersons": [],
+  "shares": [],
+  "financialReports": "[]",
+  "permits": [],
+  "licenses": [],
+  "inspections": [],
+  "subdivisions": [],
+  "insolvencies": [],
+  "events": [],
+  "history": [],
+  "links": [],
+  "vehicles": [],
+  "restrictions": [],
+  "courtCases": [],
+  "acquisitions": [],
+  "securityMeasures": [],
+  "companyDocuments": [],
+  "filings": [],
+  "charges": [],
+  "affiliates": [],
+  "listTags": [],
+  "inspectionsCount": 0,
+  "permitsCount": 0,
+  "licensesCount": 0,
+  "subdivisionsCount": 0,
+  "insolvenciesCount": 0,
+  "eventsCount": 0,
+  "historyCount": 0,
+  "linksCount": 0,
+  "companyVehiclesCount": 0,
+  "restrictionsCount": 0,
+  "courtCasesCount": 0,
+  "acquisitionsCount": 0,
+  "securityMeasuresCount": 0,
+  "companyDocumentsCount": 0,
+  "filingsCount": 0,
+  "chargesCount": 0,
+  "affiliatesCount": "0",
+  "personsCount": "1",
+  "companyContactsCount": 0,
+  "companyContactPersonsCount": 0,
+  "personsCountByPriority": {
+    "1": 1
+  },
+  "personsWithRelatedCount": 0
+}
